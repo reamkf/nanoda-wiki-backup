@@ -1,0 +1,409 @@
+[+]目次
+#contents(2)
+[END]
+※ファニー属性のツチノコについては[[%%%こちら%%%>【頼られちゃ仕方ない】ツチノコ]]
+*ツチノコ
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/n7d3e1Bu9b.png,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ba78e41c10813052.png,50%)
+// [END]
+// [+]LV90超
+// &ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jIrhmTcE0l.png,50%)
+// ☆6衣装+パーティドレス+和ノ鎧でたいりょく+500/こうげき+250/まもり+125
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|39678|14479|7322|3064|7.0|20|center:size(9):&color(#88abda){''マイペース''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|46224|16867|8530|3570|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|48852|17826|9015|3773|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|7.4|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|53679|19586|9906|4146|^|^|^|
+// 
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|19/09/24、恒常|
+// 
+// ||center:|center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|+6.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,15|+6.0%|+7.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|30,20|+5.0%|+6.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|バチバチ百幻脚|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に57%×7のダメージを与える|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Action!]}|>|>|相手単体に80%×7のダメージを与える|
+|>|>||
+|!とくいわざ|油断大敵|相手単体に120%のダメージを与える|
+|!たいきスキル|エナジーちゅるちゅる|自身の与ダメージの15%分のたいりょくが回復する（2ターン）~~発動率：100%　発動回数：2回|
+|!とくせい|幻と共に|かいひが10%増加し、少しだけ狙われにくくなる~~さらに地形がどうくつの場合、与ダメージが15%増加する|
+|!キセキとくせい|おたずねもの|与ダメージが15%増加し~~かいひが5%増加する|
+|!なないろとくせい|この探求はだれにも止められない|自身の与ダメージと攻撃命中率が10％増加し~~マイペース(水)属性の味方の攻撃命中率が5％増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~たいりょくが30％以下のとき味方全体のMPが5増加する~~（発動回数：1回）~~&color(,#f3f3fe){(変化後)~~たいりょくが&color(#ff0000){50％以下}のとき味方全体のMPが5増加する~~（発動回数：1回）}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+初期からいるマイペース属性の恒常☆4フレンズ。
+トップクラスの「こうげき」と「かいひ」の数値を誇る攻撃特化型。
+一方、けもステータスは星4の中では高い方ではなく、特にたいりょくがかなり低い。
+極力相手の攻撃を受けずに「殺られるまえに殺る」スタイルが得意。
+
+一方でぷらずむ値があまり高くなく、
+こうげきや与ダメージ補正こそそれなりにあるが、ダメージは他のアタッカーのほうが上になりやすいというのがちょっと悩み。
+キセキとくせいの上昇値自体は優秀なので、解放できれば優秀なアタッカーとなる。
+
+かいひが高く狙われにくくなる特性を持つものの、運が悪ければ普通に攻撃が集中することもある。
+範囲攻撃(例えば[[ヒグマ]]の全体beatなど)にはかくれみ効果は無力で、大技に対しては回避もできない。
+
+たいきスキルで自己回復が可能でたいきスキル→ミラクルとやると大抵全回復できる個性は持っているので上手く扱ってやりたい。
+**スキル詳細
+[+]
+**けものミラクル：バチバチ百幻脚
+ ''相手単体に80%×7のダメージを与える~~''
+コインを指で弾いた後、空中から猛烈な勢いで敵を蹴りまくる。
+
+総ダメージは一般的な単体大ダメージ系ミラクルと同じ、最大560%ダメージとなる。
+**とくいわざ：油断大敵
+ ''相手単体に120%のダメージを与える~~''
+豪快な後ろ回し蹴りで敵を蹴り飛ばす。
+
+こちらも威力は一般的なとくいわざと同じく、通常攻撃の1.2倍となる。
+モーションが短く単発攻撃で、使い勝手は良い。
+**たいきスキル：エナジーちゅるちゅる
+ ''自身の与ダメージの15%分のたいりょくが回復する（2ターン）~~発動率：100%　発動回数：2回~~''
+コインを1枚取り出し、ニヤニヤしながら眺める。
+
+効果中（実質的に次ターンのみ）は自身の攻撃にHP吸収効果を付与することができ、
+打たれ弱いツチノコの耐久力をカバーすることが可能となる。
+
+発動率100%かつ一度のバトルで2回まで使用できるため、
+体力が減ってくるまでは誤発動しないように
+待機スキルのオン/オフの切り替えで温存するようにしたい。
+
+なお効果ターン中は何度攻撃しても回復できるため
+体力が少ない場合はコーラスを無視してでもツチノコ一人で攻撃しまくるのも手。
+けものミラクルなら瀕死から一気に全回復も狙える。
+『[[サイキョーだからね～]]』等、HP一定値以上が条件の効果を再発動させることも可能。
+**とくせい：幻と共に
+ ''かいひが10%増加し、少しだけ狙われにくくなる~~さらに地形がどうくつの場合、与ダメージが15%増加する~~''
+回避の微量増加と、常時かくれみ状態となる防御系の特性。
+
+打たれ弱いツチノコの生存率を上げることができるので相性は良い。
+どうくつ地形時の攻撃力上昇効果はかなり状況を選ぶため、
+発動できればラッキー程度に考えておくとよい。
+
+**キセキとくせい：おたずねもの
+ ''与ダメージが15%増加し　かいひが5%増加する~~''
+フォトポケット1枠解放で習得する新特性。
+実質的には通常特製の強化版で、常時攻撃力と回避率がアップする。
+どちらも常時発動型で、地形や敵味方の属性や構成を選ばないのが利点。
+ちなみに素の回避ととくせいを含めると合計15%になり、常時発動としてはかなり高い。
+
+ツチノコの長所を伸ばす形で強化されるため、
+習得できれば、さらなる活躍が期待できるようになるだろう。
+**なないろとくせい：この探求はだれにも止められない
+ ''自身の与ダメージと攻撃命中率が10％増加~~マイペース(水)属性の味方の攻撃命中率が5％増加する~~''
+足りない火力面の増強。ついでにマイペース属性の命中率を上げるサポートも出来る。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dpFOS5WwhP.png,no_link,40){ステキな木の実C}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Y7gmsB4nAE.png,no_link,40){古びたコンパスC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/escUAlmTU6.png,no_link,40){ステキな木の実UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1TK83yPzG8.png,no_link,40){古びたコンパスUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j_VZfmXxAL.png,no_link,40){ステキな木の実R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mgfYDNk4ly.png,no_link,40){古びたコンパスR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dpFOS5WwhP.png,no_link,40){ステキな木の実C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Y7gmsB4nAE.png,no_link,40){古びたコンパスC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dpFOS5WwhP.png,no_link,40){ステキな木の実C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Y7gmsB4nAE.png,no_link,40){古びたコンパスC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/escUAlmTU6.png,no_link,40){ステキな木の実UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1TK83yPzG8.png,no_link,40){古びたコンパスUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j_VZfmXxAL.png,no_link,40){ステキな木の実R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mgfYDNk4ly.png,no_link,40){古びたコンパスR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dpFOS5WwhP.png,no_link,40){ステキな木の実C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Y7gmsB4nAE.png,no_link,40){古びたコンパスC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zhYzvhFMm2.png,no_link,40){けもけも弁当（マイペース）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/escUAlmTU6.png,no_link,40){ステキな木の実UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1TK83yPzG8.png,no_link,40){古びたコンパスUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/081xNtMiQB.png,no_link,40){けもけも弁当（マイペース）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j_VZfmXxAL.png,no_link,40){ステキな木の実R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mgfYDNk4ly.png,no_link,40){古びたコンパスR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IZLibQRK8b.png,no_link,40){けもけも弁当（マイペース）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zhYzvhFMm2.png,no_link,40){けもけも弁当（マイペース）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/081xNtMiQB.png,no_link,40){けもけも弁当（マイペース）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dpFOS5WwhP.png,no_link,40){ステキな木の実C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Y7gmsB4nAE.png,no_link,40){古びたコンパスC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zhYzvhFMm2.png,no_link,40){けもけも弁当（マイペース）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/081xNtMiQB.png,no_link,40){けもけも弁当（マイペース）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IZLibQRK8b.png,no_link,40){けもけも弁当（マイペース）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/escUAlmTU6.png,no_link,40){ステキな木の実UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1TK83yPzG8.png,no_link,40){古びたコンパスUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/081xNtMiQB.png,no_link,40){けもけも弁当（マイペース）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IZLibQRK8b.png,no_link,40){けもけも弁当（マイペース）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j_VZfmXxAL.png,no_link,40){ステキな木の実R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mgfYDNk4ly.png,no_link,40){古びたコンパスR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/081xNtMiQB.png,no_link,40){けもけも弁当（マイペース）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IZLibQRK8b.png,no_link,40){けもけも弁当（マイペース）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「バチヘビ、ノヅチ、土転び、ツチノコ、いろいろ呼ばれてるんだ~~ろ。知ってるさ。でもまあ、好きに呼べよ。~~ホントにいた？~~あんまジロジロ見んなよ。待て、それ酒か？~~そうか……あー、どうしてもというなら、一杯くらい付き合って~~やらんこともない」''
+常に人目を避けて行動する「永遠のたずねけもの」
+ヒトが作ったものやお酒が好きで、珍しいものを見つけてはそれをツマミに酒をチビチビやるのが好き。
+普段はクールに振る舞うが、自分の好きなものに関してはハイテンションで喋り、そして我にかえり取り繕うまでがセット。
+リザルト画面での「わーい！やったやったー！」は必見。
+概ねアニメと同じような性格をしているが、一人称は「私」である（アニメでは「俺」）。
+
+メインシナリオでは6章で登場。
+オデッセイに探検にきていたところ、巨大セルリアンに大切な本を奪われてしまい躍起になっていた。
+迷宮と呼ばれるオデッセイの内部構造を完全に熟知しており、動作不良を起こしたラッキービーストの代わりに案内役を買って出た。
+色々あって本を取り返すことには成功するのだが…。
+ちなみに同章に[[スナネコ]]が登場するが、アニメ1期同様2人の絡みは全くと言うほどない。わざとか？
+
+馴れ合うのは好きではないはずなのだが、クリスマスパーティーにはしっかりと参加。
+正月のかくし芸大会にも見物に来ており、ミライさんやカレンダさんに祝い酒を振る舞った。
+お祭り事が好きなのかもしれない。
+
+2020年12月にてファニー属性のツチノコが全員に配布された。
+やはり『不思議なフレンズ』との接触があったようで、他のフレンズと積極的に接しようとする気持ちの変化が見られる。
+でも大人数でいるのはやっぱり苦手なようである。
+
+ＣＶ：小林ゆう　（けもフレ３・アニメ１期）
+　　　浅野真澄　（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|!通常|くんくん…いま酒の匂いがしたような…|
+|^|人間の作るものは面白いな|
+|^|くっ…この家、いい隠れ場所はないのか…！|
+|^|ちっ、見つかったか|
+|^|なるほど…これも興味深いな… |
+|!固定|パークの外、か…どうなってるんだろうな|
+|^|なんだ、暇なのか？|
+|^|酒がうまいと最高だなっ！|
+|^|ここには本もあるし、なかなかいいところだな…　…騒がしいのが玉に瑕か|
+|!すやすや|むにゃ…酒が一杯…うへへへへ…！|
+|^|ぐがーっ…ごぉー…ぐがーっ…ごぉー… ぐがーっ…がっ……………ぐごぉー… |
+|^|ふふ…ふふふふふ… |
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|!クエスト開始|用意はいいな！|
+|^|さっさと終わらせるぞ！|
+|!WAVE移行|次！　いくぞ！|
+|^|この調子だ！|
+|!クエスト終了|やった！やったぁ！…あ　…ん…んん…！~~よ、よかったなー　勝てて…|
+|^|よぉーし！って…いやー…あ、あのー…~~よ、よかったんじゃないか！|
+|!フラッグ選択|いいだろう！|
+|^|任せろ！|
+|!けもコーラス|かまわん|
+|^|そうか！|
+|^|わかった！|
+|^|やってやらんこともない|
+|!攻撃|[''通常攻撃'']|
+|^|いくぞ！|
+|^|せいっ！|
+|^|くらえ！|
+|^|てや！|
+|^|[''とくいわざ'']|
+|^|ふっとべ！|
+|^|これでどうだっ！|
+|^|仕留める！|
+|^|邪魔だ！|
+|!ダメージ|[''通常攻撃'']|
+|^|くっ！|
+|^|いてっ|
+|^|[''強攻撃'']|
+|^|うわっはー！|
+|^|あいたっ！|
+|^|[''ちからくらべ'']|
+|^|そんなっ！|
+|^|くっ…！|
+|^|なにっ！|
+|^|うわっ！|
+|!どく状態|ちっ…|
+|^|けっこう…まずいぞ…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|すまん…！やられ…た…|
+|^|[''ちからくらべ'']|
+|^|はぁ～ぁ　負け負け|
+|^|降参降参っと|
+|^|やるな、お前！|
+|^|ちっ、負けちまったか|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|そうか...|
+|!復帰|今度はやられない！|
+|^|汚名返上だっ！|
+|!けものミラクル　|[''等速'']~~（発動時）~~やれやれ、さっさと終わらせるか~~（発動中）~~安心しな、貰った分はしっかりやってやるよ！ はあああーっ！~~|
+|^                              |[''倍速'']~~（発動時）~~さっさと終わらせるか！~~（発動中）~~しっかりやってやるって！ はあああーっ！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~わかってるって、さっさと終わらせるか~~（発動中）~~いつも通り、貰った分はしっかりやってやるよ！ よおおおーっ！~~|
+|^                              |[''倍速'']~~（発動時）~~わかってるって、やってやる~~（発動中）~~さっさと終わらせるぞ！やあああーっ！~~|
+|!けものミラクル後|まあ、ざっとこんなもんだな！|
+|}
+[END]
+[-]掛け合い
+**スナネコ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){行くぞ　ついて来い！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png,right){ねぇツチノコ　あれ何ですか？}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){まだ　いるのか}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png,right){まだまだ遊べますね♪}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){あ、あんまりジロジロ見るな…恥ずかしいだろ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png,right){あぁ、はい　でも凄かったです}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){お、お前だけでも逃げろ…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png,right){嫌です！！！}|
+|}
+[[%%%スナネコ　セリフ集%%%>スナネコ#serifu]]
+**アカミミガメ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){はしゃぎすぎんなよ　アカミミガメ}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0D3ezmgia.png,right){あー！　なんか光ってるー！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){ちゃんとついて来いよ？　アカミミガメ}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0D3ezmgia.png,right){ちゃんとついて行くよ！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){ま、たまたまだろ　たまたま、ふふん}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0D3ezmgia.png,right){なんか嬉しそうな顔してる}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png){焦り…すぎたかな…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0D3ezmgia.png,right){ツチノコ！　すぐ助けるよ！}|
+|}
+[[%%%アカミミガメ　セリフ集%%%>アカミミガメ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|!加入|私はツチノコ~~…あんまジロジロ見んなよ…|
+|!ログインボーナス|ほら、これ~~…お前にやる|
+|^|明日も来い~~いいな|
+|!なかよしレベルアップ|馴れ馴れしいのは、嫌いなはずなんだけどな~~…ま、もうしばらく付き合ってやるよ|
+|!レベルアップ|つよさか…あまり興味はない~~嬉しくないわけじゃないけどな|
+|!四神玉|いいな！|
+|!野生解放|不思議なこともあるもんだなぁ~~悪い気分じゃない|
+|!けも級アップ|お前もよくやるよ、本当に~~いつも…ありがと…な…|
+|!ミラクルレベルアップ|ふむふむ…なんだ？ 何か言った方がいいのか？|
+|!フォトポケット開放|おぉ～！？ フォトをたくさん持てるのか！？ それはすごい！ いいなぁ～…これ…！|
+|!着替え|たまにはこういうのも悪くない… |
+|^|いひひ、人間と同じ…いひひひっ… |
+|^|へぇーっ！ いいなぁ…！|
+|^|これ、気に入ったぞ！|
+|!ふれあい|くんくん…くんくんくん…お前の髪の毛、なんかおいしそうだな！|
+|^|ちっ…あんまり近づくな… |
+|^|私に用事…？ 変わったヤツだな|
+|^|なんだ？酒でもくれるのか！？|
+|!ふれあい~~(撫でる)|キィーーーッ！！ な、何だ急に！！|
+|^|私を撫でて、楽しいか…？|
+|^|あ、あんまり触るな！ い、いや、嫌いなわけじゃ、なくてだな… |
+|!アシスタント選択|…ふん！ちょっとだけだぞ|
+|!ツリーハウス~~(はて)|うん？|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^|ぐがーっ…ごぉー…ぐがーっ…ごぉー…ぐおー... |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png,70)>スナネコ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0D3ezmgia.png,70)>アカミミガメ#serifu]]|
+*実際の動物について
+ ''日本全国で目撃例があるUMAの代表格です。~~その特徴は、普通のヘビより胴が太く、2m～10mもジャンプする、お酒が好き…などなど。~~各地で賞金がかけられている"お尋ね者"ですが、果たして本当に発見される日は来るでしょうか。''
+ツチノコは日本各地で古来より目撃情報が伝わる未確認動物である。
+学名：unknown
+英名：unknown
+和名：ツチノコ
+別名：バチヘビ、ツツヘビ、ツチヘビ、ゴハッスン、ツチンボ　等
+
+体長：unknown
+体重：unknown
+寿命：unknown
+分布：日本本土、九州、四国の各県
+食性：unknown
+
+ツチノコは日本本土及び四国、九州各県において古くから目撃され、存在が記録されているものの、
+捕獲実績がない等、明確な存在の裏付けを持たない為、未確認動物（ＵＭＡ）とされる存在である。
+
+７０年代におこった「ツチノコブーム」によりツチノコという名称が定着したが、それまで目撃された
+地域によって様々な呼び名が存在した。
+ツチノコ自体は、京都市と奈良県、鈴鹿周辺で使われていた名称である。
+ツチノコの別称にゴハッスン（五八寸）というものがあるが、胴回り５寸（約１５cm）、体長８寸（約２４cm）
+がその大きさを表していると言われるが、地域により異なることがある。
+
+その存在は、古くは「古事記」や「日本書紀」にツチノコと思わしき記述があり、その特徴を絵として
+記録したものは「信濃奇勝録」に見られる。ここに描かれた姿が今現在のツチノコとして伝わる生物のイメージ
+そのものとなっていると言えよう。
+
+伝わるツチノコの特徴とは以下のようなものである。
+・高く跳ねる　　　　　：２ｍ以上も高く飛び跳ねることができると言われる。
+・まばたきをする　　　：ヘビにまぶたは無いので、ヘビよりもトカゲに近い生物ではないかとも言われる。
+・素早く動きまわる　　：短い胴体にも関わらず尺取り虫のような動きで素早く移動するという。
+・毛髪を焼く臭いを好む：どのような経緯で確認されたかわからないが、よく言われる特徴とされる。
+
+次にツチノコの正体と言われている主な動物について挙げる。但し、上の特徴を全てそなえているわけではなく、
+これらが明確な答えとなっているものではない。ツチノコとして捕獲された生物のうち、これらであった事例は多数ある。
+・マツカサトカゲ　　　：その形状がツチノコの特徴に酷似しており、トカゲなのでまばたきもする。
+・アオジタトカゲ　　　：同じく、ツチノコの特徴に酷似したトカゲ。飼育下のものが逃げ出したのではないかとされる。
+・ヤマカガシの奇形　　：飛び跳ねて獲物をとることもあるヘビであり、これの奇形もしくは捕食した獲物を腹にためた姿という説
+
+ツチノコの存在を広めたのは、1973年頃に発生したのツチノコブームの到来であるが、そのきっかけとなったのが、
+漫画家 矢口高雄が執筆した「幻の怪蛇バチヘビ」である。
+作品はツチノコ捜索をドキュメンタリー形式で描いたものであるが、それを読んだ子供達を中心に、人々を実際にツチノコを
+探そうという行動にかりたてた。目撃情報が全国にある存在である。その広がりは全国的なものとなった。
+なお、ブームは８０年代後半にも再到来している。ブーム以降、ツチノコ捕獲に賞金をかけた自治体や組織も多数現れた。
+
+ツチノコは現状、その存在が正式に認められていない、紛れもないＵＭＡであるが、今では多くの人が知るマウンテンゴリラでさえ
+２０世紀まで存在が認められていないＵＭＡであった。
+同じように、いつかツチノコもその存在が当たり前となる未来が来るのかもしれない。
+
+*&aname(friendstory)フレンズストーリー
+
+**1話 すてきな果樹園
+登場フレンズ ドール・ミーアキャット・アライグマ・フェネック
+**2話 ツチノコを追いかけろ！ 
+登場フレンズ ドール・アライグマ・フェネック・ミーアキャット・ワシミミズク・アフリカオオコノハズク
+**3話 すてきなお酒 
+登場フレンズ ワシミミズク・アフリカオオコノハズク・ドール・ミーアキャット・アライグマ・フェネック
+
+**あらすじ
+[+]
+ほにゃららほにゃらら
+[END]
+*その他
+-[[ツチノコ(フォト)]]
+-[[ツチノコ　フレンズストーリー]]
+**星6衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6452e73ad5077ed5.png,50%)
+
+**特別衣装
+''『和ノ鎧』''
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/l8Djf5Vfea.PNG,50%)
+
+***収穫祭衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3dccc8913a6438cd.jpg,50%)
+
+***ふわもこパジャマ
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fdb59b6e73516ed3.jpg,50%)
+
+***『パーティドレス』
+[+]ネタバレ注意
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3569ff5fcf759fcf.png,50%)
+[END]
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6306d30e1cdc5187.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wQXxK7qV5x.webm){400,240}

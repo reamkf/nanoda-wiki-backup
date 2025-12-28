@@ -1,0 +1,311 @@
+[+]目次
+#contents(2)
+[END]
+*サラブレッドしろげ
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a6c4e8ac21ab801b.jpeg,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/13a0a18c6b3e0f50.jpg,50%)
+// [[けものフレンズ3 #248&gt;&gt;927より>>http://krsw.5ch.net/test/read.cgi/gamesm/1597419647/927]]
+// [END]
+// [+]LV.99(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|42209|16475|7257|3629|4.0|20|center:size(9):&color(#ffb3b3){''ラブリー''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|49172|19192|8454|4228|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|51971|20284|8935|4469|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+// 
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|20/06/30、限定|
+// 
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|2枚|－|+6.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|1枚|25|+5.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|20,20|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|華麗に跳びま～す！|必要MP90|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に450%のダメージを与える|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Beat!!!]}|>|>|相手単体に630%のダメージを与える|
+|>|>||
+|!とくいわざ|魅惑のジャンピング！|相手単体に118%のダメージを与え~~高確率で攻撃命中率を7%減少させる(2ターン)|
+|!たいきスキル|合間のケア|与ダメージとかいひが18％増加する(2ターン)~~~~~発動率：100%　発動回数：2回|
+|!とくせい|自然体が1番|ラブリー(桃)属性の味方のかいひが5%増加する|
+|!キセキとくせい|完璧な血統|与ダメージが10%増加し~~ラブリー(桃)属性の味方のどく耐性(高)が増加する|
+|!なないろとくせい|しとやかジャンパー！|自身のかいひが10%増加する~~さらに自身のたいりょくが50％以上のとき~~自身の与ダメージと攻撃命中率が5％増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~味方全体のからげんき耐性（低）が増加する~~&color(,#f3f3fe){(変化後)~~味方全体のからげんき耐性&color(#ff0000){（中）}が増加する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+
+*戦闘について
+7月の共闘イベントで実装された限定フレンズ。
+やや高めのこうげきと単体ミラクルを持つアタッカー。
+
+威力倍率630%の強力なBeat!!!ミラクルを持つ。
+ラブリー属性の強力な単体ミラクルアタッカーとしては[[ヒメアリクイ]]がいるが
+あちらほどのダメージは出せないものの、こちらは単体で完結した性能なのが特徴。
+ただ、自力でMP90を補う手段がないので、MPには気を配りたい。
+
+またとくいわざで命中を下げ、たいきスキルやとくせいでかいひを上げられる。
+運次第だが被ダメージを軽減できるので、一撃が重い強敵相手にはありがたい能力。
+[[オイナリサマ]]と合わせ、ちからくらべで回避パを組んでみるのも面白いかも。
+//**スキル詳細
+//[+]
+//**けものミラクル：スキル名　※必要MP80
+// ''(最大強化時)~~効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''（野生解放1段階目達成で習得）~~効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''（フォトポケ2段階達成で習得）~~''
+//文章
+//[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/M1zXWbok0O.png,no_link,40){てづくりネックレスC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sFdYgPSu4P.png,no_link,40){しあわせ花束UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5Qigo7L153.png,no_link,40){てづくりネックレスUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f9yqL75Nzl.png,no_link,40){しあわせ花束R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lZsnJ3gg1S.png,no_link,40){てづくりネックレスR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/M1zXWbok0O.png,no_link,40){てづくりネックレスC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/M1zXWbok0O.png,no_link,40){てづくりネックレスC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sFdYgPSu4P.png,no_link,40){しあわせ花束UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5Qigo7L153.png,no_link,40){てづくりネックレスUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f9yqL75Nzl.png,no_link,40){しあわせ花束R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lZsnJ3gg1S.png,no_link,40){てづくりネックレスR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/M1zXWbok0O.png,no_link,40){てづくりネックレスC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SjzgmMDBQk.png,no_link,40){けもけも弁当（ラブリー）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){おもいでの石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5Qigo7L153.png,no_link,40){てづくりネックレスUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sFdYgPSu4P.png,no_link,40){しあわせ花束UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){おもいでの石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lZsnJ3gg1S.png,no_link,40){てづくりネックレスR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f9yqL75Nzl.png,no_link,40){しあわせ花束R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SjzgmMDBQk.png,no_link,40){けもけも弁当（ラブリー）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){おもいでの石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/M1zXWbok0O.png,no_link,40){てづくりネックレスC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SjzgmMDBQk.png,no_link,40){けもけも弁当（ラブリー）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){おもいでの石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5Qigo7L153.png,no_link,40){てづくりネックレスUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sFdYgPSu4P.png,no_link,40){しあわせ花束UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){おもいでの石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){おもいでの石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lZsnJ3gg1S.png,no_link,40){てづくりネックレスR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f9yqL75Nzl.png,no_link,40){しあわせ花束R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){おもいでの石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){おもいでの石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「みなさん、こんにちは～。トレーニングも大事ですけど、~~体のケアも同じくらい大事ですよ～。~~温泉、マッサージはほんとに気持ちよくて、オススメ～。~~最近はハリチリョーもお気に入りよ～。~~くりげもあおかげも、ケアをおこたってばかりだと、~~本番で実力を発揮できませんよ～。ひっひぃ～ん」''
+
+「サラブレッド」と呼ばれる競走馬のフレンズの一人。
+[[サラブレッドくりげ]]と[[サラブレッドあおかげ]]は友人。
+
+しろげは、サラブレッドの中でも特に穏やかな性格で、走ることだけでなく体のケアにも気を使っている。
+また「しろげは障害競走が得意」とはチーターの評。
+
+彼女の名前である「しろげ」は「白毛」と書き、生まれた時から全身の毛が白い馬のことを指す。
+「葦毛(あしげ)」など、成長するにつれて体毛が白くなる馬は多いものの、
+生まれた時から完全に真っ白な馬は非常に珍しいとか。
+
+ＣＶ：奥谷楓　　　（うまのフレンズ・けもフレ3）　※2020/08/28 アプデでボイス実装
+
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|何もしていなくとも、身体のケアは大事ですよ～|
+|^|ただ走るだけじゃなく、美しさも大事だと私は思いますね～|
+|^|ピーチパンサーさんにマッサージしてもらいに行こうかしら～|
+|^|あら、隊長さん　こんにちは～♪|
+|^|ふ～…温泉でゆっくりしたいですね～♪|
+|!固定|台詞A|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|!すやすや|台詞A|
+|^|台詞B|
+|^|台詞C|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|台詞A|
+|^|台詞B|
+|!WAVE移行|まだまだ余裕ですね～|
+|^|台詞B|
+|!クエスト終了|はぁ～　とっても気持ちのいいかけっこでしたね～|
+|^|台詞B|
+|!フラッグ選択|はーい、がんばりまーす|
+|^|やってみましょうかぁ|
+|!けもコーラス|私の出番ですね～|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|!攻撃|[''通常攻撃'']|
+|^|そーれ！|
+|^|えいっと！|
+|^|パコーンっと！|
+|^|[''とくいわざ'']|
+|^|台詞A|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|!ダメージ|[''通常攻撃'']|
+|^|台詞A|
+|^|台詞B|
+|^|[''強攻撃'']|
+|^|台詞A|
+|^|台詞B|
+|^|[''ちからくらべ'']|
+|^|台詞A|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|!どく状態|台詞A|
+|^|台詞B|
+|!ギブアップ|[''セルリアン戦'']|
+|^|台詞|
+|^|[''ちからくらべ'']|
+|^|台詞A|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|台詞A|
+|^|台詞B|
+|!けものミラクル　|[''等速'']~~（発動時）~~台詞~~（発動中）~~台詞~~|
+|^                              |[''倍速'']~~（発動時）~~台詞~~（発動中）~~台詞~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~台詞~~（発動中）~~台詞~~|
+|^                              |[''倍速'']~~（発動時）~~台詞~~（発動中）~~台詞~~|
+|!けものミラクル後|台詞|
+[END]
+[+]掛け合い
+**サラブレッドくりげ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){それじゃあ、楽しく走りましょうね～}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){はーい！楽しく一等賞取っちゃうよー！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){くりげ、まさか遅れていませんよねぇ？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){私が遅れるわけないよ～！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){ふふっ、この瞬間は、いつでも嬉しいものですね～}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){いいなぁ～私も一等賞になりたかった！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){焦りましたね…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){しろげ！ちょっとだけ休んでてね}|
+|}
+[[%%%サラブレッドくりげ　セリフ集%%%>サラブレッドくりげ#serifu]]
+**サラブレッドあおかげ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){あおかげと一緒なんて、緊張しちゃいますね～}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,right){もちろん！手は抜かないぞ、しろげ！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){あら、あおかげが遅れているんですか？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,right){まさか！機を伺っているだけさ！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){ふー、うまく走れていましたか？あおかげ？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,right){ああ！さすがの走りっぷりだったぞ、しろげ！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i7VFxNcjBu.png){らしく…ありませんねぇ…これは…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,right){しろげ！少し休んでいるんだ}|
+|}
+[[%%%サラブレッドあおかげ　セリフ集%%%>サラブレッドあおかげ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入||
+|!ログインボーナス|いつも頑張ってくださる隊長さんへ~~私のイチオシのプレゼントです~~どうぞっ♪|
+|^|気に入って頂けましたか？~~明日の分も用意してありますから、~~必ず来てくださいねぇ～♪|
+|!なかよしレベルアップ|隊長さんと私って息ぴったりじゃないですか～？~~これからも一緒にいっぱい走りましょうね～♪|
+|!レベルアップ||
+|!野生解放||
+|!けも級アップ||
+|!ミラクルレベルアップ||
+|!フォトポケット開放||
+|!着替え|台詞A|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|!ふれあい|台詞A|
+|^|台詞B|
+|^|台詞C|
+|^|台詞D|
+|!ふれあい~~(撫でる)|台詞A|
+|^|台詞B|
+|^|台詞C|
+|!アシスタント選択|は～い、隊長さんと一緒にかけっこですね～~~いっちに、いっちにっと|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,70)>サラブレッドくりげ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,70)>サラブレッドあおかげ#serifu]]|
+*実際の動物について
+ ''白毛は全身が白い毛で、ピンク色の肌をしています。稀に青い目の個体も生まれます。~~白い馬には葦毛もいますが、葦毛は生まれたときは茶色や黒色で徐々に白くなっていくのに対し、~~白毛は生まれたときには大半が白い毛をしています。~~遺伝か突然変異で生まれますが、非常にレアな毛色です。''
+文章
+*その他
+-[[サラブレッドしろげ(フォト)]]
+-[[サラブレッドしろげ　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e91fda5f9a5de2b3.jpeg,50%)
+**特別衣装
+***カフェ制服＜リウキウ・イエロー＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/17a29698df326b31.jpg,50%)
+
+***カフェ制服＜リウキウ・グリーン＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ca6a9046e25bd5b8.jpg,50%)
+
+***カフェ制服＜リウキウ・ブルー＞
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/HR4NEUdsd1.png,50%)
+
+***カフェ制服＜リウキウ・ピンク＞
+&attachref(50%)
+
+***パーティドレス(未)
+[+]&color(#ff0000){※ネタバレ注意！}
+&attachref(50%)
+[END]
+
+**アイコン一覧
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/72c33fe6c43603a5.jpeg,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。

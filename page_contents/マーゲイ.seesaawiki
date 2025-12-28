@@ -1,0 +1,329 @@
+[+]目次
+#contents(2)
+[END]
+*マーゲイ
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/afaca546d68d9a80.jpeg,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9ddec705ae5ec5ca.jpg,50%)
+// [END]
+// [+]Lv.99
+// &ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/HGyF7HhX98.jpg,50%)
+// [[けものフレンズ3 #241 &gt;&gt;63より>https://krsw.5ch.net/test/read.cgi/gamesm/1596335145/63]]
+// -学園制服・星6衣装により体力＋300、攻撃＋150、守り＋75補正あり。
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|41826|17786|6481|4077|1.0|40|center:size(9):&color(#a6cf00){''アクティブ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|48671|20720|7551|4721|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|51441|21899|7981|4989|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|53753|22883|8340|5213|1.2|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|56524|24062|8770|5482|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|20/01/23、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|2枚|－|+5.0%|+6.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|1枚|15|+5.0%|+6.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|30,20|+6.0%|+7.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|ほとばしる情熱|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|自身が大幅に狙われやすくなり被ダメージが50%減少する~~さらに与ダメージの15%のたいりょくを回復する~~また、味方全体のかいひが20%増加する（2ターン）|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Try!!]}|>|>|自身が大幅に狙われやすくなり被ダメージが60％減少する~~さらに与ダメージの15％分のたいりょくを回復する~~また、味方全体のかいひが25％増加する（2ターン）|
+|>|>||
+|!とくいわざ|わたしがいるわ！|相手単体に30％×4のダメージを与え~~少しだけ狙われやすくなる（1ターン）|
+|!たいきスキル|高まれ妄想力|与ダメージと被ダメージが30％増加する（2ターン）~~発動率：100%　発動回数：2回|
+|!とくせい|もう限界よわよわ擬態ボイス|たいりょくが90％以下のとき攻撃命中率が10％増加する~~たいりょくが60％以下のとき被ダメージが15％減少する~~たいりょくが30％以下のとき与ダメージが30％増加する|
+|!キセキとくせい|いいわねそれ！|自身の与ダメージが13％増加する~~さらにマイペース（水）属性の相手に対して~~与ダメージが13％増加する|
+|!なないろとくせい|はぁー…推しって最高だわ！|自身の与ダメージが10％増加し、かいひが5％増加する~~さらにフレンズ戦で自身の攻撃命中率が10％増加し~~コチョコチョ発生率が50％増加する~~※コチョコチョマスターの効果は重複しない|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~地形がジャングルの場合、与ダメージが4%増加し~~攻撃命中率が4%増加する~~&color(,#f3f3fe){(変化後)~~地形がジャングルの場合、与ダメージが&color(#ff0000){6%}増加し~~攻撃命中率が&color(#ff0000){6%}増加する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+1月の大掃除イベント時に実装された限定☆4フレンズ。
+けもステータスとしてはやや耐久寄り。
+
+たいきスキルではなく、とくいわざやけものミラクルにより挑発を行う変わり種のタンク。
+特にけものミラクルは大幅に被ダメを軽減した上でHP回復効果を付与するので、ボスセルリアンの強力な攻撃も凌げる。
+またHPが減ると様々な恩恵を受けられるとくせいを所持しており、殴られれば殴られるほど強くなる。
+
+一方でたいきスキルは与ダメージを大幅に上げるが被ダメージも大幅に上がるハイリスクハイリターンな性能。
+タンク時に発動して被ダメージを増やしてしまっては本末転倒なので、ON/OFFを上手く切り替えて使いたい。
+
+総じてかなりトリッキーな性能をしており、本領発揮できるかは隊長さんの手腕にかかっているかもしれない。
+基本的にはBeatで威嚇効果を得てタンクを務めてもらうのが無難だろうか。
+ロイヤルペンギンなど、小回りが利くタイプの回復能力を持つフレンズとともに運用することで適度なHPを維持しやすくなり、安定感が増す。
+待機スキルや特性の与ダメージアップを積極的に生かすつもりなら、事故のリスクはどうしようもないのでアルパカ・ワカイヤの蘇生を用意する手もある。
+//**けものミラクル：スキル名
+// ''効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''効果~~''
+//文章
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sFdYgPSu4P.png,no_link,40){しあわせ花束UC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f9yqL75Nzl.png,no_link,40){しあわせ花束R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OOYgJnxTej.png,no_link,40){しあわせ花束C}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sFdYgPSu4P.png,no_link,40){しあわせ花束UC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f9yqL75Nzl.png,no_link,40){しあわせ花束R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「なんで樹の上に引きこもってるかですって？~~バッカじゃない？~~樹の上のほうが落ち着くから好きなだけよ。~~ガールズラブ？~~確かに可愛い女の子は好きだけど、そういうのじゃないわ。~~ほんとよ！」''
+得意なことは声マネと木登り。好きなものは映画と可愛い女の子！
+
+イベントクエスト「けも刑事　ざ・むーびー」の映画監督として初登場。
+しかしフィルムの余裕がないのにノリでハシビロコウを主役に据えた挙句
+ハシビロコウ共々アドリブで話を進めてしまい、演者のリカオンから注意を受けるハメに。
+しかし巻き込んだ演者を活用しつつしっかりと話は完成させる手腕を見せた。%%高まれ！私の妄想力！%%
+
+その後、メインストーリー第５章で再び登場。（いくつかのフレストでも登場している）
+アニメのようにペンギンアイドルの追っかけをしているわけではなかったが、ハシビロコウから偶然
+ＰＩＰのライブチケットをもらい、新しい映画のネタになるかもと、会場にやって来ていた。
+
+ここでとんでもないライブを見せられ、「宇宙」を感じたマーゲイは、
+「一生ぉ－－っ！　あなたたちにぃーーっ！　ついていくわあ－－っ！」と叫び、アニメ版キャラへの素養を爆発させた。
+
+このライブをきっかけに、元来の「可愛い女の子好き」ということもあって、ＰＩＰだけでなく、アイドルイベントには
+よく足を運んでいるようだ。
+
+新人アイドル発掘イベント「私こそはアイドルだ」でも取材と称して参加していたが、そっちのけで大いに盛り上がる姿を見せている。
+（ピーチパンサーフレストより。マーゲイの反応から時系列的には５章の後と思われる）
+
+プレイアブルキャラとしては、2020年1月開催の「セルリアン大掃除イベント」開始に伴い
+イワトビペンギンと共にダブルピックアップという形で実装された。☆４の限定フレンズとなっている。
+また同月のちょこっとアニメにも登場しており、ライブチケットを求めて暴走している姿が見られる。
+
+けものミラクルからもわかる通り、今作ではあくまで映画制作監督をしている。
+NEXONアプリ版でもゴコクチホーでのゲージツ祭に映画を出展しようとしていたエピソードがあり
+アニメ版よりもこちらの設定を大きく引き継いでいると思われたが・・・
+
+ＣＶ：山下まみ（けもフレ３・アニメ１期・２期)
+　　　照井春佳（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|声真似のレパートリーでも増やそうかしら|
+|^|この辺で愛でられそうな女の子は…|
+|^|…うへへ…~~はっ！　いかんいかん、よだれが…|
+|^|ふえぇ！？　って隊長か…どうかしたの？|
+|^|うーん…煮詰まってきたわぁ…|
+|!固定|ロイヤルペンギン…あの子は間違いなく~~ビッグになるわっ！　構想中の映画にぜひ…！|
+|^|あの可愛さは反則じゃない？そう思うわよね？~~そう思うでしょ！？やっぱりそうよねぇ！！|
+|^|何よ…今忙しいんだけど…|
+|^|はぁー…~~いいものみせてもらったわぁ…えへへ…|
+|!すやすや|すぅ…やっぱり…木の上じゃないとね…~~むにゃむにゃ…|
+|^|うふふ…眼福眼福…むにゃむにゃ…|
+|^|すぅすぅ…最高だわー…　ああ~~そんなにくっついて…うへへ…しゅきぃ…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|さっさと片付けるわよ！|
+|^|こういうのは慣れてないのに|
+|!WAVE移行|まだいるの　まったく…|
+|^|はぁ～…　おにゃのこ成分切れそう…|
+|!クエスト終了|ま、こんなものかしら|
+|^|かわいい女の子がいれば負けるわけないのよ！|
+|!フラッグ選択|わかったわ！|
+|^|仕方ないわね！|
+|!けもコーラス|手伝って！|
+|^|これでいい？|
+|^|一緒にいくわよ！|
+|^|まかせたわ！|
+|!攻撃|[''通常攻撃'']|
+|^|やぁ！|
+|^|くらいなさい！|
+|^|いくわよー！|
+|^|にゃー！|
+|^|[''とくいわざ'']|
+|^|隙きありね！|
+|^|逃さないわ！|
+|^|これで終わりよ！|
+|^|たあ！|
+|!ダメージ|[''通常攻撃'']|
+|^|ぐっ|
+|^|いたっ|
+|^|[''強攻撃'']|
+|^|わぁ！|
+|^|そんな！|
+|^|[''ちからくらべ'']|
+|^|ビックリさせないでよ！|
+|^|やるわね|
+|^|そうくる！？|
+|^|わっ！|
+|!どく状態|わぁ…　なんか調子悪いわ|
+|^|もう嫌だ…　かわいい女の子が、見たい…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|限界…ね…|
+|^|[''ちからくらべ'']|
+|^|わかったわ…　降参よ|
+|^|いやぁ…　満足満足！|
+|^|むーりー|
+|^|これはこれで役得よねー　…ぐふっ|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|かわいい女の子がいる限り　何度でも！！|
+|^|ここで終わって…　たまるもんですかっ！！|
+|!けものミラクル　|[''等速'']~~（発動時）~~仕方ないわね、手伝ってあげるわ！~~（発動中）~~それじゃいくわよ！スタート！~~違う違う！もっとこうして、こうして、こうよ！~~それそれ、それよー！~~|
+|^                              |[''倍速'']~~（発動時）~~手伝ってあげるわ！~~（発動中）~~スタート！　それそれ、それよー！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~才能の使いみちってのを見せてあげるわ！~~（発動中）~~気合い入れていくわよ！アクション！~~全然ダメ！もっと強く優しくキュートに！~~だははは　たまんないぃ~~|
+|^                              |[''倍速'']~~（発動時）~~見せてあげるわ！~~（発動中）~~アクション！　だははは　たまんない…~~|
+|!けものミラクル後|ふぃー　いい仕事したわぁ|
+|}
+[END]
+[-]掛け合い
+現在、掛け合いのあるフレンズはいないようダネ。 
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|マーゲイよ　得意なことは声真似と木登り~~好きなもの？　映画と可愛い女の子っ！！|
+|!ログインボーナス|はいこれ~~何も言わず受け取ってちょうだい|
+|^|明日も用意してるから~~可愛い女の子と一緒に来なさいよ|
+|!なかよしレベルアップ|アナタといると、可愛い女の子と~~たくさん会えるから悪くないわ|
+|!レベルアップ|うん いいアイディアが浮かんできたわ！|
+|!野生解放|あ、やっばー！この発想はなかったわ 天才かー！|
+|!けも級アップ|ちゃんと感謝してるのよ、~~いつも付き合ってくれて ありがとね|
+|!ミラクルレベルアップ|次はもっと上手く撮れそうね！|
+|!フォトポケット開放|うへへへへ 可愛い女の子…~~女の子ががいっぱいうヘヘヘヘ|
+|!着替え|この衣装いいわねー~~あの子にも着てもらいたいわぁ|
+|^|うーん…　まぁ、たまにはこういうのも~~悪くはないかしらね|
+|^|か、かわいい！？　なに言い出してんのよ！|
+|^|気分転換よ、それだけ！|
+|!ふれあい|木の上が一番落ち着くわぁ…~~考えをまとめるにも女の子を観察するのにも、~~もってこいなのよね！|
+|^|いっつもかわいい女の子が集まってくるなんて~~羨ましいにもほどがあるわよー！|
+|^|あ、ちょっとまって！今、新作のアイディアが~~出てきそうなところで！　むむむむむ…|
+|^|あら、隊長なにかあったの？|
+|!ふれあい~~(撫でる)|ちょっとー！！　いきなりなにしてんのー！？|
+|^|撫でられる女の子を見るのは好きだけど…~~自分が撫でられるってのはなんか微妙ね~~まぁ、嫌じゃないけど…|
+|^|にゃははは、はは、あはダメよー~~くすぐったいってばー！|
+|!アシスタント選択|ぬふふふ…　役得役得　うえ！？~~わっ！うん　し、しっかりサポートするわよ！|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手
+（未実装）
+*実際の動物について
+ ''密林に生息する、ネコ科の中でもNO.1の木登り上手です。~~前後の脚で枝がつかめるなど、「ツリーオセロット」とも呼ばれています。~~獲物をおびき寄せるために声真似をするとも言われています。~~容姿はオセロットに似ていますが、美しく大きい目が特徴です。''
+マーゲイは　哺乳綱 ネコ目　ネコ科　オセロット属の哺乳類である。
+学名：Leopardus wiedii
+英名：Margay
+和名：マーゲイ
+別名：ツリーオセロット
+
+体長：45cm～80cm
+体重：2.3kg～3.2kg
+寿命：13年～18年
+分布：ブラジル、パラグアイ、ウルグアイ、アルゼンチン、ペルー 、コロンビア、ベネズエラ、メキシコ、ホンジュラス、ニカラグア
+　　　コスタリカ、パマナ、エクアドル、グアテマラ、エルサルバドル
+食性：雑食性。ネズミ、リス、小型のサル、トカゲ、鳥類、タマゴ、カエル、昆虫、果実等
+
+マーゲイはメキシコ及び、南アメリカのアマゾン川流域、熱帯雨林の密林やサバンナ林に生息している。
+
+マーゲイは、オセロット属ということもあってオセロットに似た容姿をしているが、体格はずっと小型であり、
+頭の比率に対し、目が大きく、尾長が長いことで区別できる。
+
+全体の体毛は主に黄褐色で多くの黒色斑点があり、腹部の体毛は薄くなる。黒色斑点は尾に特に多く見られ、先端は黒くなっている。
+夜行性で群れず単独行動をとる。
+
+ネコ科の中でも特に木登りを得意としており、主として樹上で生活する。その生態から別名ツリーオセロットとも呼ばれている。
+長い尾は樹上生活に適応しており、足で枝を掴んだり、一本の脚で枝にぶら下がる、後足を反転させられるので、頭から木を駆け
+下りれたりと、他のネコ科の動物では真似できない能力を持っている。
+
+また、特徴的な能力として、獲物となる動物をおびき寄せる為、その動物の鳴き声を真似ることができる。
+しかし、観測ではけっしてうまい鳴きまねではなく、それがどれほど狩りの成功に結び付いているのかはわかっていない。
+だが、声的擬態を狩りに用いようとする行動は非常に興味深いものがある。
+
+マーゲイは現在絶滅危惧種ではないが、将来的な不安が存在する。
+それは、毛皮が高額で取引されていたオセロットがワシントン条約で附属書Iに指定され、商業取引禁止となったことによる。
+マーゲイの悲劇は、そのオセロットの毛皮と酷似していることから代替えとしてターゲットにされたことで、乱獲が始まった。
+毛皮採取の為、毎年14,000頭以上が殺されているという。
+
+マーゲイは、妊娠期間は約83日で、1度に産む子供は1匹のみと、他のネコ科の動物と比較しても非常に少なく繁殖力が弱い動物である。
+現状、生存数を減少させていく未来は変えられそうにない。
+
+［日本での飼育施設］
+2020.1.26現在なし
+*その他
+-[[マーゲイ(フォト)]]
+-[[マーゲイ　フレンズストーリー]]
+**星6衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/656986ba58a7bae2.jpeg,50%)
+
+**特別衣装
+***学園制服
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f2e6b8ce8e9c5fe2.jpg,50%)
+
+**アイコン一覧
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/D9K8n26YUE.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。

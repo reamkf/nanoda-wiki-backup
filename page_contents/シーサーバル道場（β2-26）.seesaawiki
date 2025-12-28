@@ -1,0 +1,931 @@
+&color(#ff0000){''&size(18){※このページは2024/09/30までのβ2シーズン26の攻略ページです}''}
+// β2シーズン27の攻略は[[%%%こちら%%%>シーサーバル道場（β2-27）]]
+β2シーズン27の攻略は[[%%%こちら%%%>シーサーバル道場（β2-27）]]、最新の攻略ページは[[%%%メニュー%%%>MenuBar1]]へ
+[-]目次
+//#contents(2)
+-[[関連ページ>#dojo_pages]]
+-[[敵情報>#dojo_kouryaku]]
+--[[強敵情報早見表>#enemy_hayamihyou]]
+--[[月曜日 フレンドリー属性有利>#dojo_getu]]
+--[[火曜日 ファニー属性有利>#dojo_ka]]
+--[[水曜日 リラックス属性有利>#dojo_sui]]
+--[[木曜日 アクティブ属性有利>#dojo_moku]]
+--[[金曜日 ラブリー属性有利>#dojo_kin]]
+--[[土曜日 マイペース属性有利>#dojo_do]]
+--[[日曜日 アクティブ属性有利>#dojo_niti]]
+-[[道場向きフレンズ一覧>#dojo_friends]]
+-[[フレンズ採用率>#dojo_saiyou]]
+[END]
+
+&aname(dojo_pages)
+*関連ページ
+-[[シーサーバル道場・概要]]
+-[[シーサーバル道場・基本戦術]]
+-[[<< 前のシーズン>シーサーバル道場（β2-25）]]
+-[[次のシーズン &#62;&#62;>シーサーバル道場（β2-27）]]
+
+-[[状態異常]]
+-[[スキル効果別フレンズ一覧]]
+-[[地形]]
+
+&aname(dojo_kouryaku)
+*敵情報
+//''&color(#ff0000){随時攻略情報募集中です。~~細かいことでも気づいたことがあればコメントでもなんでも頂けると幸いです。}''
+//chk
+//***ギミック対応フレンズチェックリスト
+&aname(enemy_hayamihyou)
+**強敵情報早見表
+{| class="custom-css" style="table-layout: fixed;"
+|r[bgcolor(#cccccc)]:~center:月曜日|center:火曜日|center:水曜日|center:木曜日|
+|r[bgcolor(#f8f8f8)]:center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1gXUf5gkmc.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_QdErV8x7C.jpeg,70,no_link)|center:&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IoWj18CZUF.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VtMhPIfdW9.png,70,no_link)|
+|ちぐはぐリズム攻撃|びりびり攻撃|ひやひや攻撃|くらくら攻撃|
+|すやすや攻撃|ルンルンきぶん|毎ターンMP減少攻撃|どく攻撃|
+|からげんき攻撃|ばてばてヒリヒリ攻撃|くたくた攻撃|ひやひや攻撃|
+|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|
+|r[bgcolor(#cccccc)]:~center:金曜日|center:土曜日|center:日曜日|
+|r[bgcolor(#f8f8f8)]:center:&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W9AafLw6EM.jpeg,70,no_link)|center:&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2B1m668NgF.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zlm_oUOW2T.png,70,no_link)|
+|ひやひや攻撃|からげんき攻撃|ズキンズキン攻撃|
+|毎ターンMP減少攻撃|しょんぼりきぶん攻撃|全体大ダメージ攻撃|
+|ズキンズキン攻撃|ぼんやりうっかり攻撃|ロストフラッグ攻撃|
+|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|
+|}
+
+&aname(dojo_getu)
+**月曜日 フレンドリー属性有利
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1gXUf5gkmc.png,70)
+◆ちぐはぐリズム攻撃、すやすや攻撃、からげんき攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+◆大技チャージ18回 基本4, 7T目
+//◆大技チャージ&color(red){''？回'' 基本？T目}
+
+行動内容詳細
+前列攻撃──攻撃倍率65%、ちぐはぐリズム2T (24/44=54.5% &color(red){まよぴか貫通あり})
+単体攻撃──攻撃倍率110%、すやすや1T (9/11=81.8%) ※付与されたターンで解除される
+全体攻撃①──攻撃倍率60%
+全体攻撃②──攻撃倍率60%、からげんき2T (18/29=62.1%)
+''大技''──全体 攻撃倍率200%、付加効果なし
+
+&color(red){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|前列攻撃~~&size(10){ちぐはぐリズム2T (54.5%/44 [ま])}|全体攻撃①|
+|2|単体攻撃~~&size(10){すやすや1T (81.8%/11) ※付与されたターンで解除される}|単体攻撃~~&size(10){すやすや1T (81.8%/11) ※付与されたターンで解除される}|
+|3|全体攻撃②~~&size(10){からげんき2T (62.1%/29)}|全体攻撃①|
+|4|前列攻撃~~&size(10){ちぐはぐリズム2T (54.5%/44 [ま])}|全体攻撃①|
+|5|単体攻撃~~&size(10){すやすや1T (81.8%/11) ※付与されたターンで解除される}|単体攻撃~~&size(10){すやすや1T (81.8%/11) ※付与されたターンで解除される}|
+|6|全体攻撃②~~&size(10){からげんき2T (62.1%/29)}|全体攻撃①|
+|7|前列攻撃~~&size(10){ちぐはぐリズム2T (54.5%/44 [ま])}|全体攻撃①|
+|8|単体攻撃~~&size(10){すやすや1T (81.8%/11) ※付与されたターンで解除される}|単体攻撃~~&size(10){すやすや1T (81.8%/11) ※付与されたターンで解除される}|
+|9|全体攻撃②~~&size(10){からげんき2T (62.1%/29)}|全体攻撃①|
+|10|前列攻撃~~&size(10){ちぐはぐリズム2T (54.5%/44 [ま])}|全体攻撃①|
+|!bgcolor(white):大技|>|全体 付加効果なし~~&size(10){チャージ18回}|
+カッコ内は確認した付与率/試行回数
+[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+&aname(dojo_ka)
+**火曜日 ファニー属性有利
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_QdErV8x7C.jpeg,70)
+◆びりびり攻撃、ルンルンきぶん、ばてばてヒリヒリ攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+◆大技チャージ18回 基本4, 7T目
+//◆大技チャージ&color(red){''？回'' 基本？T目}
+
+行動内容詳細
+単体多段攻撃──攻撃倍率5%×10、びりびり2T (15/17=88.2%)
+単体攻撃──攻撃倍率120%
+ルンルンきぶん──2T
+前列攻撃──攻撃倍率100%
+全体攻撃──攻撃倍率10%×10、ばてヒリ2T (27/44=61.4%)
+''大技''──全体 25%×12(計300%)、付加効果なし
+
+&color(red){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|
+|2|単体攻撃|ルンルンきぶん~~&size(10){2T}|
+|3|前列攻撃|全体攻撃~~&size(10){ばてヒリ2T (61.4%/44)}|
+|4|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|
+|5|単体攻撃|ルンルンきぶん~~&size(10){2T}|
+|6|前列攻撃|全体攻撃~~&size(10){ばてヒリ2T (61.4%/44)}|
+|7|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|
+|8|単体攻撃|ルンルンきぶん~~&size(10){2T}|
+|9|前列攻撃|全体攻撃~~&size(10){ばてヒリ2T (61.4%/44)}|
+|10|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|単体多段攻撃~~&size(10){びりびり2T (88.2%/17)}|
+|!bgcolor(white):大技|>|全体 付加効果なし~~&size(10){チャージ18回}|
+カッコ内は確認した付与率/試行回数
+//[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+
+&aname(dojo_sui)
+**水曜日 リラックス属性有利
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IoWj18CZUF.png,70)
+◆ひやひや攻撃、毎ターンMP減少攻撃、くたくた攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+◆大技チャージ18回 基本4, 7T目
+//◆大技チャージ&color(red){''？回'' 基本？T目}
+
+行動内容詳細
+単体攻撃──攻撃倍率100%、ひやひや3回 (7/13=53.8%)
+ランダム3体攻撃──攻撃倍率45%
+全体攻撃──攻撃倍率100%、&color(red){''単体''}毎ターンMP15減少2T (4/6=66.7%)
+前列攻撃──攻撃倍率50%、くたくた2T (17/27=63.0% &color(red){まよぴか貫通あり})
+''大技''──全体 攻撃倍率120%、ひやひや3回 (23/40=57.5%)
+
+&color(red){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|ランダム3体攻撃|単体攻撃~~&size(10){ひやひや3回 (53.8%/13)}|
+|2|全体攻撃~~&size(10){&color(red){''単体''}毎ターンMP15減少2T (66.7%/6)}|ランダム3体攻撃|
+|3|前列攻撃~~&size(10){くたくた2T (63.0%/27 [ま])}|ランダム3体攻撃|
+|4|ランダム3体攻撃|単体攻撃~~&size(10){ひやひや3回 (53.8%/13)}|
+|5|全体攻撃~~&size(10){&color(red){''単体''}毎ターンMP15減少2T (66.7%/6)}|ランダム3体攻撃|
+|6|前列攻撃~~&size(10){くたくた2T (63.0%/27 [ま])}|ランダム3体攻撃|
+|7|ランダム3体攻撃|単体攻撃~~&size(10){ひやひや3回 (53.8%/13)}|
+|8|全体攻撃~~&size(10){&color(red){''単体''}毎ターンMP15減少2T (66.7%/6)}|ランダム3体攻撃|
+|9|前列攻撃~~&size(10){くたくた2T (63.0%/27 [ま])}|ランダム3体攻撃|
+|10|ランダム3体攻撃|単体攻撃~~&size(10){ひやひや3回 (53.8%/13)}|
+|!bgcolor(white):大技|>|全体 ひやひや3回 (23/40=57.5%)~~&size(10){チャージ18回}|
+カッコ内は確認した付与率/試行回数
+[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+&aname(dojo_moku)
+**木曜日 アクティブ属性有利
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VtMhPIfdW9.png,70)
+◆くらくら攻撃、どく攻撃、ひやひや攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+◆大技チャージ18回 基本4, 7T目
+//◆大技チャージ&color(red){''？回'' 基本？T目}
+
+行動内容詳細
+単体攻撃──攻撃倍率100%、くらくら2T (4/8=50.0%)
+ランダム2体攻撃──攻撃倍率65%
+全体攻撃①──攻撃倍率160%、どく2T (20/29=69.0%)
+全体攻撃②──攻撃倍率50%、ひやひや3回 (18/33=54.5%)
+''大技''──単体 攻撃倍率120%×2、付加効果なし
+
+&color(#ff0000){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|単体攻撃~~&size(10){くらくら2T (50.0%/8)}|ランダム2体攻撃|
+|2|ランダム2体攻撃|全体攻撃①~~&size(10){どく2T (69.0%/29)}|
+|3|ランダム2体攻撃|全体攻撃②~~&size(10){ひやひや3回 (54.5%/33)}|
+|4|単体攻撃~~&size(10){くらくら2T (50.0%/8)}|ランダム2体攻撃|
+|5|ランダム2体攻撃|全体攻撃①~~&size(10){どく2T (69.0%/29)}|
+|6|ランダム2体攻撃|全体攻撃②~~&size(10){ひやひや3回 (54.5%/33)}|
+|7|単体攻撃~~&size(10){くらくら2T (50.0%/8)}|ランダム2体攻撃|
+|8|ランダム2体攻撃|全体攻撃①~~&size(10){どく2T (69.0%/29)}|
+|9|ランダム2体攻撃|全体攻撃②~~&size(10){ひやひや3回 (54.5%/33)}|
+|10|単体攻撃~~&size(10){くらくら2T (50.0%/8)}|ランダム2体攻撃|
+|!bgcolor(white):大技|>|単体 付加効果なし~~&size(10){チャージ18回 基本4, 7T目}|
+カッコ内は確認した付与率/試行回数
+//[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+
+&aname(dojo_kin)
+**金曜日 ラブリー属性有利
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W9AafLw6EM.jpeg,70)
+◆ひやひや攻撃、毎ターンMP減少攻撃、ズキンズキン攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+◆大技チャージ18回 基本4, 7T目
+//◆大技チャージ&color(red){''？回'' 基本？T目}
+
+行動内容詳細
+前列攻撃──攻撃倍率40%×2、ひやひや3回 (12/23=52.2%)
+ランダム2体攻撃──攻撃場率70%
+単体攻撃──攻撃倍率100%、毎ターンMP15減少2T (5/14=35.7%)
+全体攻撃──攻撃倍率50%×2、ズキンズキン2T (33/40=82.5%)
+大技──全体 攻撃倍率18%×7(計126%)、ひやひや3回 (23/38=60.5%)
+
+くらくら耐性なし
+
+&color(red){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|前列攻撃~~&size(10){ひやひや3回 (52.2%/23)}|ランダム2体攻撃|
+|2|単体攻撃~~&size(10){毎ターンMP15減少2T (35.7%/14)}|単体攻撃~~&size(10){毎ターンMP15減少2T (35.7%/14)}|
+|3|ランダム2体攻撃|全体攻撃~~&size(10){ズキンズキン2T (82.5%/40)}|
+|4|前列攻撃~~&size(10){ひやひや3回 (52.2%/23)}|ランダム2体攻撃|
+|5|単体攻撃~~&size(10){毎ターンMP15減少2T (35.7%/14)}|単体攻撃~~&size(10){毎ターンMP15減少2T (35.7%/14)}|
+|6|ランダム2体攻撃|全体攻撃~~&size(10){ズキンズキン2T (82.5%/40)}|
+|7|前列攻撃~~&size(10){ひやひや3回 (52.2%/23)}|ランダム2体攻撃|
+|8|単体攻撃~~&size(10){毎ターンMP15減少2T (35.7%/14)}|単体攻撃~~&size(10){毎ターンMP15減少2T (35.7%/14)}|
+|9|ランダム2体攻撃|全体攻撃~~&size(10){ズキンズキン2T (82.5%/40)}|
+|10|前列攻撃~~&size(10){ひやひや3回 (52.2%/23)}|ランダム2体攻撃|
+|!bgcolor(white):大技|>|全体ひやひや3回 (60.5%/38)~~&size(10){チャージ18回 基本4, 7T目}|
+カッコ内は確認した付与率/試行回数
+//[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+&aname(dojo_do)
+**土曜日 マイペース属性有利
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2B1m668NgF.png,70)
+◆からげんき攻撃、しょんぼりきぶん攻撃、ぼんやりうっかり攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+//◆大技チャージ18回 基本4, 7T目
+◆大技チャージ&color(red){''24回'' 基本5, 9T目}
+
+行動内容詳細
+単体多段攻撃──攻撃倍率50%×2、からげんき2T (8/9=88.9%)
+ランダム2体攻撃──攻撃倍率65%
+全体攻撃──攻撃倍率100%、しょんぼりきぶん2T (26/37=70.3% &color(red){まよぴか貫通あり})
+単体攻撃──攻撃倍率120%、ぼんやりうっかり2T (6/8=75.0%)
+''大技''──全体 攻撃倍率50%×4、付加効果なし
+
+&color(red){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|単体多段攻撃~~&size(10){からげんき2T (88.9%/9)}|ランダム2体攻撃|
+|2|ランダム2体攻撃|全体攻撃~~&size(10){しょんぼりきぶん2T (70.3%/37 [ま])}|
+|3|単体攻撃~~&size(10){ぼんやりうっかり2T (75.0%/8)}|ランダム2体攻撃|
+|4|単体多段攻撃~~&size(10){からげんき2T (88.9%/9)}|ランダム2体攻撃|
+|5|ランダム2体攻撃|全体攻撃~~&size(10){しょんぼりきぶん2T (70.3%/37 [ま])}|
+|6|単体攻撃~~&size(10){ぼんやりうっかり2T (75.0%/8)}|ランダム2体攻撃|
+|7|単体多段攻撃~~&size(10){からげんき2T (88.9%/9)}|ランダム2体攻撃|
+|8|ランダム2体攻撃|全体攻撃~~&size(10){しょんぼりきぶん2T (70.3%/37 [ま])}|
+|9|単体攻撃~~&size(10){ぼんやりうっかり2T (75.0%/8)}|ランダム2体攻撃|
+|10|単体多段攻撃~~&size(10){からげんき2T (88.9%/9)}|ランダム2体攻撃|
+|!bgcolor(white):大技|>|全体 付加効果なし~~&size(10){チャージ&color(red){''24回'' 基本5, 9T目}}|
+カッコ内は確認した付与率/試行回数
+[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+&aname(dojo_niti)
+**日曜日 アクティブ属性有利
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zlm_oUOW2T.png,70)
+◆ズキンズキン攻撃、全体大ダメージ攻撃、ロストフラッグ攻撃、MP減少攻撃（有利属性以外）
+◆特殊ギミック：不明
+◆大技チャージ18回 基本4, 7T目
+//◆大技チャージ&color(red){''？回'' 基本？T目}
+
+行動内容詳細
+単体攻撃──攻撃倍率100%、ズキンズキン2T (6/12=50.0%)
+単体多段攻撃──攻撃倍率60%×2
+前列攻撃──攻撃倍率65%、ロスフラ2T (17/20=85.0%)
+全体攻撃──攻撃倍率220%
+''大技''──全体 攻撃倍率80%×4、付加効果なし
+
+初週のみロスフラが相手に付与される不具合があったが、2週目以降は修正済。ランキングのリセットは無し。
+
+&color(red){有利属性以外毎ターンMP減少}
+各ターンの3回目行動として使用される。
+
+行動表
+||w(160)|w(160)|c
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|
+|1|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|
+|2|単体多段攻撃|全体攻撃|
+|3|単体多段攻撃|前列攻撃~~&size(10){ロスフラ2T (85.0%/20)}|
+|4|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|
+|5|単体多段攻撃|全体攻撃|
+|6|単体多段攻撃|前列攻撃~~&size(10){ロスフラ2T (85.0%/20)}|
+|7|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|
+|8|単体多段攻撃|全体攻撃|
+|9|単体多段攻撃|前列攻撃~~&size(10){ロスフラ2T (85.0%/20)}|
+|10|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|単体攻撃~~&size(10){ズキンズキン2T (50.0%/12)}|
+|!bgcolor(white):大技|>|全体 付加効果なし~~&size(10){チャージ18回 4, 7T目}|
+カッコ内は確認した付与率/試行回数
+//[ま]=[[まよなかぴかぴか]]の貫通が確認されている=付与率>50%
+//[中]=[[まよなかぴかぴか]]以外の☆4中耐性フォトの貫通が確認されている=付与率>40%
+
+上の表では大技を発動しなかった場合の行動を示しています。大技の発動タイミングについて詳しくは%%%[[こちら>シーサーバル道場・基本戦術#boss_mp]]%%%を参照。
+
+
+&aname(dojo_friends)
+*道場向きフレンズ一覧
+各カテゴリ内でZの字の順に強い順で並べています。
+なお、状態異常付与時のデバフなど特定シーズンのみで有効な要素は考慮していません。
+''強さはパーティ構成や細かい条件、その他視点によって変わり得るため、参考程度に留めてください。''
+[+]条件
+4ポケ・Lv.90・ミラクルLv.6・火力フォト4枚
+配布・恒常フレンズは8ポケ
+
+もっプラで現実的な範囲の条件がそろったときの火力/バフ倍率
+味方にバフまたは相手に被ダメデバフを与えられるアタッカーは、バフ/デバフの倍率に応じて順位を上げる
+MPを配布できるフレンズも同様
+[END]
+
+表は以下のスプレッドシートで生成できます。
+[[https://docs.google.com/spreadsheets/d/1mYpnIuj_53vbkCzfnNzNK4Sky5_GyQkZnsY37RoSpaY/edit?usp=sharing>>https://docs.google.com/spreadsheets/d/1mYpnIuj_53vbkCzfnNzNK4Sky5_GyQkZnsY37RoSpaY/edit?usp=sharing]]
+**フレンドリー
+***アタッカー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップアタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,55,no_link)>ジェネット]]|||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップアタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lqfnJVOSwY.png,55,no_link)>ハゲワシ]]|||||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png,55,no_link)>マカミ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CaJ2vKYMUK.jpg,55,no_link)>ガチャピン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,55,no_link)>ビャッコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png,55,no_link)>シヴァテリウム]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/85Q2yq0DSP.png,55,no_link)>スマトラトラ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/IG0Ks6UGT8.jpg,55,no_link)>ライジュウ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z_4HIcvXPg.png,55,no_link)>サーバル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/gmUOMQQnio.png,55,no_link)>ゴリラ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ShsZHme_io.png,55,no_link)>タスマニアタイガー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XpLHka5F2.png,55,no_link)>ヒクイドリ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qb8n1DKT2e.png,55,no_link)>アムールトラ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BfzbE9OGSZ.jpg,55,no_link)>ヒゲペンギン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TegYLvJuQ8.png,55,no_link)>シンリンオオカミ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7V3BqFx9SW.png,55,no_link)>マーモット]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wm3U1VboWY.png,55,no_link)>オーロックス]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QMlnS1CIib.png,55,no_link)>タヌキ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png,55,no_link)>ドール]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wmPhhP6k8w.png,55,no_link)>チャップマンシマウマ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/j500HPIQEM.png,55,no_link)>ロイヤルペンギン]]||
+[END]
+***バッファー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e4bFCO74S2.png,55,no_link)>【みんなでジャスティス】ハクトウワシ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2prV3o99_T.png,55,no_link)>スペインオオヤマネコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FLLqpO9Te7.png,55,no_link)>オオフウチョウ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lFZLKjgcWF.png,55,no_link)>イエイヌ（雑種）]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Y2GsIj__FF.png,55,no_link)>ホルスタイン]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q6bcoPFrCm.png,55,no_link)>【大きな瞳の美人顔】サーバル]]|||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップバッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/99iBSbnDhM.jpg,55,no_link)>ヒメアルマジロ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ELH334IqQL.png,55,no_link)>アルパカ・スリ]]||||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他バッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/03dd43qtBQ.png,55,no_link)>ニホンザル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,55,no_link)>サラブレッドあおかげ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mS97jNBFtM.png,55,no_link)>ビントロング]]|||
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布バッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ELH334IqQL.png,55,no_link)>アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/W7vzcgSD8m.png,55,no_link)>オオフラミンゴ]]||||
+[END]
+**ファニー
+***アタッカー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4fqq5yXyY6.png,55,no_link)>ブラックサーバル]]|||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップアタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qHyNCkyYib.png,55,no_link)>ライリュウ]]|||||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0vBgKB4ufi.png,55,no_link)>日向夏美]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/efpwUTFVor.jpg,55,no_link)>【解き放たれしダークネスホーン】ブラックバック]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6fqYpwf9LM.png,55,no_link)>ピューマ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bie6aZfUo8.png,55,no_link)>トラ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/r7T5rlOAfn.png,55,no_link)>グリズリー]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/x8ku5LM4a4.png,55,no_link)>ゴールデンタビータイガー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Py8pwkmcy1.png,55,no_link)>カモノハシ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/HAD08JABQq.png,55,no_link)>キティサーバル]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3_o69YUBpC.png,55,no_link)>ウンピョウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/53TcOC2To7.jpg,55,no_link)>ホロホロチョウ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/faVX_g8b6i.png,55,no_link)>カラカル]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ITJjT6djMI.jpg,55,no_link)>カコミスル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zI1GeA9XcI.png,55,no_link)>リュウキュウイノシシ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sDfJgm5e2U.png,55,no_link)>G・ロードランナー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RvNencAmxK.png,55,no_link)>ゴルゴプスカバ]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布アタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/g1SvgruWpz.png,55,no_link)>【頼られちゃ仕方ない】ツチノコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/148oZlMntp.png,55,no_link)>アフリカニシキヘビ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/naNFynAYLH.png,55,no_link)>オグロプレーリードッグ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gZqpSWyHJL.png,55,no_link)>ヒトコブラクダ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0aTjwMoXnY.png,55,no_link)>コツメカワウソ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/szC2DzMZSp.png,55,no_link)>アメリカレア]]|||||
+[END]
+***バッファー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)>ムック]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t8HeaaGr8v.png,55,no_link)>ピーチパンサー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,55,no_link)>オカピ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gqjLuC5Z2S.png,55,no_link)>カルガモ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Vdf7ujdOBP.png,55,no_link)>カモメ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,55,no_link)>ゴシンギュウサマ]]|||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/iWM1_iWZiR.png,55,no_link)>メンダコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qHX6k6CICD.png,55,no_link)>コンゴウインコ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Q8qGW6gyGp.png,55,no_link)>ヤブノウサギ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png,55,no_link)>オジロスナギツネ]]||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他バッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LWfPkES7Sr.jpg,55,no_link)>ツノサイチョウ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/66wxHP80qW.png,55,no_link)>エトピリカ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/iyg5Y2XLlE.png,55,no_link)>ヒツジ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hEBploFI1k.png,55,no_link)>リョコウバト]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yTfAKC5U89.png,55,no_link)>カワウ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F74f20chzp.png,55,no_link)>ミーアキャット]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RT2QBwrBie.png,55,no_link)>ヤブツカツクリ]]||||
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布バッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/iyg5Y2XLlE.png,55,no_link)>ヒツジ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F74f20chzp.png,55,no_link)>ミーアキャット]]||||
+[END]
+**リラックス
+***アタッカー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,55,no_link)>真・青龍]]|||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9UOE3QGK9l.png,55,no_link)>【天才博士が通りますよ】アフリカオオコノハズク]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ycQSIo1yFu.png,55,no_link)>マナティー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/yOqTsf_I3c.png,55,no_link)>インドシナウォータードラゴン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/klfOh8aRfX.jpg,55,no_link)>シーラカンス]]||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Akrh9z4Tbc.png,55,no_link)>アカカンガルー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pk7uxXdtRs.png,55,no_link)>ケープライオン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rSAmDw8wTV.png,55,no_link)>キングチーター]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/yMbKblq9g8.jpg,55,no_link)>ホラアナライオン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DHLfxUTVru.png,55,no_link)>【ひんやりクリーミーを求めて】ホワイトライオン]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aM_N2D3oYf.png,55,no_link)>カグヤコウモリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bzh6mYgye8.png,55,no_link)>スカイフィッシュ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,55,no_link)>ハシブトガラス]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v7VY_h8vBA.jpg,55,no_link)>ダンザブロウダヌキ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DQFkA74Dee.jpeg,55,no_link)>ユキウサギ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EmAX21PhH8.PNG,55,no_link)>ケルベロス]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9F6Z62QyQY.png,55,no_link)>サーベルタイガー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/r0ME2GA_IQ.png,55,no_link)>コディアックヒグマ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/oazfJx4Kpm.png,55,no_link)>インドオオカミ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z.png,55,no_link)>クロヒョウ]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,55,no_link)>ハシブトガラス]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z.png,55,no_link)>クロヒョウ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/tDvvJ0f5E_.png,55,no_link)>レッサーパンダ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QcfXuNTb_p.png,55,no_link)>ライオン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/57CXKt3Hxi.png,55,no_link)>ダチョウ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qVufNoWzjZ.png,55,no_link)>アフリカゾウ]]|||||
+[END]
+***バッファー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BEp5yOAxAB.png,55,no_link)>【ブームの予感ですよ？】チベットスナギツネ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GyuuSOpOFc.png,55,no_link)>【わたしを頼ってね！】アカギツネ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pRwke7Dtxo.png,55,no_link)>【こっわーい悪魔だぞぉ！】タスマニアデビル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jiz2kWKJfk.jpg,55,no_link)>ツシマヤマネコ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/devfRfg1HV.png,55,no_link)>クロテン]]|
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IUOl6lOwRj.jpg,55,no_link)>オランウータン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3r6lyRWgly.png,55,no_link)>ニルガイ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LOTVa5HQpU.png,55,no_link)>【ぷろげーまー】キタキツネ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Kcr2h1LuMk.png,55,no_link)>シロヘラコウモリ]]||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他バッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ln_tJCwF5M.jpg,55,no_link)>ちびくまモン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UCDmrDvFuq.jpg,55,no_link)>フクロオオカミ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/foOdm00RpZ.png,55,no_link)>インドゾウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/PKvqol9Ilx.png,55,no_link)>アードウルフ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rXb5e8HoB5.png,55,no_link)>メキシコサラマンダー]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E9uJ5bKvfS.png,55,no_link)>カンザシフウチョウ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sHgXxWSCZz.jpeg,55,no_link)>オオセンザンコウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CrdvzxGD7U.png,55,no_link)>クジャク]]|||
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布バッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/57CXKt3Hxi.png,55,no_link)>ダチョウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CrdvzxGD7U.png,55,no_link)>クジャク]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fDV8gypTUT.png,55,no_link)>オジロヌー]]|||
+[END]
+**アクティブ
+***アタッカー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,55,no_link)>白龍]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dP1baIEhRI.png,55,no_link)>ケロロ]]||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップアタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4bUsPqgeIx.png,55,no_link)>ドラコケンタウロス]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pPKZ55qGDE.png,55,no_link)>ソンゴクウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_HgjSCS0Xq.png,55,no_link)>https://seesaawiki.jp/kemono_friends3_5ch/d/%A1%DA%CC%EE%C0%B8%A4%AC%A4%A6%A4%BA%A4%A6%A4%BA%A4%B7%A4%C1%A4%E3%A4%A4%A4%DE%A4%B9%26%239825%3B%A1%DB%A5%D4%A1%BC%A5%C1%A5%D1%A5%F3%A5%B5%A1%BC]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2nFBCUsCwt.png,55,no_link)>ツチブタ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_gdX94OBvJ.jpg,55,no_link)>ヤマタノオロチ]]|
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他アタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZWtsALBBWZ.png,55,no_link)>キタコアリクイ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZeM6Yw7J28.jpg,55,no_link)>ディアトリマ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S_MsLrohX6.png,55,no_link)>ホンドテン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/svD4_wTYQr.png,55,no_link)>アリゾナジャガー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QcYB1tub1R.png,55,no_link)>【シマシマ伝道師】サバンナシマウマ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UK6Pb8r18x.png,55,no_link)>タテガミオオカミ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2I5s3FeqRf.png,55,no_link)>【頼れる副隊長】ドール]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sWy3B6i0FO.png,55,no_link)>アリゲーター]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1eLuMYxBHk.png,55,no_link)>【わっふいわっふーい！】マイルカ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4TsHg0HR_N.jpg,55,no_link)>ラーテル]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7Qh3sdSz8J.png,55,no_link)>クズリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1dsFuPeoRk.png,55,no_link)>アフリカンゴールデンウルフ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bPqbehgexN.png,55,no_link)>アデリーペンギン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SF2WhcRI92.png,55,no_link)>カナダオオヤマネコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uEvtpNuhgC.png,55,no_link)>ダイアウルフ]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bPqbehgexN.png,55,no_link)>アデリーペンギン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3MKoCUaiQb.png,55,no_link)>ジャガー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/20cjeoHAUN.png,55,no_link)>ブラッザグエノン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pm7fUEnb9i.png,55,no_link)>リカオン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/etMkSzhwDr.png,55,no_link)>オオアルマジロ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png,55,no_link)>カピバラ]]|||||
+[END]
+***バッファー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,55,no_link)>コヨーテ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nK3Slae6Ia.png,55,no_link)>ユニコ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,55,no_link)>麒麟]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/83de2e4f9275bea2-s.png,55,no_link)>【笑顔をお届け！】コツメカワウソ]]||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6e_ipq1NhI.png,55,no_link)>【時代が来たのだ！】アライグマ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mv23Zl2gjj.png,55,no_link)>ボルネオゾウ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,55,no_link)>オグロスナギツネ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lrdSpo_rb4.jpg,55,no_link)>エメラルドツリーボア]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UK6Pb8r18x.png,55,no_link)>タテガミオオカミ]]|
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他バッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nHTfTDhcCQ.png,55,no_link)>パラケラテリウム]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zmm4VrHMwM.png,55,no_link)>ヒメウォンバット]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3yTDqmr90_.png,55,no_link)>ブタ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Mu9BBfHMJZ.jpg,55,no_link)>ドールシープ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VXqD4Ud6Jk.png,55,no_link)>シロサイ]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布バッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VXqD4Ud6Jk.png,55,no_link)>シロサイ]]|||||
+[END]
+**ラブリー
+***アタッカー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oJxhXJqdYV.png,55,no_link)>赤龍]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KLGH2s1YMJ.png,55,no_link)>ヌエ]]||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WeCQxD2wIs.png,55,no_link)>アリサ=サザンクロス]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/__aX6Xvew1.png,55,no_link)>イワハイラックス]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/czcjZkxDz3.jpg,55,no_link)>イリオモテヤマネコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uN85xjExvz.png,55,no_link)>ギロロ]]||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J4DuIx7PwN-s.png,55,no_link)>【一撃の極意】ブラックジャガー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,55,no_link)>ヒメアリクイ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/h5XIrIPX17.png,55,no_link)>ウサギコウモリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ozPnKB6ezu.png,55,no_link)>タチコマ type-H]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JBhPJKbtMI.png,55,no_link)>【正義の家庭教師】ミーアキャット]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,55,no_link)>オイナリサマ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_UzzPzGUTO.png,55,no_link)>ボブキャット]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sqIuZrccIA.png,55,no_link)>【どこでも突撃！えんため隊】カラカル]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9lsoElSWoy.png,55,no_link)>ゲンブ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4Z3mGjb53M.png,55,no_link)>エダハヘラオヤモリ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CHDVuzoy31.png,55,no_link)>ニホンノウサギ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mNjlLVJ2fe.png,55,no_link)>エジプトガン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jN1FlXMThj.png,55,no_link)>カンジキウサギ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zvuussM9Nj.png,55,no_link)>アラビアオリックス]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vhDNMTOfzf.png,55,no_link)>【私の時代も来たかなー】フェネック]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布アタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/PQjapsoQPk.PNG,55,no_link)>ニワトリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sAVFnriT0s.png,55,no_link)>オオタカ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1TzNZDbgrU.png,55,no_link)>ミナミコアリクイ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o7phGhfCao.png,55,no_link)>マレーバク]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png,55,no_link)>スナネコ]]|
+[END]
+***バッファー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,55,no_link)>ウミネコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i23EU2HySI.png,55,no_link)>イエウサギ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/l5qnuAd1yF.png,55,no_link)>【オシャレリーダー】チャップマンシマウマ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ENdwwRjKj3.png,55,no_link)>ステラーカイギュウ]]||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップバッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Cuobzmvxhs.png,55,no_link)>ニホンカワウソ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xgdusVWP4S.png,55,no_link)>【隻眼の悪魔†】オーストラリアデビル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,55,no_link)>オイナリサマ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/alrX1f5CTZ.jpg,55,no_link)>シマハイイロギツネ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sxUyylZq88.png,55,no_link)>シロクジャク]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ou8aOm6uRy.png,55,no_link)>ヤンバルクイナ]]|||||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他バッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/oEbyx006Ct.png,55,no_link)>ギンギツネ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kYvgsDUsKs.png,55,no_link)>ジョフロイネコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/WR9Q0QW7eD.png,55,no_link)>ホワイトライオン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AuOrO2u4hU.png,55,no_link)>アオツラカツオドリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/uV31r544lk.jpg,55,no_link)>コウノトリ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xZTjEbByEg.png,55,no_link)>ホッキョクウサギ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YFidDF3vxa.png,55,no_link)>クビワペッカリー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/og49TAmppg.png,55,no_link)>【夏の日の思い出は毒とともに】コモドドラゴン]]|||
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布バッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,55,no_link)>ウミネコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/oEbyx006Ct.png,55,no_link)>ギンギツネ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kYvgsDUsKs.png,55,no_link)>ジョフロイネコ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xZTjEbByEg.png,55,no_link)>ホッキョクウサギ]]||
+[END]
+**マイペース
+***アタッカー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップアタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t3OZxqEVvK.png,55,no_link)>キンシャチ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZMtL8C7ycK.png,55,no_link)>【ハツラツなつっこ！】バンドウイルカ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,55,no_link)>カマイタチ・切]]|||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップアタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rBWDM4pzWJ.png,55,no_link)>【私たちのプライド】ライオン]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/35Vpg7K7L4.png,55,no_link)>ワオキツネザル]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fm007pC0HL.png,55,no_link)>【なないろにきらめく☆】スカイフィッシュ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png,55,no_link)>セイリュウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WLftdWruwG.png,55,no_link)>でびるさま]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pY6GXcy9dN.png,55,no_link)>アジアゴールデンキャット]]|||||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他アタッカー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Q_JrbTEq4q.png,55,no_link)>ツンドラオオカミ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VJECYNnwGo.png,55,no_link)>キットギツネ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Sh_yfJW6G3.png,55,no_link)>ジュゴン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1nd9I3kwOj.png,55,no_link)>トムソンガゼル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/k9ju7MKC_7.png,55,no_link)>フォッサ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MPm0j5WEUd.png,55,no_link)>ウィッチ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6JM2Fb43VX-s.png,55,no_link)>セーバル]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ydlk7NXKYc.png,55,no_link)>【天才発明家・Ｇ】ギンギツネ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TUP76IR3nv.png,55,no_link)>【一撃のポーズぅ！】ミナミコアリクイ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/NoKeQ5jln1.png,55,no_link)>ハヤブサ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VO6ZZQrDP2.png,55,no_link)>ホッキョクオオカミ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a7A6sSrXmM.png,55,no_link)>クロトキ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3haPdLkBj2.png,55,no_link)>インパラ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0YPli1u4gc.png,55,no_link)>人面魚]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sxwE6FLJ0J.png,55,no_link)>ケツァール]]|
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布アタッカー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a7A6sSrXmM.png,55,no_link)>クロトキ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png,55,no_link)>ツチノコ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/WaaS6XbjCu.png,55,no_link)>カタカケフウチョウ]]|||
+[END]
+***バッファー
+[+]
+|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|w(55)|c
+|r[bgcolor(#c0a0ff)]:>|>|>|>|''現トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vhyD1ST6Ug.png,55,no_link)>タテゴトアザラシ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1.png,55,no_link)>シーサー・ライト]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lFmA8Dbn0W.jpg,55,no_link)>オオサイチョウ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)>【優秀な助手の出番なのです】ワシミミズク]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rXQwAM939s.png,55,no_link)>アゴヒゲアザラシ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GdHCVmBFy3.png,55,no_link)>N・ハイランドワイルドドッグ]]|||||
+|r[bgcolor(#a0deff)]:>|>|>|>|''準トップバッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PigTrYEnQM.png,55,no_link)>コアラ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QvVobxJ_RE.png,55,no_link)>アフリカオオコノハズク]]||||
+|r[bgcolor(#cccccc)]:>|>|>|>|''その他バッファー''|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,55,no_link)>フンボルトペンギン]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pLqgalWouf.png,55,no_link)>マメジカ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LDplRPztb9.jpg,55,no_link)>セイウチ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/99Ip8Ro25q.png,55,no_link)>シーサー・レフティ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7dGpAMB3V_.png,55,no_link)>オオウミガラス]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/91_xiccfsF.png,55,no_link)>ヤマバク]]|||||
+|r[bgcolor(#fffaa0)]:>|>|>|>|''恒常・配布バッファー''|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/91_xiccfsF.png,55,no_link)>ヤマバク]]|||||
+[END]
+
+&aname(dojo_saiyou)
+*フレンズ採用率
+今シーズンのランキング1～100位のランカーパーティーでのフレンズ採用率を、月末付近にデータを取って集計した表です。
+(曜日ごとの最終日で集計することを目指しますが、忙しかったりした場合はもっと早い日のものになる場合があります)
+-日曜日は毎期属性が変わるので、前回比は同一シーズン内でのみ求めます。
+-「スコア順（前回比）」は、このフレンズを採用しているパーティーのスコア順での最上位の順位です。
+-スコア順が1位のフレンズについている(未使用:x位)というのは、このフレンズを採用して%%%いない%%%パーティーの最高順位です。これが低ければ低いほど、このフレンズを抜いてしまうと厳しい戦いになるかもしれません。
+-データがゲーム画面でしか閲覧できないため、集計ミスがある可能性があります。
+**月曜日 フレンドリー属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/24 午後
+前回集計日：2024/08/27 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e4bFCO74S2.png,55,no_link)|&size(10){&color(#ff0000){【みんなでジャスティス】}}~~[[ハクトウワシ>【みんなでジャスティス】ハクトウワシ]]|97%(&color(#ff0000){-1%})|1位(+0)(未使用:18位)|
+|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Y2GsIj__FF.png,55,no_link)|[[ホルスタイン]]|67%(&color(#ff0000){-3%})|1位(+0)(未使用:8位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FLLqpO9Te7.png,55,no_link)|[[オオフウチョウ]]|55%(&color(#ff0000){-5%})|8位(&color(#009e25){+3})|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,55,no_link)|[[ジェネット]]|48%(&color(#009e25){+4%})|1位(+0)(未使用:3位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ELH334IqQL.png,55,no_link)|[[アルパカ・スリ]]|46%(&color(#009e25){+3%})|3位(&color(#ff0000){-1})|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q6bcoPFrCm.png,55,no_link)|&size(10){&color(#ff0000){【大きな瞳の美人顔】}}~~[[サーバル>【大きな瞳の美人顔】サーバル]]|44%(&color(#009e25){+3%})|1位(+0)(未使用:2位)|
+|7|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png,55,no_link)|[[マカミ]]|40%(&color(#ff0000){-2%})|7位(&color(#ff0000){-3})|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|37%(&color(#009e25){+1%})|1位(+0)(未使用:3位)|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2prV3o99_T.png,55,no_link)|[[スペインオオヤマネコ]]|19%(&color(#009e25){+5%})|2位(&color(#009e25){+1})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lFZLKjgcWF.png,55,no_link)|[[イエイヌ（雑種）]]|13%(&color(#009e25){+4%})|9位(&color(#009e25){+5})|
+|11|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/99iBSbnDhM.jpg,55,no_link)|[[ヒメアルマジロ]]|10%(&color(#ff0000){-1%})|8位(&color(#009e25){+4})|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,55,no_link)|[[カマイタチ・治]]|8%(&color(#009e25){+2%})|7位(&color(#009e25){+1})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lqfnJVOSwY.png,55,no_link)|[[ハゲワシ]]|5%(+0%)|17位(&color(#ff0000){-7})|
+|14|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,55,no_link)|[[ビャッコ]]|4%(&color(#ff0000){-1%})|3位(&color(#ff0000){-1})|
+|15|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XpLHka5F2.png,55,no_link)|[[ヒクイドリ]]|2%(&color(#009e25){+1%})|11位(&color(#009e25){+1})|
+|16|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CaJ2vKYMUK.jpg,55,no_link)|[[ガチャピン]]|1%(&color(#ff0000){-2%})|31位(&color(#009e25){+23})|
+|16|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/IG0Ks6UGT8.jpg,55,no_link)|[[ライジュウ]]|1%(&color(#ff0000){-1%})|46位(&color(#ff0000){-43})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bJ1PIfWq1n.png,55,no_link)|[[フクロネコ]]|1%(&color(#ff0000){-1%})|51位(&color(#ff0000){-18})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png,55,no_link)|[[シヴァテリウム]]|1%(&color(#ff0000){-1%})|60位(&color(#ff0000){-57})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z_4HIcvXPg.png,55,no_link)|[[サーバル]]|1%(+0%)|95位(&color(#009e25){+2})|
+
+※1位の人のスコア：1億6274万4041(前回比:&color(#009e25){+459万7516})
+※10位の人のスコア：1億178万4229(前回比:&color(#009e25){+766万2523})
+※100位の人のスコア：4450万5861(前回比:&color(#009e25){+420万1445})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/27 午後
+前回集計日：2024/07/30 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e4bFCO74S2.png,55,no_link)|&size(10){&color(#ff0000){【みんなでジャスティス】}}~~[[ハクトウワシ>【みんなでジャスティス】ハクトウワシ]]|98%(&color(#009e25){+2%})|1位(+0)(未使用:25位)|
+|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Y2GsIj__FF.png,55,no_link)|[[ホルスタイン]]|70%(&color(#ff0000){-2%})|1位(&color(#009e25){+2})(未使用:12位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FLLqpO9Te7.png,55,no_link)|[[オオフウチョウ]]|60%(&color(#009e25){+12%})|11位(&color(#ff0000){-4})|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,55,no_link)|[[ジェネット]]|44%(&color(#009e25){+27%})|1位(&color(#009e25){+1})(未使用:2位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ELH334IqQL.png,55,no_link)|[[アルパカ・スリ]]|43%(&color(#ff0000){-20%})|2位(+0)|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png,55,no_link)|[[マカミ]]|42%(&color(#ff0000){-26%})|4位(&color(#ff0000){-1})|
+|7|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q6bcoPFrCm.png,55,no_link)|&size(10){&color(#ff0000){【大きな瞳の美人顔】}}~~[[サーバル>【大きな瞳の美人顔】サーバル]]|41%(&color(#009e25){+3%})|1位(&color(#009e25){+1})(未使用:3位)|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|36%(&color(#ff0000){-9%})|1位(+0)(未使用:2位)|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2prV3o99_T.png,55,no_link)|[[スペインオオヤマネコ]]|14%(&color(#009e25){+10%})|3位(&color(#009e25){+17})|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/99iBSbnDhM.jpg,55,no_link)|[[ヒメアルマジロ]]|11%(&color(#ff0000){-7%})|12位(&color(#ff0000){-11})|
+|11|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lFZLKjgcWF.png,55,no_link)|[[イエイヌ（雑種）]]|9%(&color(#009e25){+5%})|14位(&color(#009e25){+23})|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,55,no_link)|[[カマイタチ・治]]|6%(&color(#009e25){NEW})|8位|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,55,no_link)|[[ビャッコ]]|5%(&color(#009e25){+2%})|2位(&color(#009e25){+7})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lqfnJVOSwY.png,55,no_link)|[[ハゲワシ]]|5%(&color(#009e25){+3%})|10位(&color(#ff0000){-9})|
+|15|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CaJ2vKYMUK.jpg,55,no_link)|[[ガチャピン]]|3%(+0%)|54位(&color(#ff0000){-4})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png,55,no_link)|[[シヴァテリウム]]|2%(+0%)|3位(&color(#009e25){+3})|
+|16|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/IG0Ks6UGT8.jpg,55,no_link)|[[ライジュウ]]|2%(&color(#ff0000){-1%})|3位(&color(#009e25){+3})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eE2LPXNN4t.png,55,no_link)|[[サラブレッドあおかげ]]|2%(&color(#009e25){+1%})|25位(&color(#ff0000){-24})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bJ1PIfWq1n.png,55,no_link)|[[フクロネコ]]|2%(+0%)|33位(&color(#009e25){+30})|
+|20|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XpLHka5F2.png,55,no_link)|[[ヒクイドリ]]|1%(+0%)|12位(&color(#009e25){+19})|
+|20|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ShsZHme_io.png,55,no_link)|[[タスマニアタイガー]]|1%(&color(#ff0000){-3%})|30位(&color(#009e25){+26})|
+|20|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/HgmBEn36zh.jpg,55,no_link)|[[メガネカイマン]]|1%(+0%)|30位(&color(#009e25){+30})|
+|20|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MCEKBHG25b.png,55,no_link)|[[キュウビキツネ]]|1%(&color(#009e25){NEW})|43位|
+|20|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z_4HIcvXPg.png,55,no_link)|[[サーバル]]|1%(&color(#ff0000){-2%})|97位(&color(#ff0000){-38})|
+
+※1位の人のスコア：1億5814万6525(前回比:&color(#009e25){+297万2323})
+※10位の人のスコア：9412万1706(前回比:&color(#009e25){+789万1880})
+※100位の人のスコア：4030万4416(前回比:&color(#009e25){+442万6085})
+[END]
+**火曜日 ファニー属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/25 午後
+前回集計日：2024/08/28 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4fqq5yXyY6.png,55,no_link)|[[ブラックサーバル]]|99%(&color(#ff0000){-1%})|1位(+0)(未使用:77位)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t8HeaaGr8v.png,55,no_link)|[[ピーチパンサー]]|98%(&color(#009e25){+2%})|1位(+0)(未使用:18位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|81%(+0%)|1位(+0)(未使用:25位)|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,55,no_link)|[[ゴシンギュウサマ]]|69%(&color(#ff0000){-1%})|1位(+0)(未使用:8位)|
+|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LWfPkES7Sr.jpg,55,no_link)|[[ツノサイチョウ]]|53%(&color(#009e25){+11%})|1位(+0)(未使用:2位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,55,no_link)|[[オカピ]]|48%(&color(#ff0000){-8%})|10位(&color(#ff0000){-5})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gqjLuC5Z2S.png,55,no_link)|[[カルガモ]]|17%(&color(#ff0000){-2%})|2位(+0)|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/iWM1_iWZiR.png,55,no_link)|[[メンダコ]]|16%(&color(#009e25){+2%})|9位(&color(#009e25){+6})|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yTfAKC5U89.png,55,no_link)|[[カワウ]]|6%(&color(#ff0000){-2%})|32位(&color(#ff0000){-9})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Vdf7ujdOBP.png,55,no_link)|[[カモメ]]|4%(&color(#ff0000){-2%})|8位(+0)|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Q8qGW6gyGp.png,55,no_link)|[[ヤブノウサギ]]|4%(&color(#009e25){+1%})|31位(&color(#009e25){+17})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KaZlSessPL.jpg,55,no_link)|[[セキショクヤケイ]]|1%(&color(#ff0000){-1%})|30位(&color(#009e25){+14})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/iyg5Y2XLlE.png,55,no_link)|[[ヒツジ]]|1%(+0%)|53位(&color(#009e25){+33})|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/faVX_g8b6i.png,55,no_link)|[[カラカル]]|1%(+0%)|71位(+0)|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qHyNCkyYib.png,55,no_link)|[[ライリュウ]]|1%(&color(#009e25){NEW})|77位|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hEBploFI1k.png,55,no_link)|[[リョコウバト]]|1%(+0%)|100位(&color(#ff0000){-39})|
+
+※1位の人のスコア：6億0117万9930(前回比:&color(#009e25){+1億7538万7040})
+※10位の人のスコア：2億7682万1293(前回比:&color(#ff0000){-1566万1971})
+※100位の人のスコア：9920万9757(前回比:&color(#009e25){+894万5001})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/28 午後
+前回集計日：2024/07/31 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4fqq5yXyY6.png,55,no_link)|[[ブラックサーバル]]|100%(+0%)|1位(+0)(未使用:圏外)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t8HeaaGr8v.png,55,no_link)|[[ピーチパンサー]]|96%(&color(#ff0000){-2%})|1位(+0)(未使用:13位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|81%(&color(#ff0000){-1%})|1位(+0)(未使用:20位)|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,55,no_link)|[[ゴシンギュウサマ]]|70%(&color(#ff0000){-10%})|1位(+0)(未使用:5位)|
+|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,55,no_link)|[[オカピ]]|56%(&color(#ff0000){-29%})|5位(&color(#ff0000){-3})|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LWfPkES7Sr.jpg,55,no_link)|[[ツノサイチョウ]]|42%(&color(#009e25){+34%})|1位(&color(#009e25){+15})(未使用:2位)|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gqjLuC5Z2S.png,55,no_link)|[[カルガモ]]|19%(&color(#009e25){+9%})|2位(&color(#009e25){+22})|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/iWM1_iWZiR.png,55,no_link)|[[メンダコ]]|14%(&color(#ff0000){-5%})|15位(&color(#ff0000){-14})|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yTfAKC5U89.png,55,no_link)|[[カワウ]]|8%(&color(#009e25){+7%})|23位(&color(#ff0000){-5})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Vdf7ujdOBP.png,55,no_link)|[[カモメ]]|6%(&color(#ff0000){-1%})|8位(&color(#ff0000){-2})|
+|11|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Q8qGW6gyGp.png,55,no_link)|[[ヤブノウサギ]]|3%(&color(#ff0000){-3%})|48位(&color(#ff0000){-21})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KaZlSessPL.jpg,55,no_link)|[[セキショクヤケイ]]|2%(&color(#009e25){NEW})|44位|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hEBploFI1k.png,55,no_link)|[[リョコウバト]]|1%(+0%)|61位(&color(#009e25){+22})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/faVX_g8b6i.png,55,no_link)|[[カラカル]]|1%(+0%)|71位(&color(#009e25){+11})|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/iyg5Y2XLlE.png,55,no_link)|[[ヒツジ]]|1%(&color(#009e25){NEW})|86位|
+
+※1位の人のスコア：4億5887万2607(前回比:&color(#ff0000){-4億2579万2890})
+※10位の人のスコア：2億9248万3264(前回比:&color(#ff0000){-1億3200万4998})
+※100位の人のスコア：9026万4756(前回比:&color(#ff0000){-4277万5899})
+[END]
+**水曜日 リラックス属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/26 午後
+前回集計日：2024/08/29 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GyuuSOpOFc.png,55,no_link)|&size(10){&color(#ff0000){【わたしを頼ってね！】}}~~[[アカギツネ>【わたしを頼ってね！】アカギツネ]]|100%(&color(#009e25){+4%})|1位(+0)(未使用:圏外)|
+|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,55,no_link)|[[真・青龍]]|99%(&color(#009e25){+1%})|1位(+0)(未使用:63位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BEp5yOAxAB.png,55,no_link)|&size(10){&color(#ff0000){【ブームの予感ですよ？】}}~~[[チベットスナギツネ>【ブームの予感ですよ？】チベットスナギツネ]]|95%(&color(#ff0000){-2%})|1位(+0)(未使用:45位)|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jiz2kWKJfk.jpg,55,no_link)|[[ツシマヤマネコ]]|57%(&color(#ff0000){-2%})|7位(&color(#009e25){+2})|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|43%(&color(#ff0000){-2%})|1位(+0)(未使用:11位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pRwke7Dtxo.png,55,no_link)|&size(10){&color(#ff0000){【こっわーい悪魔だぞぉ！】}}~~[[タスマニアデビル>【こっわーい悪魔だぞぉ！】タスマニアデビル]]|41%(&color(#ff0000){-1%})|1位(+0)(未使用:3位)|
+|7|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IUOl6lOwRj.jpg,55,no_link)|[[オランウータン]]|24%(&color(#ff0000){-4%})|3位(&color(#009e25){+1})|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LOTVa5HQpU.png,55,no_link)|&size(10){&color(#ff0000){【ぷろげーまー】}}~~[[キタキツネ>【ぷろげーまー】キタキツネ]]|18%(&color(#009e25){+1%})|22位(&color(#ff0000){-20})|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DHLfxUTVru.png,55,no_link)|&size(10){&color(#ff0000){【ひんやりクリーミーを求めて】}}~~[[ホワイトライオン>【ひんやりクリーミーを求めて】ホワイトライオン]]|6%(&color(#009e25){+4%})|22位(&color(#009e25){+9})|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UCDmrDvFuq.jpg,55,no_link)|[[フクロオオカミ]]|3%(&color(#ff0000){-2%})|48位(&color(#009e25){+1})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3r6lyRWgly.png,55,no_link)|[[ニルガイ]]|3%(&color(#009e25){+2%})|57位(&color(#009e25){+13})|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ln_tJCwF5M.jpg,55,no_link)|[[ちびくまモン]]|3%(&color(#009e25){+2%})|74位(&color(#ff0000){-24})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Kcr2h1LuMk.png,55,no_link)|[[シロヘラコウモリ]]|2%(+0%)|29位(&color(#ff0000){-1})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Akrh9z4Tbc.png,55,no_link)|[[アカカンガルー]]|2%(+0%)|45位(+0)|
+|15|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/devfRfg1HV.png,55,no_link)|[[クロテン]]|1%(+0%)|27位(&color(#009e25){+14})|
+|15|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fDV8gypTUT.png,55,no_link)|[[オジロヌー]]|1%(+0%)|39位(&color(#ff0000){-15})|
+|15|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|1%(+0%)|64位(&color(#ff0000){-9})|
+|15|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nj3iDzPV6j.png,55,no_link)|[[イッカク]]|1%(+0%)|98位(&color(#ff0000){-8})|
+
+※1位の人のスコア：8億0322万8701(前回比:&color(#009e25){+1億2604万0708})
+※10位の人のスコア：4億3145万0146(前回比:&color(#009e25){+9935万3918})
+※100位の人のスコア：1億670万6843(前回比:&color(#009e25){+67万6177})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/29 午後
+前回集計日：2024/07/30 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,55,no_link)|[[真・青龍]]|98%(+0%)|1位(+0)(未使用:62位)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BEp5yOAxAB.png,55,no_link)|&size(10){&color(#ff0000){【ブームの予感ですよ？】}}~~[[チベットスナギツネ>【ブームの予感ですよ？】チベットスナギツネ]]|97%(&color(#009e25){+9%})|1位(+0)(未使用:45位)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GyuuSOpOFc.png,55,no_link)|&size(10){&color(#ff0000){【わたしを頼ってね！】}}~~[[アカギツネ>【わたしを頼ってね！】アカギツネ]]|96%(&color(#009e25){+4%})|1位(+0)(未使用:77位)|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jiz2kWKJfk.jpg,55,no_link)|[[ツシマヤマネコ]]|59%(&color(#009e25){+9%})|9位(&color(#ff0000){-2})|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|45%(&color(#ff0000){-4%})|1位(+0)(未使用:9位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pRwke7Dtxo.png,55,no_link)|&size(10){&color(#ff0000){【こっわーい悪魔だぞぉ！】}}~~[[タスマニアデビル>【こっわーい悪魔だぞぉ！】タスマニアデビル]]|42%(&color(#009e25){+22%})|1位(+0)(未使用:2位)|
+|7|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IUOl6lOwRj.jpg,55,no_link)|[[オランウータン]]|28%(&color(#009e25){+14%})|4位(&color(#009e25){+8})|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LOTVa5HQpU.png,55,no_link)|&size(10){&color(#ff0000){【ぷろげーまー】}}~~[[キタキツネ>【ぷろげーまー】キタキツネ]]|17%(&color(#ff0000){-56%})|2位(&color(#009e25){+2})|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UCDmrDvFuq.jpg,55,no_link)|[[フクロオオカミ]]|5%(&color(#009e25){+3%})|49位(&color(#009e25){+14})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Kcr2h1LuMk.png,55,no_link)|[[シロヘラコウモリ]]|2%(&color(#009e25){NEW})|28位|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DHLfxUTVru.png,55,no_link)|&size(10){&color(#ff0000){【ひんやりクリーミーを求めて】}}~~[[ホワイトライオン>【ひんやりクリーミーを求めて】ホワイトライオン]]|2%(&color(#009e25){NEW})|31位|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Akrh9z4Tbc.png,55,no_link)|[[アカカンガルー]]|2%(+0%)|45位(&color(#ff0000){-17})|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fDV8gypTUT.png,55,no_link)|[[オジロヌー]]|1%(&color(#009e25){NEW})|24位|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/devfRfg1HV.png,55,no_link)|[[クロテン]]|1%(&color(#ff0000){-1%})|41位(&color(#ff0000){-10})|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ln_tJCwF5M.jpg,55,no_link)|[[ちびくまモン]]|1%(&color(#ff0000){-1%})|50位(&color(#009e25){+9})|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|1%(&color(#009e25){NEW})|55位|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3r6lyRWgly.png,55,no_link)|[[ニルガイ]]|1%(&color(#009e25){NEW})|70位|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9UOE3QGK9l.png,55,no_link)|&size(10){&color(#ff0000){【天才博士が通りますよ】}}~~[[アフリカオオコノハズク>【天才博士が通りますよ】アフリカオオコノハズク]]|1%(+0%)|88位(&color(#ff0000){-9})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nj3iDzPV6j.png,55,no_link)|[[イッカク]]|1%(&color(#009e25){NEW})|90位|
+
+※1位の人のスコア：6億7718万7993(前回比:&color(#ff0000){-1522万1146})
+※10位の人のスコア：3億3209万6228(前回比:&color(#009e25){+1507万7772})
+※100位の人のスコア：1億603万666(前回比:&color(#009e25){+3131万6583})
+[END]
+**木曜日 アクティブ属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/27 午後
+前回集計日：2024/08/30 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,55,no_link)|[[コヨーテ]]|100%(+0%)|1位(+0)(未使用:圏外)|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,55,no_link)|[[麒麟]]|100%(+0%)|1位(+0)(未使用:圏外)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nK3Slae6Ia.png,55,no_link)|[[ユニコ]]|73%(&color(#ff0000){-1%})|1位(+0)(未使用:4位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dP1baIEhRI.png,55,no_link)|[[ケロロ]]|67%(&color(#ff0000){-31%})|6位(&color(#ff0000){-5})|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|48%(&color(#009e25){+3%})|1位(+0)(未使用:13位)|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6e_ipq1NhI.png,55,no_link)|&size(10){&color(#ff0000){【時代が来たのだ！】}}~~[[アライグマ>【時代が来たのだ！】アライグマ]]|40%(&color(#ff0000){-4%})|4位(&color(#009e25){+10})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,55,no_link)|[[白龍]]|31%(&color(#009e25){NEW})|1位(未使用:6位)|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/83de2e4f9275bea2-s.png,55,no_link)|&size(10){&color(#ff0000){【笑顔をお届け！】}}~~[[コツメカワウソ>【笑顔をお届け！】コツメカワウソ]]|27%(+0%)|10位(+0)|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,55,no_link)|[[オグロスナギツネ]]|9%(&color(#009e25){+2%})|9位(+0)|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1dsFuPeoRk.png,55,no_link)|[[アフリカンゴールデンウルフ]]|2%(&color(#009e25){+1%})|13位(&color(#009e25){+68})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4bUsPqgeIx.png,55,no_link)|[[ドラコケンタウロス]]|2%(&color(#009e25){+1%})|84位(&color(#ff0000){-58})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_HgjSCS0Xq.png,55,no_link)|&size(10){&color(#ff0000){【野生がうずうずしちゃいます&#9825;】}}~~[[ピーチパンサー>https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%da%cc%ee%c0%b8%a4%ac%a4%a6%a4%ba%a4%a6%a4%ba%a4%b7%a4%c1%a4%e3%a4%a4%a4%de%a4%b9%26%239825%3b%a1%db%a5%d4%a1%bc%a5%c1%a5%d1%a5%f3%a5%b5%a1%bc]]|1%(+0%)|39位(&color(#ff0000){-16})|
+
+※1位の人のスコア：12億8307万1212(前回比:&color(#009e25){+4億9863万1429})
+※10位の人のスコア：5億8018万7451(前回比:&color(#009e25){+1億7562万7031})
+※100位の人のスコア：1億5535万6714(前回比:&color(#009e25){+404万2848})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/30 午後
+前回集計日：2024/07/26 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,55,no_link)|[[コヨーテ]]|100%(&color(#009e25){+1%})|1位(+0)(未使用:圏外)|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,55,no_link)|[[麒麟]]|100%(+0%)|1位(+0)(未使用:圏外)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dP1baIEhRI.png,55,no_link)|[[ケロロ]]|98%(+0%)|1位(+0)(未使用:26位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nK3Slae6Ia.png,55,no_link)|[[ユニコ]]|74%(&color(#ff0000){-6%})|1位(+0)(未使用:10位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|45%(&color(#ff0000){-9%})|1位(+0)(未使用:9位)|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6e_ipq1NhI.png,55,no_link)|&size(10){&color(#ff0000){【時代が来たのだ！】}}~~[[アライグマ>【時代が来たのだ！】アライグマ]]|44%(&color(#009e25){+10%})|14位(&color(#009e25){+9})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/83de2e4f9275bea2-s.png,55,no_link)|&size(10){&color(#ff0000){【笑顔をお届け！】}}~~[[コツメカワウソ>【笑顔をお届け！】コツメカワウソ]]|27%(&color(#009e25){+4%})|10位(&color(#ff0000){-1})|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,55,no_link)|[[オグロスナギツネ]]|7%(&color(#009e25){+1%})|9位(&color(#009e25){+4})|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_HgjSCS0Xq.png,55,no_link)|&size(10){&color(#ff0000){【野生がうずうずしちゃいます&#9825;】}}~~[[ピーチパンサー>https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%da%cc%ee%c0%b8%a4%ac%a4%a6%a4%ba%a4%a6%a4%ba%a4%b7%a4%c1%a4%e3%a4%a4%a4%de%a4%b9%26%239825%3b%a1%db%a5%d4%a1%bc%a5%c1%a5%d1%a5%f3%a5%b5%a1%bc]]|1%(+0%)|23位(&color(#009e25){+10})|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4bUsPqgeIx.png,55,no_link)|[[ドラコケンタウロス]]|1%(&color(#009e25){NEW})|26位|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2nFBCUsCwt.png,55,no_link)|[[ツチブタ]]|1%(+0%)|61位(&color(#009e25){+20})|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mv23Zl2gjj.png,55,no_link)|[[ボルネオゾウ]]|1%(+0%)|61位(&color(#009e25){+20})|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1dsFuPeoRk.png,55,no_link)|[[アフリカンゴールデンウルフ]]|1%(&color(#009e25){NEW})|81位|
+
+※1位の人のスコア：7億8443万9783(前回比:&color(#ff0000){-3億6372万7698})
+※10位の人のスコア：4億456万420(前回比:&color(#ff0000){-2億8817万5765})
+※100位の人のスコア：1億5131万3866(前回比:&color(#009e25){+453万3678})
+[END]
+**金曜日 ラブリー属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/28 午後
+前回集計日：2024/08/31 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oJxhXJqdYV.png,55,no_link)|[[赤龍]]|93%(+0%)|1位(+0)(未使用:38位)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,55,no_link)|[[ウミネコ]]|82%(&color(#ff0000){-2%})|1位(+0)(未使用:13位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i23EU2HySI.png,55,no_link)|[[イエウサギ]]|80%(&color(#009e25){+6%})|1位(+0)(未使用:34位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xgdusVWP4S.png,55,no_link)|&size(10){&color(#ff0000){【隻眼の悪魔†】}}~~[[オーストラリアデビル>【隻眼の悪魔†】オーストラリアデビル]]|56%(&color(#ff0000){-2%})|1位(+0)(未使用:3位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|52%(&color(#009e25){+2%})|1位(+0)(未使用:8位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/l5qnuAd1yF.png,55,no_link)|&size(10){&color(#ff0000){【オシャレリーダー】}}~~[[チャップマンシマウマ>【オシャレリーダー】チャップマンシマウマ]]|46%(&color(#009e25){+1%})|8位(&color(#009e25){+13})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ENdwwRjKj3.png,55,no_link)|[[ステラーカイギュウ]]|27%(&color(#009e25){+5%})|12位(&color(#ff0000){-3})|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Cuobzmvxhs.png,55,no_link)|[[ニホンカワウソ]]|13%(&color(#ff0000){-2%})|29位(+0)|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kYvgsDUsKs.png,55,no_link)|[[ジョフロイネコ]]|10%(&color(#ff0000){-1%})|28位(&color(#ff0000){-3})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,55,no_link)|[[オイナリサマ]]|7%(&color(#009e25){+3%})|23位(&color(#009e25){+32})|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/alrX1f5CTZ.jpg,55,no_link)|[[シマハイイロギツネ]]|7%(&color(#ff0000){-3%})|35位(&color(#009e25){+17})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WeCQxD2wIs.png,55,no_link)|[[アリサ=サザンクロス]]|5%(&color(#ff0000){-1%})|38位(&color(#ff0000){-6})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uN85xjExvz.png,55,no_link)|[[ギロロ]]|4%(&color(#ff0000){-1%})|3位(&color(#009e25){+1})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,55,no_link)|[[ゴシンギュウサマ]]|4%(+0%)|4位(&color(#009e25){+1})|
+|15|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e4bFCO74S2.png,55,no_link)|&size(10){&color(#ff0000){【みんなでジャスティス】}}~~[[ハクトウワシ>【みんなでジャスティス】ハクトウワシ]]|3%(+0%)|12位(&color(#ff0000){-3})|
+|15|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/WR9Q0QW7eD.png,55,no_link)|[[ホワイトライオン]]|3%(&color(#ff0000){-1%})|40位(&color(#009e25){+12})|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KLGH2s1YMJ.png,55,no_link)|[[ヌエ]]|2%(&color(#009e25){NEW})|48位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/__aX6Xvew1.png,55,no_link)|[[イワハイラックス]]|1%(&color(#009e25){NEW})|13位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J4DuIx7PwN-s.png,55,no_link)|&size(10){&color(#ff0000){【一撃の極意】}}~~[[ブラックジャガー>【一撃の極意】ブラックジャガー]]|1%(+0%)|40位(&color(#009e25){+12})|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ou8aOm6uRy.png,55,no_link)|[[ヤンバルクイナ]]|1%(+0%)|72位(&color(#009e25){+4})|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/oEbyx006Ct.png,55,no_link)|[[ギンギツネ]]|1%(+0%)|74位(&color(#009e25){+14})|
+|18|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ozPnKB6ezu.png,55,no_link)|[[タチコマ type-H]]|1%(&color(#ff0000){-1%})|74位(&color(#009e25){+14})|
+|18|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|1%(+0%)|97位(&color(#ff0000){-7})|
+
+※1位の人のスコア：4億3236万7779(前回比:&color(#ff0000){-1817万4534})
+※10位の人のスコア：2億3152万2262(前回比:&color(#009e25){+2719万4534})
+※100位の人のスコア：6111万0032(前回比:&color(#ff0000){-345万6579})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/31 午後
+前回集計日：2024/07/27 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oJxhXJqdYV.png,55,no_link)|[[赤龍]]|93%(&color(#009e25){+29%})|1位(+0)(未使用:32位)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,55,no_link)|[[ウミネコ]]|84%(&color(#ff0000){-6%})|1位(+0)(未使用:25位)|
+|3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i23EU2HySI.png,55,no_link)|[[イエウサギ]]|74%(&color(#009e25){+8%})|1位(+0)(未使用:24位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xgdusVWP4S.png,55,no_link)|&size(10){&color(#ff0000){【隻眼の悪魔†】}}~~[[オーストラリアデビル>【隻眼の悪魔†】オーストラリアデビル]]|58%(&color(#009e25){+8%})|1位(&color(#009e25){+1})(未使用:4位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|50%(+0%)|1位(+0)(未使用:9位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/l5qnuAd1yF.png,55,no_link)|&size(10){&color(#ff0000){【オシャレリーダー】}}~~[[チャップマンシマウマ>【オシャレリーダー】チャップマンシマウマ]]|45%(&color(#ff0000){-10%})|21位(&color(#ff0000){-7})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ENdwwRjKj3.png,55,no_link)|[[ステラーカイギュウ]]|22%(&color(#009e25){+1%})|9位(&color(#009e25){+20})|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Cuobzmvxhs.png,55,no_link)|[[ニホンカワウソ]]|15%(&color(#ff0000){-2%})|29位(&color(#ff0000){-5})|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kYvgsDUsKs.png,55,no_link)|[[ジョフロイネコ]]|11%(&color(#ff0000){-2%})|25位(&color(#009e25){+26})|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/alrX1f5CTZ.jpg,55,no_link)|[[シマハイイロギツネ]]|10%(&color(#009e25){+2%})|52位(&color(#ff0000){-18})|
+|11|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WeCQxD2wIs.png,55,no_link)|[[アリサ=サザンクロス]]|6%(&color(#ff0000){-23%})|32位(&color(#ff0000){-26})|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uN85xjExvz.png,55,no_link)|[[ギロロ]]|5%(&color(#009e25){+1%})|4位(&color(#009e25){+26})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,55,no_link)|[[ゴシンギュウサマ]]|4%(&color(#ff0000){-3%})|5位(&color(#ff0000){-4})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/WR9Q0QW7eD.png,55,no_link)|[[ホワイトライオン]]|4%(&color(#ff0000){-2%})|52位(&color(#ff0000){-23})|
+|13|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,55,no_link)|[[オイナリサマ]]|4%(&color(#ff0000){-3%})|55位(&color(#ff0000){-27})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e4bFCO74S2.png,55,no_link)|&size(10){&color(#ff0000){【みんなでジャスティス】}}~~[[ハクトウワシ>【みんなでジャスティス】ハクトウワシ]]|3%(+0%)|9位(&color(#009e25){+5})|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ozPnKB6ezu.png,55,no_link)|[[タチコマ type-H]]|2%(&color(#009e25){NEW})|88位|
+|18|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Q9ENWjRnpW.png,55,no_link)|[[アイベックス]]|1%(&color(#009e25){NEW})|50位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YFidDF3vxa.png,55,no_link)|[[クビワペッカリー]]|1%(&color(#009e25){NEW})|50位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J4DuIx7PwN-s.png,55,no_link)|&size(10){&color(#ff0000){【一撃の極意】}}~~[[ブラックジャガー>【一撃の極意】ブラックジャガー]]|1%(&color(#ff0000){-1%})|52位(&color(#ff0000){-18})|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ou8aOm6uRy.png,55,no_link)|[[ヤンバルクイナ]]|1%(&color(#009e25){NEW})|76位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/oEbyx006Ct.png,55,no_link)|[[ギンギツネ]]|1%(&color(#009e25){NEW})|88位|
+|18|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|1%(&color(#009e25){NEW})|90位|
+|18|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/czcjZkxDz3.jpg,55,no_link)|[[イリオモテヤマネコ]]|1%(&color(#ff0000){-4%})|93位(&color(#ff0000){-71})|
+|18|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/uV31r544lk.jpg,55,no_link)|[[コウノトリ]]|1%(&color(#009e25){NEW})|95位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6e_ipq1NhI.png,55,no_link)|&size(10){&color(#ff0000){【時代が来たのだ！】}}~~[[アライグマ>【時代が来たのだ！】アライグマ]]|1%(&color(#009e25){NEW})|98位|
+|18|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t8HeaaGr8v.png,55,no_link)|[[ピーチパンサー]]|1%(&color(#009e25){NEW})|98位|
+
+※1位の人のスコア：4億5054万2313(前回比:&color(#009e25){+1億2215万8629})
+※10位の人のスコア：2億432万7728(前回比:&color(#009e25){+1151万5911})
+※100位の人のスコア：6456万6611(前回比:&color(#009e25){+1861万5639})
+[END]
+**土曜日 マイペース属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/29 午後
+前回集計日：2024/08/25 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vhyD1ST6Ug.png,55,no_link)|[[タテゴトアザラシ]]|98%(&color(#009e25){+1%})|1位(+0)(未使用:54位)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1.png,55,no_link)|[[シーサー・ライト]]|89%(&color(#ff0000){-4%})|1位(+0)(未使用:15位)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|87%(&color(#009e25){+5%})|1位(+0)(未使用:18位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,55,no_link)|[[カマイタチ・切]]|54%(&color(#009e25){+3%})|1位(+0)(未使用:7位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|49%(&color(#009e25){+1%})|1位(+0)(未使用:7位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rXQwAM939s.png,55,no_link)|[[アゴヒゲアザラシ]]|33%(&color(#ff0000){-4%})|20位(&color(#ff0000){-11})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GdHCVmBFy3.png,55,no_link)|[[N・ハイランドワイルドドッグ]]|16%(+0%)|10位(+0)|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZMtL8C7ycK.png,55,no_link)|&size(10){&color(#ff0000){【ハツラツなつっこ！】}}~~[[バンドウイルカ>【ハツラツなつっこ！】バンドウイルカ]]|14%(&color(#009e25){+2%})|7位(&color(#009e25){+3})|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PigTrYEnQM.png,55,no_link)|[[コアラ]]|12%(&color(#009e25){+2%})|7位(&color(#009e25){+2})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rBWDM4pzWJ.png,55,no_link)|&size(10){&color(#ff0000){【私たちのプライド】}}~~[[ライオン>【私たちのプライド】ライオン]]|11%(+0%)|13位(&color(#ff0000){-1})|
+|11|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png,55,no_link)|[[セイリュウ]]|10%(&color(#ff0000){-3%})|69位(&color(#ff0000){-17})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lFmA8Dbn0W.jpg,55,no_link)|[[オオサイチョウ]]|9%(+0%)|27位(&color(#009e25){+4})|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t3OZxqEVvK.png,55,no_link)|[[キンシャチ]]|8%(+0%)|11位(&color(#009e25){+7})|
+|14|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VJECYNnwGo.png,55,no_link)|[[キットギツネ]]|2%(&color(#009e25){+1%})|18位(&color(#009e25){+17})|
+|14|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,55,no_link)|[[フンボルトペンギン]]|2%(+0%)|65位(&color(#009e25){+4})|
+|16|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pY6GXcy9dN.png,55,no_link)|[[アジアゴールデンキャット]]|1%(+0%)|20位(&color(#ff0000){-11})|
+|16|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6JM2Fb43VX-s.png,55,no_link)|[[セーバル]]|1%(+0%)|43位(&color(#ff0000){-6})|
+|16|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WLftdWruwG.png,55,no_link)|[[でびるさま]]|1%(+0%)|54位(&color(#ff0000){-6})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QvVobxJ_RE.png,55,no_link)|[[アフリカオオコノハズク]]|1%(&color(#ff0000){-2%})|65位(&color(#009e25){+4})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Q_JrbTEq4q.png,55,no_link)|[[ツンドラオオカミ]]|1%(+0%)|84位(&color(#ff0000){-48})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LDplRPztb9.jpg,55,no_link)|[[セイウチ]]|1%(&color(#009e25){NEW})|91位|
+
+※1位の人のスコア：4億3223万3765(前回比:&color(#009e25){+9592万5452})
+※10位の人のスコア：1億9794万3122(前回比:&color(#009e25){+3867万3864})
+※100位の人のスコア：5814万0262(前回比:&color(#009e25){+95万7911})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/25 午後
+前回集計日：2024/07/28 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vhyD1ST6Ug.png,55,no_link)|[[タテゴトアザラシ]]|97%(&color(#ff0000){-2%})|1位(+0)(未使用:48位)|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1.png,55,no_link)|[[シーサー・ライト]]|93%(&color(#ff0000){-1%})|1位(+0)(未使用:14位)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|82%(&color(#009e25){+2%})|1位(+0)(未使用:9位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,55,no_link)|[[カマイタチ・切]]|51%(&color(#ff0000){-2%})|1位(+0)(未使用:9位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|48%(&color(#009e25){+1%})|1位(+0)(未使用:9位)|
+|6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rXQwAM939s.png,55,no_link)|[[アゴヒゲアザラシ]]|37%(&color(#009e25){+10%})|9位(&color(#009e25){+16})|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GdHCVmBFy3.png,55,no_link)|[[N・ハイランドワイルドドッグ]]|16%(&color(#ff0000){-5%})|10位(&color(#009e25){+1})|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png,55,no_link)|[[セイリュウ]]|13%(&color(#009e25){+5%})|52位(&color(#009e25){+22})|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZMtL8C7ycK.png,55,no_link)|&size(10){&color(#ff0000){【ハツラツなつっこ！】}}~~[[バンドウイルカ>【ハツラツなつっこ！】バンドウイルカ]]|12%(&color(#009e25){+5%})|10位(&color(#009e25){+4})|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rBWDM4pzWJ.png,55,no_link)|&size(10){&color(#ff0000){【私たちのプライド】}}~~[[ライオン>【私たちのプライド】ライオン]]|11%(&color(#ff0000){-3%})|12位(&color(#ff0000){-2})|
+|11|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PigTrYEnQM.png,55,no_link)|[[コアラ]]|10%(&color(#009e25){+7%})|9位(&color(#009e25){+38})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lFmA8Dbn0W.jpg,55,no_link)|[[オオサイチョウ]]|9%(&color(#ff0000){-11%})|31位(&color(#ff0000){-15})|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t3OZxqEVvK.png,55,no_link)|[[キンシャチ]]|8%(&color(#ff0000){-2%})|18位(&color(#ff0000){-11})|
+|14|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fm007pC0HL.png,55,no_link)|&size(10){&color(#ff0000){【なないろにきらめく☆】}}~~[[スカイフィッシュ>【なないろにきらめく☆】スカイフィッシュ]]|3%(&color(#ff0000){-2%})|49位(&color(#009e25){+2})|
+|14|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QvVobxJ_RE.png,55,no_link)|[[アフリカオオコノハズク]]|3%(&color(#009e25){+2%})|69位(&color(#ff0000){-5})|
+|16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,55,no_link)|[[フンボルトペンギン]]|2%(+0%)|69位(&color(#ff0000){-5})|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pY6GXcy9dN.png,55,no_link)|[[アジアゴールデンキャット]]|1%(+0%)|9位(&color(#009e25){+31})|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VJECYNnwGo.png,55,no_link)|[[キットギツネ]]|1%(+0%)|35位(&color(#ff0000){-14})|
+|17|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Q_JrbTEq4q.png,55,no_link)|[[ツンドラオオカミ]]|1%(+0%)|36位(&color(#009e25){+17})|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6JM2Fb43VX-s.png,55,no_link)|[[セーバル]]|1%(+0%)|37位(&color(#ff0000){-10})|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WLftdWruwG.png,55,no_link)|[[でびるさま]]|1%(+0%)|48位(&color(#009e25){+50})|
+
+※1位の人のスコア：3億3630万8313(前回比:&color(#ff0000){-1億4585万5889})
+※10位の人のスコア：1億5926万9258(前回比:&color(#ff0000){-721万2601})
+※100位の人のスコア：5909万8173(前回比:&color(#009e25){+669万5982})
+[END]
+**日曜日 アクティブ属性有利
+[+]後期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/09/30 午後
+前回集計日：2024/08/26 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,55,no_link)|[[コヨーテ]]|100%(+0%)|1位(+0)(未使用:圏外)|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,55,no_link)|[[麒麟]]|100%(+0%)|1位(+0)(未使用:圏外)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dP1baIEhRI.png,55,no_link)|[[ケロロ]]|70%(&color(#ff0000){-28%})|4位(&color(#ff0000){-3})|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nK3Slae6Ia.png,55,no_link)|[[ユニコ]]|69%(&color(#ff0000){-7%})|3位(&color(#ff0000){-2})|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6e_ipq1NhI.png,55,no_link)|&size(10){&color(#ff0000){【時代が来たのだ！】}}~~[[アライグマ>【時代が来たのだ！】アライグマ]]|46%(&color(#009e25){+4%})|1位(&color(#009e25){+8})(未使用:2位)|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|42%(&color(#ff0000){-4%})|1位(+0)(未使用:12位)|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,55,no_link)|[[白龍]]|29%(&color(#009e25){NEW})|1位(未使用:4位)|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/83de2e4f9275bea2-s.png,55,no_link)|&size(10){&color(#ff0000){【笑顔をお届け！】}}~~[[コツメカワウソ>【笑顔をお届け！】コツメカワウソ]]|28%(&color(#009e25){+3%})|7位(+0)|
+|9|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,55,no_link)|[[オグロスナギツネ]]|8%(&color(#009e25){+2%})|2位(&color(#009e25){+8})|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mv23Zl2gjj.png,55,no_link)|[[ボルネオゾウ]]|3%(&color(#009e25){+1%})|76位(&color(#ff0000){-1})|
+|11|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1dsFuPeoRk.png,55,no_link)|[[アフリカンゴールデンウルフ]]|2%(&color(#009e25){NEW})|25位|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3yTDqmr90_.png,55,no_link)|[[ブタ]]|1%(+0%)|28位(&color(#009e25){+36})|
+|12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_HgjSCS0Xq.png,55,no_link)|&size(10){&color(#ff0000){【野生がうずうずしちゃいます&#9825;】}}~~[[ピーチパンサー>https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%da%cc%ee%c0%b8%a4%ac%a4%a6%a4%ba%a4%a6%a4%ba%a4%b7%a4%c1%a4%e3%a4%a4%a4%de%a4%b9%26%239825%3b%a1%db%a5%d4%a1%bc%a5%c1%a5%d1%a5%f3%a5%b5%a1%bc]]|1%(+0%)|69位(&color(#009e25){+3})|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2nFBCUsCwt.png,55,no_link)|[[ツチブタ]]|1%(+0%)|76位(&color(#ff0000){-1})|
+
+※1位の人のスコア：10億6659万6631(前回比:&color(#009e25){+5000万1684})
+※10位の人のスコア：5億6731万3638(前回比:&color(#009e25){+1億6405万3732})
+※100位の人のスコア：1億6295万8532(前回比:&color(#009e25){+844万8271})
+[END]
+[+]前期
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2024/08/26 午後
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,55,no_link)|[[コヨーテ]]|100%|1位(未使用:圏外)|
+|1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,55,no_link)|[[麒麟]]|100%|1位(未使用:圏外)|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dP1baIEhRI.png,55,no_link)|[[ケロロ]]|98%|1位(未使用:52位)|
+|4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nK3Slae6Ia.png,55,no_link)|[[ユニコ]]|76%|1位(未使用:7位)|
+|5|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|46%|1位(未使用:9位)|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6e_ipq1NhI.png,55,no_link)|&size(10){&color(#ff0000){【時代が来たのだ！】}}~~[[アライグマ>【時代が来たのだ！】アライグマ]]|42%|9位|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/83de2e4f9275bea2-s.png,55,no_link)|&size(10){&color(#ff0000){【笑顔をお届け！】}}~~[[コツメカワウソ>【笑顔をお届け！】コツメカワウソ]]|25%|7位|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,55,no_link)|[[オグロスナギツネ]]|6%|10位|
+|9|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mv23Zl2gjj.png,55,no_link)|[[ボルネオゾウ]]|2%|75位|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UK6Pb8r18x.png,55,no_link)|[[タテガミオオカミ]]|1%|47位|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pPKZ55qGDE.png,55,no_link)|[[ソンゴクウ]]|1%|52位|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3yTDqmr90_.png,55,no_link)|[[ブタ]]|1%|64位|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_HgjSCS0Xq.png,55,no_link)|&size(10){&color(#ff0000){【野生がうずうずしちゃいます&#9825;】}}~~[[ピーチパンサー>https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%da%cc%ee%c0%b8%a4%ac%a4%a6%a4%ba%a4%a6%a4%ba%a4%b7%a4%c1%a4%e3%a4%a4%a4%de%a4%b9%26%239825%3b%a1%db%a5%d4%a1%bc%a5%c1%a5%d1%a5%f3%a5%b5%a1%bc]]|1%|72位|
+|10|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2nFBCUsCwt.png,55,no_link)|[[ツチブタ]]|1%|75位|
+
+※1位の人のスコア：10億1659万4947
+※10位の人のスコア：4億325万9906
+※100位の人のスコア：1億5451万361
+[END]
+
+
+

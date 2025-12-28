@@ -1,0 +1,439 @@
+[+]目次
+#contents(2)
+[END]
+*カピバラ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ef379feccb27d56e.jpeg,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0f610a08095f9caf.png,50%)
+// [END]
+// [+]LV99
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UdB3_941aE.png,50%)
+// ☆6衣装のみ 体力+200/攻撃+100/まもり+50
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|37737|16244|5979|3402|1.0|20|center:size(9):&color(#a6cf00){''アクティブ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|43956|18924|6966|3959|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|46457|20001|7362|4185|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|◯月招待~~大掃除イベント||!bgcolor(#dcdcdc):実装|20/01/23、○月招待|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,15|+6.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|30,20|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|さいこーなひととき|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に???％のダメージを与える~~さらに自身のたいりょくを50%回復し~~ひやひや耐性（高）が増加する（5ターン）|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Action!]}|>|>|相手単体に448％のダメージを与える~~さらに自身のたいりょくを60％回復し~~ひやひや耐性（高）が増加する（5ターン）|
+|>|>||
+|!とくいわざ|ナイススロー！|相手単体に120％ダメージを与える|
+|!たいきスキル|ちょっと一息|アクティブ（黄緑）属性の味方のたいりょくを20％回復する~~発動率：100%　発動回数：1回|
+|!とくせい|寒さはご勘弁|被ダメージが20％減少する~~さらにひやひや状態のとき~~与ダメージが30％減少し、被ダメージが30％増加する|
+|!キセキとくせい|ほっこりぬくぬく|与ダメージが15%増加する~~さらに自身のたいりょくが100%のとき~~アクティブ(黄緑)属性の味方の被ダメージが15%減少する|
+|!なないろとくせい|秘湯さがし|毎ターン自身のたいりょくが2％回復する~~さらに自身のたいりょくが100％のとき~~アクティブ(黄緑)属性の味方の与ダメージが15％増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~たいりょくが30%以下のときたいりょくが15%回復する~~（発動回数：1回）~~&color(,#f3f3fe){(変化後)~~たいりょくが30%以下のときたいりょくが&color(#ff0000){20%}回復する~~（発動回数：1回）}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+1月ショップしょうたい状にて招待できるフレンズで、子年のネズミトリオ最後の1人。
+配布フレンズとしては初めてとなる☆4フレンズである。
+ただし、無料で手に入る配布フレンズのためか☆4としてはかなりけもステータスが低め。
+というか☆4ではワースト。配分的にはけもステータスの伸びが小さいたいりょくが高めになっている。
+
+性能としては全体的に耐久寄りで、とくせいで常に被ダメ20%減がついているため見た目より硬い。
+さらに、たいきスキルや%%色々と突っ込みどころの多い%%けものミラクルで大幅に回復が可能であり、場持ちが非常に良い。
+そのため[[大海を往く]]を持たせた壁役としての適正が高い。
+
+一方で、ひやひや状態になってしまうと弱体化するのだが、
+ひやひや状態自体レアであるのと、けものミラクルで耐性をつけられるので問題なし。
+
+アクティブの☆3はサポート寄りのチーム姫騎士であるため、
+アクティブ☆4の層が薄い隊長さんなら最低限のアタッカーとして据えることも可能。
+その際は[[シロサイ]]（動物フォト持ち）も一緒に入れてあげると火力を補えて良いだろう。
+
+**スキル詳細
+[+]
+**けものミラクル：さいこーなひととき
+ ''相手単体に448％のダメージを与える~~さらに自身のたいりょくを60％回復し~~ひやひや耐性（高）が増加する（5ターン）~~''
+スコップで温泉を掘り当て、噴き上げたお湯で自身を癒すと同時に敵を吹き飛ばす。
+よく見ると、技後は腰に手を当て牛乳を飲んでいる。
+
+単体大ダメージ系けものミラクルの基準値は最大560%なので威力は低めとなるが、
+敵へのダメージとともに自身の体力回復とひやひや耐性の向上効果があるため、攻防一体の技として機能する。
+攻の部分は本当に最低限レベルであるため基本的に自己の回復用として使うべきであるが。
+
+カピバラは特性の関係上、ひやひや状態になると大幅に弱体化してしまうため
+ひやひや耐性の強化は特に重要度が高くなっている。
+
+2024年1月12日のアップデートで威力がLv.5時、392%→448%に強化された。
+**とくいわざ：ナイススロー！
+ ''相手単体に120％ダメージを与える~~''
+後ろに背負っていた%%タライ%%湯桶を放り投げ、敵の頭上に落とす。
+
+敵単体に通常攻撃の1.2倍威力の攻撃を放つ、一般的な性能の得意技。
+カピバラ自身の攻撃力はそれほど高くない上に
+技自体に特殊効果もないため、優先度は低めとなる。
+
+**たいきスキル：ちょっと一息
+ ''アクティブ（黄緑）属性の味方のたいりょくを20％回復する~~発動率：100%　発動回数：1回~~''
+腰に手を当て、牛乳を一気飲みする。
+
+パーティ内のアクティブ属性の味方の体力を中程度回復させる回復スキル。
+効果があるのはアクティブ属性限定だが、対象属性の味方全員の体力を
+一度に回復できるため、属性統一パーティでは特に有効となる。
+
+なお、アクティブ属性であるカピバラ自身も当然回復対象に含まれるので
+いざとなれば自分専用の回復スキルとして使うことも可能になっている。
+
+待機時の発動率は100%だが1回のバトル中に1度しか発動できないので、
+必要に応じて待機スキルのON/OFFを切り替えること。
+**とくせい：寒さはご勘弁
+ ''被ダメージが20％減少する~~さらにひやひや状態のとき~~与ダメージが30％減少し、被ダメージが30％増加する~~''
+常時自身の防御力アップするバフを付与するが、
+''自身がひやひや状態になると攻撃力と防御力両方が低下してしまうデメリット付きの特性''。
+
+常時被ダメージ20%軽減はかなり優秀で、
+下手な被ダメ軽減系の待機スキルよりも効果が高い場合が多い。
+※[[アメリカビーバー]]の待機スキルは13%、[[シロナガスクジラ]]の待機スキルは17%軽減。
+（いずれも効果は2ターン）
+
+ただし、ひやひや状態になると攻守が大幅に弱体化するデメリットも抱えているので、
+ひやひや攻撃を使ってくる敵との戦いでは注意して運用する必要がある。
+
+前述した通り、自身のけものミラクルを発動すると、
+一時的にひやひや耐性を上げられるようになっているので、上手く活用したい。
+**キセキとくせい：ほっこりぬくぬく
+ ''与ダメージが15%増加する~~さらに自身のたいりょくが100%のとき~~アクティブ(黄緑)属性の味方の被ダメージが15%減少する''
+2022年3月10日に解放された。
+強めの自己バフに加え、全体軽減が追加された。
+軽減はHP100%限定と厳しい条件に見えるが、ミラクルで大回復が出来るカピバラは発動条件を再度満たす事もそこまで難しくはない。
+敵行動をパターン化してこちらも的確に行動すれば、むちゃなど高難度でかなりの長期戦を挑む事も可能だろう。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「三度の飯と温泉大好きーな、カピバラですよ。~~皆で温泉に行くのが最高の幸せだと思う今日この頃なのですよ。~~いかがですかな？　いっしょにぬくぬくしに行きませんかな？」''
+2020年、「期間限定1月しょうたい」で初の☆4配布フレンズとして実装。
+
+三度の飯と温泉が大好き！
+蝶ネクタイを付けた黄土色のシャツに、洗朱色のショートパンツ、頭に手ぬぐい、背中に風呂桶を
+背負ったいでたち。手ぬぐいと風呂桶は衣装ではなく、体の一部となっているらしい。
+「～ですな」「よよよ」といった特徴的な物言いをする。
+ただしアニメで多用した「よよよ」「ねねね」は殆ど使わない。
+基本的にはNEXONアプリ版でのキャラを踏襲しており、あくまでファンサービスといったところか。
+第一印象はマイペースに見えるが、属性としては意外にもアクティブである。
+のんびりゆったりしているだけでなく、セルリアン等の危機が迫ってもあまり動じない、不思議な大物感もあるかも。
+フレンズストーリーではまさかのセルリアンとの共存？？を匂わせる描写もあったりする。
+
+ストーリーでは子年にちなんだ、2020年お正月イベント「迎春！フレンズかくし芸大会！」で登場した。
+みんなを楽しませることができる催しを計画していた、同じネズミ科のチンチラ、デグーにかくし芸大会
+開催を提案している。
+
+ＣＶは、チンチラ、デグーと同じく女性アイドルグループ「＝ＬＯＶＥ」（通称イコラブ）のメンバーに
+変えられており、佐々木舞香が担当している。
+これによってNEXONアプリ版、アニメ版と全てのＣＶが異なることになり、キャラの印象も違って感じるかも？
+
+ＣＶ：佐々木舞香（けもフレ３)
+　　　斉藤佑圭　（NEXONアプリ版)
+　　　杉村ちか子（アニメ１期)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|温泉に行くための準備でもしてますかな|
+|^|およ？　どうかしましたかな隊長さん|
+|^|暇があれば温泉にいきたいカピバラなのです|
+|^|寒いのは苦手ですが~~暑いのもやめてほしいですなぁ…|
+|^|ちょっと前歯が伸びすぎてますかな…？|
+|!固定|ふゅ～…さいこーになれる気がしますなぁ|
+|^|ここは暖かくていいですなぁ|
+|^|お？　おお？　温泉の匂いですかな？~~温泉の匂いですな！|
+|^|おっんせん♪　おっんせん♪|
+|!すやすや|むにゃ…ヌートリアさん…また一緒に温泉…|
+|^|すぅ…すぅ…おんせん、さいこー…|
+|^|すぅ…すぅ…バイカルアザラシさん…~~来てたのですねねね…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|あまり得意ではありませんが…がんばりますかな～|
+|^|温泉の前に、ひと汗かいていきましょうか～|
+|!WAVE移行|気をつけていきましょうか|
+|^|ふぅ…　温泉の道は遠いですなぁ|
+|!クエスト終了|ふゅ～～　疲れましたなぁ～~~それでは、温泉へ参りましょうか～|
+|^|みんなが無事でなによりですな～|
+|!フラッグ選択|がんばりますよよよ～|
+|^|おまかせあれ～|
+|!けもコーラス|みんなで楽しみましょぉ～|
+|^|ええ、おまかせください|
+|^|一緒にぬくぬくですな～|
+|^|一緒にさいこーっといきましょ～|
+|!攻撃|[''通常攻撃'']|
+|^|そ～れっと！|
+|^|おまちどうさま～|
+|^|わっとっと！|
+|^|遠慮なさらずに～|
+|^|[''とくいわざ'']|
+|^|いきますよ～？|
+|^|と～う！|
+|^|わ～っとと！手が滑ってしまいました～|
+|^|はわわ…すみません～|
+|!ダメージ|[''通常攻撃'']|
+|^|はうぅ…|
+|^|うっ…|
+|^|[''強攻撃'']|
+|^|きゃ～あ！？|
+|^|そんな～！？|
+|^|[''ちからくらべ'']|
+|^|なんと|
+|^|そう来ますか…|
+|^|流石ですな～|
+|^|こんなことが…|
+|!どく状態|あぁ… このままでは…|
+|^|うぅ… これはちょっと…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|ちょっと…　無理しすぎました…|
+|^|[''ちからくらべ'']|
+|^|カピバラはもう動けないのです…|
+|^|これは敵いませんな～|
+|^|ふぅ…流石にお強い…|
+|^|ふぅ…むちゃをしすぎましたかな…|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|助かりました～　ここからですな！|
+|^|温泉がカピバラを待ち続けるかぎり！|
+|!けものミラクル　|[''等速'']~~（発動時）~~ではでは張り切ってまいりますかな～~~（発動中）~~おいっちに、おいっちに~~およ？およよ～！？~~ふゅ～っ温泉さいこ～…♪~~|
+|^                              |[''倍速'']~~（発動時）~~まいりますかな～~~（発動中）~~およよ～！？~~温泉さいこ～…♪~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~それでは本気でいってみますかな～~~（発動中）~~よっせ、よっせと~~お？これは！？~~いやはや～…温泉さいこ～…♪~~|
+|^                              |[''倍速'']~~（発動時）~~いってみますかな~~（発動中）~~これは！？~~温泉さいこ～…♪~~|
+|!けものミラクル後|ふゅ～極楽極楽…ですな～|
+|}
+[END]
+[+]掛け合い
+**チンチラ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){チンチラちゃん　イタズラはダメですよー}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/D5k5Fc4KRD.png,right){な、なんのことかなー？}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){チンチラちゃん　無茶はダメですよ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/D5k5Fc4KRD.png,right){わかってるよー！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){それでは　温泉で一息つきましょうかぁチンチラちゃん}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/D5k5Fc4KRD.png,right){わーい！　温泉♪温泉♪}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){ちょっと…　張り切りすぎ　ましたかな…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/D5k5Fc4KRD.png,right){私は大丈夫だから！　休んでてカピバラ！}|
+|}
+[[%%%チンチラ　セリフ集%%%>チンチラ#serifu]]
+**デグー
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){大丈夫ですかな　デグーちゃん}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t5yj1p49hY.png,right){う、うん　大丈夫！　大丈夫だよ！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){デグーちゃん　疲れていませんかな？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t5yj1p49hY.png,right){うぅ　う…　へ、平気}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){されさてー　それじゃあ温泉にまいりましょうかぁ~~デグーちゃん}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t5yj1p49hY.png,right){やったぁ！　チンチラも呼んでくるね！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zgdnd3Hldv.png){デグーちゃん…　あとは…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t5yj1p49hY.png,right){うん…！　まかせて、カピバラ！}|
+|}
+[[%%%デグー　セリフ集%%%>デグー#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|三度の飯と温泉大好きーな、カピバラですよ~~いっしょにぬくぬくしに行きませんかな？|
+|!ログインボーナス|はい、隊長さんプレゼントです~~温泉と同じくらい~~さいこーなものですよ！|
+|^|ふふふ…明日もさいこーな~~プレゼントを用意しておきますので~~必ず来てくださいな♪|
+|!なかよしレベルアップ|ささ、温泉へ向かいましょう♪|
+|!レベルアップ|ふゅ～　ぬくぬくですな～|
+|!野生解放|ああ…これはさいこーどころではないような気が…！|
+|!けも級アップ|いつもお付き合いいただきありがとうございます、隊長さん~~これからも温泉でさいこーになりましょう|
+|!ミラクルレベルアップ|ますます温泉が、さいこーになってしまいますね～|
+|!フォトポケット開放|温泉での思い出は、いっぱい残しておきたいですな～|
+|!着替え|どうですかな？似合ってるとさいこーですな～|
+|^|うう…じっと見られるのは、ちょと恥ずかしい…ですな|
+|^|隊長さんのプレゼントは本当にさいこーです…|
+|^|うわぁ…温泉に入っていないのに、気分はさいこーです…|
+|!ふれあい|こんにちわ～隊長さん　何かお困りですかな？|
+|^|カピバラのことを知りたいのなら、一緒に温泉に入りましょう隊長さん|
+|^|結構泳ぎにも自信がありますよ～　潜るのが得意です|
+|^|寒いのが苦手だから温泉さいこーになれるのです|
+|!ふれあい~~(撫でる)|ゴワゴワしてませんかな？カピバラの毛並は少し硬いので…|
+|^|お～っとと！急にはビックリしますな～|
+|^|うふふふ…くすぐったいです～隊長さ～ん|
+|!アシスタント選択|任せて下さいな　オススメの温泉はっと…　ん？違うのですか？|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/D5k5Fc4KRD.png,70)>チンチラ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t5yj1p49hY.png,70)>デグー#serifu]]|
+
+*実際の動物について
+ ''げっ歯類最大の種で、手足には水かきがついており、泳ぎが得意です。~~日本では温泉につかっている映像がよく見られますが、原産は南米の温暖な地域のため、寒さが苦手のようです。''
+カピバラは　哺乳綱 ネズミ目　テンジクネズミ科　カピバラ属の齧歯類である。
+学名：Hydrochoerus hydrochaeris
+英名：Capybara
+和名：オニテンジクネズミ
+
+体長：105cm～135cm
+体重：35kg～66kg
+寿命：5年～10年
+分布：アンデス山脈を除く南アメリカの大部分に分布
+食性：草食性。（草や水草）
+
+カピバラは齧歯類の最大種となり、南アメリカ東部アマゾン川流域の湿地帯を中心に生息している。
+
+体は硬く長い体毛に覆われており、ゴワゴワとしたタワシのような手触りをしている。
+その毛質は水に濡れた後、体を振るうだけで簡単に水を落とし、乾かせやすいという特性を持っている。
+生まれて１年くらいまでの幼獣は成獣と比べ色が濃く、柔らかい毛質をしている。
+齧歯類の中では手足が長く、尻尾は持たない。
+水中でも生活する為、耳はカバのように頭上に位置しており、水中に身を沈めて敵から隠れるのに適している。
+
+また、オスの鼻の上部には「モリージョ」と呼ばれる、毛で覆われない黒く盛り上がった部分がある。
+ここから臭いのある脂を出し、木等にこすり付けて縄張りを主張するのに使われる。
+
+性格は非常に穏やかで人に懐きやすい面があるが、野生下では食物連鎖の下位に属する為、臆病で警戒心は強い。
+
+平均10～20頭の群れを作り生活をする。群れの構成は、１匹の強い雄と複数の雌とその子供となる。
+日中はあまり動かず、夕方以降から朝にかけて採食のために活発な活動をする。
+
+群れは巣を持たず、特定の場所に定住しない。餌を求め移動を続ける。
+
+日本では、温泉に浸る姿で馴染みがあるが、野生下の環境を再現しているわけではなく、日本の冬という環境が
+南米原産のカピバラにとって過酷な環境であるため、飼育施設で湯に入れ始めたことに由来する。
+
+特にカピバラの毛は堅くまばらに生える為、保温性に乏しく、水中を生活の場とする動物でもあるため、
+日本の冬でも水の中に入れるよう配慮がなされた結果だと思われる。
+
+日本でも意外なほどポピュラーになっている動物で、以下に示す通り全国多くの動物園はおろか水族館、
+大小その他の多くの施設で飼育されている。温和な性格で、直接触れ合えるところも多い。
+
+とは言え、一般には十分な知識を持っている方は多くなく、しばしば「ヌートリア」と混同されることがおこる。
+（実際、吉崎観音もデザイン時にヌートリアの写真を参考にしてしまったという話もある。）
+カピバラと同じ南米に棲む齧歯類だが、大きさはおよそカピバラの半分程で、動物園で飼育されることは少ない。
+性格はカピバラと正反対で、非常に攻撃的で、人を襲うこともある。
+第二次世界大戦時、毛皮を軍服の生産に利用する為輸入されたが、終戦後日本各地で野生化が進み、生態系を
+脅かす害獣となっている。近所で「カピバラを見た」という声があれば、ほぼヌートリアと言って間違いないだろう。
+
+［日本での飼育施設］
+・旭山動物園　　　　（北海道）　・ﾉｰｽｻﾌｧﾘｻｯﾎﾟﾛ　　　（北海道）　・大森山動物園　　　　　（秋田県）
+・岩手サファリパーク（岩手県）　・盛岡市動物園　　　（岩手県）　・とんとんの丘もちぶた館（宮城県）
+・八木山動物園　　　（宮城県）　・那須サファリパーク（栃木県）　・那須りんどう湖ﾚｲｸﾋﾞｭｰ （栃木県）
+・那須どうぶつ王国　（栃木県）　・宇都宮動物園　　　（栃木県）　・群馬サファリパーク　　（群馬県）
+・桐生が岡動物園　　（群馬県）　・日立市かみね動物園（茨城県）　・こもれび森のイバライド（茨城県）
+・大宮公園　　　　　（埼玉県）　・大崎公園子供動物園（埼玉県）　・智光山公園こども動物園（埼玉県）
+・東武動物公園　　　（埼玉県）　・上野動物園　　　　（東京都）　・としまえん　　　　　　（東京都）
+・井の頭自然文化園　（東京都）　・大島公園動物園　　（東京都）　・市原ぞうの国　　　　　（千葉県）
+・千葉市動物公園　　（千葉県）　・市川市動植物園　　（千葉県）　・よこはま動物園ｽﾞｰﾗｼｱ　（神奈川県）
+・横浜市金沢動物園（神奈川県）　・富山市ﾌｧﾐﾘｰﾊﾟｰｸ　  (富山県)　　 ・高岡古城公園動物園　 　(富山県)
+・いしかわ動物園　　（石川県）　・須坂市動物園　　　（長野県）　・楽寿園　　　　　　　　（静岡県）
+・富士サファリパーク（静岡県）　・伊豆ｱﾆﾏﾙｷﾝｸﾞﾀﾞﾑ　 （静岡県）　・伊豆シャボテン動物園　（静岡県）
+・浜松市動物園　　　（静岡県）　・豊橋総合動植物公園（愛知県）　・東山動植物園　　　　　（愛知県）
+・岡崎市東公園動物園（愛知県）　・ｱﾄﾞﾍﾞﾝﾁｬｰﾜｰﾙﾄﾞ　　（和歌山県）・和歌山城公園動物園　　（和歌山県）
+・ブルーメの丘　　　（滋賀県）　・五桂池ふるさと村　（三重県）　・みさき公園　　　　　　（大阪府）
+・天保山アニパ　　　（大阪府）　・ハーベストの丘　　（大阪府）　・ワールド牧場　　　　　（大阪府）
+・神戸どうぶつ王国　（兵庫県）　・姫路市立動物園　　（兵庫県）　・姫路セントラルパーク　（兵庫県）
+・淡路ファームパーク（兵庫県）　・池田動物園　　　　（岡山県）　・とくしま動物園　　　　（徳島県）
+・愛媛県立とべ動物園（愛媛県）　・のいち動物公園　　（高知県）　・福山動物園　　　　　　（広島県）
+・周南市徳山動物園　（山口県）　・ときわ動物園　　　（山口県）　・秋吉台サファリランド　（山口県）
+・大牟田市動物園　　（福岡県）　・海の中道海浜公園　（福岡県）　・長崎バイオパーク　　　（長崎県）
+・熊本市動植物園　　（熊本県）　・阿蘇ファームランド（熊本県）　・宮崎市ﾌｪﾆｯｸｽ自然動物園（大分県）
+・アフリカンサファリ（大分県）　・平川動物公園　　（鹿児島県）　・東南植物楽園　　　　　（沖縄県）
+
+（水族館）
+・なかがわ水遊園　　（栃木県）　・アクアワールド大洗（茨城県）　・八景島シーパラダイス　（神奈川県）
+・ﾏｸｾﾙ ｱｸｱﾊﾟｰｸ品川　（東京都）　・アクア・トトぎふ　（岐阜県）　・鳥羽水族館　　　　　　（三重県）
+・海遊館　　　　　　（大阪府）　・NIFREL　　　　　　（大阪府）　・須磨海浜水族園　　　　（兵庫県）
+・ネオパークオキナワ（沖縄県）
+
+
+*その他
+-[[カピバラ(フォト)]]
+-[[カピバラ　フレンズストーリー]]
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a6e85a971269abbc.png,50%)
+・クリーム色の紐付きニット帽、ふかふかのファーがついた赤茶色のダウンを着用。中に着ている赤白チェックのボタンシャツがかわいい。
+・最初の服装と比べてより暖かそうに見える。短パン型のジーンズで足回りが前より寒そうなのは気にしては行けない。かわいいからいいのだ。
+**特別衣装
+***学園制服
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/c66a7f249c68765f.jpeg,50%)
+4月体力測定のショップ交換品。
+この着替えに限ったことではないが、手拭いと桶は手放さない。
+
+***おそろい服
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ya7ctuQLxI.PNG,50%)
+[[ニホンザル]]の☆6衣装の色違い。
+
+***巫女服
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/99e38481c4a0c7a2.png,50%)
+**アイコン一覧
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/e2b99aa547c13502.jpeg,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CAqzco9zsB.webm){400,240}
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bLfyxc8owa.webm){400,240}

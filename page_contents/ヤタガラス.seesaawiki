@@ -1,0 +1,303 @@
+[+]目次
+#contents(2)
+[END]
+*ヤタガラス
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DwaOEl5dFg.png,50%)
+// [+]けも級最大
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EhJXs1GtOn.90.png,50%)
+// 衣装ボーナス +200/+100/+50
+// [END]
+// [+]LV.99(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|45454|18627|7608|3864|1.0|30|center:size(9):&color(#ff0000){''ファニー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MiVDbHZZ0y.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|52943|21699|8863|4497|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|55959|22933|9368|4754|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|なし||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|21/06/26、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|25,20|+5.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|40,30|+6.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|紅鏡の導き|必要MP110|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手全体に250%のダメージを与え~~自身の与ダメージが6%増加し、被ダメージが6%減少する~~(5ターン)　さらにMPが40増加する|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Try!!]|>|相手全体に350%のダメージを与え~~自身の与ダメージが9%増加し、被ダメージが9%減少する~~(5ターン)　さらにMPが40増加する|
+|>|>||
+|!とくいわざ|陽光の道しるべ|相手単体に40%×3のダメージを与え~~対象の属性がフレンドリー(緑)の場合~~中確率で与ダメージ増加状態を解除する|
+|!たいきスキル|美しき輝き|自身のたいりょくが10%回復し~~MPが30増加する~~発動率：100% 発動回数：3回|
+|!とくせい|天・地・人|ひやひや状態にならない~~さらにファニー属性(赤)の味方の被ダメージが9%減少する|
+|!キセキとくせい|太陽の化身|自身の与ダメージが15%増加し~~受けたダメージを15%ではねかえす~~さらにファニー(赤)属性の味方はしょんぼりきぶん状態にならない|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~フレンドリー（緑）属性の相手に対して与ダメージが7%増加する~~&color(,#f3f3fe){(変化後)~~フレンドリー（緑）属性の相手に対して与ダメージが&color(#ff0000){9%}増加する}|
+
+//|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+ファニー属性で炎系の技を使う神獣級の鳥フレンズ、2人目。ここまで絞り込んでも2人目である。
+1人目の[[火の鳥]]は「再生」をイメージさせるフレンズだったが、ヤタガラスは「太陽」のイメージを反映したフレンズとなっている。
+&color(#d9d9d9){3人目として来そうな守護けものもいるが、まあ騒ぐこともないか…}
+
+特徴的なのはけものミラクルと待機スキルでMPを増加させられるところだろう。
+けものミラクルは高威力の全体攻撃に長ターンの自己強化がついたもの。
+必要MPは110と多いが、発動するたびにMPが40増加（ミラクルレベルによらず一定）するため、2回目の発動につなげやすい。
+最初の1回分のMPを溜めるのが大変と思いきや、待機スキル1回でMP30増加、それが3回も発動できるため、高コストと感じさせることはないだろう。
+沈んではまた昇る、太陽をイメージさせる能力である。
+
+これを活用しやすいのはストーリーの強敵戦か。
+準備ターンが短くてもチャージが楽に行え、強敵が従えるお供を出会い頭に殲滅することができる。
+
+ちからくらべにおいても活用しやすい。
+ミラクル1回発動だけでも十分なダメージを与えられ、自己強化しての追い打ち、ダメ押しの2回目ミラクルと強力な動きが可能。
+更に、とくいわざでフレンドリー属性の与ダメージ増加解除を持っており、[[カラカル]]と同時に編成すればフレンドリー属性の相手フレンズを完封できてしまう。
+キセキとくせいのはねかえしもあり、[[サーバル]]がサバンナで付与できる根性効果も怖くない。
+
+一方、シーサーバル道場では再チャージ能力の扱いが難しいか。
+単純に高威力の全体攻撃ミラクルを少ない手数でチャージできるという扱いで運用するのが無難かもしれない。
+上記の対フレンドリー属性効果に加え、ファニー属性の被ダメージ軽減やしょんぼりきぶん無効が活きる時に起用したい。
+
+ところで、「ファニー属性味方のしょんぼりきぶん耐性」は[[【連撃の極意】ジャガー]]も持っている能力である。
+ただし、ジャガーは「耐性（高）」、ヤタガラスは「ならない」と、耐性の程度に若干の違いがある。
+今後はどく耐性を低下させる[[ハブ]]のような能力がしょんぼりきぶんにも出てくるのかもしれない。
+&color(#d9d9d9){セルリアンならまだしも、その能力を使うフレンズは[[ハシブトガラス]]よりも謎である…}
+
+//**スキル詳細
+//[+]
+//**けものミラクル：スキル名　※必要MP80
+// ''(最大強化時)~~効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''（野生解放1段階目達成で習得）~~効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''（フォトポケ2段階達成で習得）~~''
+//文章
+//[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+情報募集中
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0AKIsEFq9n.png,no_link,40){とうめい水晶C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）C}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eTN_SAYozL.png,no_link,40){とうめい水晶UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）UC}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EzAsIy_Oej.png,no_link,40){とうめい水晶R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）R}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）UC}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0AKIsEFq9n.png,no_link,40){とうめい水晶C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）C}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）UC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）R}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eTN_SAYozL.png,no_link,40){とうめい水晶UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）R}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EzAsIy_Oej.png,no_link,40){とうめい水晶R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）UC}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）R}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+//別属性フレンズの場合は内容を消して下記のコメントアウトを外す
+//[[フレンズ名]]を参照
+ ''「余のやるべきはすべての者を、良き未来へと導くこと。~~進めぬ者、迷う者がいれば手を差し伸べ、~~前を向かせ、進むべき未来へ導こう。~~慎ましい態度で臨むのなら、喜んで力を貸そう。~~太陽の化身が力、存分に使うがいい。~~おや？　ハシブトガラスは、また蹴鞠に夢中なのか…」''
+文章
+
+ＣＶ：長久友紀（けもフレ３）
+　　　大西沙織（NEXONアプリ版）
+
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|ハシブトガラスは何処だろうか…~~また無理をしていないと良いのだが|
+|^|…遠くの方に、騒がしい気配が…~~ふふっ、元気があるのは良いことだ|
+|^|…くしゅん！　ああ、またハシブトガラスが~~何処かで余の話をしているのか|
+|^|皆、良い光を灯している…~~ここがあたたかく心地良いのは、そのおかげか|
+|^|おや、何か用か？~~遠慮はいらぬ、申してみよ|
+|!固定|余のほかにも、誰かを導く者がいる…~~うむ、とても良いことだ|
+|^|今日の日差しは一段と心地良い~~ああ、心が晴れ渡るようであるな|
+|^|そのほうが来ることは分かっていた…~~余の力が必要なのであろう？|
+|^|またひとつ日当たりの良い場所を見つけたぞ~~ふふ…羽休めには最適であろうな|
+|!すやすや|ハシブトガラスよ…~~あまり無理はせぬよう…気を付けるのだぞ…むにゃ|
+|^|数多に瞬く…尊き光…~~すべて、余が導いて…すぅ、すぅ…|
+|^|…ふふ、愛い奴め…~~良いぞ、余に…ついて参れ…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|そのほうが力、余が見極めてやろう|
+|^|良いぞ、何処からでもかかってこい|
+|!WAVE移行|余が皆を導こう|
+|^|さあ、次なる道は此方だ|
+|!クエスト終了|余が導く先にあるのは、希望の光のみ|
+|^|皆で掴んだ勝利だ、誇るがよい|
+|!フラッグ選択|良かろう|
+|^|相分かった|
+|!けもコーラス|良いだろう、任せよ|
+|^|余が見守っている、安心せよ|
+|^|皆の想い、余が導く|
+|^|余の導きについて参れ|
+|!攻撃|[''通常攻撃'']|
+|^|そこだ|
+|^|食らうがよい|
+|^|さあ行け|
+|^|そーれ！|
+|^|[''とくいわざ'']|
+|^|そら、危ないぞ？|
+|^|余の力、とくと見よ！|
+|^|かわせるか？|
+|^|さあさあ、踊れ|
+|!ダメージ|[''通常攻撃'']|
+|^|ほう|
+|^|うっ|
+|^|[''強攻撃'']|
+|^|案ずるな…！|
+|^|うぅっ！|
+|^|[''ちからくらべ'']|
+|^|これがそのほうの力か|
+|^|ふむ、面白い|
+|^|良いぞ、その調子だ|
+|^|ほう、やるな|
+|!どく状態|倒れる訳にはいかぬ…！|
+|^|余はまだ戦えるぞ～…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|た、太陽が沈んでいく…|
+|^|[''ちからくらべ'']|
+|^|そのほうの成長、楽しみにしている|
+|^|次なる機会を待っているぞ|
+|^|余を下したのだ、誇るがよい|
+|^|では、またやろう|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|余の光は消えぬぞ|
+|^|陽はまた昇る…！|
+|!けものミラクル　|[''等速'']~~（発動時）~~出でよ、創造の力~~（発動中）~~さあ、始めようか~~天・地・人…余は万物を導く太陽である！~~|
+|^                              |[''倍速'']~~（発動時）~~出でよ~~（発動中）~~始めよう、天・地・人…その身に刻め！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~顕現せよ、万物の力~~（発動中）~~はぁ、力が満ちてゆく…~~万物より集いし光をもって、そのほうを導いてやろう！~~|
+|^                              |[''倍速'']~~（発動時）~~顕現せよ~~（発動中）~~万物より集いし光で導いてやろう！~~|
+|!けものミラクル後|これが太陽の化身たる余の光|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+　失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**ハシブトガラス
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){ハシブトガラス、行けるか？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,right){はい、ヤタガラス様！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){余が皆を導こう}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,right){なんと頼もしいお姿…！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){良き未来へと近づいたかな}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,right){どこまでもお供いたします！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){すまぬ、ハシブトガラス…後は…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,right){ヤタガラス様を、よくも…！！}|
+|}
+[[%%%ハシブトガラス　セリフ集%%%>ハシブトガラス#serifu]]
+//実装がない場合は下記のコメントアウトを外す
+//現在、掛け合いのあるフレンズはいないようダネ。
+//別属性フレンズの場合は内容を消して下記のコメントアウトを外す
+//通常の[[フレンズ名]]と同じなのデ、そちらを参照してネ。
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|余の名はヤタガラス…~~太陽の化身たる余が、そのほうの行く道を~~照らし、良き未来へと導いてしんぜよう|
+|!ログインボーナス|　|
+|^|　|
+|!なかよしレベルアップ|そのほうの心に宿るあたたかな光…心地良いものだ~~いつまでも傍らでその光を浴びていたいと思わせてくれる|
+|!レベルアップ|余の力が高まっていく…そのほうよ、感謝するぞ|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|天・地・人、全てを照らす余の輝き　とくと目に焼き付けよ|
+|!けも級アップ|ふっ、そのほうには礼を言わねばならないな~~感謝の印として、更なる活躍を約束しよう|
+|!ミラクルレベルアップ|余の力で、万物を等しく照らそう|
+|!フォトポケット開放|かけがえのない思い出を紙に閉じ込める…なるほど、これは良いものだな|
+|!着替え|この装いはそのほうの趣向か？なるほど、なかなか良いと思うぞ|
+|^|時にはこういった服装も悪くないだろう|
+|^|そのほうが見立てたものならば、間違いあるまい|
+|^|ほう…このような装いもあるのだな　どうだ？余に似合っているか？|
+|!ふれあい|そのほう、この後時間はあるだろうか？　なに、ともに散歩でもどうかと思ってな|
+|^|そのほうよ、よく参った|
+|^|悩みがあるのならば、ここで打ち明けよ　そのほうの心の曇り、余が晴らしてやろう|
+|^|余の姿を見たいのならば、存分に見ていくがよい|
+|!ふれあい~~(うれしい！)|良かろう|
+|!ふれあい~~(たのしい！)|ああ|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|ふっ、もう少し右の方を撫でてはくれまいか？　ああ、そうだ　ふむ、上手だな|
+|^|ふむ、悪くない　そのほうの手は、太陽のように暖かいな|
+|^|ふう…心地よいな　どれ、次は余がそのほうを撫でてやろうか？|
+|!アシスタント選択|相分かった、余が支えよう　そのほうは、ただ胸を張っていればよい|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,70)>ハシブトガラス#serifu]]|
+
+*実際の動物について
+//[[フレンズ名]]を参照
+ ''八咫烏は日本神話に登場するカラスで、熊野国（現・和歌山県南部および三重県南部）から大和国（現・奈良県）まで神武天皇の道案内をしたと記されています。~~熊野大神に仕える存在として、信仰の対象にもなっています。''
+文章
+*その他
+-[[ヤタガラス(フォト)]]
+-[[ヤタガラス　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JuLncyzsi2.png,50%)
+**特別衣装
+***学園制服
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/829e3780e5be4e22.png,50%)
+
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Jn3UvU_VdS.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+//&video(){400,240}
+//&video(){400,240}
+

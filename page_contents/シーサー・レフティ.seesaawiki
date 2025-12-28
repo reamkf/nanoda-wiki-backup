@@ -1,0 +1,297 @@
+[+]目次
+#contents(2)
+[END]
+*シーサー・レフティ
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MvzrtNC5m_.png,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/YXBEyenl04.png,50%)
+// [END]
+// [+]LV.99(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|43924|17148|7663|3608|4.0|30|center:size(9):&color(#88abda){''マイペース''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|51166|19976|8927|4202|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|54080|21113|9435|4442|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|なし||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|20/09/19、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|3枚|－|+6.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|1枚|20|+5.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|20|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|厄災一蹴！門前払い|必要MP110|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手全体に260%のダメージを与え、被ダメージを10%増加させる~~さらに対象の属性がラブリー(桃)の場合~~高確率でくらくら状態にする(1ターン)|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Beat!!!]|>|相手全体に364%のダメージを与え、被ダメージを10%増加させる~~さらに対象の属性がラブリー(桃)の場合~~高確率でくらくら状態にする(1ターン)|
+|>|>||
+|!とくいわざ|邪気払い|相手単体に120%のダメージを与え~~対象の属性がラブリー(桃)の場合~~中確率で被ダメージ減少状態を解除する|
+|!たいきスキル|おもてなシーサー･レフティ|与ダメージが10%増加し(2ターン)~~MPが5増加する~~発動率：100%　発動回数：∞回|
+|!とくせい|常夏のお祭り騒ぎ|ひやひや耐性(高)が増加する~~さらに相手が3体以上のとき~~与ダメージが18%増加する|
+|!キセキとくせい|厄除けの助言|与ダメージが15%増加する~~さらにセルリアンから受けたダメージを150%ではねかえし~~フレンズから受けたダメージを30%ではねかえす|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~たいりょくが90%以下のときたいりょくが10%回復する~~（発動回数：1回）~~&color(,#f3f3fe){(変化後)~~たいりょくが90%以下のときたいりょくが&color(#ff0000){13%}回復する~~（発動回数：1回）}|
+
+//|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+アニバーサリー記念で実装された限定☆4フレンズ。赤い方のシーサー。
+
+こうげきが非常に高く編集時点で全フレンズ中2位。加えて、条件付きではあるもののとくせいにより更なる強化が見込める。
+また初期実装の[[アライさん>アライグマ]]以来となるBeat!!!フラッグ3枚持ち。
+なお、「ガードが固い」と自称する割に耐久面は特別優れているというほどではない。
+
+MP消費110と重めのけものミラクルは、非常に高倍率全体攻撃。
+MP100で撃てる[[チンチラ]]や[[サラブレッドくりげ]]と比較すればその強さが分かりやすいだろう。
+更に被ダメージ増加のデバフと、ラブリー属性にはくらくら状態付与のおまけ付き。
+
+たいきスキルは自身の与ダメージ・MPの増加を行う。
+他の効果が豪華な分少し控えめに見えるが、発動回数は無制限なので、非常に取り回しの良いスキルである。
+
+キセキとくせいはフレンズとしては初となるはねかえし状態となるもの。
+対フレンズ・セルリアン問わず、受けたダメージを返すことができるようになるため、習得できれば非常に心強い。
+
+[[相方>シーサー・ライト]]とは対照的に、マイペース属性の強力なアタッカーである。
+
+//**スキル詳細
+//[+]
+//**けものミラクル：スキル名　※必要MP80
+// ''(最大強化時)~~効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''（野生解放1段階目達成で習得）~~効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''（フォトポケ2段階達成で習得）~~''
+//文章
+//[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cw01Jde2Or.png,no_link,40){カラフルこんぺいとうUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZAcdA67VQC.png,no_link,40){カラフルこんぺいとうR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cw01Jde2Or.png,no_link,40){カラフルこんぺいとうUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZAcdA67VQC.png,no_link,40){カラフルこんぺいとうR}×4|
+[END]
+**ミラクル強化
+情報募集中
+*キャラクターについて
+ ''「リウキウチホーの守護けもの、シーサーのレフティだよ。~~姉のライトとは、そっくりの双子なんだー。~~あらゆる災難を寄せ付けない守りの要、~~ガードの固い女の子なんだよー。~~そこのところ、よ・ろ・し・くっ！」''
+沖縄に伝わる伝説の動物「シーサー」のフレンズ。
+守護けものの一人であり、もう片方のシーサー・ライトは双子の姉である。
+姉と比べて耳と髪の向きが下がっている点が見分ける際のポイント。
+
+初登場は期間限定イベント「目立て！渚のライフセーバー」第2話。
+ただしこちらも姉と同じく、名前自体はシーサーバル道場のチュートリアルで登場しており、
+メインストーリー3章11話でラッキービースト越しではあるが台詞付きで登場している。
+
+ロビーのベットでは[[シーサーバル・レフティ]]の台詞である「みゃみゃみゃパワー…」などと
+寝言を言う様子が見られる。
+またフレンズストーリー内でもリウキウを訪れた隊長に道場の紹介を行った際、
+シーサーバルを呼びに行くと称して、入れ替わりでシーサーバル・レフティが登場する描写がある。
+
+両者の関係は未だに謎となっているが、はたして…？
+
+ちなみにシーサー・レフティとシーサーバル・レフティは同時に編成することができない。
+
+ＣＶ：岡咲美保(けもフレ３)
+　　　村川梨衣(NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|はいたい～　なにかあったのかい？|
+|^|リウキウのお日さまを浴びながら~~お昼寝したいな～…|
+|^|なんくるないさ～　慌てない慌てない♪|
+|^|うーん？　私とライト以外も来てるのかな～？|
+|^|ライトはちょーっと女の子らしさが~~足りないよね～　私を見習ってほしいよ～♪|
+|!固定|何にもないことはいいことだね～~~平和が一番さ～|
+|^|ここもいいけど、~~やっぱりリウキウの日差しが一番だよー|
+|^|んや～？~~サーターアンダギーの匂いかな～これは？|
+|^|やっぱり~~みんなで騒ぐのはサイコーにたのしいねー！|
+|!すやすや|むにゃぁ…みゃみゃみゃパワー…|
+|^|すぅ…すぅ…リウキウは…いいとこさー…|
+|^|むにゃ…~~やっぱり…サーターアンダギーだよねー…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|めんそーれ！|
+|^|まぁ、楽しむのは私のほうだけどねー|
+|!WAVE移行|お次は何かなー？|
+|^|もうちょっと強くてもいいよー|
+|!クエスト終了|これくらいなんくるないさーってね！|
+|^|これが守護けものの力ってやつさー~~すごいでしょ？|
+|!フラッグ選択|オッケー！|
+|^|まかせてー！|
+|!けもコーラス|よっしゃー！|
+|^|焦らずにねー|
+|^|なんくるないさー！|
+|^|やってやろう、じゃあ！|
+|!攻撃|[''通常攻撃'']|
+|^|とりゃー！|
+|^|ほりゃー！|
+|^|行っくよー！|
+|^|小手調べっと|
+|^|[''とくいわざ'']|
+|^|はあ！|
+|^|おりゃー！|
+|^|押し通る！|
+|^|加減は無しだね！|
+|!ダメージ|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|[''強攻撃'']|
+|^|　|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!どく状態|　|
+|^|　|
+|!ギブアップ|[''セルリアン戦'']|
+|^|あはは…情けないなぁ…|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|いやー焦った焦った|
+|^|このままじゃ終われないよねー|
+|!けものミラクル　|[''等速'']~~（発動時）~~きゃはは、盛り上がってきたねー！~~（発動中）~~さぁさぁご覧あれ~~これがシーサー・レフティの門前払いってね！~~それではみなさん、さようならー！~~|
+|^                              |[''倍速'']~~（発動時）~~盛り上がってきた！~~（発動中）~~さぁご覧あれ~~これがシーサー・レフティの門前払いってね！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル後|戸締りはキチンとねー|
+|}
+[END]
+[+]掛け合い
+**シーサー・ライト
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/99Ip8Ro25q-s.png){ライト、準備は出来てる？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1-s.png,right){騒ぐ準備ならばっちしさ！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/99Ip8Ro25q-s.png){先に行っちゃうよー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1-s.png,right){あぁ！？　待て待てー！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/99Ip8Ro25q-s.png){うーん、騒ぎ足りないかなー}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1-s.png,right){もうちょっと騒ぎたいねー}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/99Ip8Ro25q-s.png){無理…しちゃったかな…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1-s.png,right){レフティ！　少し休んでて！}|
+|}
+[[%%%シーサー・ライト　セリフ集%%%>シーサー・ライト#serifu]]
+//実装がない場合は下記のコメントアウトを外す
+//現在、掛け合いのあるフレンズはいないようダネ。
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|リウキウチホーの守護けもの、シーサーの~~レフティだよ　ガードの堅い女の子だから、~~そこのところ、よ・ろ・し・くっ！|
+|!ログインボーナス|はいたい～~~今日の厄除けアイテムはこちらだよー~~私が言うのだから間違いないさー♪|
+|^|明日もしっかり厄除けしてあげるから~~ちゃんと来てねー　それじゃ、~~今日も一日なんくるないさ～♪|
+|!なかよしレベルアップ|これからも一緒にリウキウを守っていこうねー|
+|!レベルアップ|何事も守りは堅いほうがいいからね|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|う～ん、私がこれ以上すごくなっても知らないよ～？|
+|!けも級アップ|いや～、いろいろ世話を焼いてくれてありがとね～~~にふぇーでーびる！|
+|!ミラクルレベルアップ|もっとデカい門、作っちゃおうかなー？|
+|!フォトポケット開放|もちろん、リウキウでの思い出を~~いっぱい持っちゃうもんね～|
+|!着替え|なんでも似合っちゃうね～私～|
+|^|ライトよりも私のほうが似合うよね、これ|
+|^|う～ん、どうかなぁ…~~ちょっと派手過ぎないかなぁ…|
+|^|おぉ～　わざわざありがとうね～~~お礼の厄除けしなくちゃだね～|
+|!ふれあい|はいた～い、私に頼み事かな～？|
+|^|やぁやぁ！　私に会いに来るってことは~~よっぽどな事情を…~~あれ？　そうでもないの！？|
+|^|リウキウの子達は毎日遊んで騒ぐ仲かな～~~今度は一緒に遊んでみる？|
+|^|ライオンぽいって～？　いやいや、そうでもないでしょ～~~あぁいや、ちょっと似てるかな～？|
+|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(たのしい！)|　|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|あー撫で過ぎ厳禁~~守護けものだぞー？|
+|^|もうちょっと敬いながら撫でるといいよー|
+|^|おやー？　ためらいなく撫でてくるねー~~私、守護けものだよ？　まあいいけどねー|
+|!アシスタント選択|こういうのも守護けものの役目なのかな~~うん！　なんでも言ってね|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1.png,70)>シーサー・ライト#serifu]]|
+*実際の動物について
+ ''シーサーは、沖縄県に伝わる伝説の獣です。像は一対で置かれるのが一般的ですが、~~向かって左側におかれるのが口を閉じているほうで、災難を家に入れないといわれています。''
+文章
+
+*その他
+-[[フレンズ(フォト)]]
+-[[フレンズ　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/y5lB6N11Wy.png,50%)
+
+**特別衣装
+***衣装名
+&attachref(50%)
+
+**アイコン一覧
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JAEaZgWFl2.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oZZBgV3lI2.webm){400,240}
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wtqo4pLPDj.webm){400,240}

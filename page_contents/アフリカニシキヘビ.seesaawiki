@@ -1,0 +1,396 @@
+[+]目次
+#contents(2)
+[END]
+*アフリカニシキヘビ
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8Yj7ZR2UNO.png,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1cf3a87bffd29194.png,50%)
+// [END]
+// [+]LV99
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Jp9eaWaoin.jpg,50%)
+// [[けものフレンズ3 #241&gt;&gt;165より>>http://krsw.5ch.net/test/read.cgi/gamesm/1596335145/165]]
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|41351|15531|7256|3579|1.0|30|center:size(9):&color(#ff0000){''ファニー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MiVDbHZZ0y.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|48171|18092|8453|4169|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|50914|19122|8934|4407|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|53200|19981|9335|4605|1.2|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|55942|21010|9816|4843|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|19/11/29、恒常|
+//
+// ||center:|center:|center:|center|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|+6.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,15|+6.0%|+7.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|20,20|+5.0%|+6.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|オシオキ&#9825;ぐるぐるウィップ|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に370%のダメージを与え~~高確率でくらくら状態にする（1ターン）|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Action!]}|>|>|相手単体に518%のダメージを与え~~高確率でくらくら状態にする（1ターン）|
+|>|>||
+|!とくいわざ|猛烈アタック|相手単体に120%のダメージを与える|
+|!たいきスキル|じっくり待つわぁ|与ダメージが30%増加する（2ターン）~~発動率：80%　発動回数：1回|
+|!とくせい|たまには日光浴|たいりょくが30%以下になったとき30%回復する~~（発動回数：1回）|
+|!キセキとくせい|見ての通り怖いのよ？|与ダメージが15%増加し~~くらくら耐性(高)が増加する|
+|!なないろとくせい|いちばんの愛を手に入れたわ|自身の与ダメージが10％増加し~~フレンドリー(緑)属性の相手のかいひを10％減少させる|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~毎ターン　プラズムチャージの効果が1回追加される~~&color(,#f3f3fe){(変化後)~~毎ターン　プラズムチャージの効果が1回追加され~~&color(#ff0000){MPが1増加する}}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+
+*戦闘について
+恒常排出の星4フレンズで、高い攻撃力とシンプルで扱いやすいスキル構成が持ち味。
+
+けものミラクルが単体相手に大ダメージ＋高確率でくらくら状態にさせる効果を持ち、
+クエストのボス戦において特に強さを発揮する。
+属性指定のない高確率くらくらミラクルは、恒常、配布、低レアフレンズのみなら[[アメリカレア]]と彼女のみ。限定フレンズでもこの効果を持つフレンズは少ない。
+
+待機スキルは確定発動ではない上に戦闘中一度しか発動できないが強化幅は大きめ。
+さらにアタッカーとしては珍しい自己回復系のスキルを持つため、ある程度の耐久力も持ち合わせている。
+
+// たいきスキルの発動率さえ克服できれば、
+// 状況を選ばずに活躍できる高い安定感を発揮できるようになるだろう。
+
+新たに実装されたキセキとくせいは自身の与ダメージアップとくらくら耐性の強化。
+よりバランスの取れた活躍ができるようになるだろう。
+**スキル詳細
+[+]
+**けものミラクル：オシオキ&#9825;ぐるぐるウィップ~~&align(center)
+ ''相手単体に518%のダメージを与え~~高確率でくらくら状態にする（1ターン）~~''
+鞭で相手をグルグル巻きにして捕らえた後、ヘビ型のエネルギー波でトドメを刺す。
+
+単体大ダメージ系ミラクルの基本値は560％のため威力は劣るものの、
+耐性のない相手ならほぼ確実にくらくら状態にすることが可能。
+くらくらが決まれば、ボス等の連続行動タイプの敵でも
+そのターンは完全に行動不能にすることができるので非常に強力である。
+
+時間稼ぎにはうってつけの技なので、非常に頼りになるだろう。
+
+また同じ属性でくらくらをトリガーに味方の強化を行う[[カバ]]のキセキとくせいと相性がよい。
+**とくいわざ：猛烈アタック
+ ''相手単体に120%のダメージを与える~~''
+鞭を大きく横に振って相手を打ち据える。
+
+通常攻撃の1.2倍の威力を持つ、よくあるタイプの得意技。
+見た目は全体攻撃っぽいが実際は単体攻撃である。
+特殊効果はないが、自身の高い攻撃力を有効に使えるので相性はいい。
+**たいきスキル：じっくり待つわぁ
+ ''与ダメージが30%増加する（2ターン）~~発動率：80%　発動回数：1回~~''
+頬に手を当てつつ、鞭をビュンビュン振り回す。
+
+実装時は発動率が50%でかなり心もとなかったが、2024/06/14の上方修正で80%となり使いやすくなった。
+
+**とくせい：たまには日光浴
+ ''たいりょくが30%以下になったとき30%回復する（発動回数：1回）~~''
+低体力時に自身の体力を中程度回復させる、自動発動タイプの自己回復スキル。
+
+体力が30％を下回ると自動で発動してくれる上に回復量もそこそこあるので、
+不意のダメージによる事故やギブアップを防いでくれる優良スキルである。
+
+注意点としては発動回数が1回しかないことと、
+体力31%以上のときに単発ヒットの攻撃で一気に体力をゼロにされてしまうと
+回復せずにそのまま倒されてしまう点(多段ヒットの攻撃なら問題ない)。
+
+過信は禁物だが、いざというときには頼りになるため
+自慢の攻撃力を活かすためにも積極的に攻撃に参加するようにしたい。
+**キセキとくせい：見ての通り怖いのよ？
+ ''与ダメージが15%増加し~~くらくら耐性(高)が増加する~~''
+フォトポケット1枠解放で習得する追加特性。
+アフリカニシキヘビの場合は自身の与ダメージアップと
+くらくら耐性の強化となる。
+
+与ダメージ上昇量は15%と大きめで、自慢の攻撃力を更に伸ばすことが可能。
+くらくら耐性アップはそこまで重要ではないものの、
+クエスト・ちからくらべともにくらくら攻撃を使用してくる相手は多いため、
+習得できれば、より安定した活躍ができるようになるだろう。
+**なないろとくせい：いちばんの愛を手に入れたわ
+ ''自身の与ダメージが10％増加し~~フレンドリー(緑)属性の相手のかいひを10％減少させる~~''
+純粋な与ダメージ増加と、対フレンドリー属性の回避減。回避増加を持っているむちゃセルリアンは少ないが持っておいて損はないとくせいだろう。
+[END]
+**フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OPtp3Qh67P.png,no_link,40){プチけもアクセサリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BSAfi3A3BZ.png,no_link,40){プチけもアクセサリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jG2k9wY9NW.png,no_link,40){プチけもアクセサリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+
+*キャラクターについて
+ ''「じっくり、ゆっくりと待つわぁ。~~時間はたっぷり、あるからね。（ピシッ）~~最後にはがばぁっと、アタックしちゃうわけ。~~そこからは、猛アタックあるのみよぉ。（ピシィィ！）~~…何の話かわかる？…ん、何の話だっけ？（ピシピシ）」''
+妖艶な魅力を持つ、セクシーなヘビ系フレンズ。
+ヘビの特徴ともいえる長い舌は「鞭」として表現されており、
+怒らせると怖～い一面も…。
+仲間のキングコブラを王とするならば、アフリカニシキヘビはまさに女王様か。
+
+ヘビのフレンズゆえに体温は低いらしいが、性格はとても情熱的。
+プレイヤーを「隊長ちゃん」と呼んで積極的に仲良くなろうとする一方で
+じっくりゆっくり待つのも得意と語っており
+「大人の女性」らしい自信と余裕に満ちたフレンズであるといえる。
+
+…と言いつつも、フレンズストーリーや「アライさん隊長日誌」では
+個性的なフレンズたちに振り回されてしまうコミカルな一面も見ることができる。
+__…ファニー属性に設定されているのはこのためだろうか__
+
+また、他のフレンズとの付き合いも多いようで
+会話の中でキングコブラやトムソンガゼルなどの名前が出ることもある。
+
+ＣＶ：高野真理佳（けもフレ３）
+　　　神田朱未　（NEXONアプリ版）
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|あら、どうしたの隊長ちゃん？|
+|^|やっぱり夜の方が落ちつくわねぇ|
+|^|あら…かわいい子はっけん♪|
+|^|ムチっていいわよねぇ…巻きつくっていうのが本当にいいわぁ…|
+|^|じっくりじっくり…急いでもいいことなんて、ないわぁ♪|
+|!固定|たまには、日光浴といきましょうか♪|
+|^|ふふ…別ににらんでなんていないのよ？|
+|^|あら、ムチがよくしなるわねぇ|
+|^|ふふ、隊長ちゃんはどこかしらぁ♪|
+|!すやすや|むにゃあ…巻きつきたぁい|
+|^|すぅ…すぅ…ムチの音…すきぃ…|
+|^|むにゃ…卵は…触っちゃ…めっ…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|安心してぇ…加減はするわぁ…|
+|^|うふふ…じ～っくり楽しみましょうねぇ♪|
+|!WAVE移行|まだまだ足りないわぁ！|
+|^|みんな、ついてこれてるかしら？|
+|!クエスト終了|うーん、満足満足♪|
+|^|イイ顔になったわね…それでいいのよ♪|
+|!フラッグ選択|ええ|
+|^|うふふ、やっていいの？|
+|!けもコーラス|いくわよ|
+|^|チャンスねぇ|
+|^|そうこなくちゃねぇ|
+|^|ガブッといきましょう|
+|!攻撃|[''通常攻撃'']|
+|^|はぁい|
+|^|どうかしら？|
+|^|まずは一発♪|
+|^|いい音ねぇ|
+|^|[''とくいわざ'']|
+|^|そぉれ♪|
+|^|強めにいくわよぉ|
+|^|お待ちかねの…|
+|^|思いっきりいくわぁ！|
+|!ダメージ|[''通常攻撃'']|
+|^|んっ|
+|^|うっ|
+|^|[''強攻撃'']|
+|^|ちょっとぉ！？|
+|^|痛ったぁ！？|
+|^|[''ちからくらべ'']|
+|^|まあ|
+|^|やるじゃなぁい|
+|^|やるわねぇ|
+|^|そっち！？|
+|!どく状態|これは効くわねぇ…|
+|^|あら… ちょっと無理したかしらぁ…？|
+|!ギブアップ|[''セルリアン戦'']|
+|^|ふ…ふふふ…　油断…したわぁ…|
+|^|[''ちからくらべ'']|
+|^|次やるときは…こうはいかないわよ…|
+|^|ふぅ…まだまだね、私|
+|^|これが手も足も出ない、ってことかしらぁ…？|
+|^|まだまだいけそうだったけどねぇ…ざ～んねん|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|ふぅ、助かったわぁ|
+|^|もう１度やらせてもらうわぁ|
+|!けものミラクル　|[''等速'']~~（発動時）~~安心してぇ…そのうち病みつきになるわ~~（発動中）~~急いじゃダメ…じっくりゆっくり巻きついてぇ…~~そして最後は…一気に！~~|
+|^                              |[''倍速'']~~（発動時）~~病みつきになるわぁ！~~（発動中）~~ゆっくり巻きついて…最後は一気に！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~そんな期待されると…昂っちゃうわ！~~（発動中）~~心配しなくても大丈夫よ…ちょっと目を閉じてれば…ホラ！~~これで最後よ！~~|
+|^                              |[''倍速'']~~（発動時）~~昂っちゃうわ！~~（発動中）~~心配しなくてもホラ…これで最後よ！~~|
+|!けものミラクル後|ご褒美になっちゃうかしらぁ？|
+|}
+[END]
+[-]掛け合い
+現在、掛け合いのあるフレンズはいないようダネ。
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|アフリカニシキヘビよぉ~~これから、たぁ～んまり時間をかけて~~仲良くなりましょうねぇ…♪|
+|!ログインボーナス|いつも頑張り屋さんな隊長ちゃんに…はい、プレゼント♪|
+|^|もっと欲しいなんて欲張りねぇ…　でも、明日までお・あ・ず・け…　ふふ…楽しみにしててねぇ♪|
+|!なかよしレベルアップ|焦ることなんてないわぁ　じっくり…ゆっくり…距離を縮めていましょうねぇ…ふふ♪|
+|!レベルアップ|ウフフ…昂ってきちゃったぁ…♪|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|ちょっとぉ…これは予想外ねぇ…♪|
+|!けも級アップ|ええ、わかっているわぁ　隊長ちゃんのキ・モ・チ…　ありがと♪|
+|!ミラクルレベルアップ|積極的なのは、嫌いじゃないわぁ|
+|!フォトポケット開放|目をつけてた子がい～っぱい居るから助かるわぁ♪　…食べたいって意味じゃないわよ？|
+|!着替え|どうかしら隊長ちゃん？…フフフ、気に入ってくれたみたいね|
+|^|隊長ちゃんがくれたものだもの…絶対に似合ってるわ|
+|^|ちょっと…恥ずかしいかも…？|
+|^|フフフ…トムソンガゼルにも似合いそうだわ…|
+|!ふれあい|隊長ちゃ～ん！嬉しいわ、来てくれるなんて…|
+|^|あらぁ？どうしたの隊長ちゃん…|
+|^|キングコブラってなんでも言うこと聞いてくれるじゃない？嬉しいけど…ちょっと申し訳ないわよねぇ|
+|^|ガブッといくためにはねぇ　しつこいくらいじっと待つのがコツなのよぉ…♪|
+|!ふれあい~~(うれしい！)|うふふ…|
+|!ふれあい~~(たのしい！)|そうねぇ～|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|ひんやりして気持ちいいでしょ？|
+|^|あら、大胆…♪ちょっとビックリしちゃった…|
+|^|ウフフ…大丈夫よ隊長ちゃん　そんな怖がらなくても…ガブツといかないわ|
+|!アシスタント選択|嬉しいわぁ。隊長ちゃんとずっとくっついて居られるなんて…♪|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手
+（未実装）
+*実際の動物について
+ ''アフリカ最大のヘビで、大きいものは5mを超えます。~~力が強く攻撃的です。~~熱帯雨林やサバンナに生息していますが、水辺を好み、泳ぎも得意です。''
+アフリカニシキヘビは　爬虫綱　有隣目　ニシキヘビ科　ニシキヘビ属　に分類される爬虫類である。
+学名：Python sebae
+英名：Rock python
+和名：アフリカニシキヘビ
+別名：アフリカパイソン、アフリカンロックパイソン、ピュトン・セバエ
+
+体長：400cm～750cm
+体重：35kg～170kg
+寿命：12年 ～30年
+分布：アンゴラ、ウガンダ、エチオピア、エリトリア、ガーナ、ガボン、カメルーン、ガンビア、ギニア、ギニアビサウ、ケニア
+　　　コートジボワール、コンゴ共和国、コンゴ民主共和国、シエラレオネ、スーダン、セネガル、ソマリア、タンザニア
+　　　チャド、中央アフリカ共和国、トーゴ、ナイジェリア、ニジェール、ブルキナファソ、ブルンジ、ベナン、マリ、モーリタニア
+　　　リベリア、ルワンダのサバンナ
+食性：小～大型の哺乳類・鳥類
+
+アフリカ大陸のサハラ砂漠より南の国々に広く分布するニシキヘビの仲間で、アフリカ大陸に生息するヘビの中で最大種となる。
+森林や岩場等、様々な場所で見られるが、主にサバンナに生息し、水辺を好む。川や沼等の水中も泳ぐことができる。
+
+食性は主として齧歯類等の小型の哺乳類、鳥類であるが、レイヨウ類や豚、山羊、ハイエナ、マンドリル等、中～大型の哺乳類も捕食することがある。
+小型の動物ならば、そのまま丸飲みにしてしまい、中～大型の動物ならば、獲物に巻き付き、絞め殺してから飲み込む。
+
+アフリカニシキヘビは、アナコンダに並び顎を大きく開くことができるヘビで、それが大型哺乳類でも飲み込むことを可能にしている。
+しかし、飲み込んだものが大きい程、消化に時間を要し、レイヨウ類等で数週間～１か月以上にわたる消化期間が必要となる。
+大型動物の消化中は、十分な身動きをとることができず、その間に危険を感じた場合、飲んだ獲物を吐き出して身動きができる状態にする。
+
+また、餌がとれず、２年以上も絶食状態が続いたとしても、生きながらえることが可能である。
+
+性格はニシキヘビ類の中では獰猛で、人を襲うこともあり、毒は持たないものの、特に危険なヘビとして分類される。
+
+雌は一度におよそ20～100個の卵を産卵する。産卵する卵の数は雌の大きさに比例しており、一つの卵は直径約10cm程、重さは130～170g程と大型である。
+雌は孵化するまで卵を守り続け、卵はおよそ100日前後で孵化する。孵化した直後の子供の体長は約45～60cmで親と同じような姿をしている。
+
+日本では特定動物（人に危害を及ぼす可能性のある危険動物）に指定されているが、自治体の認可や手続きを踏んで個人が飼育することは可能である。
+但し、先に述べたように、獰猛で攻撃的な性格をしており、人に馴れないという事を留意しておく必要がある。
+掃除や餌を与える際にも細心の注意が必要であり、１０年以上生き続ける大型のヘビを飼育するには、相当の覚悟と責任がなければならない。
+飼育下のアフリカニシキヘビが逃げ出し、人を捕食・絞め殺したという事件はいくつも存在することをお忘れなきよう。
+
+［日本での飼育施設］
+・上野動物園　（東京都）　　・東山動植物園　　（愛知県）
+・平川動物公園（鹿児島県）　・熊本市動植物園　（熊本県）
+
+*その他
+-[[アフリカニシキヘビ(フォト)]]
+-[[アフリカニシキヘビ　フレンズストーリー]]
+**星6衣装
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zeB5iLF9Md.png,50%)
+-腹部とデコルテを露出したショート丈のトップスと、すらりと伸びた生足が特徴的なギャル系ファッション。~~ヘビ系フレンズの特徴であるフードはバンダナにアレンジされており、よく見ると蛇柄の模様が入っている。
+-露出度の低かったメインコスチュームとは対照的な、開放的なコーディネートとなっている。~~自分の容姿への自信がよく表れた、アフリカニシキヘビらしいデザインと言えるだろう。
+**特別衣装
+***雨合羽
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J4MyobE2xU.png,50%)
+
+***学園制服
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/81fbbe1de285a126.jpg,50%)
+
+***巫女服
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/889a105cad383f26.jpg,50%)
+
+***チロチロ&#9825;あなたを誘う魅惑のレースアップ
+&attachref(50%)
+
+***おそろい服
+&attachref(50%)
+[[キングコブラ]]の☆6衣装の色違い
+
+***カフェ制服＜リウキウ・イエロー＞
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e7fbf55d9ac1a8a1.jpg,50%)
+
+***カフェ制服＜リウキウ・グリーン＞
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/c4ad3b958c0c2d4a.jpg,50%)
+
+***カフェ制服＜リウキウ・ブルー＞
+&attachref(50%)
+
+***カフェ制服＜リウキウ・ピンク＞
+&attachref(50%)
+
+***パーティドレス
+[+]&color(#ff0000){''ネタバレ注意！''}
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/59xZ18n9Ym.png,50%)
+[END]
+**アイコン一覧
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q1adJReN80.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RLNGG6Bkpa.webm){400,240}
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TxY1dIqp9N.webm){400,240}
+
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。

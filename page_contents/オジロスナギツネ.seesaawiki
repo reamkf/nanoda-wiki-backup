@@ -1,0 +1,314 @@
+[+]目次
+#contents(2)
+[END]
+*オジロスナギツネ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/a6ae94e8fd304658.png,50%)
+// [+]けも級最大(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// [+]LV99(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|center:属性|center:サブ属性|
+// |!bgcolor(#dcdcdc):初期|☆4|44953|18287|7079|4543|1.0%|10|center:size(9):&color(#ff0000){''ファニー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MiVDbHZZ0y.png,40,no_link)|center:size(9):&color(#ffb3b3){''ラブリー''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|52334|21303|8247|5275|^|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|55313|22515|8717|5575|^|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|08||!bgcolor(#dcdcdc):野生大解放|なし||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|23/02/16、限定|
+//
+// ||center|center|center|center|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,20|+6.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|20,30|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|危機いっぱつ？機転の一手です|必要MP100|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手単体に400%のダメージを与える~~さらに対象の属性がフレンドリー(緑)またはアクティブ(黄緑)の場合~~高確率で与ダメージを20%減少させ~~被ダメージを20%増加させる(3ターン)|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Action!]|>|相手単体に560%のダメージを与える~~さらに対象の属性がフレンドリー(緑)またはアクティブ(黄緑)の場合~~高確率で与ダメージを24%減少させ~~被ダメージを24%増加させる(3ターン)|
+|>|>||
+|!とくいわざ|さっさと終わらせますよ|相手単体に20%×6のダメージを与える~~さらに対象の属性がフレンドリー(緑)の場合~~高確率で被ダメージ減少状態を解除する|
+|!たいきスキル|熱砂の切れ者|相手全体の被ダメージを7%増加させる(2ターン)~~~~~発動率：100%　発動回数：∞|
+|!とくせい|夜のオアシス|味方全体の与ダメージが10%増加し、相手全体の与ダメージを10%減少させる~~さらに自身のたいりょくが50%以下になったとき~~自身のたいりょくが30%回復する(発動回数：1回)|
+|!キセキとくせい|すこし眩しい外の世界|ファニー(赤)属性の味方の与ダメージが10%増加する~~さらに毎ターンラブリー(桃)属性の味方のMPが2増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~&color(#ff0000){自身の}与ダメージが3%増加し、攻撃命中率が3%増加する~~&color(,#f3f3fe){（変化後）~~&color(#ff0000){ファニー(赤)属性とラブリー(桃)属性の味方の}与ダメージが3%増加し、攻撃命中率が3%増加する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+**戦闘について
+メインストーリー3部1章前半で実装された、ファニー属性の限定☆4フレンズ。
+サブ属性としてラブリー属性を持っている。
+けもステはバランス型で、攻撃ミラクルを持つがスキルもどちらかと言えば支援寄り。
+
+けものミラクルは単体攻撃＋アクティブorフレンドリー属性へのデバフ効果。
+威力や効果の割にMP100とやや重め。ただし攻撃＋デバフで3ターン持続するのは結構レアな効果。
+ぷらずむ値が10であることもあり、自身のダメージよりもデバフ部分を活かすと良い。
+
+他のスキルも味方への支援が多め。
+特にたいきスキルととくせいは属性問わず発動し、たいきスキルの回数も無限なため、置物としての支援効果は高い。
+とはいえけものミラクル及びキセキとくせいの効果を考えると基本的にファニー&ラブリーPT向けとなるか。
+ちなみにキセキとくせいはファニーとラブリーで効果が違うが、オジロスナギツネ本人は両方とも受けられる。
+
+ネックはファニー及びラブリー単体属性に絞った場合はそれらの専門フレンズに劣ること。
+ファニーは[[ゴシンギュウサマ]]、ラブリーは[[桃チャップマンシマウマ>【オシャレリーダー】チャップマンシマウマ]]あたりにどうしても見劣りする。
+相手与ダメージを下げる効果を活かしてやりたい。要はむちゃ向け。
+
+サブ属性は彼女で実装2人目とまだ手探り状態なので、今後の展開に期待したいところ。
+//***スキル詳細
+//[+]
+//***けものミラクル：危機いっぱつ？機転の一手です　※必要MP100/ミラクルLv5
+// ''相手単体に560%のダメージを与える~~さらに対象の属性がフレンドリー(緑)またはアクティブ(黄緑)の場合~~高確率で与ダメージを24%減少させ~~被ダメージを24%増加させる(3ターン)''
+//文章
+//
+//***とくいわざ：さっさと終わらせますよ
+// ''相手単体に20%×6のダメージを与える~~さらに対象の属性がフレンドリー(緑)の場合~~高確率で被ダメージ減少状態を解除する''
+//文章
+//
+//***たいきスキル：熱砂の切れ者
+// ''相手全体の被ダメージを7%増加させる(2ターン)~~発動率：100%　発動回数：1回''
+//文章
+//
+//***とくせい：夜のオアシス
+// ''味方全体の与ダメージが10%増加し、相手全体の与ダメージを10%減少させる~~さらに自身のたいりょくが50%以下になったとき~~自身のたいりょくが30%回復する(発動回数：1回)''
+//文章
+//
+//***キセキとくせい：すこし眩しい外の世界
+// ''ファニー(赤)属性の味方の与ダメージが10%増加する~~さらに毎ターンラブリー(桃)属性の味方のMPが2増加する''
+//文章
+//[END]
+
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+情報募集中
+**ミラクル強化
+情報募集中
+
+*キャラクターについて
+ ''「はぁ、オジロスナギツネです。~~　フェネックさんとよく間違われるので、違うところを説明します。~~　ここ、尻尾の先と、ここ、私の方が大きいです。~~　はぁ、できれば砂漠から出たくないんですが、~~　旅に出たフェネックのことが気になります。~~　誰か、一緒に旅をしてくれる子がいたらと思います。~~　紹介してくれますか？　はぁ……」''
+文章
+
+ＣＶ：松﨑菜々（けもフレ３）
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|これは…ジェネットが走りまわる音ですね~~はぁ、相変わらず元気ですね…|
+|^|はぁ…　歩き疲れました~~隊長、布団ってやつはどこですか？|
+|^|フェネックは今、どこにいるんですかね~~あの子があんなに探検好きになるなんて…|
+|^|やっぱり夜の方が好きですね…~~涼しいし、静かだし…|
+|^|カニクイアライグマ、他の子の心配ばかりして…~~自分の心配をしてほしいですね、はぁ…|
+|!固定|　|
+|^|　|
+|^|　|
+|^|　|
+|!すやすや|　|
+|^|　|
+|^|　|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|　|
+|^|　|
+|!WAVE移行|元気な方達ですね　|
+|^|動き回るのは慣れてないんですよね　|
+|!クエスト終了|やっと終わりましたか... では帰ります|
+|^|　|
+|!フラッグ選択| 仕方ないですね|
+|^| まあいいですよ |
+|!けもコーラス|　|
+|^|　|
+|^|　|
+|^|　|
+|!攻撃|[''通常攻撃'']|
+|^|それっ！　|
+|^| 覚悟！　|
+|^|えい！　|
+|^|いきます！　|
+|^|[''とくいわざ'']|
+|^|早く終わらせたいので！|
+|^|手加減しませんよ！　|
+|^|面倒ですね... | 
+|^|さようなら！　|
+|!ダメージ|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|[''強攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|なるほどぉー　|
+|^|びっくりです　|
+|^|いいと思いますよー　|
+|^|　|
+|!どく状態| 今から、フェネックとの違いを紹介しま~す！|
+|^| 砂山発見~！ただいまー|
+|!ギブアップ|[''セルリアン戦'']|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|　|
+|^|　|
+|!けものミラクル　|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル後|　|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**カニクイアライグマ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){あなたと一緒なら楽できそうですねぇ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9w69qNcsUA.png,right){あんたが頑張ってるところみたいのさぁ}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){相変わらず素早いですね}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9w69qNcsUA.png,right){なんでもスマートにこなせるのさ}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){動き疲れました～　はぁ～}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9w69qNcsUA.png,right){珍しくたーくさん動いてたのさー}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){くぁー…砂漠で休みたいです…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9w69qNcsUA.png,right){今は休んでていいのさぁ！}|
+|}
+[[%%%カニクイアライグマ　セリフ集%%%>カニクイアライグマ#serifu]]
+
+**ジェネット
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){仕方ないですね…やりますか}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){うん、やっちゃおう！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){どうやらまだいるようです}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){このままいっちゃうよ}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){たまには動いてみるものですね}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){大活躍だったね！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){お家に…帰りたくなってきました…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){大丈夫！すぐ帰れるよ！}|
+|}
+[[%%%ジェネット　セリフ集%%%>ジェネット#serifu]]
+
+**オグロスナギツネ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){はぁ…今日も元気そうでなによりです}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,right){うん！オジロスナギツネも元気そうだね！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){後は全部任せます}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,right){えー？オジロスナギツネも頑張ってー}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){頭を使う勝負は得意なので}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,right){オジロスナギツネは天才だもんね！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jFwJaw8Btm.png){頑張りすぎました…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,right){今は休んで！}|
+|}
+[[%%%オグロスナギツネ　セリフ集%%%>オグロスナギツネ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|どうも、オジロスナギツネです~~はあ…人前に出るのって疲れますね…~~砂漠に帰りたくなってきましたよ|
+|!ログインボーナス|　|
+|^|　|
+|!なかよしレベルアップ|あなたといっしょにいるのは楽しいですよ~~まぁ…砂漠からでたかいがありました|
+|!レベルアップ|　|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|　|
+|!けも級アップ|　|
+|!ミラクルレベルアップ|　|
+|!フォトポケット開放|　|
+|!着替え|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(たのしい！)|　|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|　|
+|^|　|
+|^|　|
+|!アシスタント選択|砂漠から出るんですか～？んー仕方ないですね　|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9w69qNcsUA.png,70)>カニクイアライグマ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,70)>ジェネット#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7drIXaS3S.jpg,70)>オグロスナギツネ#serifu]]|
+
+*実際の動物について
+ ''北アフリカやアラビア半島の砂漠地帯、藪地などに暮らしています。~~耳が大きく足裏が体毛で覆われるなどフェネックと特徴が似ており、生息地も一部かぶっています。~~間違われやすい２種ですが、オジロスナギツネはフェネックより体が大きく、尻尾の先が白いのが見分けるポイントです。''
+文章
+*その他
+-[[オジロスナギツネ(フォト)]]
+-[[オジロスナギツネ　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M59aC7LmlL.png,50%)
+**特別衣装
+***マリンなのだ！水着
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a028fe834122d160.jpg,50%)
+
+***4周年！ハッピーラッキーTシャツ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e9f1e71c770f4a1c.jpg,50%)
+
+//***パーティドレス
+//[+]&color(#ff0000){''ネタバレ注意！''}
+//&attachref(50%)
+//[END]
+
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/87DRNmmmY6.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GFPjCxnlVC.webm){400,240}
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MeTnY9LH2N.webm){400,240}

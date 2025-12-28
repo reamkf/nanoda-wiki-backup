@@ -1,0 +1,405 @@
+[+]目次
+#contents(2)
+[END]
+*トナカイ
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/R4PIoGiI99.png,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RxgBHa1x86.jpg,50%)
+// 『サンタ服』込み
+// [END]
+// [+]LV90超
+// [[けものフレンズ3 #225 443>https://krsw.5ch.net/test/read.cgi/gamesm/1594211344/443]]
+// [END]
+// [+]LV99
+// &ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wCGW8Kfpdx.99.jpg,50%)
+// [[けものフレンズ3 #240 &gt;&gt;72より>https://krsw.5ch.net/test/read.cgi/gamesm/1596170984/72]]
+// -サンタ服・星6衣装により体力＋300、攻撃＋150、守り＋75補正あり。
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆3|32403|14262|5137|2791|1.0|20|center:size(9):&color(#009e25){''フレンドリー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|41142|18113|6525|3538|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|43482|19144|6896|3739|^|^|^|
+//|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+//|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+// 
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|◯月招待||!bgcolor(#dcdcdc):実装|19/12/22、イベ配布~~20/04/27、◯月招待|
+// 
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|2枚|－|+5.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|1枚|15|+5.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|30,20|+6.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|みんな笑顔にな～れっ！|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|味方全体のたいりょくを33%回復し~~ひやひや状態を解除する|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Try!!]}|>|>|味方全体のたいりょくを39%回復し~~フレンドリー（緑）属性の味方のひやひや状態を解除する|
+|>|>||
+|!とくいわざ|全力雪かき|相手単体に40%×3のダメージを与える|
+|!たいきスキル|このへんかなぁ？|ランダムな味方2体にいずれかの効果を付与する~~与ダメージ10%増加、被ダメージ10%減少(2ターン)~~発動率：60%　発動回数：3|
+|!とくせい|寒さなんてへっちゃら！|毎ターンたいりょくが3%回復する~~さらに地形が寒冷地の場合、与ダメージが10%増加し~~被ダメージが10%減少する|
+|!キセキとくせい|銀世界を駆け回ろう|フレンドリー（緑）属性の味方のMPが毎ターン1増加する~~寒冷地の場合は毎ターン2増加する|
+|!なないろとくせい|しあわせをお届け♪|フレンドリー(緑)属性の味方の与ダメージが10％増加する~~さらに地形が寒冷地の場合~~追加でフレンドリー(緑)属性の味方の与ダメージが10％増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~毎ターンMPが2増加する~~&color(,#f3f3fe){(変化後)~~毎ターンMPが&color(#ff0000){3}増加する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+
+※2019/12/25メンテナンスでとくせいの名称が「聖夜の夜に」から変更された
+
+*戦闘について
+12月のクリスマスイベントにて配布された☆3フレンズ。
+◯月しょうたい状以外での配布フレンズとしては、最初に貰えた[[トキ]]以来である。
+
+能力はやや攻撃高めのバランス型。寒冷地ならとくせいが発動するので一回り強くなる。
+フレンドリー属性なので[[ヘラジカ]]や[[アルパカ・スリ]]と組めれば強化されるが、その枠としてはキセキとくせいで全体強化を行える[[ドール]]が壁となる。
+
+ミラクルの回復性能としては[[マイルカ]]の上位互換だが[[フェネック]]に比べると劣る感じ。
+ひやひや解除がついているが、自身はひやひや耐性を持っていないし、需要的にもコスパてきにも微妙。
+
+どうしても現状趣味という感じになってしまうが、必要最低限のけもステはあるので難易度げきむず等でなければ十分使えるだろう。
+
+4月ショップ招待にて復刻されたのだが、野生開放の際に一部専用の素材を必要とする。
+%%そしてその素材が&color(#ff0000){現状入手手段が存在しない}。%%いつのまにかラッキーメダルで交換できるようになった。ただしそれなりの枚数のメダルが必要。
+またフォトポケ成長も可能になったが、配布された40枚の『期間限定〇月しょうたい券』を全て使ってやっと1ポケ。
+[+]『期間限定〇月しょうたい券』対象の他のフレンズと比較して
+-☆4のカピバラやヒトコブラクダ、フタコブラクダならポケット2つぶん交換しても10枚余る。
+--25枚で☆4フレンズしょうたい券と交換もできるため、☆4券と☆4フレンズの石1個という取り方もできる。~~トナカイのポケットを1つ開けるということは、このチャンスを捨てるということでもある。
+-☆3のクジャクやヒツジ、オオタカは大掃除で石が出る可能性があるため、ポケットは比較的開けやすい。
+--トナカイのみ大掃除で石が出ない。現状トナカイの輝石入手先はこの期間限定〇月しょうたいのみ。
+…すごく言いにくいことだが、新規隊長がフレンドリー属性の回復要員を求めるなら、[[シナウスイロイルカ]]の方が色々な面で役に立つだろう。
+[END]
+**スキル詳細
+[+]
+**けものミラクル：みんな笑顔にな～れっ！
+ ''味方全体のたいりょくを39%回復し~~ひやひや状態を解除する~~''
+ソリに乗って上空からプレゼントをばらまく。
+
+全体回復系ミラクルとしては倍率はそこまで高くない。強化しても1～2％ずつしか伸びないため、ミラクル強化の優先順位は低め。
+
+[[フェネック]]はミラクルLv1でも40％なので回復性能はあちらが上。
+ミラクルで合計75％の回復ができる上、たいきスキル等でも回復を振りまく[[ジェンツーペンギン]]、与ダメバフと共に吸収効果を付与する[[オーストラリアデビル]]などもいるため、
+フレンドリー染めでもなければ回復要員として連れて行く価値は薄い。
+
+ひやひや状態の解除もできるが、そもそもトナカイ自身はひやひや耐性を持っておらず、肝心な時にミラクルを使えないこともある。追加効果はオマケ程度に考えよう。
+そもそも解除のためにミラクルを撃つこと、そのためにトナカイを編成することのコスパの面でも正直微妙。
+2024/05/09の上方修正により解除がフレンドリー属性限定から属性不問に修正されたが、正直そこが変わってもあんまり…。
+
+余談だがミラクルLv5における倍率は39％と記載されているが、実際は39.6％ほどである。
+ちなみにミラクル+は41.25％で、Lv1時（33％）の25％増しである。
+
+**とくいわざ：全力雪かき
+ ''相手単体に40%×3のダメージを与える~~''
+手に持った武器を振り回し、相手に3回ダメージを与える。
+
+合計120％、追加効果なしのよくあるタイプのとくいわざ。
+
+多段攻撃に共通することだが、ちからくらべなどでは相手のHP条件系のとくせいに引っ掛かり、回復やダメージカットを誘発してしまうことも。
+キセキ解放済みの[[シロナガスクジラ]]に対しては、火力を中途半端に上げると逆に耐えられてしまう可能性もある。詳細はシロナガスクジラのキセキとくせいの項を参照。
+
+**たいきスキル：このへんかなぁ？
+ ''ランダムな味方2体にいずれかの効果を付与する~~与ダメージ10%増加、被ダメージ10%減少（2ターン）~~発動率：60%　発動回数：3回~~''
+周囲のにおいを探るような行動をとる。
+
+書き方がよくわかりにくいが、与ダメバフをメンバーの内誰か1人、被ダメバフを同様にメンバー内の誰か一人に付与するというもの。
+同じフレンズに与ダメ被ダメバフが両方乗ることもあるが、2人に与ダメバフが1つずつ付いたり、一人に与ダメバフが2つ付くことはない。
+2ターン持続するので、連続で発動すれば一人に与ダメバフが2つ（残り2ターンのものと残り1ターンのものが）付くことはある。
+・・・あるのだが、こちらの行動が一通り終わった後に付与するため、そのタイミングで殴ることはできない。&color(#bbbbbb){残念すぎる。}
+なので実質与ダメバフ1ターン、防御バフ2ターンとなる。
+
+ランダム性が高い効果なので、上手く乗せられればラッキーくらいの感覚で考えよう。
+
+**とくせい：寒さなんてへっちゃら！
+ ''毎ターンたいりょくが3%回復する~~さらに地形が寒冷地の場合、与ダメージが10%増加し、被ダメージが10%減少する~~''
+毎ターン最大値の3％分の体力を回復できるとくせい。
+回復役が倒れてしまっては元も子もないので、少しでも粘れるようになるのは嬉しいところ。
+フレンドリー属性なので[[ジャキーン！]]と合わせると中々の回復量になる。
+
+また寒冷地限定だが、与ダメ被ダメに10％のバフが付く。
+地味に思えるかもしれないが数値的にはスナネコのキセキとくせいと同じであり、思ったより強化される。
+地形に左右されるものの、火力面耐久面を補ってくれるありがたい能力である。
+
+**キセキとくせい：銀世界を駆け回ろう
+ ''フレンドリー（緑）属性の味方のMPが毎ターン1増加する~~寒冷地の場合は毎ターン2増加する~~''
+フレンドリー属性指定の味方MP増加効果。
+寒冷地なら毎ターン2増加になるが、それでも増加量は少なめ。
+自身のActionフラッグ所持数が1枚であり、このキセキとくせいがあっても何かとMPが不足しがち。
+とはいえ条件さえ満たせば全員が恩恵を受けられる貴重な効果。
+完凸しあわせのうたごえが毎ターン4増加なので、合わせるのもいいだろう。
+**なないろとくせい：しあわせをお届け♪
+ ''フレンドリー(緑)属性の味方の与ダメージが10％増加する~~さらに地形が寒冷地の場合~~追加でフレンドリー(緑)属性の味方の与ダメージが10％増加する~~''
+フレンドリー属性のみの与ダメージアップ。
+寒冷地であれば、フレンドリー属性の与ダメージ21%常時増加とかなりのバフ効果を得られる。
+キセキとくせい含め、条件さえ合えば相当な恩恵を受けられるので、地形が寒冷地でフレンドリー属性編成を使うならぜひ彼女を連れていくと良いだろう。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RPOce2YLRh.png,no_link,40){ふうせんアートC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/X3ZZ5PytPT.png,no_link,40){ふうせんアートUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DTq4SU87zN.png,no_link,40){ふうせんアートR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RPOce2YLRh.png,no_link,40){ふうせんアートC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RPOce2YLRh.png,no_link,40){ふうせんアートC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/X3ZZ5PytPT.png,no_link,40){ふうせんアートUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DTq4SU87zN.png,no_link,40){ふうせんアートR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「やっほー、トナカイだよ。~~雪の多いとこで育ったからね、わたしは雪に沈ますに歩けるし、~~角は雪かきにも使える便利技。荷物だってボンボコ運んじゃう。~~そんなトナカイと一緒なら、雪深い世界も楽しく遊べるよ！~~わたし今宵こそはと頑張るよー！」''
+クリスマスイメージな赤と緑のオッドアイが特徴のフレンズ。
+イベントでサンタ服が用意されているが、普段の服からして既にクリスマスっぽさ全開なのであんまり意味ないという意見も。
+
+元気いっぱいで前向きな性格をしており、落ち込んでしまったときもすぐに元気を取り戻す。そんなトナカイを見ているとみんなも元気をもらえるんだとか。
+クリスマスについては具体的にはよくわからないが何か感じるものがあるようで、みんなを楽しませるためのパーティーを開く。
+それ以外でもみんなに楽しんでもらうのが大好きなようで、得意の雪かきを活かして雪で滑り台を作ったり。
+ただしテンションが上がりすぎると周りが見えなくなってしまい暴走気味になってしまうことも…。
+
+当然だがトナカイは実在する動物で、シカの仲間。
+その為かヘラジカとは特に仲が良く、戦闘中の掛け合いも存在する。
+
+数少ないフライ版時代の特徴（ダジャレ）がそのまま継承されているようなフレンズで、第１世代とけもフレ３世代の繋がりを解く鍵となるかも？しれなかったり
+ファイルーズあいと言う人気声優、独特な台詞などからキャラクターとしては個性が強い。上記のように戦闘性能こそ恵まれていないが、魅力は多い。
+この手の季節キャラは他のソシャゲだとクリスマス期にしか登場しないケースもあるが、トナカイの場合わりと年中時期を問わずイベントやストーリーで絡んでくるのも特徴。
+
+ＣＶ：ファイルーズあい　（けもフレ３）
+　　　長妻樹里　　　　　（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|!通常|はーい！何かあった？|
+|^|くんくん…おいしそうーな匂い…！|
+|^|雪降らないかなー|
+|^|ゆっきかーき、ゆっきかーき　楽しいなぁっと♪|
+|^|ちょっとホッカイチホーまで行ってこようかなー|
+|!固定|どしたの隊長？|
+|^|ふんふんふーん♪ふんふんふーん♪|
+|^|よーっし！じゃんじゃん雪かきしちゃうぞー！|
+|^|ソリに乗ってれっつごー！|
+|!すやすや|うぅ～ん… 急がなきゃ…|
+|^|うーん… お星さまが… ちかい…|
+|^|すぅ…すやぁ…雪がいっぱーい…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|!クエスト開始|おっまたせー！|
+|^|さーて、張り切ってやっちゃうぞー！|
+|!WAVE移行|はーい　トナカイが通りますよ|
+|^|えっさ　ほいさ|
+|!クエスト終了|よーっし！雪かき終わりー！|
+|^|わーい！わーい！隊長、見ててくれた？|
+|!フラッグ選択|はーい！|
+|^|うん！|
+|!けもコーラス|みんなでやれば、あっという間だね|
+|^|オッケー　あわせるよー|
+|^|せーのでいっちゃおー！|
+|^|力が溢れてくるね|
+|!攻撃|[''通常攻撃'']|
+|^|とりゃあ！|
+|^|てやー|
+|^|よいしょー！|
+|^|いっくよー|
+|^|[''とくいわざ'']|
+|^|よいっしょー！|
+|^|これで　どうだー！|
+|^|えいっ　えいっ|
+|^|とう！　たあ！|
+|!ダメージ|[''通常攻撃'']|
+|^|いたぁ…|
+|^|うっ…|
+|^|[''強攻撃'']|
+|^|うぅ…いったたたたた…|
+|^|きゃあっ！|
+|^|[''ちからくらべ'']|
+|^|きゃ|
+|^|ひゃ|
+|^|わあ！|
+|^|あっ|
+|!どく状態|ふぅ…　はぁ…|
+|^|ちょっと疲れちゃったかも…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|なんだか寒いね…|
+|^|[''ちからくらべ'']|
+|^|次は雪かき対決にしようよ|
+|^|はぁ…　全然だねー|
+|^|もっと角を鍛えないと…|
+|^|はぁ…　強いねー|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|ありがとうね！|
+|^|何度でも立ち上がるよ！|
+|!けものミラクル　|[''等速'']~~（発動時）~~はーい！　みんなのためにがんばるぞー！~~（発動中）~~らんらんらーん♪らんらん、よっと！エヘ♪~~それじゃ、お待ちかねの~~素敵なプレゼントだよ！~~|
+|^                              |[''倍速'']~~（発動時）~~がんばるぞー！~~（発動中）~~らんらんらーん♪らんらんらーん♪~~素敵なプレゼントだよ！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~よーし！えいやーっとやっちゃうぞー！~~（発動中）~~シャンシャンシャーン　っとおーと！~~あぶないあぶない、みんなのプレゼントだもの~~ちゃーんと配らなきゃね！~~|
+|^                              |[''倍速'']~~（発動時）~~やっちゃうぞー！~~（発動中）~~シャンシャンシャーン、シャンシャンシャーン~~ちゃんと配らなきゃね！~~|
+|!けものミラクル後|ふー、間に合ったよー|
+|}
+[END]
+[+]掛け合い
+**ヘラジカ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0tt03hkFKs.png){なーんか楽しくなってきたー}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,right){こらこら油断しちゃだめだよトナカイ}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0tt03hkFKs.png){ちょっと飽きてきたー}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,right){もうちょっとだからがんばろうねトナカイ}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0tt03hkFKs.png){私もやればできるんだからねヘラジカ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,right){うんうんトナカイはやればできる子}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0tt03hkFKs.png){ごめんね…　ヘラジカ…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,right){少しだけ休んでて　無理はだめだよ}|
+|}
+[[%%%ヘラジカ　セリフ集%%%>ヘラジカ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|!加入|やっほー！　私はトナカイ！~~雪をお片付けするのが得意なんだ！~~よろしくね！|
+|!ログインボーナス|はい、私からのプレゼント！|
+|^|明日も来てね！~~渡したときの笑顔が素敵だったから…~~プレゼント用意して待ってる！|
+|!なかよしレベルアップ|いつでも私がいるから安心してね、隊長♪|
+|!レベルアップ|どんな大雪でも、どかしちゃうよ！|
+|!野生解放|ふふふっ　なんだか、すっごくあったかいね|
+|!けも級アップ|こーんな素敵なプレゼントを貰ったら、頑張らなきゃだね！|
+|!ミラクルレベルアップ|もっとも～っと飛べちゃうね！|
+|!フォトポケット開放|そうそう！なんでもいっぱい詰め込みたいよね～！|
+|!着替え|とってもオシャレだよね|
+|^|じゃーん！雪かきにピッタリだね|
+|^|どうかな？似合ってる？|
+|^|お着替え終わり！|
+|!ふれあい|りっぱなツノでしょ～？えい！やぁー！ってしたり、雪かきに便利なんだよー|
+|^|あったか～い毛皮があるから、寒いところもへっちゃらなんだ！|
+|^|隊長が来るのは匂いでわかってたよぉ　ふふーん♪|
+|^|こんにちは隊長！　何か困りごとかな？|
+|!ふれあい~~(撫でる)|あははっ　くすぐったいよ～|
+|^|やったな～？　おかえしだー！|
+|^|ん？　なになに、どうしたの隊長？|
+|!アシスタント選択|はいはーい！なんでも私に任せてね！|
+|!ツリーハウス~~(はて)|ん？|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)|ふぁーーっ　んー…　ちょっと頑張りすぎちゃったかな… |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^|ぅうーー　んっ…　体動かしたいなー |
+|^|ふぁーー…んっ…　雪降らないかなー |
+|^|''[すやすや]''|
+|^|むにゃむにゃ…|
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,70)>ヘラジカ#serifu]]|
+*実際の動物について
+ ''北米ではカリブーとも呼ばれており、季節によって大規模な移動を行います。~~蹄の裏側はくぼんでいて雪を掘るのに適しているほか、縁が鋭く岩や氷に足がかりを作ることができます。''
+トナカイは　哺乳綱 鯨偶蹄目 シカ科 トナカイ属の哺乳類である。
+学名：Rangifer tarandus
+英名：Reindeer
+和名：トナカイ
+別名：カリブー、レインディア、ジュンロク
+
+体長：120cm～220cm
+体重：60kg～300kg
+寿命：8年～15年
+分布：アメリカ合衆国、カナダ、グリーンランド、ノルウェー、フィンランド、ロシア
+食性：草食性の強い雑食性。
+
+トナカイは寒い環境に適応したシカ科の動物で、北半球の寒帯、亜寒帯及びツンドラ地域に広く
+生息している。
+
+ツンドラ地帯にも耐えうる厚い保温性に優れた体毛を持ち、また蹄は雪上で沈むことなく歩ける
+よう、設置面が大きい形状となっている。
+
+群れをなして生活し、春と秋に大規模な移動を行うこともある。その際、１日の最大移動距離は
+５０km程にもなる。
+
+食性は草食性の強い雑食性で、木の葉や白樺の樹皮、雪中の苔等を食べる。
+
+和名の「トナカイ」はアイヌ語の「トゥナカイ」から来ており、日本には野生種は存在しないが、
+サハリン等に居住していたアイヌ民族から伝わったと思われる。
+
+シカ科の動物は、通常雌は角を持たないが、このトナカイだけは雌雄共に角を持っている。
+それは、雄同士の闘争に使われるだけでなく、雪を掘って餌を探すのに必要だからとされる。
+但し、角の大きさは雄の方がより大きなものを持っており、角が生え変わる周期も雄と雌と
+では異なる。雄は春に新しい角が生え始め、冬には抜け落ちる。対して雌は子育てをする冬に
+角が生え、初夏までに抜け落ちる。
+その為、サンタクロースのソリを引くトナカイは、冬季に角のある雌だということになる。
+
+クリスマスの時期によく耳にする「赤鼻のトナカイ」（原曲：Rudolph the Red-nosed Reindeer）
+から赤い鼻をしているイメージがあるが、通常の鼻の色は黒い。
+トナカイの鼻は粘膜の毛細血管の密度が高い為、赤みがかることはあるが、曲の歌詞よように
+真っ赤に見えたり、それが光ったりすることはない。
+
+トナカイは、人間によって半家畜化された動物でもあり、北半球の寒帯地域を中心に古くから
+飼育され、生活に関わってきた。人間が家畜化した動物の中では最も古い部類の一つでもある。
+
+その利用は、食肉、乳の採取、毛皮の利用、ソリを引く為の使役等である。
+トナカイ肉は臭みやクセはなく、あっさりとした味わいで、ラム肉等と比べ食べやすい肉であると
+言える。極寒の北極圏では1万年以上も前からの貴重なタンパク元であるが、本邦では一般的に
+なじみがなく、あまり出回らない肉であり、口にできる場所は限られてくる。
+
+［日本での飼育施設］
+・釧路市動物園　　　（北海道）　　　・幌延町トナカイ観光牧場　（北海道）
+・秋田市大森山動物園（秋田県）　　　・那須どうぶつ王国　（栃木県）
+・多摩動物公園　　　（東京都）　　　・よこはま動物園ズーラシア　（神奈川県）
+・千葉市動物公園　　（千葉県）　　　・東山動植物園　　　（愛知県）
+・神戸どうぶつ王国　（兵庫県）
+
+*その他
+-[[トナカイ(フォト)]]
+-[[トナカイ　フレンズストーリー]]
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5e322e55f13fe9b8.png,50%)
+
+**特別衣装
+***サンタ服
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7be43fdc5babc328.png,50%)
+
+***おそろい服
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QOVCr2AQ6r.PNG,50%)
+[[ヘラジカ]]の☆6衣装の色違い
+
+**アイコン一覧
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XeWdQhxzNe.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/tI9ZLMjYLY.webm){400,240}
+

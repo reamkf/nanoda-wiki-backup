@@ -1,0 +1,442 @@
+[-]目次
+#contents
+[END]
+*おしゃれアクセとは
+2021/03/12の1.9.0アップデートで追加された新要素。
+「おしゃれアクセ」を装備すると見た目（現在は追加エフェクトのみ）とステータスが変化します。
+「おしゃれアクセ」及びその強化に使用する「お手入れキット」は[[すぺしゃるクエスト]]の『太陽の恵みクエスト　おしゃれ！』『期間限定クエスト　おしゃれ！』や
+一部しょうたいの天井のおまけで入手できます。
+
+また、おしゃれアクセの強化に使用する「お手入れキット」は上記クエストや一部しょうたいでPU以外の☆4フレンズを入手した際のおまけとして入手できます。
+
+**注意点など
+-一人のフレンズに対して複数の「おしゃれアクセ」の「持ち主」設定をする事ができます。
+-「持ち主」となっている「おしゃれアクセ」から好きなものを一つ装備できます。
+-「持ち主」となっている「おしゃれアクセ」は「持ち主」のフレンズに自由に装備/取り外しが行えます。
+-&color(#ff0000){''一度「持ち主」を設定すると「持ち主」の変更はできません''}のでご注意ください。
+*おしゃれアクセ一覧
+''※下記リストの能力はLv1のものとなります。''
+{| class="sort filter"
+|center|left|center|center|center|center|left|left|center|c
+|~レアリティ|アクセ名|たいりょく|こうげき|まもり|フラッグ強化|表示タイプ|center:実装|center:参考動画|
+|☆1~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fIhoWrSlof.png ,55,no_link)|きらめくゆびわ|750|200|-|&color(#ffffff,#1089e5){Action!}＋1.6%|常時|全員配布(2個)~~太陽の恵みクエストおしゃれその1(ランダムドロップ)~~すぺしゃるクエスト期間限定クエストおしゃれ！(ランダムドロップ)|[[参考動画>#ring_kirameku]]|
+|☆1~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OLJMyvGfLl.png ,55,no_link)|星のネックレス|750|200|-|&color(#ffffff,#1089e5){Action!}＋1.6%|バトル中|太陽の恵みクエストおしゃれその1(ミッション報酬・ランダムドロップ)~~すぺしゃるクエスト期間限定クエストおしゃれ！(ミッション報酬・ランダムドロップ)|[[参考動画>#necklace_star]]|
+|☆2~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dCN0kCHbXB.png ,55,no_link)|またたくブローチ|900|300|-|&color(#ffffff,#1089e5){Action!}＋2.4%|バトル中|太陽の恵みクエストおしゃれその2(ミッション報酬・ランダムドロップ)~~すぺしゃるクエスト期間限定クエストおしゃれ！(ランダムドロップ)|[[参考動画>#broach_matataku]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_CKYlMjU9A.png ,55,no_link)|サクラのネックレス|1080|450|-|&color(#ffffff,#1089e5){Action!}＋3.6%|バトル中|2021年4月開催の一部しょうたいの天井のおまけ|[[参考動画>#necklace_star]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/gmy9lBdJw_.png ,55,no_link)|音符のゆびわ|1080|450|-|&color(#ffffff,#1089e5){Action!}＋3.6%|常時|2021年5月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_onpu]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_t8lOr4NxB.png ,55,no_link)|ばってんブローチ|1080|450|-|&color(#ffffff,#1089e5){Action!}＋3.6%|バトル中|ジャパリ団アクセサリーパック1～3|[[参考動画>#broach_batten]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pRMgIYvNLB.png ,55,no_link)|バラのネックレス|1080|450|-|&color(#ffffff,#1089e5){Action!}＋3.6%|バトル中|2021年6月開催の一部しょうたいの天井のおまけ|[[参考動画>#necklace_bara]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/8jeeBN9hrd.png ,55,no_link)|星のゆびわ|1080|450||&color(#ffffff,#1089e5){Action!}＋3.6%|常時|2021年7月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_star]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypM1xzqK7.PNG ,55,no_link)|水しぶきのブローチ|1080|450|-|&color(#ffffff,#1089e5){Action!}＋3.6%|バトル中|2021年8月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_mizusibuki]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gN0kAUn96V.png ,55,no_link)|ハートのネックレス|1080|450|-|&color(#ffffff,#1089e5){Action!}＋3.6%|バトル中|2021年9月開催の一部しょうたいの天井のおまけ|[[参考動画>#necklace_heart]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1eOK2vQsNg.png ,55,no_link)|はなまるブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|はなまるアニマルアクセサリーパック1~3~~復刻!!はなまるアクセパック|[[参考動画>#broach_hanamaru]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OKST_Sq6Zn.PNG ,55,no_link)|きらめくネックレス|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2021年10月開催の一部しょうたいの天井のおまけ~~-☆4フォークランドカラカラ確定！チケットしょうたい~~-☆4コンゴウインコ確定！チケットしょうたい~~-☆4ウミネコ確定！チケットしょうたい~~-☆4ケルベロス確定！チケットしょうたい~~-☆4クズリ確定！チケットしょうたい~~-☆4トド確定！チケットしょうたい||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hs3c4u39ey.PNG ,55,no_link)|おかしのブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|楽しいハロウィン満喫パック1~3||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MK2koFgYQU.PNG ,55,no_link)|もみじのネックレス|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2021年11月開催の一部しょうたいの天井のおまけ~~-☆4テングコウモリ確定！チケットしょうたい~~-☆4シロヘラコウモリ確定！チケットしょうたい~~-☆4ロバ確定！チケットしょうたい~~-☆4ウンピョウ確定！チケットしょうたい~~-☆4ダイアウルフ確定！チケットしょうたい||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QNopRSFvUT.PNG ,55,no_link)|スノーリング|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2021年12月開催の一部しょうたいの天井のおまけ~~-☆4ホッキョクオオカミ確定！チケットしょうたい~~-☆4ニホンザル確定！チケットしょうたい~~-☆4ホッキョクギツネ確定！チケットしょうたい~~-☆4ブラッザグエノン確定！チケットしょうたい~~-☆4【ブームの予感ですよ？】チベットスナギツネ確定！チケットしょうたい~~-☆4【ニャギっとスタイリッシュ】マヌルネコ確定！チケットしょうたい||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gmy9JfgM5x.PNG ,55,no_link)|とら年だ！がおーっブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|迎春!!トラトラパック1～3||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XAGw22f1ZX.JPG ,55,no_link)|賀正のネックレス|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2022年1月開催の一部しょうたいの天井のおまけ~~-☆4トラ確定！チケットしょうたい~~-☆4コアラ確定！チケットしょうたい~~-☆4オオカワウソ確定！チケットしょうたい||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/keADbVST0Q.PNG ,55,no_link)|想いよ届け！ブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2022年2月開催の一部しょうたいの天井のおまけ~~-☆4フクロネコ確定！チケットしょうたい~~-☆4シマハイイロギツネ確定！チケットしょうたい~~-☆4カコミスル確定！チケットしょうたい~~-☆4【こっわーい悪魔だぞぉ！】タスマニアデビル確定！チケットしょうたい~~-☆4【隻眼の悪魔†】オーストラリアデビル確定！チケットしょうたい~~-☆4サーバル確定！チケットしょうたい~~-☆4セーバル確定！チケットしょうたい||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zZLEGwvQ41.PNG ,55,no_link)|しゃぼんのゆびわ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|常時|2022年3月開催の一部しょうたいの天井のおまけ~~-☆4オオサイチョウ確定！チケットしょうたい~~-☆4ツノサイチョウ確定！チケットしょうたい~~-☆4オランウータン確定！チケットしょうたい~~-☆4【頼れる副隊長】ドール確定！チケットしょうたい~~-☆4【正義の家庭教師】ミーアキャット確定！チケットしょうたい~~-☆4【わっふいわっふーい！】マイルカ確定！チケットしょうたい~~-☆4コヨーテ確定！チケットしょうたい||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bk1lvgdZkw.PNG ,55,no_link)|お祝いのネックレス|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|隊長さんありがとうパック1～3||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6OWIw7HXOr.PNG ,55,no_link)|サクラのゆびわ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|常時|2022年4月開催の一部しょうたいの天井のおまけ~~-☆4ラーテル確定！チケットしょうたい~~-☆4ホッキョクグマ確定！チケットしょうたい~~-☆4ケルベロス確定！チケットしょうたい~~-☆4シヴァテリウム確定！チケットしょうたい~~-☆4パラケラテリウム確定！チケットしょうたい~~-☆4サーベルタイガー確定！チケットしょうたい||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_PBA57ZU97.PNG ,55,no_link)|バラのゆびわ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|常時|2022年5月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EPB_RqHAzK.PNG ,55,no_link)|アジサイのネックレス|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2022年6月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GQaFDDZezm.PNG ,55,no_link)|いかりのゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|2022年7月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dKn78BI1Aa.PNG ,55,no_link)|トロピカルなゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|乗り切れ！サマーパック1～3||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XRhRiMbDFW.PNG ,55,no_link)|ヒマワリのネックレス|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2022年8月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uX7uEZmRfp.png ,55,no_link)|月見のブローチ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2022年9月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bQSldZqZBs.PNG ,55,no_link)|みのりのブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2022年10月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_ywwC0pDfY.png ,55,no_link)|もみじのゆびわ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|常時|2022年11月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5zVyzTVbt_.PNG ,55,no_link)|聖夜のネックレス|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2022年12月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MY1GJCPFso.PNG ,55,no_link)|ギフトボックスのブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|ハッピークリスマスパック1～3||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t9RrqhkFB2.png ,55,no_link)|うさぎ年だ！ぴょんぴょんブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2023年1月開催の一部しょうたいの天井のおまけ~~うさぎ年だ！ぴょんぴょんパック1～3||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/evHftI7c7T.png ,55,no_link)|鏡もちのブローチ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2023年1月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4xYUIJyeU3.png ,55,no_link)|ハートのゆびわ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|常時|2023年2月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VMWxcKjJI2.PNG ,55,no_link)|どきどき！お返しのブローチ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2023年3月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uxD6QhOHHI.png ,55,no_link)|宝石のゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|2023年4月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ih8C9_OwH1.png ,55,no_link)|新緑のゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|2023年5月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zEc0vPEwkt.png ,55,no_link)|アジサイのゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|2023年6月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jjW2BxSsWX.png ,55,no_link)|すいかのブローチ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2023年7月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/38vyMYfsnX.png ,55,no_link)|スートのゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|2023年8月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9wNBUzrgmB.png ,55,no_link)|菊のゆびわ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|常時|2023年9月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uglQU4yWgH.png ,55,no_link)|じゃぱりブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|4周年記念パック1～3~~2023年9月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_japari]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/p2XEsgcZba.png ,55,no_link)|コスモスのネックレス|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2023年10月開催の一部しょうたいの天井のおまけ||
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5yeHsPvIXl.png ,55,no_link)|スポットライトのブローチ|???|-|???|&color(#ffffff,#4cc826){Try!!}+?%|バトル中|2023年11月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_spotlight]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ev2UDV_FlL.png ,55,no_link)|はらえ！ぼんの～のブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|2023年12月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_bonno]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FWNsDcACSd.png ,55,no_link)|雪だるまなたんけんたいブローチ|1080|-|360|&color(#ffffff,#4cc826){Try!!}+3.6%|バトル中|ハッピークリスマスパック1～3|[[参考動画>#broach_yukidaruma]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EG_7KRRbiv.png ,55,no_link)|お年玉だよ！千両箱のネックレス|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|バトル中|2024年1月開催の一部しょうたいの天井のおまけ|[[参考動画>#necklace_otosidama]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EG_7KRRbiv.png ,55,no_link)|テンアゲ↑↑リング|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2024年2月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_tenage]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F4bykoSBPp.png ,55,no_link)|たんぽぽのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2024年3月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_tanpopo]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t0okZ3vBcn.png ,55,no_link)|ジャパまんのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2024年4月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_japaman]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yJsTKBpG0F.png ,55,no_link)|チューリップのブローチ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|常時|2024年5月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_tulip]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/emz03VC2R5.png ,55,no_link)|晴れ渡れ！てるてる坊主のブローチ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2024年6月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_teruteru]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qa5CF5Tl4W.png ,55,no_link)|星空の架け橋ブローチ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|バトル中|2024年7月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_hosizora]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2PitgTFN0j.png ,55,no_link)|夏祭りのゆびわ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|常時|2024年8月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_natumaturi]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RerpgS5Eiq.png ,55,no_link)|みんなでワイワイお祝い会のゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2024年9月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_waiwai]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6uvgfqVFLL.PNG ,55,no_link)|ドッキリ！ハロウィンパーティーのブローチ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|バトル中|2024年10月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_halloween]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/012927cc28f7fd8c.PNG ,55,no_link)|けものグラフィティのブローチ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|バトル中|2024年11月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_kemonography]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vrwkGPARDv.PNG ,55,no_link)|イルミネーションのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2024年12月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_illumination]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c9f9491888d4b46d.PNG ,55,no_link)|へび年だ！「み」を結ブローチ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+?%|バトル中|2025年1月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_hebidosi]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/24f06a9f8ef39fdf.PNG ,55,no_link)|福は～うち！節分のゆびわ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|常時|2025年2月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_hukuwauti]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/13bc8384225f54ca.PNG ,55,no_link)|春を迎えるひな祭りのブローチ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|バトル中|2025年3月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_hinamaturi]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/17712aca71dd0320.PNG ,55,no_link)|ひらひら幻蝶のゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2025年4月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_gentyou]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/35c317f185072f79.PNG ,55,no_link)|初夏にたなびくこいのぼりのブローチ|-|???|???|&color(#ffffff,#ff6b2b){Beat!!!}+?%|バトル中|2025年5月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_koinobori]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0326609c97dc2e6c.PNG ,55,no_link)|あこがれのジューンブライドのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2025年6月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_june_bride]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/614eae1319425708.PNG ,55,no_link)|懐かしのクリームソーダのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2025年7月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_cream_soda]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png ,55,no_link)|PPPブローチ|???|???|???|???|バトル中|2025年8月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_ppp]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png ,55,no_link)|けもの西遊記のゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2025年9月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_saiyuki]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png ,55,no_link)|スプーキーナイトのブローチ|???|???|???|???|常時|2025年10月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_spooky_night]]|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ee4e081c16b47d73.PNG ,55,no_link)|グローラインのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2025年11月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_glow_line]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7c4222c376594229.PNG ,55,no_link)|きらめくオーナメントのゆびわ|-|450|360|&color(#ffffff,#ff6b2b){Beat!!!}+3.6%|常時|2025年12月開催の一部しょうたいの天井のおまけ|[[参考動画>#ring_kirameku_ornament]]|
+|☆3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png ,55,no_link)|大願成就！絵馬のブローチ|???|???|???|???|バトル中|2026年1月開催の一部しょうたいの天井のおまけ|[[参考動画>#broach_ema]]|
+|}
+*おしゃれアクセの強化
+強化したいおしゃれアクセのレア度以上の「お手入れキット」か、''同種の''「おしゃれアクセ」を合成することでおしゃれアクセの強化ができます。
+「お手入れキット」1つにつきレベルが1上がります。レベルの最大は10。
+同種のおしゃれアクセを合成した場合は、強化素材となったアクセのレベルぶんレベルが上がります。
+
+なお、強化されるのはステータスのみで、見た目の変化はありません。
+**お手入れキット一覧
+|center|center|left|center|center|center|left|c
+|r[bgcolor(#dcdcdc)]:~レアリティ|アクセ名|&align(center){入手}|
+|☆1~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1UgFJhhqoT.png,55,no_link)|お手入れキット☆1|全員配布(1個)~~太陽の恵みクエストおしゃれその1(ランダムドロップ)~~すぺしゃるクエスト期間限定クエストおしゃれ！(ランダムドロップ)|
+|☆2~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pKG09EPEb8.png,55,no_link)|お手入れキット☆2|太陽の恵みクエストおしゃれその1(確定ドロップ)~~同クエストその2(ランダムドロップ)~~すぺしゃるクエスト期間限定クエストおしゃれ！(ランダムドロップ)|
+|☆3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/kXgdcjl6v3.png,55,no_link)|お手入れキット☆3|太陽の恵みクエストおしゃれその2(確定ドロップ)~~2021年4月以降開催の一部しょうたいのPU外☆4フレンズ入手時のおまけ~~一部課金パックのおまけ|
+
+**強化後のステータスについて
+Lv.5ステータス = Lv.1ステータス×1.5
+Lv.10ステータス = Lv.1ステータス×2
+その間のLvは等分と思われます。
+
+[+]ステータス詳細
+//※一部推測値を含みます。
+全て実測済み
+
+☆1たいりょく/こうげき/Action強化型
+|left|right|right|right|right|right|right|right|right|right|right|c
+|r[bgcolor(#e6e6e6)]:Lv|1|2|3|4|5|6|7|8|9|10|
+|たいりょく|750|843|937|1031|1125|1200|1275|1350|1425|1500|
+|こうげき|200|225|250|275|300|320|340|360|380|400|
+|Actionダメージアップ|1.6%|1.8%|2.0%|2.2%|2.4%|2.5%|2.7%|2.8%|3.0%|3.2%|
+|けもステ|1200.0|1349.4|1499.6|1649.8|1800.0|1920.0|2040.0|2160.0|2280.0|2400.0|
+
+☆2たいりょく/こうげき/Action強化型
+|left|right|right|right|right|right|right|right|right|right|right|c
+|r[bgcolor(#e6e6e6)]:Lv|1|2|3|4|5|6|7|8|9|10|
+|たいりょく|900|1012|1125|1237|1350|1440|1530|1620|1710|1800|
+|こうげき|300|337|375|412|450|480|510|540|570|600|
+|Actionダメージアップ|2.4%|2.7%|3.0%|3.3%|3.6%|3.8%|4.0%|4.3%|4.5%|4.8%|
+|けもステ|1620.0|1820.6|2025.0|2225.6|2430.0|2592.0|2754.0|2916.0|3078.0|3240.0|
+
+☆3たいりょく/こうげき/Action強化型
+|left|right|right|right|right|right|right|right|right|right|right|c
+|r[bgcolor(#e6e6e6)]:Lv|1|2|3|4|5|6|7|8|9|10|
+|たいりょく|1080|1215|1350|1485|1620|1728|1836|1944|2052|2160|
+|こうげき|450|506|562|618|675|720|765|810|855|900|
+|Actionダメージアップ|3.6%|4.0%|4.5%|4.9%|5.4%|5.7%|6.1%|6.4%|6.8%|7.2%|
+|けもステ|2214.0|2490.0|2766.0|3042.0|3321.0|3542.4|3763.8|3985.2|4206.6|4428.0|
+
+☆3たいりょく/まもり/Try強化型
+|left|right|right|right|right|right|right|right|right|right|right|c
+|r[bgcolor(#e6e6e6)]:Lv|1|2|3|4|5|6|7|8|9|10|
+|たいりょく|1080|1215|1350|1485|1620|1728|1836|1944|2052|2160|
+|まもり|360|405|450|495|540|576|612|648|684|720|
+|Tryダメージアップ|3.6%|4.0%|4.5%|4.9%|5.4%|5.7%|6.1%|6.4%|6.8%|7.2%|
+|けもステ|1944.0|2187.0|2430.0|2673.0|2916.0|3110.4|3304.8|3499.2|3693.6|3888.0|
+
+☆3こうげき/まもり/Beat強化型
+// &color(red){※赤文字は推測値}
+|left|right|right|right|right|right|right|right|right|right|right|c
+|r[bgcolor(#e6e6e6)]:Lv|1|2|3|4|5|6|7|8|9|10|
+|こうげき|450|506|562|618|675|720|765|810|855|900|
+|まもり|360|405|450|495|540|576|612|648|684|720|
+|Beatダメージアップ|3.6%|4.0%|4.5%|4.9%|5.4%|5.7%|6.1%|6.4%|6.8%|7.2%|
+|けもステ|2070.0|2328.0|2586.0|2844.0|3105.0|3312.0|3519.0|3726.0|3933.0|4140.0|
+[END]
+*限定おしゃれアクセの再入手機会について
+(2023/12/28更新)
+-天井アクセ
+--2022年1月17日に販売の「フレンズおめかしパック」でアクセが復刻し、以降定期的に販売されています。ラインナップは順次追加されています。
+--%%%[[キラキラ交換所]]%%%にバラのネックレス、音符のゆびわ、サクラのネックレスが追加されました。(各1回限り・交換期限なし)
+-課金パック限定のアクセ
+--「はなまるブローチ」「ばってんブローチ」は数か月に一度再販されています。
+--干支関連、季節系のアクセも復刻されていますが、確実ではないようです。
+*おしゃれアクセのエフェクト
+おしゃれアクセのエフェクトの種類は大別するとゆびわタイプ(○○ゆびわ、○○リング)、ネックレスタイプ(○○ネックレス)、ブローチタイプ(○○ブローチ)の3つのタイプに分類されます
+
+**ゆびわタイプ
+ゆびわタイプはバトル、ホーム、ツリーハウス問わず特定のエフェクトがフレンズの周囲に一定周期で発生します。発生する量はランダムです。
+常時表示しているためどのフレンズでも相性は良いですが、比較的控えめなエフェクトになります。
+また、例外としてバトル中フレンズが状態異常になっている場合はエフェクトが発生しません。
+
+***参考動画
+&aname(ring_kirameku)
+[+]『きらめくゆびわ』
+バトル開始
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wNYizLKjkw.webm){400,240}
+バトル中
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3_dW7itMqC.webm){400,240}
+リザルト
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CxqELvT0z5.webm){400,240}
+ホーム
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/8reetGwGNV.webm){400,240}
+ふれあい画面
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jkVHkB0G8x.webm){400,240}
+[END]
+&aname(ring_onpu)
+[+]『音符のゆびわ』
+バトル開始
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ltKfCdmq1A.webm){400,240}
+バトル中
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/u67jZ1jkyZ.webm){400,240}
+リザルト
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zEOt_IsAjm.webm){400,240}
+ホーム
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oXIHi_N5MT.webm){400,240}
+ふれあい画面
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_iE__74AMI.webm){400,240}
+[END]
+&aname(ring_star)
+[+]『星のゆびわ』
+バトル開始
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KobqoagHdz.webm){400,240}
+バトル中
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vlo2jSNTp3.webm){400,240}
+リザルト
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/P6B0QHKBf5.webm){400,240}
+ホーム
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sY_LgUsmPO.webm){400,240}
+ふれあい画面
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/YkT8pEwqZ3.webm){400,240}
+[END]
+&aname(ring_tenage)
+[+]『テンアゲ↑↑リング』
+バトル開始/バトル中/リザルト
+&twitter(1750385255805268149)
+
+ふれあい画面
+&twitter(1750385717665222955)
+[END]
+&aname(ring_tanpopo)
+[+]『たんぽぽのゆびわ』
+バトル中
+&twitter(1763068707226734897)
+
+ふれあい画面
+&twitter(1763068172167676080)
+[END]
+&aname(ring_japaman)
+[+]『ジャパまんのゆびわ』
+バトル中
+&twitter(1773214684780331413)
+
+ふれあい画面
+&twitter(1773214816196313207)
+[END]
+&aname(ring_natumaturi)
+[+]『夏祭りのゆびわ』
+バトル中
+&twitter(1818878072776802758)
+
+ふれあい画面
+&twitter(1818878548561821984)
+[END]
+&aname(ring_waiwai)
+[+]『みんなでワイワイお祝い会のゆびわ』
+ふれあい画面
+&twitter(1829024933906919576)
+
+バトル中
+&twitter(1829025209418236072)
+[END]
+&aname(ring_illumination)
+[+]『イルミネーションのゆびわ』
+ふれあい画面
+&twitter(1862059607058710943)
+
+バトル中
+&twitter(1862059906888614310)
+[END]
+&aname(ring_hukuwauti)
+[+]『福は～うち！節分のゆびわ』
+ふれあい画面
+&twitter(1884830399475724302)
+
+バトル中
+&twitter(1884830682100404268)
+[END]
+&aname(ring_gentyou)
+[+]『ひらひら幻蝶のゆびわ』
+ふれあい画面
+&twitter(1905185524601467358)
+
+バトル中
+&twitter(1905185764742426882)
+[END]
+&aname(ring_june_bride)
+[+]『あこがれのジューンブライドのゆびわ』
+&twitter(1928410466885230608)
+[END]
+&aname(ring_cream_soda)
+[+]『懐かしのクリームソーダのゆびわ』
+&twitter(1940699284409635203)
+[END]
+&aname(ring_saiyuki)
+[+]『けもの西遊記のゆびわ』
+&twitter(1960931349906313219)
+[END]
+&aname(ring_glow_line)
+[+]『グローラインのゆびわ』
+&twitter(1983822433309299019)
+[END]
+&aname(ring_kirameku_ornament)
+[+]『きらめくオーナメントのゆびわ』
+&twitter(1993969293684560269)
+[END]
+
+**ネックレスタイプ
+ネックレスタイプはバトル中特定のエフェクトがフレンズの足元から一定量発生します。バトル中のみですがバトル開始時とリザルト画面でもエフェクトが表示されます。
+注意点としてエフェクトはフレンズが攻撃モーションに入った地点の足元に発生する(一部例外あり？)ため、画面外から突撃するタイプの攻撃を持つフレンズとは若干相性が悪いです。
+
+***参考動画
+&aname(necklace_star)
+[+]『星のネックレス』
+バトル開始
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/tvP1RosEqe.webm){400,240}
+バトル中
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/NEhYKAuDGU.webm){400,240}
+リザルト
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/csIhb_8NKQ.webm){400,240}
+[END]
+&aname(necklace_sakura)
+[+]『サクラのネックレス』
+バトル開始
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/x8VXB9WAuD.webm){400,240}
+バトル中
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5O8uYtXwHZ.webm){400,240}
+リザルト
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ljPYGjFWl2.webm){400,240}
+[END]
+&aname(necklace_bara)
+[+]『バラのネックレス』
+バトル開始
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/O_5OfdsjfP.webm){400,240}
+バトル中
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/xbaaQrE9ki.webm){400,240}
+リザルト
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8laylVxLcd.webm){400,240}
+[END]
+&aname(necklace_heart)
+[+]『ハートのネックレス』
+バトル開始
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/HBS4ByN5pQ.webm){400,240}
+バトル中
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZgOFMQa4GF.webm){400,240}
+リザルト
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ljtJ1b1Aa6.webm){400,240}
+[END]
+// 『きらめくネックレス』
+//[+]
+//バトル開始
+//&video(){400,240}
+//バトル中
+//&video(){400,240}
+//リザルト
+//&video(){400,240}
+//[END]
+//
+//
+&aname(necklace_otosidama)
+[+]『お年玉だよ！千両箱のネックレス』
+バトル開始
+&twitter(1739937002919768064)
+
+バトル中
+&twitter(1739937190464180234)
+
+リザルト
+&twitter(1739937382739448092)
+[END]
+
+**ブローチタイプ
+ブローチタイプはバトル中の攻撃時に特定のエフェクトが画面全体に発生します。エフェクトが派手な分発生タイミングは一番少ないです。
+画面全体に発生するためミラクル等で派手なエフェクトが発生するフレンズとも相性が良いです。
+
+***参考動画
+&aname(broach_matataku)
+[+]『またたくブローチ』
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z4sLrBEBKf.webm){400,240}
+[END]
+&aname(broach_batten)
+[+]『ばってんブローチ』
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jn2OlYO7P4.webm){400,240}
+[END]
+&aname(broach_mizusibuki)
+[+]『水しぶきのブローチ』
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Zx0A5msFeG.webm){400,240}
+[END]
+&aname(broach_hanamaru)
+[+]『はなまるブローチ』
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hz7cPU9S64.webm){400,240}
+[END]
+&aname(broach_japari)
+[+]『じゃぱりブローチ』
+&twitter(1705590850041082312)
+[END]
+&aname(broach_spotlight)
+[+]『スポットライトのブローチ』
+&twitter(1720042817169564130)
+[END]
+&aname(broach_bonno)
+[+]『はらえ！ぼんの～のブローチ』
+&twitter(1732688648355885290)
+[END]
+&aname(broach_yukidaruma)
+[+]『雪だるまなたんけんたいブローチ』
+&twitter(1738855684803023206)
+[END]
+&aname(broach_tulip)
+[+]『チューリップのブローチ』
+&twitter(1783725442626896088)
+[END]
+&aname(broach_teruteru)
+[+]『晴れ渡れ！てるてる坊主のブローチ』
+&twitter(1796105769978318876)
+[END]
+&aname(broach_hosizora)
+[+]『星空の架け橋ブローチ』
+&twitter(1806198523500618073)
+[END]
+&aname(broach_halloween)
+[+]『ドッキリ！ハロウィンパーティーのブローチ』
+&twitter(1841766391701254640)
+[END]
+&aname(broach_kemonography)
+[+]『けものグラフィティのブローチ』
+&twitter(1851914160831107190)
+[END]
+&aname(broach_hebidosi)
+[+]『へび年だ！「み」を結ブローチ』
+&twitter(1872207473995645254)
+[END]
+&aname(broach_hinamaturi)
+[+]『春を迎えるひな祭りのブローチ』
+&twitter(1894983299497631782)
+[END]
+&aname(broach_koinobori)
+[+]『初夏にたなびくこいのぼりのブローチ』
+&twitter(1917806437058695587)
+[END]
+&aname(broach_ppp)
+[+]『PPPブローチ』
+&twitter(1950783985266635129)
+[END]
+&aname(broach_spooky_night)
+[+]『スプーキーナイトのブローチ』
+&twitter(1970776972901958035)
+[END]
+&aname(broach_ema)
+[+]『大願成就！絵馬のブローチ』
+&twitter(2004116656600076618)
+[END]

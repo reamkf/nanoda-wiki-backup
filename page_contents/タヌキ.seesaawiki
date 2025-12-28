@@ -1,0 +1,403 @@
+[+]目次
+#contents(2)
+[END]
+*タヌキ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XPrw_tOs4b.png,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GSxs0IQtxx.png,50%)
+// ([[けものフレンズ3 #166 &gt;&gt;716より>https://krsw.5ch.net/test/read.cgi/gamesm/1587643707/716]])
+// [END]
+// [+]LV.99(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|41983|17223|6764|3956|1.0|20|center:size(9):&color(#009e25){''フレンドリー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|48857|20064|7881|4581|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|51639|21206|8330|4842|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|1.2|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+// 
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|20/02/07、恒常|
+// 
+// ||center:|center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|+6.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|25,10|+6.0%|+7.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|30,20|+5.0%|+6.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|ぽんぽこ茶釜アタック！|必要MP90|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に450%のダメージを与える|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Action!]}|>|>|相手単体に630%のダメージを与える|
+|>|>||
+|!とくいわざ|バチバチ太鼓|相手単体に29%×4のダメージを与える~~相手の属性がリラックス（青）の場合~~低確率でくらくら状態にする（1ターン）|
+|!たいきスキル|タヌキ寝入り|狙われにくくなり与ダメージが20%増加する（2ターン）~~さらにMPが20増加する~~発動率：40%　発動回数：4回|
+|!とくせい|寝入りません！|すやすや耐性（高）が増加する~~さらにたいりょくが30%以下になったとき20%回復する~~（発動回数：1回）|
+|!キセキとくせい|想いをカタチに|与ダメージが10%増加する~~さらにくらくら状態の相手に与ダメージが30%増加する|
+|!なないろとくせい|たよれる見習いガイドさん|自身の与ダメージが5%増加し、被ダメージが5%減少する~~さらに自身がギブアップ状態でないとき~~フレンドリー(緑)属性の味方の与ダメージが5%増加し~~すやすや耐性(中)が増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~たいりょくが30%以下のとき味方全体のMPが5増加する~~（発動回数：1回）~~&color(,#f3f3fe){(変化後)~~たいりょくが&color(#ff0000){50%}以下のとき味方全体のMPが5増加する~~（発動回数：1回）}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+アライさん隊長日誌3章にて登場した、☆4恒常フレンズ。
+フレンドリー属性の恒常☆4フレンズはリリース以来の追加となる。
+けもステータスとしては体力寄りのバランス型で、[[ヘラジカ]]に近い。
+
+スキルの特徴としては必要MP90の単体けものミラクル。
+一般的なものと比べ1割ほど強いので、ボスセルリアン戦での活躍が期待できる。
+こうげきは若干低いものの、フレンドリー属性なため周りから強化を受けやすい。
+とくせいでMPを溜めつつ火力を高められるが、確率が低いので発動したらラッキー程度で。
+
+もう１つの特徴がくらくら中の敵相手に強力な補正がかかるキセキとくせい。
+けものミラクルの威力が更に期待できるが、自力でのくらくら付与は属性限定かつ低確率のBeat攻撃のみ。
+継続ターン的にこちらも他フレンズと協力したいところ。
+高確率で決まる[[アフリカニシキヘビ]]のけものミラクルや、フレンドリーPTの弱点補完ができる[[ライオン]]のBeat攻撃などが狙い目。
+また同属性ではとくいわざで中確率で決まる[[シナウスイロイルカ]]、けものミラクルにより高確率で付与可能な[[エゾヒグマ]]が登場した。
+登場時は正直微妙な評価だったが、同属性にお手軽くらくら付与が出てきた事で
+キセキとくせいによる強力な一撃が十分実用的になってきた。
+また、フレンドリー有利のむちゃが出た際には、ナルカのくらくら嵌めと共に活躍が期待できる。
+
+総じて真価を引き出すには仲間との連携が必要になるフレンズである。
+その分リターンは大きいので、大掃除やむちゃなどの高難度クエストでの活躍に期待しよう。
+**スキル詳細
+[+]
+**けものミラクル：ぽんぽこ茶釜アタック！　※必要MP90
+ ''(最大強化時)~~相手単体に630%のダメージを与える~~''
+葉っぱを頭に乗せて茶釜に変身し、高速回転しながら敵めがけて突っ込む。
+
+一般的な単体大ダメージ系けものミラクルより、最大威力が70%多いが、必要MPも10ポイント多くなっている。
+発動率は低いもののタヌキは後述するたいきスキルでMP増加が可能なため、狙える機会は多い。
+出すことさえできれば非常に強力なため、上手く狙っていきたいところ。
+
+**とくいわざ：バチバチ太鼓
+ ''相手単体に29%×4のダメージを与える~~相手の属性がリラックス（青）の場合~~低確率でくらくら状態にする（1ターン）~~''
+手持ちの太鼓をドンドン叩き、敵の頭上にキラキラを降り注がせる。
+
+計116%のダメージに加え、特定属性の相手にのみ、くらくら状態の追加効果を発揮する。
+追加効果は相手を選ぶ上に、成功率・継続ターンの性能も低めと、やや使い勝手は悪いが、
+キセキとくせいを解放できればくらくら状態の相手への大幅ダメージアップが狙えるので相性はいい。
+
+ただし、くらくらは1ターン(そのターン中)しか効果がないため、
+この技だけでキセキとくせいとの相乗効果を狙うには厳しいものがあるが…。
+**たいきスキル：タヌキ寝入り
+ ''狙われにくくなり与ダメージが20%増加する（2ターン）~~さらにMPが20増加する~~発動率：40%　発動回数：4回~~''
+実装時は15%という非常に低い発動率でほぼ死にスキルだったが、2024年8月の上方修正で40%になった。それでもまだ低いが…。
+ターン開始とともにその場に倒れ込んで動かなくなった後、ターン終了とともに起き上がる。
+
+''バトル中、知らない内にタヌキが倒れていたら大抵コレ。''
+発動率がかなり低いためそもそも見る機会が少なく、一見すると突然ギブアップしたかのように見えてビックリするが、
+あくまで技のモーションであるため心配はいらない。
+
+発動率が低い分、自身の攻撃力とMPを同時に上げることができる上に発動回数も多いので、連発できれば非常に強力。
+
+
+**とくせい：寝入りません！
+ ''（野生解放1段階目達成で習得）~~すやすや耐性（高）が増加する~~さらにたいりょくが30%以下になったとき20%回復する~~（発動回数：1回）~~''
+すやすや耐性の大幅強化と、一度だけ低体力時の自動回復が可能になる自己強化スキル。
+
+すやすや耐性は使ってくる敵は限られるものの、いざというときに役に立つだろう。
+なお、複合効果を持つスキルである分、体力回復量は少なめなので注意。
+
+**キセキとくせい：想いをカタチに
+ ''（フォトポケ2段階達成で習得）~~与ダメージが10%増加する~~さらにくらくら状態の相手に与ダメージが30%増加する''
+フォトポケット解放で習得できる追加特性。
+常時10%攻撃力が上がる効果と、くらくら状態の相手への攻撃力が大幅に増加する自己強化スキル。
+
+本領を発揮させたいなら、くらくら状態への攻撃を狙いたいところ。
+また、タヌキ自身もくらくら付与のとくいわざを持っているのは事実だが、実際のところ継続ターン数の関係で、タヌキ単独で狙うのはあまり現実的ではない。
+
+可能ならば、[[エゾヒグマ]]などの高確率で相手をくらくら状態にできる攻撃を持っているフレンズと組ませたい。
+**なないろとくせい：たよれる見習いガイドさん
+ ''自身の与ダメージが5%増加し、被ダメージが5%減少する~~さらに自身がギブアップ状態でないとき~~フレンドリー(緑)属性の味方の与ダメージが5%増加し~~すやすや耐性(中)が増加する''
+純粋にうれしいステ－タス面の強化とフレンドリー属性の与ダメバフ。またフレンドリーのすやすや耐性は他の習得者こそ多いが恒常フレンズではないためその面では差別化は出来ているか。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,no_link,40){緑色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,no_link,40){緑色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,no_link,40){緑色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「あ、あの、タヌキは決めた相手とずっといっしょに暮らす、の……。~~あ、だから、その……わたしの言ってる意味、わかるかな？~~わかる、よね？　あなたと……」''
+2020年2月7日「アライさん隊長日誌３章」公開にあわせて行われた、「新章公開記念すてっぷあっぷしょうたい」
+でカタカケフウチョウとのダブルピックアップで実装された。恒常☆４フレンズとなっている。
+
+色んなものに化けるのを得意としており、よくやる右手でおなかをポン、と叩く動作が特徴。
+パークのガイド見習いをしており、その為に一生懸命勉強をしている。
+それは自身が「誰か」の「お役に立てる」為にやっているらしい。
+
+その誰かって、ジャパリパーク園長（NEXONアプリ版のプレイヤー）？
+と余計な勘繰りをしてしまうが、そんな言及はなく、本人が秘密にしてほしいと言っている以上、推測の域を出ない。
+（しかしフレンズストーリーでキタキツネを一方的にライバル視していることを考えると…？）
+
+またメインストーリー7章でも登場している。
+ちょい役ではあるが、アライさん隊長日誌と両方で出番があるフレンズは割とレア。
+
+ＣＶ：加藤里保菜　（けもフレ３・アニメ２期）
+　　　野中藍　　　（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|わたしもコウテイペンギンさんみたいに~~自分に自身を持たなくっちゃ…！|
+|^|お習字はとっても得意なんです…！|
+|^|ひゃぁあ！　び、びっくりしましたぁ…|
+|^|恥ずかしがってるばかりじゃ…ダメだよね…~~うん！|
+|^|困ってるヒト…困ってるヒト…|
+|!固定|えへへ…~~ミライさんに褒められちゃいました…！|
+|^|まだまだ知らないことばかりですが…~~頑張ります…！|
+|^|ど、どんどん頼ってくださいね…！|
+|^|今ならキタキツネさんにも負けませんよっ！|
+|!すやすや|すぅ…すぅ…茶釜に…変身ですぅ…|
+|^|すぅ…すぅ…わたし…頑張りますね…|
+|^|むにゃ…勉強になります…ナナさん…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|お客様は、わたしが守ってみせます！|
+|^|恥ずかしがってる場合じゃ、ありませんね！|
+|!WAVE移行|足元に気をつけてくださいね|
+|^|大丈夫ですよ　落ち着いていきましょう！|
+|!クエスト終了|おなかを叩いてお祝いですね~~ポンポコポン、です|
+|^|ふぅ～… 皆さんの怪我がなくて、何よりです|
+|!フラッグ選択|は、はい|
+|^|で、できるでしょうか|
+|!けもコーラス|はい…がんばります！|
+|^|や、やってみます！|
+|^|よろしくお願いします！|
+|^|みんながいるなら…！|
+|!攻撃|[''通常攻撃'']|
+|^|あっちにいってください！|
+|^|こっちはだめですよ！|
+|^|え、えーい！|
+|^|す、すみませーん|
+|^|[''とくいわざ'']|
+|^|こっちにきちゃだめですよ！|
+|^|ポンポコポンです！|
+|^|とりゃとりゃとりゃー！|
+|^|これでどうですか！|
+|!ダメージ|[''通常攻撃'']|
+|^|あたっ！|
+|^|あぅ…|
+|^|[''強攻撃'']|
+|^|いっ…たぁーい！|
+|^|ひぃえぇ…|
+|^|[''ちからくらべ'']|
+|^|ひゃあ|
+|^|はわわ…|
+|^|すごいです！|
+|^|ええ！？|
+|!どく状態|ちょっと…くらくらしますね…|
+|^|ちょっと…無理しちゃったかなぁ…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|わたしは…まだ…|
+|^|[''ちからくらべ'']|
+|^|はぁ…とてもとても…|
+|^|流石ですね…！|
+|^|力不足でしたぁ…|
+|^|えへ…　楽しかった♪|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|もう一度、がんばります！|
+|^|い、いまのはタヌキ寝入りです！|
+|!けものミラクル　|[''等速'']~~（発動時）~~未熟者ではありますが、がんばります！~~（発動中）~~ただの葉っぱに見えるかもしれませんが、こうすれば！とうっ！　これが私のとっておきですー！~~|
+|^                              |[''倍速'']~~（発動時）~~がんばります！~~（発動中）~~こうすれば！　私のとっておきですー！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~パークの安全は、わたしが守ります！~~（発動中）~~ぽんぽこタヌキの隠し玉　とくとご覧あれ！~~タヌキ寝入りなんてさせませんよー！~~|
+|^                              |[''倍速'']~~（発動時）~~わたしが守ります！~~（発動中）~~タヌキ寝入りなんて、させませんよー~~|
+|!けものミラクル後|ぽんぽこぽん、です！|
+|}
+[END]
+[-]掛け合い
+現在、掛け合いのあるフレンズはいないようダネ。 
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|タ、タヌキといいます！　今はガイドさんの~~お手伝いができるように勉強をしてるんです~~何かあったら…た、頼ってくださいね！|
+|!ログインボーナス|いつも遅くまでお疲れ様です…~~こ、これ…少しですが、どうぞ…|
+|^|えへへ…~~明日の分も用意しておきますので…~~また、来て下さいね…♪|
+|!なかよしレベルアップ|はい！　これからも一緒にパークを盛り上げていきましょうね！|
+|!レベルアップ|もっともっと、がんばります！|
+|!野生解放|わぁ…これならわたしも！|
+|!けも級アップ|いつもありがとうございます、隊長さん！　これからも…ど、どんどん頼ってくださいね！|
+|!ミラクルレベルアップ|えへへっ！　次は、もっと上手に化けてみせますね|
+|!フォトポケット開放|大切な思い出はいっぱいありますもんね~~わかります…！その気持ち！|
+|!着替え|こんな素敵なプレゼント…ありがとうございます！|
+|^|に、似合ってますか…！似合ってるならいいんですけど…|
+|^|えへ　あの人にも見せてあげたいです…！|
+|^|素敵ですね…！お客様に喜んでもらえそうです！|
+|!ふれあい|こ、こんにちは、隊長さん…！~~な、なんでも…！なんでも言ってください…！|
+|^|狸寝入りなんて言われますが　キタキツネさんもやってますよ？|
+|^|結構泳ぎは得意なんです　えへへ…|
+|^|ガイドさんのお手伝い…！といっても見習いみたいなものですが~~…な、なんでも聞いてくださいね！|
+|!ふれあい~~(撫でる)|ひゃぁあ！　ど、どうしました！|
+|^|す、少し…恥ずかしいです…|
+|^|褒められると…やっぱり…嬉しいですよね…！|
+|!アシスタント選択|は、はい…！精一杯…やらせてもらいます…！|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手
+（未実装）
+
+*実際の動物について
+ ''耳が丸くて小さく、尻尾は太いずんぐりした体型ですが、イヌの仲間です。~~アライグマに似ていますが、尻尾のシマシマがないのがタヌキです。~~臆病で銃声に驚いて気絶したりしますが、その後気がついて逃げ出すことから、~~“タヌキ寝入り”と言う言葉が生まれました。''
+タヌキは　ネコ目イヌ科 タヌキ属 の哺乳類である。
+学名：Nyctereutes procyonoides 
+英名：Raccoon dog
+和名：タヌキ
+別名：ムジナ（貉・狢）、タタケ（多々毛・多々計）、田猫、魔魅、ジョセフィーヌ
+
+体長：50cm～80cm
+体重：3kg～8kg
+寿命：5年～8年
+分布：シベリア東部、日本、朝鮮半島、中国、ベトナム
+食性：植物を中心とした雑食性。果実、木の実、昆虫等
+
+ロシア、東アジアに分布し、日本に生息する亜種をニホンタヌキと呼ぶ。
+ニホンタヌキは、さらに北海道に生息するエゾタヌキと、本州・四国・九州に生息するホンドタヌキの
+２つに大別される。
+ホンドタヌキとエゾタヌキは種としては同種なのだが、エゾタヌキは冬季に冬ごもりをするのに対し、
+ホンドタヌキは冬でも行動するという特徴がある。
+
+生息域は里山、低山及び都市部の郊外になり、体格はイヌ科としては丸みを帯びたずんぐりとしており、四肢は
+短く、丸い耳、太い尾を持っている。毛色は黄褐色、または灰褐色をしており、背や尾には黒い差し毛が入る。
+また、目の周りや足の体毛は黒い。冬は脂肪や毛量が増加し、夏季と比べ約1.5倍程大きく見える。
+
+夜行性で、視力は発達しておらず、かわりに聴覚、嗅覚に優れる。
+
+タヌキは一夫一婦制で、一対のペアを作り、そのつがい、及びその家族で生活を行う。つがいの絆は非常に強固で、
+生涯を通じて相手を変えることはなく、行動を共にする。
+繁殖期は１月～３月頃で、60日前後の妊娠期間を経たのち、３～７匹の子供を出産し、生後９～１１ヶ月で独立し
+ていく。
+
+タヌキの特徴的な習性として、溜めフンといものがあり、3.4km程の行動域の中に１０か所程度のフン場を作る。
+フン場はいくつもの個体が共用で使用しており、それが縄張りを示すために行っているわけではないことがわかる。
+また、行動域が重なり、複数の個体がその中で採餌しても、争いを起こさない社会性を持っている。
+
+タヌキは非常に憶病な動物であり、大きな音や光に驚き、気絶してしまうことがある。
+この様からタヌキ寝入りという言葉が生まれたが、よく見かける車道での轢死もこういった習性から起こってしまっている。
+
+タヌキには容姿が似ている動物がいくつか存在する。
+古くからアナグマ、ハクビジン等と混同されることがあり、別名の「ムジナ」はこれら全ての動物を指しても言われる。
+（「ムジナ」は特にアナグマを指して言う）
+こうした混同は、大正１３年に起った「たぬき・むじな事件」にも表れている。
+タヌキの肉はアクや臭いがきつく、一般に言われるタヌキ汁は、アナグマの肉が使われており、日本では馴染みの
+深い動物でありながら、地域的呼称の違いまたは混同の多さが見てとれる。
+（タヌキ汁は、11月から2月に捕られたタヌキの肉、もしくはコンニャクが肉として入れられる場合もある。
+どのようにしろ、タヌキ肉は一般人が扱うには非常に適さない肉とされる）
+
+また、最近では日本でもアライグマが野生化した地域もあり、こちらも英名のラクーンドッグからもわかる通り、
+非常にタヌキと似た容姿をしている。タヌキとは尾の縞模様の有無で判別するのがわかりやすい。
+
+［日本での飼育施設］
+［ホンドタヌキ］
+・弥生いこいの広場　　（青森県）　　・大森山動物園　　　（秋田県）　　・盛岡市動物公園　　  （岩手県）
+・八木山動物公園　　　（宮城県）　　・宇都宮動物園　　　（栃木県）　　・桐生が岡動物園　　  （群馬県）
+・日立市かみね動物園　（茨城県）　　・東武動物公園　　　（埼玉県）　　・狭山智光山動物園　  （埼玉県）
+・多摩動物公園　　　　（東京都）　　・井の頭自然文化園　（東京都）　　・市川市動植物園　　  （千葉県）
+・市原ぞうの国　　　　（千葉県）　　・野毛山動物園    　（神奈川県）　　・よこはま動物園ｽﾞｰﾗｼｱ（神奈川県）
+・富山市ﾌｧﾐﾘｰﾊﾟｰｸ　　　(富山県)　　 ・高岡古城公園動物園 (富山県)　　　・小諸動物園　　　　　（長野県）
+・須坂市動物園　　　　（長野県）　　・茶臼山動物園　　  （長野県）　　　・飯田動物園　　　　　（長野県）
+・大町山岳博物館　　　（長野県）　　・のんほいパーク　  （愛知県）　　　・東山動物園　　　　　（愛知県）
+・京都市動物園　　　　（京都府）　　・みさき公園　　　  （大阪府）　　　・天王寺動物園　　　　（大阪府）
+・姫路市立動物園　　　（兵庫県）　　・池田動物園　　　  （岡山県）　　　・とくしま動物園　　　（徳島県）
+・愛媛県立とべ動物園　（愛媛県）　　・高知アニマルランド（高知県）　　・安佐動物公園　　　　（広島県）
+・徳山動物園　　　　　（山口県）　　・ときわ動物園　　　（山口県）　　・到津の森公園　　　　（福岡県）
+・福岡市動物園　　　　（福岡県）　　・熊本市動植物園　　（熊本県）　　・宮崎市ﾌｪﾆｯｸｽ自然動物園（大分県）
+・平川動物公園　　　　（鹿児島県）　・沖縄こどもの国　　（沖縄県）
+*その他
+-[[タヌキ(フォト)]]
+-[[タヌキ　フレンズストーリー]]
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d4tszzYHJ3.PNG,50%)
+
+**特別衣装
+***巫女服
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wLx4uM0Chu.png,50%)
+
+***織姫衣装
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0adodVO3Jv.jpg,50%)
+https://krsw.5ch.net/test/read.cgi/gamesm/1627176408/526より
+
+***おそろい服
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2f490bf2f681e975.png,50%)
+[[ダンザブロウダヌキ]]の☆6衣装の色違い
+
+***和ノ鎧
+&attachref(50%)
+
+***パーティドレス
+[+]
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/77469cbbfd81731e.JPG,50%)
+[END]
+
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fcb38faf86637ae7.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6FmGVmZCZP.webm){400,240}
+
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VuJJTkybxq.webm){400,240}

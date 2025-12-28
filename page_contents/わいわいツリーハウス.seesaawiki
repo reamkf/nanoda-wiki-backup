@@ -1,0 +1,648 @@
+#contents
+*わいわいツリーハウスとは
+2020/9/17のアップデートで追加された新要素。
+ツリーハウスに自由にインテリアを配置し、自分だけの部屋を作ることができます。
+部屋にはフレンズに遊びに来てもらうことができ、他の隊長の部屋を訪問することもできます。
+ただのきせかえだけでなく、設定したフレンズへの仲良しポイントボーナスや、電池など攻略面でお得な要素も少しあります。
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KgpWBYlfcd.png,500,no_link)
+
+*遊びに来るフレンズについて
+最大4人まで、設定したフレンズに遊びに来てもらうことができます。
+設定したフレンズは、インテリア配置画面でアイコン左上に「の」がついたインテリアで遊んでくれます。
+※フレンズによって遊ぶことができないインテリアが存在します。
+
+○補足等
+・「の」がついたインテリアが一つも配置されて無い場合、フレンズは表示されません。
+　また、「の」がついたインテリアの配置によっては一部フレンズだけが表示される場合があります。
+　4人がけのテーブル型では、椅子の後ろのスペースが2マス未満の場合その椅子には座れない判定となるようです。
+　なお、遊べる人数が2人や2～4人となっているものはその1人で遊ぶことはありません。
+
+*視点変更
+ホーム画面同様、画面内をドラッグすることで視点を自由に回転させることができます。
+視点の基準位置は、右側のカメラマークのボタンを押すことで、通常時4つ、編集時5つを切り替えることができます。
+
+*カメラモード・ちょこっとVR
+2021/06/09実装。
+三脚付きカメラを設置すると、三脚付きカメラアイコンを押すことで、そのカメラの視点で見ることができます。
+ちょこっとVR機能も利用可能です。(ただし、DMM版は非対応)
+
+**カメラモードのセリフについて
+カメラモードでは、「の」がついたインテリアで遊んでいるフレンズのセリフが聞けます。
+このセリフはふれあいやバトル中などから取ってきたセリフをランダムにしゃべるだけで、意味のある文章にはなっていません。
+この中にツリーハウス以外では聞けないセリフが5種類存在します。(ただし、後に待ち1・待ち2・すやすやはおてつだい券でも聞くことができるようになりました。)
++困惑セリフ(「どういうことですか？」「あれ…？」など)
++待ちセリフ1(おてつだい券のセリフと同一)
++待ちセリフ2(おてつだい券のセリフと同一)
++あくびセリフ
++すやすやセリフ(おてつだい券のセリフと同一)
+
+困惑は的当て系インテリア、困惑・待ち1・待ち2・あくびは大釜系のインテリア、すやすやはベッド・こたつ系のインテリアで聞くことができます。他のインテリアでも聞けるかもしれません。
+*充電（まんたんさん）
+21/03/12実装。ソーラー充電器「まんたんさん」を使って「電池」を充電！
+「電池」を集めると 、特別なクエスト「太陽の恵みクエスト」に挑戦できます！　☆詳細は→[[すぺしゃるクエスト]]
+また、「太陽の烏石」を使用することで、獲得までの時間を短縮できます。
+
+''8時間経過ごとに電池を1獲得。''
+自動で次の8時間に切り替わっていくが、ツリーハウスを開くまで電池は獲得されない。最大貯蓄限界は3個。（つまり24時間に一度ハウスを見ておくと効率が良い）
+
+**太陽の烏石
+下記のアイテムを使用して、電池獲得までの時間を短縮できる。
+0を下回る分まとめて使用しても、余剰分は次回へ持ち越しされきちんと減算される。鳥石使用時に限り4個を超えた電池もまとめて入手可能。
+よって、細かいことは気にせず使用してしまってよい。
+「太陽の烏石 小」　-120分 (電池0.25個分)
+「太陽の烏石 中」　-240分 (電池0.5個分)
+「太陽の烏石 大」　-720分 (電池1.5個分)
+一部の限定ミッションやログボで配布される事がある他、2021年4月以降のインテリア便のおまけとしてインテリア1個入手ごとに大×1個を入手できるようになった。
+また、[[すぺしゃるクエスト]]の期間限定クエスト おしゃれ！で中×30が確定ドロップする。マップキーイベントのすぺしゃる等一部クエストでもドロップする。
+
+*インテリアについて
+**インテリアの入手方法
+-[[インテリアメダル交換所]]
+-[[インテリア便]]（ガチャ）
+-イベント交換所・ミッション
+-課金パック
+で入手できます。
+
+[[家具]]とは違うので注意。
+なお、基本的に拠点に追加された家具のほとんどは同じものがインテリアメダル交換所に並びます。
+
+インテリアメダルはウィークリーミッションで5枚、他にも各種イベント交換所などで入手可能です。
+ピクニックのお出かけ（PPPライブステージ）でもインテリアメダルが入手できるので、ツリーハウスに力を入れたい人は購入しておくと吉。
+
+**移動・配置
+自分のツリーハウスでは、「編集」ボタンからインテリアの移動・配置が行えます。
+
+既に配置されているインテリアを移動をしたい場合は、「移動」ボタンを押すと移動モードとなり、配置されているインテリアが赤マスで表示されます。
+移動させたいインテリアを選択(タップ)すると青マス表示になり、ドラッグで自由に移動させるようになります。
+タップしたまま長押し続けるだけでも同様にドラッグ移動状態になります。
+移動後に「決定」ボタンを押すと配置完了となりますが、他のインテリアと干渉する場合は黄マス表示になり、配置することができません。
+また、選択中はそのインテリアを移動可能な場所にグリッド(配置基準となる格子状の線)が表示され、「グリッド回転」ボタンを押すたび右に60度回転させることができます。
+「インテリア回転」ボタン(左右あり)では選択中のインテリアを押すたび選んだ方向に90度回転させることができます。
+移動モードから戻りたい場合、もう一度「移動」ボタンを押すと編集画面に戻り、右側にある右矢印のボタンを押すと初期画面に戻ります。
+
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bHo5spJ978.jpeg,500,no_link)
+ちなみにグリッド線から微妙にずらして配置したいときは、
+スマホ版の場合、対象のインテリアを指でホールドしたまま別の指で決定を押すと配置位置の微調整が可能です。
+PC版の場合、対象のインテリアをカーソルでホールドしたままWin+Rなどでアプリを一度バックグラウンドにし、決定ボタンを押すことで同様のことが可能です。
+
+収納されているインテリアを配置したい場合は、「配置」ボタンを押すとインテリア配置画面が表示され、所持しているインテリアおよび配置数/所持数が分類ごとに表示されます。
+配置したいインテリアを選択して「決定」ボタンを押すと、前述の移動モードと同じように配置できます。
+なお、全て配置中のインテリアは暗く表示され、新たに配置することはできません。
+
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/llSCO5SiJc.png,500,no_link)
+
+
+部屋を最初から配置し直したい場合は、「リセット」ボタンで全てのインテリアを収納し、まっさらな状態にすることができます。
+※初期配置や移動前の状態に戻るわけではありません。
+
+○補足等
+・一部のインテリア(雑貨)は他のインテリア(スタンド)の上に配置することも可能です(テーブルスタンドの上に鉢植えを置く等)。
+　配置可能かどうかは、選択中のグリッド表示で確認可能です。
+　また、その状態で下のインテリア(スタンド)を移動したり片づけた場合、上のインテリア(雑貨)も同じ動きをします。
+・敷物は上に配置できますが、前述のように一緒に移動したり片づけられることありません。
+　また敷物同士は最大3枚まで重ねて置くことができます（2020/12/10追加）
+・「片付け」ボタンは移動モードで選択中の場合はそのインテリア1つのみ、インテリア配置画面では選択したインテリア全てが収納されます。
+・照明類や暖炉型ヒーター、宝箱風のトランクケースなど、一部のインテリアはタップすることで電源のON/OFFや扉の開閉状態を切り替えることができます。
+
+**レイアウト帳
+現在の部屋の名前とインテリアの配置を記録したり、記録しておいた名前・配置を読み込むことができます。
+通常記録できるのは1つだけですが、月間パスポートを購入している場合記録できる数が増えます（2020/12/10追加）。ごーじゃすで3枠、それ以外で1枠追加。
+
+*実装インテリア一覧
+&color(red){実装インテリア一覧は現在更新されていません。}
+一部インテリアは拠点で同名の家具を所持しているか否かで交換所に並ぶかが決まっています(一部家具は微妙に名前が違う場合も)。
+インテリアメダル交換所は''[[こちら>インテリアメダル交換所]]''
+インテリア便は''[[こちら>インテリア便]]''
+[+](長いので格納しています)
+※並び順は入手方法で分けているのでアプリ内の並びとは異なります
+|center|center|center|center|center|center|c
+|r[bgcolor(#a3e0fd)]:~種類名|名前|サイズ~~(×高さ/奥行き)|レア度|入手方法|備考|
+|大型インテリア~~（モーションつき）|[[団らんテーブル>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3g5PIv2R5M.png]]|8×8×3|SSR|最初から所持|2～4人用|
+|^|[[積み木テーブル>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5rIBjoi4z7.png]]|8×8×3|^|すごい!!スペシャルパック|2～4人用　期間限定(2020/9)|
+|^|[[お絵かきイーゼル（ラッキービースト）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Qbjy_aOj8f.png]]|4×4×9|^|^|2人用　期間限定(2020/10)|
+|^|[[スタンドミラー>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OFlraFv3kC.png]]|6×4×8|^|^|2人用　期間限定(2020/11)|
+|^|[[ティーテーブル>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sMSaHa0Azg.png]]|8×8×3|^|^|2～4人用　期間限定(2020/12)|
+|^|[[アーケードゲーム（アストロシティ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/HclyagwUVX.png]]|8×6×8|^|12月インテリア便|2人用　期間限定(2020/12)|
+|^|[[お絵かきイーゼル（クリスマス）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_u5Z7GP8zH.png]]|4×4×9|^|^|1人用　期間限定(2020/12)|
+|^|[[和風スタンドミラー>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/V0R4tMWSGb.png]]|4×2×8|^|1月インテリア便|1人用　期間限定(2021/1)|
+|^|[[カウンターテーブル（紅茶）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/8AFnPyFo2q.png]]|6×4×4|^|2月インテリア便|2人用　期間限定(2021/2)|
+|^|[[ワイドなティーテーブル>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/y1AIdC3GMf.png]]|8×8×4|^|^|2～4人用　期間限定(2021/2)|
+|^|[[輪投げボード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0csSjWQsrH.png]]|4×6×3|^|3月インテリア便|2人用　期間限定(2021/3)|
+|^|[[アーケードゲーム（ブラストシティ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/p7R4cgGWol.png]]|4×6×8|^|^|1人用　期間限定(2021/3)|
+|^|団らん学校机|8×10×4|^|4月インテリア便|2～4人用　期間限定(2021/4)|
+|^|読書テーブル|8×8×3|^|^|2人用　期間限定(2021/4)|
+|^|[[カウンターテーブル（緑茶）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Rvi118PK0I.png]]|6×4×3|^|5月インテリア便|1人用　期間限定(2021/5)|
+|^|[[チューリップのプランター>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oqx7uQP1Pw.png]]|6×2×3|^|^|2人用　期間限定(2021/5)|
+|^|[[あまつぶもようのごーじゃすベッド>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wN76MlclrL.png]]|10×8×9|^|6月インテリア便|1人用　期間限定(2021/6)|
+|^|[[みずたまもようのボールまとあて>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bcRE69gLal.png]]|4×2×8|^|^|2人用　期間限定(2021/6)|
+|^|[[星空のテント>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pJl4yLxeR_.png]]|12×12×10|^|7月インテリア便|2人用　期間限定(2021/7)|
+|^|[[星空の木琴セット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IzGi9tTqPy.png]]|4×4×4|^|^|2人用　期間限定(2021/7)|
+|^|[[お砂場テーブル>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/C7rE5cOKKj.png]]|8×8×4|^|8月インテリア便|2～4人用　期間限定(2021/8)|
+|^|[[海の家カレーテーブル>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/GzRyxbmyBG.png]]|8×8×4|^|^|2～4人用　期間限定(2021/8)|
+|^|[[お絵かきイーゼル（にがおえ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vdMV8FGKhY.png]]|4×4×9|^|9月インテリア便|2人用　期間限定(2021/9)|
+|^|[[えにっきテーブル>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/G9OzixUIxN.png]]|4×8×3|^|^|2人用　期間限定(2021/9)|
+|大型インテリア|[[ソファ椅子（グリーン）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZB3p8L797S.png]]|4×4×5|C|インテリアメダル交換所|最初から所持|
+|^|[[ソファ椅子（足跡）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CG3WdZDmgk.png]]|4×4×5|UC|^||
+|^|[[ソファ椅子（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/tH9KdknQaq.png]]|4×4×5|^|^||
+|^|[[ソファ椅子（ホワイト）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/slOLXNxEXT.png]]|4×4×5|^|^||
+|^|[[テレビ（イエロー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ExQa9dxtpw.png]]|6×4×5|C|^|最初から所持|
+|^|[[テレビ（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/TB_2R1OB69.png]]|6×4×5|UC|^||
+|^|[[テレビ（アライグマ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/urzxnL_I37.png]]|6×4×5|^|^||
+|^|[[テレビ（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/mrlUWgBKBO.png]]|6×4×5|^|^||
+|^|[[クリスマスツリー>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wwWtVvcfpi.png]]|4×4×6|^|^||
+|^|[[門松>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hNrvjZiGiz.png]]|4×4×6|^|^||
+|^|[[ホワイトデースイーツ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9NH7sl8oWX.PNG]]|4×4×4|^|^||
+|^|[[お花見セット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_7fXhWH_E_.png]]|4×2×4|^|^||
+|^|[[五月人形>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rGmNPAiJua.png]]|6×4×4|^|^||
+|^|[[てるてるラッキービースト>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/K7p3mgNyAi.png]]|4×4×6|^|^||
+|^|[[夏満喫セット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/T0SZIFRCGe.png]]|8×8×10|^|^||
+|^|[[秋の恵みセット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OocTWvir3q.png]]|4×4×4|^|^||
+|^|[[木の目隠しついたて>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6tV_6Ygtwm.png]]|4×2×8|^|^||
+|^|[[大きなかぼちゃのランタン>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ySdI7N_H8T.png]]|4×4×3|^|ハロウィン記念で配布|期間限定（10/22～10/31）|
+|^|[[三脚付きカメラ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DVzgRPVj0w.png]]|4×4×7|^|Ver1.10バージョンアップで配布|配置位置からカメラモード・ちょこっとVRへの視点変更が可能|
+|^|[[木のついたて（レッド）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/n6rqbAUHY8.png]]|4×2×8|^|インテリアパック（レッド）||
+|^|[[木のついたて（ブルー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Y4foBJxqTP.png]]|4×2×8|^|インテリアパック（ブルー）||
+|^|[[木のついたて（イエロー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0zN6REa2Zt.png]]|4×2×8|^|インテリアパック（イエロー）||
+|^|[[おおきなクリスマスツリー>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TFlZ3oRaIJ.png]]|8×8×11|SR|12月インテリア便|期間限定(2020/12)|
+|^|[[電気ストーブ（ブラック）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/FrrH9RVlsU.png]]|4×2×3|^|1月インテリア便|期間限定(2021/1)|
+|^|[[障子ついたて>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/R90KFqbhyl.png]]|4×2×8|^|^|期間限定(2021/1)|
+|^|[[おもちゃのスタッフカー>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/WX0C9NDK5f.png]]|4×4×3|^|3月インテリア便|期間限定(2021/3)|
+|^|[[電光ボード（ラッキービースト）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N9s7yucuKj.png]]|4×4×6|^|^|期間限定(2021/3)|
+|^|[[ガーデンシンク（ホワイト）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N9s7yucuKj.png]]|4×4×5|^|5月インテリア便|期間限定(2021/5)|
+|^|[[クワズイモの大きな鉢植え>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L_5Gb0Q5UP.png]]|8×8×8|^|6月インテリア便|期間限定(2021/6)|
+|^|[[アンティークな時計（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4q9IcUIS7G.png]]|4×4×8|^|7月インテリア便|期間限定(2021/7)|
+|^|[[傘立て（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6zX_fj_Zag.png]]|4×2×6|R|6月インテリア便のおまけ|期間限定(2021/6)|
+|^|[[レコードプレイヤー（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Alc3G8M8iC.png]]|2×2×5|^|インテリア便|(2021/4～)|
+|^|[[ポスターボード（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/k8dGU4LYfL.png]]|6×4×9|^|^|ポスター設置可(2021/4～)|
+|^|[[木のついたて>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/miKK6RQEnJ.png]]|4×2×8|^|^|(2021/12～)|
+|^|[[黒板（たんけんたい）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/u0T2uZ24Rq.png]]|8×4×8|SR|インテリア便(2021/3まで)|期間限定(2020/12～2021/3)|
+|^|[[シックなフロアライト（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zyyH04WdLA.png]]|2×2×7|^|^|期間限定(2020/12～2021/3)|
+|スタンド~~(モーション付き)|[[こたつ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/APwXuF6c4S.png]]|10×10×3|SSR|1月インテリア便|2～4人用　期間限定(2021/1)|
+|スタンド|[[ダンボール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZBywMow_RI.png]]|4×4×3|C|インテリアメダル交換所|最初から所持(3個)|
+|^|[[2段組ダンボール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OmCa9DUorX.png]]|6×6×4|^|^|最初から所持|
+|^|[[3段組ダンボール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vvzQlkLiK4.png]]|6×6×7|UC|^||
+|^|[[テーブルスタンド>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jJk67R8Yx4.png]]|4×4×3|^|^||
+|^|[[木の机（ナチュラル）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3q1N8nHyOr.png]]|8×8×6|C|^|最初から所持|
+|^|[[木の机（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qOIkOwJpkF.png]]|8×8×6|UC|^||
+|^|[[木の机（パーク）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KcpwJQ4syQ.png]]|8×8×6|^|^||
+|^|[[木の机（アライグマ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bW4Q1RZy0D.png]]|8×8×6|^|^||
+|^|[[木の机（ブラック）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/808pmjzdAD.png]]|8×8×6|^|^||
+|^|[[木の机（ホワイト）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SAHfXmWvKe.png]]|8×8×6|^|^||
+|^|[[本棚（ナチュラル）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zehzRBINzz.png]]|6×2×8|C|^|最初から所持|
+|^|[[本棚（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Le8s1k5Uxy.png]]|6×2×8|UC|^||
+|^|[[本棚（ブラック）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ruvpmKPfb_.png]]|6×2×8|^|^||
+|^|[[本棚（ホワイト）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PLh0ptLSaq.png]]|6×2×8|^|^||
+|^|[[本棚（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/iaIZFcfkow.png]]|6×2×8|^|インテリアパック（レッド）||
+|^|[[本棚（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/XHtyEOKkzP.png]]|6×2×8|^|インテリアパック（ブルー）||
+|^|[[本棚（イエロー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/tJ9UARbMqd.png]]|6×2×8|^|インテリアパック（イエロー）||
+|^|[[本棚（クリスマス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cGaUqL4EBi.png]]|6×2×8|SR|12月インテリア便|期間限定(2020/12)|
+|^|[[暖炉型ヒーター>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/A22BToGacB.png]]|8×6×6|^|^|期間限定(2020/12)|
+|^|[[和箪笥>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/p5c_uJ7XPv.png]]|6×2×4|^|1月インテリア便|期間限定(2021/1)|
+|^|[[食器棚（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/y4stnl4MxM.png]]|6×4×8|^|2月インテリア便|期間限定(2021/2)|
+|^|教卓（ナチュラル）|6×4×4|^|4月インテリア便|期間限定(2021/4)|
+|^|ロッカー（ナチュラル）|8×8×8|^|^|期間限定(2021/4)|
+|^|[[アニマルラムネ冷蔵庫>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LEhgUTzn3W.png]]|6×4×4|^|9月インテリア便|期間限定(2021/9)|
+|^|[[カラーボックス（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RxT3B3Legq.png]]|10×8×4|^|インテリア便|ボックス内は高さ制限2　(2021/4～)|
+|^|[[宝箱風のトランクケース>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sE9MNmlVQo.png]]|4×8×6|^|^|(2021/4～)|
+|^|[[オープンシェルフ（ブラック）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cH9yrMNY4c.png]]|10×4×10|^|^|ボックス内は高さ制限あり　(2021/4～)|
+|^|[[ハイテーブル（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f7nvann1Xo.png]]|4×4×5|R|^|(2021/4～)|
+|^|[[ローチェスト（ブラック）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pgB55o76mo.png]]|4×4×4|^|^|(2021/4～)|
+|^|[[ハイチェスト（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6P0BkhiiS.png]]|4×4×5|^|^|(2021/4～)|
+|^|[[レトロな冷蔵庫（ブルー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ybLTU1C6Ts.png]]|4×4×6|^|^|(2021/4～)|
+|^|[[ダンボール（足跡）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DvJMx9GDBn.png]]|4×4×3|^|^||
+|^|[[2段組ダンボール（足跡）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ifwdn3uYTe.png]]|6×6×4|^|^||
+|^|[[3段組ダンボール（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Wrq0gdhTfY.png]]|6×6×7|^|^||
+|^|[[ベッド（オレンジ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3BUwWSLSxf.png]]|10×8×4|SR|インテリア便(2021/3まで)|期間限定(2020/12～2021/3)|
+|^|[[ディスプレイスタンド（ナチュラル）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qpUgzXlkih.png]]|8×10×9|^|^|期間限定(2020/12～2021/3)|
+|^|[[キャビネット（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/xy_hg6Kj4G.png]]|6×4×6|^|^|期間限定(2020/12～2021/3)|
+|^|[[ハイテーブル（ナチュラル）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ysnztTdcGb.png]]|4×4×5|R|^|期間限定(2020/12～2021/3)|
+|^|[[ローチェスト（ナチュラル）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eZL_9Ot5sq.png]]|4×4×4|^|^|期間限定(2020/12～2021/3)|
+|^|[[ハイチェスト（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KppkyZMeGo.png]]|4×4×5|^|^|期間限定(2020/12～2021/3)|
+|雑貨|[[かぼちゃのランタン>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E6kbs_fZY1.png]]|2×2×3|UC|インテリアメダル交換所|拠点家具が期間限定|
+|^|[[パンジーの鉢植え（イエロー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Wj2cqm1GbK.png]]|2×2×3|C|^|最初から所持|
+|^|[[パンジーの鉢植え（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/76xEtJlpo1.png]]|2×2×2|UC|^||
+|^|[[お弁当箱>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JzsAlAOvu1.png]]|2×2×2|^|^||
+|^|[[四角いバスケット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d3B_G27oWl.png]]|2×2×2|^|^||
+|^|[[丸いバスケット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vlJ50SwAW2.png]]|2×2×2|^|^||
+|^|[[ラッキービーストのぬいぐるみ（レッドハイビスカス）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7RVxwfwAed.png]]|2×2×3|^|ちゅーばーの証交換所|(2020/12～)|
+|^|[[ラッキービーストのぬいぐるみ（イエローハイビスカス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/u_NpB83exT.png]]|2×2×3|^|^|(2021/2～)|
+|^|[[ラッキービーストのぬいぐるみ（ブルーハイビスカス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9j2lkZfvNB.png]]|2×2×3|^|^|(2021/4～)|
+|^|[[ラッキービーストのぬいぐるみ（ホワイトハイビスカス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2BnywO6AWP.png]]|2×2×3|^|^|(2021/6～)|
+|^|[[ラッキービーストのぬいぐるみ（パープルハイビスカス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/s5xhj2YdfH.png]]|2×2×3|^|^|(2021/8～)|
+|^|[[ラッキービーストのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4P36bw4ZtH.png]]|2×2×3|^|インテリアパック（各色）||
+|^|[[ハイビスカスの鉢植え（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/gt4kcYMBWR.png]]|2×2×3|^|インテリアパック（レッド）||
+|^|[[ハイビスカスの鉢植え（ブルー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FOxa3tQDst.png]]|2×2×3|^|インテリアパック（ブルー）||
+|^|[[ハイビスカスの鉢植え（イエロー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LLsJKq_w2R.png]]|2×2×3|^|インテリアパック（イエロー）||
+|^|[[トナカイのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mXSD4VBd1f.png]]|2×2×3|SR|12月インテリア便|期間限定(2020/12)|
+|^|[[ラッキービーストのぬいぐるみ（サンタ服）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2bgaOVKblW.png]]|2×2×4|^|^|期間限定(2020/12)|
+|^|[[ギンギツネのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/goYAqzIPPg.png]]|2×2×3|^|1月インテリア便|期間限定(2021/1)|
+|^|[[キタキツネのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UgWiWAqN_B.png]]|2×2×3|^|^|期間限定(2021/1)|
+|^|[[ブタのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/od7wPkE7J0.png]]|2×2×3|^|2月インテリア便|期間限定(2021/2)|
+|^|[[イッカクのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3XLJ_BP1kq.png]]|2×2×3|^|^|期間限定(2021/2)|
+|^|[[ツチノコのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vT531sHwkS.png]]|2×2×3|^|^|期間限定(2021/2)|
+|^|[[Welcomeカフェボード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/YkeJl5qfnq.png]]|2×2×4|^|^|期間限定(2021/2)|
+|^|[[アライグマのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0pFZ1GPygY.png]]|2×2×3|^|3月インテリア便|期間限定(2021/3)|
+|^|[[フェネックのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/15P1Qs5TNU.png]]|2×2×3|^|^|期間限定(2021/3)|
+|^|[[サーバルのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QrC10dKtP0.png]]|2×2×3|^|^|期間限定(2021/3)|
+|^|ロイヤルペンギンのぬいぐるみ|2×2×3|^|4月インテリア便|期間限定(2021/4)|
+|^|コウテイペンギンのぬいぐるみ|2×2×3|^|^|期間限定(2021/4)|
+|^|[[ラッキービーストの置き時計>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RPn0LbMFqz.png]]|2×2×3|^|^|期間限定(2021/4)|
+|^|[[イワトビペンギンのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/g8HDhfmNNa.png]]|2×2×3|^|5月インテリア便|期間限定(2021/5)|
+|^|[[フンボルトペンギンのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pTu9R6WBKT.png]]|2×2×3|^|^|期間限定(2021/5)|
+|^|[[ジェンツーペンギンのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Kmp5UzhDEk.png]]|2×2×3|^|^|期間限定(2021/5)|
+|^|[[ラッキービーストのぬいぐるみ（葉っぱのかさ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Xtq2UYTFhD.png]]|2×2×3|^|6月インテリア便|期間限定(2021/6)|
+|^|[[ブラックバックのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t3MEFgYCQ8.png]]|2×2×3|^|^|期間限定(2021/6)|
+|^|[[タスマニアデビルのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/q7zi138k89.png]]|2×2×3|^|^|期間限定(2021/6)|
+|^|[[オーストラリアデビルのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xK3AZd_EyJ.png]]|2×2×3|^|^|期間限定(2021/6)|
+|^|[[星のランプ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4kjWndeAkp.png]]|2×2×3|^|7月インテリア便|期間限定(2021/7)|
+|^|[[カンザシフウチョウのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bB1fYLLzTh.png]]|2×2×3|^|^|期間限定(2021/7)|
+|^|[[カタカケフウチョウのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6InYs7P0g4.png]]|2×2×3|^|^|期間限定(2021/7)|
+|^|[[オオフウチョウのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VSyU7CZmqf.png]]|2×2×3|^|^|期間限定(2021/7)|
+|^|[[小さな扇風機（ホワイト）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/oDbYgU4liV.png]]|2×2×2|^|8月インテリア便|期間限定(2021/8)|
+|^|[[ドールのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KTAwyT8upM.png]]|2×2×3|^|^|期間限定(2021/8)|
+|^|[[ミーアキャットのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5ba3tG5Zsu.png]]|2×2×3|^|^|期間限定(2021/8)|
+|^|[[マイルカのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QtdDv9GSQc.png]]|2×2×3|^|^|期間限定(2021/8)|
+|^|[[ヒグマのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m5aHnqcf4J.png]]|2×2×3|^|9月インテリア便|期間限定(2021/9)|
+|^|[[キンシコウのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/kZTLP6shV6.png]]|2×2×3|^|^|期間限定(2021/9)|
+|^|[[アイアイのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/onVzVyxvdL.png]]|2×2×3|^|^|期間限定(2021/9)|
+|^|[[ギフトボックス（クリスマス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/g0DMbpTKQg.PNG]]|2×2×2|R|12月インテリア便のおまけ|期間限定(2020/12)|
+|^|[[みかん>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OcGvlu3zMI.png]]|2×2×1|^|1月インテリア便のおまけ|期間限定(2021/1)|
+|^|[[つみあげみかん>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f_ccdE5ZZV.png]]|2×2×1|^|^|期間限定(2021/1)|
+|^|[[かご入りみかん>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AJLWW5Gl03.png]]|2×2×1|^|^|期間限定(2021/1)|
+|^|[[ステンレスポット（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bujOFHiNrh.png]]|2×2×2|^|2月インテリア便のおまけ|期間限定(2021/2)|
+|^|イチゴのショートケーキ|?|^|^|期間限定(2021/2)|
+|^|[[コーヒーミル>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SgQPDLjBX5.png]]|2×2×2|^|^|期間限定(2021/2)|
+|^|ペーパーボックス（グリーン）|?×?×?|R？|3月インテリア便のおまけ|期間限定(2021/3)|
+|^|手押し車のおもちゃ箱（ホワイト）|?×?×?|^|^|期間限定(2021/3)|
+|^|おもちゃ箱（ナチュラル）|?×?×?|^|^|期間限定(2021/3)|
+|^|[[ジャパリカ学習帳>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/yjcbl2tpQb.png]]|2×2×1|R|4月インテリア便のおまけ|期間限定(2021/4)|
+|^|ランドセル（レッド）|?|^|^|期間限定(2021/4)|
+|^|ランドセル（ブラック）|?|^|^|期間限定(2021/4)|
+|^|[[アロエベラの鉢植え>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3WLUkVY_SN.png]]|2×2×2|^|5月インテリア便のおまけ|期間限定(2021/5)|
+|^|カーネーションの鉢植え|?|R？|^|期間限定(2021/5)|
+|^|サルビアの鉢植え（ブルー）|?|^|^|期間限定(2021/5)|
+|^|アジサイの生け花飾り|?|^|6月インテリア便のおまけ|期間限定(2021/6)|
+|^|[[星のクッション>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/we8oQpqAX_.png]]|2×2×1|R|7月インテリア便のおまけ|期間限定(2021/7)|
+|^|[[月のクッション>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Zla2rWsao8.png]]|2×2×1|^|^|期間限定(2021/7)|
+|^|[[うきわのクッション>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hvv49Qi6ip.png]]|2×2×1|^|8月インテリア便のおまけ|期間限定(2021/8)|
+|^|[[ヨットの模型>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZdkMjfFUE3.png]]|2×2×3|^|^|期間限定(2021/8)|
+|^|ジャパリフードセット|?|^|9月インテリア便のおまけ|期間限定(2021/9)|
+|^|[[虹色のアニマルラムネのオブジェ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OXgpjvwWO8.png]]|2×2×1|^|^|期間限定(2021/9)|
+|^|PPPペンライトスタンド|?|^|^|期間限定(2021/9)|
+|^|[[加湿器（ピンク）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W1WJgvep5_.png]]|2×2×3|SR|インテリア便|(2021/4～)|
+|^|[[ティーセット（ブラック）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CkFs7SRdNN.png]]|2×2×1|R|^|(2021/4～)|
+|^|[[3本セットのジャパリソーダ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/GrqK4YwrNf.png]]|2×2×1|^|^|(2021/4～)|
+|^|[[封の開いたジャパリチップス>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hj1ccrrPDL.png]]|2×2×1|^|^|(2021/4～)|
+|^|[[3本セットの牛乳瓶>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VNr14fTwVG.png]]|2×2×1|^|^|(2021/4～)|
+|^|[[3色ジャパまんバスケット（赤、緑、青）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nE45RlVk1W.png]]|2×2×1|^|^|(2021/4～)|
+|^|[[3色ジャパまんバスケット（桃、黄緑、水）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SmTSJ68Pvn.png]]|2×2×1|^|^|(2021/4～)|
+|^|[[反射テープ付きパイロン（イエロー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QSARbm8cV1.png]]|2×2×4|^|^|(2021/4～)|
+|^|[[反射テープ付きパイロン（ブルー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UZ10ODvdVc.png]]|2×2×4|^|^|(2021/4～)|
+|^|[[反射テープ付きパイロン（レッド）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/FE10MjIPVG.png]]|2×2×4|^|^|(2021/4～)|
+|^|[[試作品プラモ　Type-SC（リフトアップユニット付き）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CWn4hmnu4B.png]]|2×2×2|^|^|(2021/4～)|
+|^|[[ドラセナの鉢植え>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/j8RqcAPGUf.png]]|2×2×6|^|^||
+|^|[[サンスベリアの鉢植え>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XTvcKnh22G.png]]|2×2×6|^|^||
+|^|[[ポリシャスの鉢植え>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bGq3YteiZs.png]]|2×2×6|^|^||
+|^|[[柱サボテンの鉢植え>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VZ2ybwdluo.png]]|2×2×3|^|^||
+|^|[[ジャパまんクッション（ファニー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2ypqjnN6wE.png]]|2×2×1|^|^||
+|^|[[ジャパまんクッション（フレンドリー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/TIMult0xR8.png]]|2×2×1|^|^||
+|^|[[ジャパまんクッション（リラックス）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/y2IEUvij47.png]]|2×2×1|^|^||
+|^|[[ジャパまんクッション（ラブリー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CiCUHmevPh.png]]|2×2×1|^|^||
+|^|[[ジャパまんクッション（アクティブ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t8z94Ol39b.png]]|2×2×1|^|^||
+|^|[[ジャパまんクッション（マイペース）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/g7cpHoSq1E.png]]|2×2×1|^|^||
+|^|[[ジャパまんバスケット（ファニー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hlrDG9HUPL.png]]|2×2×1|^|^||
+|^|[[ジャパまんバスケット（フレンドリー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wqomeztmQ9.png]]|2×2×1|^|^||
+|^|[[ジャパまんバスケット（リラックス）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8Quvmw7vrc.png]]|2×2×1|^|^||
+|^|[[ジャパまんバスケット（ラブリー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xE3mGhh0ZB.png]]|2×2×1|^|^||
+|^|[[ジャパまんバスケット（アクティブ）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/C5GOuaimUW.png]]|2×2×1|^|^||
+|^|[[ジャパまんバスケット（マイペース）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Jp0IheSCD4.png]]|2×2×1|^|^||
+|^|[[加湿器（ホワイト）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fFxMOuYRX8.png]]|2×2×3|SR|インテリア便(2021/3まで)|期間限定(2020/12～2021/3)|
+|^|[[ステンドグラスランプ（イエロー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Wlxc9LnCtb.png]]|2×2×3|^|^|期間限定(2020/12～2021/3)|
+|^|[[玉サボテンの鉢植え>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CZpX7O5GAC.png]]|2×2×2|R|^|期間限定(2020/12～2021/3)|
+|^|[[ジャパリチップス>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAV1ruBLVh.png]]|2×2×1|^|^|期間限定(2020/12～2021/3)|
+|^|[[ジャパリソーダ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/o3O6lrx_E0.png]]|2×2×1|^|^|期間限定(2020/12～2021/3)|
+|^|[[ティーセット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pYREHLDBCp.png]]|2×2×1|^|^|期間限定(2020/12～2021/3)|
+|^|[[牛乳瓶>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/NK8lYT7rYs.png]]|2×2×1|^|^|期間限定(2020/12～2021/3)|
+|^|[[試作品プラモ　Type-SC>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/THWIZe9rX8.png]]|2×2×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[試作品プラモ　Type-SC（スクリューユニット付き）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vGtTPZyxqh.png]]|2×2×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[パイロン（イエロー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Od79J95f_Q.png]]|2×2×4|^|^|期間限定(2020/12～2021/3)|
+|^|[[パイロン（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/q1RVi12Ijc.png]]|2×2×4|^|^|期間限定(2020/12～2021/3)|
+|^|[[パイロン（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jP5y_cvvrk.png]]|2×2×4|^|^|期間限定(2020/12～2021/3)|
+|^|[[手づくり水晶トロフィー(小)>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zRBHWUhOnG.png]]|2×2×2|^|トータルミッション「すぺしゃるクエストクリア」||
+|^|[[ハローキティのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/O9Sj3Fb8G0.png]]|2×2×3|SR|『[[フシギな友達 キティ＆ミミィサーバル交換所]]』|期間限定　最大5個|
+|^|[[ハローミミィのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SNORwBaNy3.png]]|2×2×3|^|^|期間限定　最大5個|
+|^|[[ヒョウタンツギのぬいぐるみ>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oPWHylP0IX.png]]|2×2×2|^|『[[風の迷子と燃ゆる羽交換所]]』|期間限定　最大5個|
+|^|[[カーバンクルのぬいぐるみ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yrns_tZvJr.png]]|2×2×3|^|『[[みんなでけもぷよ！交換所]]』|期間限定　最大1個|
+|^|[[きいろぷよのクッション>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QZ0LRpV4qj.png]]|2×2×2|^|[[みんなでけもぷよ！]]ログインボーナス~~[[ぷよぷよコラボすてっぷあっぷしょうたい>期間限定しょうたい一覧(2021)#kgs_2021_06_22_2]]おまけ|期間限定|
+|^|[[むらさきぷよのクッション>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UzuCKV3q3E.png]]|2×2×2|^|^|期間限定|
+|^|[[あおぷよのクッション>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JAj7rGkjo5.png]]|2×2×2|^|^|期間限定|
+|^|[[みどりぷよのクッション>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/97fi6lWJl1.png]]|2×2×2|^|^|期間限定|
+|^|[[あかぷよのクッション>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/BGL7XNkebE.png]]|2×2×2|^|^|期間限定|
+|敷物|[[Mサイズのカーペット（グリーン）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qQE_e2QhvZ.png]]|14×14|C|インテリアメダル交換所|最初から所持|
+|^|[[Mサイズのござ>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OGDuJkUKA4.png]]|14×14|UC|^||
+|^|[[Mサイズのカーペット（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cWFZUAi36G.png]]|14×14|^|^||
+|^|[[Mサイズのカーペット（アライグマ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LANuno4pr.png]]|14×14|^|^||
+|^|[[Lサイズのもみじカーペット（だいだい）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hFZ6x5CAgo.png]]|20×20|^|^|拠点家具が期間限定|
+|^|[[Mサイズのもみじカーペット（だいだい）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6qvALR_TAK.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのもみじカーペット（だいだい）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ViwkB2Q4C.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのもみじカーペット（きいろ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RASbmCf9KL.png]]|20×20|^|^|拠点家具が期間限定|
+|^|[[Mサイズのもみじカーペット（きいろ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cG4fSWnjAe.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのもみじカーペット（きいろ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_GWqYYFNr4.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのもみじカーペット（まっか）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0kwimIGNxR.png]]|20×20|^|^|拠点家具が期間限定|
+|^|[[Mサイズのもみじカーペット（まっか）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ok_xqbfmog.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのもみじカーペット（まっか）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7rvMNlgizF.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのクリスマスカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/NHP94ZFnCA.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのクリスマスカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L9WRddGihJ.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのクリスマスカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/aBvetT8zwG.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのスノーカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Yb7Q8jjTy9.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのスノーカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/uM_3ZlOq6v.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのスノーカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CeKNZ3AZvt.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのハートのカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gpBHUL1VlV.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのハートのカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/akSHELEo7W.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのハートのカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PHPcB9b7c3.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのカーペット（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RKqHqGvGxw.png]]|18×18|^|^||
+|^|[[Mサイズのカーペット（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FifdCuDej4.png]]|14×14|^|^||
+|^|[[Sサイズのカーペット（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/d0RCQY1gSt.png]]|10×10|^|^||
+|^|[[Lサイズのやじるしカーペット（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Kto9fqzmYR.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのやじるしカーペット（レッド）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ii0E16fSCY.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのやじるしカーペット（レッド）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/x6kbnx9zJK.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズの桜のはなびらカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DaOrs_G9W_.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズの桜のはなびらカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/r8skD361Q3.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズの桜のはなびらカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/G9gRctx9ej.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのわかばカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l08423T4D1.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのわかばカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/u8FstnM8AN.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのわかばカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/xG8hsMpbwI.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのあまつぶのカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SU4dsSV5gO.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのあまつぶのカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MOaimubRf7.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのあまつぶのカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6yVMpqTs5x.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズの星のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mFqgYwpXDz.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズの星のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/k0kyPEtzfu.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズの星のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VESwHjv2ge.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのサーフボード風のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LBRjBBSQUx.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのサーフボード風のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/89QbCPlndO.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのサーフボード風のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/shm63t8khp.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Lサイズのあしあと風のカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rMJeIISbz9.png]]|18×18|^|^|拠点家具が期間限定|
+|^|[[Mサイズのあしあと風のカーペット>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/itZORJFlSu.png]]|14×14|^|^|拠点家具が期間限定|
+|^|[[Sサイズのあしあと風のカーペット>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/W0Xv1jFsj3.png]]|10×10|^|^|拠点家具が期間限定|
+|^|[[Mサイズのカーペット（レッド）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xde2Nl2zqi.png]]|14×14|^|インテリアパック（レッド）||
+|^|[[Mサイズのカーペット（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MkRHEX_KoM.png]]|14×14|^|インテリアパック（ブルー）||
+|^|[[Mサイズのカーペット（イエロー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/p5PleP3ZGg.png]]|14×14|^|インテリアパック（イエロー）||
+|壁掛け|[[『お気に入りの木陰』のポスター>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2W6WSeVyyD.png]]|4×6|C|インテリアメダル交換所|最初から所持|
+|^|[[『ハッピー・スマイル！』のポスター>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xB6WMnZaiv.png]]|4×6|R|^|拠点家具が期間限定|
+|^|[[『フラワー・ドリーム！』のポスター>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/gooyy3Sdv1.png]]|4×6|^|^|拠点家具が期間限定|
+|^|[[『カラフル・パレード！』のポスター>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t0HRiAOLgn.png]]|4×6|^|^|拠点家具が期間限定|
+|^|（フレンズ名）のカフェ制服のぼり|3×8|SR|対応フレンズの仲良しレベル6~~インテリアメダル交換所|交換は仲良しレベル6達成後~~属性違いはセーラー学生服|
+|^|（フレンズ名）のジャージのぼり|3×8|^|対応フレンズの仲良しレベル7~~インテリアメダル交換所|交換は仲良しレベル7達成後~~属性違いはジャージ（青）|
+|^|『（フォト名）』のポスター|4×6|R|対応フォトの完凸~~インテリアメダル交換所|交換は1枚目の入手後|
+|^|『（フォト名）』のポスター（変化後）|4×6|^|対応フォトの完凸&レベル最大~~インテリアメダル交換所|交換は1枚目の入手後|
+|^|[[掛け軸（ちゅーばー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ByANeuiR9H.png]]|3×8|UC|ちゅーばーの証交換所|(2021/1～)|
+|^|[[掛け軸（めんそーれ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oTHFNT40SK.png]]|3×8|^|^|(2021/3～)|
+|^|[[掛け軸（にふぇーでーびる）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/y0zSzkWLuM.png]]|3×8|^|^|(2021/5～)|
+|^|[[掛け軸（ちばりよー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nUeLJu__rG.png]]|3×8|^|^|(2021/7～)|
+|^|[[掛け軸（ゆいまーる）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JV3Z4BU0GW.png]]|3×8|^|^|(2021/9～)|
+|^|ロイヤルペンギンの壁掛けレコード|2×2|R|4月インテリア便|楽曲「群青の夢」を解放~~期間限定(2021/4)|
+|^|[[コウテイペンギンの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GvGDTYTh7t.png]]|2×2|^|^|楽曲「ワクワクけものバトル！」を解放~~期間限定(2021/4)|
+|^|ジャイアントペンギンの壁掛けレコード|2×2|^|^|楽曲「強そうなの来たぁ～！」を解放~~期間限定(2021/4)|
+|^|[[イワトビペンギンの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vzIV_XN09Q.png]]|2×2|^|5月インテリア便|楽曲「勢い止めずに」を解放~~期間限定(2021/5)|
+|^|[[フンボルトペンギンの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8X3sGWW0n_.png]]|2×2|^|^|楽曲「ワクワクけものバトル！～メルヘンVer.～」を解放~~期間限定(2021/5)|
+|^|[[ジェンツーペンギンの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7OZ7doyzrC.png]]|2×2|^|^|楽曲「強そうなの来たぁ～！～メルヘンVer.～」を解放~~期間限定(2021/5)|
+|^|[[ブラックバックの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02N3KZI8nz.png]]|2×2|^|6月インテリア便|楽曲「春の訪れ」を解放~~期間限定(2021/6)|
+|^|[[タスマニアデビルの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d9e845Td8m.png]]|2×2|^|^|楽曲「ワクワクけものバトル！～ゴシックメタルVer.～」を解放~~期間限定(2021/6)|
+|^|[[オーストラリアデビルの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6HaYuMr5ni.png]]|2×2|^|^|楽曲「強そうなの来たぁ～！～ゴシックメタルVer.～」を解放~~期間限定(2021/6)|
+|^|[[カンザシフウチョウの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Zcj6tctAhq.png]]|2×2|^|7月インテリア便|楽曲「ゴクサイシキのワルツ」を解放|
+|^|[[カタカケフウチョウの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PHEVlh0Xkh.png]]|2×2|^|^|楽曲「こころの輝き」を解放|
+|^|[[オオフウチョウの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1pghzAwIk8.png]]|2×2|^|^|楽曲「ステキな運命」を解放|
+|^|[[イカリの壁飾り>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EyFT_Zgfdh.png]]|5×6×1|SR|8月インテリア便|期間限定(2021/8)|
+|^|[[サーバルの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/p3wc0EJ5fR.png]]|2×2|R|^|楽曲「『け・も・の・だ・も・の』アレンジ」を解放~~期間限定(2021/8)|
+|^|[[アライグマの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B8gCQUqROU.png]]|2×2|^|^|楽曲「ワクワクけものバトル！～トロピカルVer.～」を解放~~期間限定(2021/8)|
+|^|[[フェネックの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/XwyqDf8at5.png]]|2×2|^|^|楽曲「強そうなの来たぁ～！～トロピカルVer.～」を解放~~期間限定(2021/8)|
+|^|[[ラッキービーストの振り子時計>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/To2o1iQ0Jb.png]]|3×5×1|SR|9月インテリア便|期間限定(2021/9)|
+|^|[[ドールの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/odIDGhQnid.png]]|2×2|R|^|楽曲「ありがとうのじゅんび！」を解放~~期間限定(2021/9)|
+|^|[[マイルカの壁掛けレコード>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ebz_BosQYJ.png]]|2×2|^|^|楽曲「みんなでいっしょに！」を解放~~期間限定(2021/9)|
+|^|[[ミーアキャットの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwUR1PMetu.png]]|2×2|^|^|楽曲「パーティーのじかん！」を解放~~期間限定(2021/9)|
+|^|[[クリスマスの壁飾り>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/q6VeGpJMrm.png]]|22×4×1|^|12月インテリア便のおまけ|期間限定(2020/12)|
+|^|[[クリスマスリース>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/anbtltWQ3u.png]]|3×3×2|^|^|期間限定(2020/12)|
+|^|[[しずくと雲の壁飾り>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/K6tKeFrjti.png]]|5×6|R|6月インテリア便のおまけ|期間限定(2021/6)|
+|^|星の壁飾り||R?|7月インテリア便のおまけ|期間限定(2021/7)|
+|^|貝殻の壁飾り||^|8月インテリア便のおまけ|期間限定(2021/8)|
+|^|[[ハンギングシェルフ（ナチュラル）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yoCFW8VBy4.png]]|3×12×3|SR|インテリア便|(2021/4～)|
+|^|[[壁掛け六角シェルフ（ブルー）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1v5ELrAlif.png]]|5×4×3|^|^|雑貨設置数？~~(2021/4～)|
+|^|[[壁掛け時計（シルバー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/81z9qbzmmt.png]]|2×2×1|^|^|現実の時間反映~~(2021/4～)|
+|^|[[壁掛け黒板（じゃぱりぱーく）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vnJzzlORVb.png]]|10×5×1|^|^|(2021/4～)|
+|^|[[風船の壁飾り（オレンジ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CVDvgpRiKH.png]]|3×4×2|R|^|(2021/4～)|
+|^|[[リボンの壁飾り（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/T5SAV_LVaM.png]]|5×2|^|^|(2021/4～)|
+|^|[[ながいリボンの壁飾り（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Q_CKNTaObj.png]]|11×2|^|^|(2021/4～)|
+|^|[[シックなウォールライト（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QbIEVDJafC.png]]|2×3×2|SR|インテリア便(2021/3まで)|期間限定(2020/12～2021/3)|
+|^|[[ウォールシェルフ（ナチュラル）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OBooptzszA.png]]|7×2×4|^|^|雑貨設置数2~~期間限定(2020/12～2021/3)|
+|^|[[風船の壁飾り（イエロー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/h3h8fzh6yN.png]]|3×4×2|R|^|期間限定(2020/12～2021/3)|
+|^|[[風船の壁飾り（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Rhy9CJOV21.png]]|3×4×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[風船の壁飾り（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dkst8b42_j.png]]|3×4×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[リボンの壁飾り（オレンジ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ej1PCxWU8z.png]]|5×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[リボンの壁飾り（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JhJ_hAOjtB.png]]|5×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[ながいリボンの壁飾り（オレンジ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kxPGinKS4I.png]]|11×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[ながいリボンの壁飾り（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/n7woc7vbPQ.png]]|11×2|^|^|期間限定(2020/12～2021/3)|
+|^|[[『フシギな友達 キティ＆ミミィサーバル』のポスター>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/d1e2K9soaf.png]]|4×6|^|『[[フシギな友達 キティ＆ミミィサーバル交換所]]』|期間限定~~最大2個|
+|^|[[ライオンの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pSmdvBS9sR.PNG]]|2×2|UC|2021/3/12に配布|楽曲「今日はどこに行こうか？」を解放|
+|^|[[ハクトウワシの壁掛けレコード>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hnDrIMi2D7.PNG]]|2×2|^|^|楽曲「あたらしい出会い」を解放|
+|カーテン|[[カーテン（グリーン）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/NNm9IF1t_c.png]]|8×10|C|インテリアメダル交換所|最初から所持|
+|^|[[カーテン（足跡）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/TVasvxW6WI.png]]|8×10|UC|^||
+|^|[[カーテン（アライグマ）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pucZyWE_1n.png]]|8×10|^|^||
+|^|[[カーテン（レッド）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BKZYaF6ga9.png]]|8×10|^|インテリアパック（レッド）||
+|^|[[カーテン（ブルー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cG7rhWrVH4.png]]|8×10|^|インテリアパック（ブルー）||
+|^|[[カーテン（イエロー）>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Zvlmo2SeIc.png]]|8×10|^|インテリアパック（イエロー）||
+|天井照明|[[シーリングライト（ブラック）>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2TYq_T0oqA.png]]|固定|^|2020/12/17に配布||
+|壁紙|[[ナチュラルウッドの壁紙>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zoWo8Em8EM.png]]|固定|^|^||
+|^|[[和室風の壁紙>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xxUW6eke8j.png]]|固定|SSR|スペシャルインテリアパック（和風）~~(2021/1/29追加)||
+|^|[[レンガ調の壁紙>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lByBMy4uIv.png]]|固定|^|すごい!!スペシャルパック|期間限定(2021/2)|
+|^|[[プレイルーム風の壁紙>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/co2v1wdets.png]]|固定|^|^|期間限定(2021/3)|
+|^|[[教室風の壁紙>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0BFuex52kr.png]]|固定|^|^|期間限定(2021/4)|
+|^|[[ホワイトウッドの壁紙>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/kmB8ctn8Da.png]]|固定|^|^|期間限定(2021/5)|
+|^|[[みずたまもようの壁紙>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CtiLp2n0IP.png]]|固定|^|^|期間限定(2021/6)|
+|^|[[星空の壁紙>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/spNNpbnJ7m.png]]|固定|^|^|期間限定(2021/7)|
+|^|[[白色レンガの壁紙>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AFf6eAXv0c.png]]|固定|^|^|期間限定(2021/8)|
+|^|[[ポップなフレンズ壁紙>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/BedHKljXBV.png]]|固定|^|^|期間限定(2021/9)|
+|フロアシート|[[ナチュラルウッドのフロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7v_LgAXqQK.png]]|固定|UC|2020/12/17に配布||
+|^|[[和室風のフロアシート>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/NlifXHu5v_.png]]|固定|SSR|スペシャルインテリアパック（和風）~~(2021/1/29追加)||
+|^|[[レンガ調のフロアシート>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/tSQNyCx7s9.png]]|固定|^|すごい!!スペシャルパック|期間限定(2021/2)|
+|^|[[プレイルーム風のフロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jvZPH7rgF_.png]]|固定|^|^|期間限定(2021/3)|
+|^|[[教室風のフロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZGPemZyn0w.png]]|固定|^|^|期間限定(2021/4)|
+|^|[[ホワイトウッドのフロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dcpDFOX6Rt.png]]|固定|^|^|期間限定(2021/5)|
+|^|[[みずたまもようのフロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/xGCMCWq1Lh.png]]|固定|^|^|期間限定(2021/6)|
+|^|[[草原のフロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W8Hx1eTMep.png]]|固定|^|^|期間限定(2021/7)|
+|^|[[青色タイルのフロアシート>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7xlmBTvWXP.png]]|固定|^|^|期間限定(2021/8)|
+|^|[[ジャパリパークの地図風フロアシート>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/t1ke3Pbemq.png]]|固定|^|^|期間限定(2021/9)|
+[END]
+
+*インテリアの効果
+**インテリアボーナスとなかよしポイント
+所持するインテリア毎に設定されたインテリアボーナスの合計値によって、ツリーハウスに遊びに来ているフレンズがクエストで得られるなかよしポイントに倍率がかかります。
+初期値は62(1%)で、以降の増加値については現在調査中ですが、100～200は50単位、1,000までは100単位、1,000以降は500単位、10,000以降は1,000単位で0.5%ずつ増加しているようです。
+月間パスポートの有効期間中は、インテリアボーナスによるなかよしポイントの倍率が1.5倍になります（パスポートの種類によらず同じです）。
+また、インテリアボーナスによる補正は家具による補正と重複(加算)します。
+例えば家具補正10%・インテリア補正1%で月間パスポート有効期間中の場合、遊びに来ているフレンズには10 ＋ (1 × 1.5) ＝ 11.5%の倍率がかかります(他フレンズは10%)。
+
+インテリア配置画面で「i」のボタンを押すと、現在の倍率と次の倍率までに必要なインテリアボーナスがわかります。
+(例えば、インテリアボーナス120では「なかよしポイント+1.5%　あと30インテリアボーナスで効果量アップ！」と表示されます)
+
+インテリアボーナスは持っている家具の数だけ増加し、すでに入手済みのものでも複数持っていればその分ポイントに加算されます。
+&color(#ff0000){なお、所持しているだけで効果があり設置する必要はありません。}
+[-]インテリアボーナスによるなかよしポイント増加表
+&color(red){赤文字は推測値}
+{| class="custom-css" style="min-width: 800px;"
+|r[bgcolor(#cccccc)]:~合計インテリアボーナス|～61|62～|100～|150～|200～|300～|400～|500～|600～|700～|800～|900～|
+|増加なかよしポイント|不明|+1％|+1.5％|+2％|+2.5％|+3％|+3.5％|+4％|+4.5％|+5％|+5.5％|+6％|
+|月間パスポート有り|不明|+1.5％|+2.25％|+3％|+3.75％|+4.5％|+5.25％|+6％|+6.75％|+7.5％|+8.25％|+9％|
+|r[bgcolor(#cccccc)]:~合計インテリアボーナス|1,000～|1,500～|2,000～|2,500～|3,000～|3,500～|4,000～|4,500～|5,000～|5,500～|6,000～|6,500～|
+|増加なかよしポイント|+6.5％|+7％|+7.5％|+8％|+8.5％|+9％|+9.5％|+10％|+10.5％|+11％|+11.5％|+12％|
+|月間パスポート有り|+9.75％|+10.5％|+11.25％|+12％|+12.75％|+13.5％|+14.25％|+15％|+15.75％|+16.5％|+17.25％|+18％|
+|r[bgcolor(#cccccc)]:~合計インテリアボーナス|7,000～|7,500～|8,000～|8,500～|9,000～|9,500～|10,000～|11,000～|12,000～|13,000～|14,000～|15,000～|
+|増加なかよしポイント|+12.5％|+13％|+13.5％|+14％|+14.5％|+15％|+15.5％|+16％|+16.5％|+17％|+17.5％|+18％|
+|月間パスポート有り|+18.75％|+19.5％|+20.25％|+21％|+21.75％|+22.5％|+23.25％|+24％|+24.75％|+25.5％|+26.25％|+27％|
+|r[bgcolor(#cccccc)]:~合計インテリアボーナス|16,000～|17,000～|18,000～|19,000～|20,000～|21,000～|22,000～|23,000～|24,000～|25,000～|26,000～|27,000～|
+|増加なかよしポイント|+18.5％|+19％|+19.5％|+20％|+20.5%|+21%|+21.5%|+22%|+22.5%|+23%|+23.5%|+24%|
+|月間パスポート有り|+27.75％|+28.5％|+29.25％|+30％|+30.75%|+31.5%|+32.25%|+33%|+33.75%|+34.5%|+35.25%|+36%|
+|r[bgcolor(#cccccc)]:~合計インテリアボーナス|28,000～|29,000～|30,000～|31,000～|32,000～|33,000～|34,000～|35,000～|36,000～|37,000～|38,000～|39,000～|
+|増加なかよしポイント|+24.5%|+25%|+25.5%|+26%|+26.5％|+27％|+27.5％|+28％|+28.5％|+29％|+29.5％|+30％|
+|月間パスポート有り|+36.75%|+37.5%|+38.25%|+39%|+39.75％|+40.5％|+41.25％|+42％|+42.75％|+43.5％|+44.25％|+45％|
+|r[bgcolor(#cccccc)]:~合計インテリアボーナス|40,000～|41,000～|42,000～|43,000～|44,000～|45,000～|46,000～|47,000～|48,000～|49,000～|||
+|増加なかよしポイント|+30.5%|+31%|+31.5%|+32%|+32.5％|+33％|+33.5％|+34％|+34.5％|+％|+％|+％|
+|月間パスポート有り|+45.75%|+46.5%|+47.25%|+48%|+48.75％|+49.5％|+50.25％|+51％|+51.75％|+％|+％|+％|
+|}
+[END]
+また、自分が所持しているインテリアおよびそのインテリアボーナス値は、メニュー「その他」から所持アイテム一覧を見ることで確認できます。
+***レアリティとインテリアボーナス
+インテリアのボーナス値はSSRが50、SRが5、それ以下(C, UC, R)は1となっているようです。
+
+インテリアガチャで排出されるインテリア以外のものにもレア度が設定されており、
+各インテリアのアイコンの枠及び背景色(Cは白、UCは青、Rは緑、SRは金色、SSRは虹色)、
+またはインテリア便かツリーハウス>編集>配置の各インテリアアイコン長押しで確認できます。
+
+一般に
+
+「の」マークのインテリア　：SSR
+フレンズののぼり　　　　　：SR
+フォトのポスター　　　　　：R
+
+となっています。ただし、一部例外もあります。
+
+その他イベントなどで入手できるインテリアのレアリティについてはインテリアごとに異なる模様です。
+
+インテリアボーナスの面では、''インテリアメダルはすべてフレンズののぼりを交換するのが効率がよくなっています。''
+
+**SSRインテリアでスタミナ最大値アップ
+ SSRインテリアを1個入手すると、スタミナの最大値が1アップします。~~スタミナ上昇の最大値は、100までです。　(ゲーム内ヘルプより)
+アプリVer.1.9.0で追加。
+なかよしポイントのインテリアボーナス同様、所持しているだけで効果があり設置する必要はありません。
+
+インテリア配置画面で「i」のボタンから現在のSSRインテリアの所持数と効果を確認できます。
+またスタミナのゲージを長押しすることでもSSRインテリアボーナスが確認可能です。
+
+**レコードとBGM変更
+2021/03/12にアプリVer.1.9.0で追加。
+レコードを入手すると対応する楽曲が「わいわいツリーハウス楽曲設定」にて解放されます。
+わいわいツリーハウストップ画面右側にある「♪」マークのボタンからツリーハウスのBGMを変更できるようになります。
+なおこちらも所持しているだけで効果があり、インテリアを設置する必要はありません。
+
+1つの楽曲に対して複数種類のレコードが存在する場合があります。
+
+[-]レコード一覧
+{| class="sort filter"
+|r[bgcolor(#a3e0fd)]:~レコード名|追加される楽曲|入手方法(初出)|備考|
+|ライオンの壁掛けレコード|今日はどこに行こうか？|全員配布|拠点BGM|
+|ハクトウワシの壁掛けレコード|あたらしい出会い|全員配布|しょうたいBGM|
+|ロイヤルペンギンの壁掛けレコード|群青の夢|2021年04月インテリア便|メインストーリー5章バトルBGM|
+|コウテイペンギンの壁掛けレコード|ワクワクけものバトル！|2021年04月インテリア便|通常バトルBGM|
+|ジャイアントペンギンの壁掛けレコード|強そうなの来たぁ～！|2021年04月インテリア便|通常ボスBGM|
+|イワトビペンギンの壁掛けレコード|勢い止めずに|2021年05月インテリア便|シナリオBGM|
+|フンボルトペンギンの壁掛けレコード|ワクワクけものバトル！～メルヘンVer.～|2021年05月インテリア便|ジャパリカフェ de サラダボウル バトルBGM|
+|ジェンツーペンギンの壁掛けレコード|強そうなの来たぁ～！～メルヘンVer.～|2021年05月インテリア便|ジャパリカフェ de サラダボウル ボス戦BGM|
+|ブラックバックの壁掛けレコード|春の訪れ|2021年06月インテリア便|闇と舞え！漆黒のダークネスひな祭り BGM|
+|タスマニアデビルの壁掛けレコード|ワクワクけものバトル！～ゴシックメタルVer.～|2021年06月インテリア便|闇と舞え！漆黒のダークネスひな祭り バトルBGM|
+|オーストラリアデビルの壁掛けレコード|強そうなの来たぁ～！～ゴシックメタルVer.～|2021年06月インテリア便|闇と舞え！漆黒のダークネスひな祭り ボス戦BGM|
+|カンザシフウチョウの壁掛けレコード|ゴクサイシキのワルツ|2021年07月インテリア便|アライさん隊長日誌シナリオBGM|
+|カタカケフウチョウの壁掛けレコード|こころの輝き|2021年07月インテリア便|シナリオBGM|
+|オオフウチョウの壁掛けレコード|ステキな運命|2021年07月インテリア便|桜舞うわいるど学校体験 シナリオBGM|
+|サーバルの壁掛けレコード|『け・も・の・だ・も・の』アレンジ|2021年08月インテリア便|メインストーリー9章バトルBGM|
+|アライグマの壁掛けレコード|ワクワクけものバトル！～トロピカルVer.～|2021年08月インテリア便|目立て！渚のライフセーバー バトルBGM|
+|フェネックの壁掛けレコード|強そうなの来たぁ～！～トロピカルVer.～|2021年08月インテリア便|目立て！渚のライフセーバー ボス戦BGM|
+|ドールの壁掛けレコード|ありがとうのじゅんび！|2021年09月インテリア便|想い伝われ！ありがとうパーティー！ BGM|
+|マイルカの壁掛けレコード|みんなでいっしょに！|2021年09月インテリア便|想い伝われ！ありがとうパーティー！ ボス戦BGM|
+|ミーアキャットの壁掛けレコード|パーティーのじかん！|2021年09月インテリア便|想い伝われ！ありがとうパーティー！ バトルBGM|
+|ギンギツネの壁掛けレコード|ワクワクけものバトル！～和っしょいver～|2021年11月インテリア便|祭りだ！屋台だ！アテンション！ バトルBGM|
+|キタキツネの壁掛けレコード|強そうなの来たぁ～！～和っしょいver.～|2021年11月インテリア便|祭りだ！屋台だ！アテンション！ ボス戦BGM|
+|ホワイトサーバルの壁掛けレコード|キラキラ輝くクリスマス|2021年12月インテリア便|星を探そう！キラキラ輝くクリスマスBGM|
+|ヘラジカの壁掛けレコード|ワクワクけものバトル！～クリスマスver.～|2021年12月インテリア便|星を探そう！キラキラ輝くクリスマス バトルBGM|
+|トナカイの壁掛けレコード|強そうなの来たぁ～！～クリスマスver.～|2021年12月インテリア便|星を探そう！キラキラ輝くクリスマス ボス戦BGM|
+|ホワイトタイガーの壁掛けレコード|マイペース|2022年01月インテリア便|シナリオBGM|
+|ゴールデンタビータイガーの壁掛けレコード|ワクワクけものバトル！～ハロウィンver～|2022年01月インテリア便|トリックでトリートを取り返せ！ バトルBGM|
+|マルタタイガーの壁掛けレコード|強そうなの来たぁ～！～ハロウィンver～|2022年01月インテリア便|トリックでトリートを取り返せ！ ボス戦BGM|
+|エゾヒグマの壁掛けレコード|まだまだこれから！|2022年02月インテリア便|共闘イベント バトルBGM|
+|カムチャッカオオヒグマの壁掛けレコード|どんどんいこう！|2022年02月インテリア便|共闘イベント ボーナスクエストBGM|
+|コディアックヒグマの壁掛けレコード|がんがんすすめ！|2022年02月インテリア便|共闘イベント 通せんぼバトルBGM・メインストーリー8章戦闘BGM|
+|ピーチパンサーの壁掛けレコード|ごゆ～っくり、ご覧くださいな|2022年03月インテリア便|ショップBGM|
+|ショウジョウトキの壁掛けレコード|のんびりゆったりいきましょう♪|2022年03月インテリア便|シナリオBGM|
+|オオフラミンゴの壁掛けレコード|こころ穏やかに|2022年03月インテリア便|シナリオBGM|
+|ニワトリの壁掛けレコード|いつだってはなまる|2022年04月インテリア便|メインストーリー7章バトルBGM|
+|ヒツジの壁掛けレコード|なんとかなったね|2022年04月インテリア便|大掃除クリアBGM|
+|ダチョウの壁掛けレコード|前兆|2022年04月インテリア便|シナリオBGM|
+|ジョフロイネコの壁掛けレコード|どたばた！|2022年05月インテリア便|シナリオBGM|
+|タテゴトアザラシの壁掛けレコード|やさしいしらべ|2022年05月インテリア便|シナリオBGM|
+|パフィンの壁掛けレコード|のんびりピクニック|2022年05月インテリア便|ピクニックBGM|
+|コツメカワウソの壁掛けレコード|準備はバッチリ|2022年06月インテリア便|ちからくらべ画面BGM|
+|アメリカレアの壁掛けレコード|いざ！じんじょーに！|2022年06月インテリア便|ちからくらべバトルBGM|
+|アミメキリンの壁掛けレコード|おつかれさま！|2022年06月インテリア便|ちからくらべ勝利BGM|
+|オオアルマジロの壁掛けレコード|まだまだどんどん！|2022年07月インテリア便|野生大解放イベントBGM|
+|オオセンザンコウの壁掛けレコード|つよくなる！|2022年07月インテリア便|野生大解放イベント バトルBGM|
+|キングコブラの壁掛けレコード|近づくなにか|2022年07月インテリア便|シナリオBGM|
+|アデリーペンギンの壁掛けレコード|秘めたる輝き|2022年08月インテリア便|シナリオBGM|
+|キングペンギンの壁掛けレコード|木漏れ日のなか|2022年08月インテリア便|シナリオBGM|
+|ケープペンギンの壁掛けレコード|時はゆったりと|2022年08月インテリア便|フレンズ画面BGM|
+|アゴヒゲアザラシの壁掛けレコード|こっちのターン！|2022年09月インテリア便|シナリオBGM|
+|イリエワニの壁掛けレコード|お掃除開始！|2022年09月インテリア便|大掃除バトルBGM|
+|ゴリラの壁掛けレコード|お掃除完了！|2022年09月インテリア便|大掃除クリアBGM|
+|ゴールデンタビータイガーの壁掛けレコード|ワクワクけものバトル！～ハロウィンver～|2022年10月インテリア便|トリックでトリートを取り返せ！ バトルBGM|
+|マルタタイガーの壁掛けレコード|強そうなの来たぁ～！～ハロウィンver～|2022年10月インテリア便|トリックでトリートを取り返せ！ ボス戦BGM|
+|フォークランドカラカラの壁掛けレコード|よくない気配|2022年10月インテリア便|シナリオBGM|
+|オーロックスの壁掛けレコード|まだまだこれから！|2022年11月インテリア便|共闘イベント バトルBGM|
+|ブラックジャガーの壁掛けレコード|どんどんいこう！|2022年11月インテリア便|共闘イベント ボーナスクエストBGM|
+|バーバリライオンの壁掛けレコード|がんがんすすめ！|2022年11月インテリア便|共闘イベント 通せんぼバトルBGM・メインストーリー8章戦闘BGM|
+|ホッキョクギツネの壁掛けレコード|キラキラ輝くクリスマス|2022年12月インテリア便|星を探そう！キラキラ輝くクリスマスBGM|
+|ホッキョクオオカミの壁掛けレコード|ワクワクけものバトル！～クリスマスver.～|2022年12月インテリア便|星を探そう！キラキラ輝くクリスマス バトルBGM|
+|ホッキョクグマの壁掛けレコード|強そうなの来たぁ～！～クリスマスver.～|2022年12月インテリア便|星を探そう！キラキラ輝くクリスマス ボス戦BGM|
+|とくべつな壁掛けレコード|輝き始めるカルテット|？？？|？？？|
+|}
+[END]
+**効果付きインテリア
+設置の有無に関わらず、持っているだけで特殊な効果の発生するインテリア。
+ソース: https://kemono-friends-3.jp/info/detail/009947igfy72CP.html
+(かなり抽象的な名前で、定義上インテリアボーナスが含まれないのか疑問だが…)
+
+***折りたたみコンテナシマウマもよう（スタミナ）　
+2023年10月5日配布
+6時間に一度スタミナ12を生成し、受け取ることができる。最大貯蓄上限はスタミナ48。
+受け取りはツリーハウス左上の一括受取ボタンか、設置したコンテナから。
+
+*わくわく訪問について
+「わくわく訪問」ボタンから他の隊長の部屋を訪問することができます。
+訪問方法は「フォロー訪問」「気まぐれ訪問」「検索訪問」「スタンプ順」「スタンプ履歴」の5種類があります。
+また、「情報」で公開される部屋の名前やアピール内容、公開の有無を変更することができます。
+
+**スタンプ
+訪問先の部屋の感想を、スタンプで送ることができます。
+スタンプは4種類あり、1隊長に対して1日1回送ることができます。
+
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/K0rViwp7JA.jpeg,500,no_link)
+
+12/10のアップデートでスタンプの数がスタンプポイントに変更されました。
+基本的には以前と同じですが、フォローしているとポイントが増えるようになりました。
+（通常10ポイント、片道で12ポイント、相互で15ポイント）
+そのためランキングに載りたい場合は相互のフォロワーさんと沢山スタンプの送り合いをするのが良いです。
+
+
+
+
+
+
+
+
+

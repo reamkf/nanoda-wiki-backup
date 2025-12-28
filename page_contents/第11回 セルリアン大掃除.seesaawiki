@@ -1,0 +1,220 @@
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/8c1U9yf5wd.jpeg,60%)
+
+[[イベント概要>第11回 セルリアン大掃除 イベント概要]]
+[[期間限定ミッション>期間限定ミッション一覧(2021)#kgm_2021_02_19_1]]
+[[期間限定しょうたい>期間限定しょうたい一覧(2021)#kgs_2021_02_19_1]]
+[[わくわくぼっくすしょうたい>期間限定しょうたい一覧(2021)#kgs_2021_02_19_3]]
+
+&size(15){&color(#ff0000){''※セルリアン大掃除のクエストはコンティニューができません''}}
+&size(15){&color(#ff0000){''てったい時はクエストに必要なスタミナの半分が還元されます（スタミナ還元時、スタミナ上限を超えて回復することはありません）''}}
+
+&size(18){&color(#ff0000){''中盤戦デイリーは2/20(土)、終盤戦デイリーは2/21(日)から解放可能！忘れずに！''}}
+//&size(18){&color(#ff0000){''ぼっくすしょうたいの中身は今回も微調整されています''}}
+[+]目次
+#contents
+[END]
+[+]ボス情報
+|center|center|center|center|left|c
+|~ステージ|レベル|見た目|属性|備考|
+|序盤戦2-3 WAVE3~~中盤戦3-3 WAVE3~~中盤戦4-3 WAVE3~~中盤戦デイリー WAVE3~~終盤戦2-3 WAVE3~~終盤戦4-2 WAVE5~~終盤戦デイリー WAVE3||重機型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)||
+|終盤戦4-3 WAVE5|65|錨型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|恐竜型と同時出現|
+|終盤戦4-3 WAVE5|65|恐竜型黒セルリアン|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|錨型と同時出現|
+//前回データ
+//|序盤戦1-3 WAVE3~~中盤戦2-3 WAVE3~~中盤戦3-3 WAVE5~~中盤戦4-3 WAVE5~~終盤戦4-2 WAVE5||恐竜型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|中盤戦4-3・終盤戦4-2は恐竜型黒セルリアンと同時出現|
+//|序盤戦2-3 WAVE3~~終盤戦4-3 WAVE4||重機型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)||
+//|中盤戦4-3 WAVE5~~終盤戦4-2 WAVE5~~終盤戦デイリー WAVE3||恐竜型黒セルリアン|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|被ダメ減少75%~~開幕全体くたくた付与の大技を打ってくる。~~殴っていると3ターンごとに大技が溜まって打ってきて味方のくたくたが途切れないため~~未対策だとミラクルを打てなくなってしまうので注意~~中盤戦4-3・終盤戦4-2は緑の恐竜型と同時出現|
+//|中盤戦デイリー WAVE3~~終盤戦2-3 WAVE3~~終盤戦3-3 WAVE5||衣装型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|終盤戦3-3は2体同時出現|
+//|終盤戦4-3~~WAVE5|65|錨型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|3ターンごとに跳ね返し(ダメージ反射10%)を使用する~~ファニーに対しても与ダメ減被ダメ上昇のデバフが付いている|
+[END]
+※終盤戦4-3の詳細な攻略を知りたい方は[[こちら>#last4-3]]。
+
+*序盤戦
+**序盤戦1
+''・消費スタミナ：5　相手レベル：10～12''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|300|150|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|300|150|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|300|150|
+
+**序盤戦2
+''・消費スタミナ：5　相手レベル：13～15''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|300|150|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|300|150|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|300|150|
+※バトル3WAVE3重機型ボス戦
+*中盤戦
+-2/20 00:00以降
+で解放
+**中盤戦1
+''・消費スタミナ：10　相手レベル：24～26''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+**中盤戦2
+''・消費スタミナ：10　相手レベル：27～29''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+**中盤戦3
+''・消費スタミナ：10　相手レベル：30～32''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～2|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+|バトル3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+※バトル3WAVE3重機型ボス戦
+**中盤戦4
+''・消費スタミナ：10　相手レベル：33～35''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～2|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+|バトル3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|600|300|
+※バトル3WAVE3重機型ボス戦
+**中盤戦（デイリー）
+解放条件：中盤戦3クリア
+&color(#ff0000){※1日1回のみ}
+''・消費スタミナ：15　相手レベル：40''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×25|900|450|
+※WAVE3重機型ボス戦
+*終盤戦
+-2/21 00:00以降
+で解放
+**終盤戦1
+''・消費スタミナ：25　相手レベル：44～46''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+**終盤戦2
+''・消費スタミナ：25　相手レベル：47～49''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル2|サバンナ|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+※バトル3WAVE3重機型ボス
+**終盤戦3
+''・消費スタミナ：25　相手レベル：50～52''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル2|サバンナ|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル3|サバンナ~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+**終盤戦4
+''・消費スタミナ：25　相手レベル：55～65''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～2|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+|バトル3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;4コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×50|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル2|サバンナ|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+|バトル3|サバンナ~~(夜)|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)|1500|750|
+※バトル2WAVE5重機型ボス
+※バトル3WAVE5錨型+恐竜型黒セルリアンボス
+
+&aname(last4-3)
+[+]終盤戦ラスト攻略
+アクティブ属性のイカリ型とフレンドリー属性の恐竜型2体の同時出現、体力各60万くらい？
+イカリ型の方にファニー属性被ダメージ増加と与ダメージ減少の永続バフつき
+
+イカリ型が攻撃＋バフ行動の2回行動、くたくた使用、大技未確認
+　3ターン目にはねかえし（反射率？割、反射回数制限なし、次ターンのみ？）を使用する
+恐竜型が攻撃*3の''3回行動''、くらくら使用、大技は与ダメージ強化＋全体攻撃
+
+とにかく2体同時に相手するのは絶対に避けたい。
+幸いボスの出る5waveまで平和なので、ここで全員のMPを溜めておきボス戦に入ったらどちらかにミラクル集中砲火を浴びせて倒してしまおう。
+属性は分かれているがファニー属性への有利効果がついているので、ファニー寄りのほうがやりやすい。
+配布の[[【頼られちゃ仕方ない】ツチノコ]]と助っ人の強力なファニー属性アタッカーを連れていけば比較的楽に倒せるはず。
+自前でアタッカーが足りているなら[[ピーチパンサー]]等の強力なバッファーを借りると良いだろう。
+
+どちらを先に倒すかだが、前列くらくら攻撃が嫌らしいので対策できないなら恐竜型から倒すのがおすすめ。
+イカリ型は3ターン目にはねかえしを使うが、反射率はそれほど高くない。
+ツチノコの待機を使えば1回限りだが解除もできるのでそれほど気にならないだろう。
+アタッカーが[[ホワイトサーバル]]ならくたくたも無視できて楽。
+
+どちらも火力はさほどでもないので、変に長期戦しなければ耐久面についての心配はしなくてもOK。
+ある程度育てているPTなら苦労せず倒せるはずだが、4コーラスミッションを忘れてもう一度やるハメにならないように注意。
+[END]
+**終盤戦デイリー
+解放条件：終盤戦3クリア
+&color(#ff0000){※1日1回のみ}
+''・消費スタミナ：25　相手レベル：50''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;パーティ全体のHP30%以上でクリア~~&#128681;4コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×5|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|サバンナ|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6dxIvGfNCV.png,55,no_link)×25|1500|750|
+※WAVE3重機型ボス
+
+
+

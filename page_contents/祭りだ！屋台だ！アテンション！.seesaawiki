@@ -1,0 +1,454 @@
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nmgg2N6MiU.png,60%,no_link)
+
+[[イベント概要>祭りだ！屋台だ！アテンション！ イベント概要]]
+[[祭りだ！屋台だ！アテンション！交換所]]
+[[期間限定ミッション>期間限定ミッション一覧(2020)#kgm_2020_11_27]]
+[[期間限定しょうたい>期間限定しょうたい一覧(2020)#kgs_2020_11_27_1]]
+[+]目次
+#contents
+[END]
+//↓全部解放されたら「(※未解放部分は過去のイベントからの推測)」は消してください
+今回のイベントの大まかな流れ
++『大判焼き集め』クエストで「ビッグ・バン焼き」を集めて、「マップキー」と交換。~~''「大判焼き集め5」は他と比べて効率が良くなっています''。
++「マップキー」を使用して、『わたあめ集め』クエストを解放。
++『わたあめ集め』で「クリーミィわたあめ」を集めて、「すごいマップキー」と交換。~~基本1日1回のみですが、''「マップキー」を使うことで1日追加で3回クエストを受けられます''。~~『わたあめ集め5』は何度でもできますが、1～4に比べて効率が悪いので、足りない場合だけ回しましょう。
++「すごいマップキー」を使用して『すぺしゃる』クエストを解放。~~''『すぺしゃる』クエストは1日1回挑戦でき、ビッグ・バン焼きとクリーミィわたあめの両方やラッキーメダルなどがドロップします。''~~たまに虹色のアニマルラムネやおもいでの石もドロップするので、リタマラすれば稼げます。
++以上の繰り返しで''『すぺしゃる7』のクリア報酬である「四神玉」を目指しましょう。''~~もし「クリーミィわたあめ」が余るなら、『すぺしゃる』の挑戦回数を回復させるとアイテムが稼げます。
+補足1：''後半ガチャの特効フォトを待った方が「クリーミィわたあめ」は効率よく集められます''。
+捕捉2：ショップでマップキーパックを購入すれば、上記の過程をすっ飛ばして『すぺしゃる』クエストを開けられます。
+　　　 時間のない方や『すぺしゃる』クエストで沢山リタマラしたい方におすすめ。
+補足3：『すぺしゃる』以外にも''『フリー』でも「すごいマップキー」が要求されます''。
+
+[+]SR・SSRドロップ情報
+''&color(#ff0000){※確認済情報の記載です。記載のない形でのドロップを確認した場合、情報提供頂けると幸いです。}''
+''&color(#ff0000){※すぺしゃるはwave2レアドロップの時、敵が1～2体ファングセルに変わります(ただそれ以外のドロップは無くなる？)}''
+|center|center|center|center|c
+|~ステージ|wave・敵位置|備考|
+|すぺしゃる1|wave2中央(ファングセル)|wave1左は弁当がドロップするためレアドロップはなくなった？|
+|すぺしゃる2|wave2中央(ファングセル)||
+|すぺしゃる3|wave2中央(ファングセル)||
+|すぺしゃる4|wave2中央(ファングセル)|両端がティルセルに変化|
+|すぺしゃる5|wave2右(ファングセル)||
+|すぺしゃる6|wave2中央(ファングセル)||
+|すぺしゃる7|wave2左(ファングセル)/wave2中央(ボード型)|恐らく変化したら2体分ドロップ確定|
+|フリー|wave1左|おもいでの石のみ|
+//スレでもまとめられているドロップ情報を、本ページにも追加してみました(このタイプのイベント時には需要があるかも？)
+余談:wave2のレアドロップ発生時はラッキーメダルが入手出来ないと思われるため、ラッキーメダル狙いの方はファングセルが居ない時にクリアするのがおすすめです。
+虹ラムネ・おも石は他のイベントでも一応可能性がありますが、ドロップでラキメが狙えるイベントはとても少ないです。
+
+今回から見た目の球が1枠でも個数がランダムで「1～3」と複数ドロップ扱いになるチャンスがある。前回よりは少しお得？
+また、効率だけで言えばラムネリタマラをする方は毎日「すぺしゃる7」がオススメ。おそらく変化すれば2箇所でのドロップが確定し、倍の効率で拾えます。
+同様の理由により、すごいマップキーで挑戦回数を回復するのも「すぺしゃる7」が一番。ランダムに弁当がついてくる「すぺしゃる1」が次点。
+[END]
+[+]ボス情報
+''&color(#ff0000){※12/7に10話とフリーのボスのパラメータに調整が入って弱体化しています。}''→https://kemono-friends.sega.jp/info/detail/004245w2yrVAL2.html
+|center|center|center|center|left|c
+|~ステージ|レベル|見た目|属性|center:備考|
+|メイン10話~~~wave3|%%30%%~~25|衣装型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|たいりょく%%''75万弱''(約744900)%%''50万弱''(約493200)、くらくら耐性~~3回攻撃、大技は全体攻撃でくらくら付与、与ダメ&回避アップバフ使用~~いつものメインボスよりだいぶ強いので、初心者は[[配布のツチノコ>【頼られちゃ仕方ない】ツチノコ]]を12/7に~~配られた素材で育成するか、特効またはそれ以外でも強力なファニー属性~~([[ホワイトサーバル]]等)を借りる等したい|
+|大判焼き集め5~~~wave3|40|傘型|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)||
+|わたあめ集め5~~~wave3|40|ボード型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)||
+|フリー~~~wave2|%%50%%~~30|衣装型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|たいりょく%%''125万弱''(約1248300)%%''62万弱''(約619050)、くらくら耐性~~3回攻撃、大技は全体攻撃でくらくら付与、与ダメ&回避アップバフ使用~~ファニー染め＋くらくら耐性持ちを編成したい((誤解されがちだがミッションコンプリート報酬はラキメがたった3枚のみ。確定チケットはクリアだけでいいので、助っ人一人でも生きていれば貰える。一見無理そうな人でもすごい！助っ人さんを抜擢してチャレンジしてみたい。))|
+|すぺしゃる7~~~wave2|60|傘型|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|通常時に出現、たいりょく8万~~どく攻撃使用、与ダメアップバフ使用~~お供にミカヅキ２体|
+|すぺしゃる7~~~wave2|60|ボード型|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|レアドロップ時に出現、たいりょく35万~~くたくた&すやすや&どく攻撃使用、与ダメージアップバフ&回復(10499)使用~~お供にファングセル２体|
+[END]
+[+]イベントマップ
+[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/33428f288b259688-s.png)>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/33428f288b259688.png]]
+[END]
+
+*''ストーリークエスト''
+**1話 今夜はお祭り
+''・消費スタミナ：5　相手レベル：1''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+
+**2話 お祭りガイド
+解放条件
+-1話バトル3クリア
+-11/28 12:00以降
+''・消費スタミナ：5　相手レベル：2''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+※バトル1初回挑戦時助っ人リョコウバトで固定
+**3話 楽しい屋台が盛りだくさん！
+解放条件
+-2話バトル3クリア
+-11/29 12:00以降
+''・消費スタミナ：5　相手レベル：3''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+
+**4話 お祭りの危機？
+解放条件
+-3話バトル3クリア
+-11/30 12:00以降
+''・消費スタミナ：5　相手レベル：5''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+**5話 セルリアンのせいじゃないですよー
+解放条件
+-4話バトル3クリア
+-12/1 12:00以降
+''・消費スタミナ：5　相手レベル：7''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+**6話 アテンション・プリーズ！
+解放条件
+-5話バトル3クリア
+-12/2 12:00以降
+''・消費スタミナ：5　相手レベル：9''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+※バトル1初回挑戦時助っ人リョコウバトで固定
+**7話 匂いをたどって…
+解放条件
+-6話バトル3クリア
+-12/3 12:00以降
+''・消費スタミナ：5　相手レベル：12''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×25|300|150|
+※バトル2初回挑戦時助っ人ニホンオオカミで固定
+**8話 これで解決！？
+解放条件
+-7話バトル3クリア
+-12/4 12:00以降
+''・消費スタミナ：10　相手レベル：15''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+※バトル2初回挑戦時助っ人リョコウバト・タイリクオオカミ・ニホンオオカミから選択
+**9話 どうしよう…！
+解放条件
+-8話バトル3クリア
+-12/5 12:00以降
+''・消費スタミナ：10　相手レベル：18''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+**10話 お祭りを楽しもう！
+解放条件
+-9話バトル3クリア
+-12/6 12:00以降
+''・消費スタミナ：10　相手レベル：20～%%30%%25''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1～3|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+|バトル2|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+|バトル3|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50|600|300|
+※バトル3WAVE3 衣装型セルリアンBOSS戦
+**フリー
+解放条件
+-10話バトル3クリア
+-12/6 12:00以降
+&color(#ff0000){''※解放にすごいマップキーが1個必要''}
+''・消費スタミナ：10　相手レベル：%%50%%30''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×3|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×50&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×10~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～?~~けもけも弁当全種×1|600|300|
+※WAVE2衣装型セルリアンBOSS戦
+*''収集クエスト''
+**大判焼き集め1
+''・消費スタミナ：10　相手レベル：10''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×100|600|300|
+
+**大判焼き集め2
+''・消費スタミナ：15　相手レベル：15''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×150|900|450|
+
+**大判焼き集め3
+''・消費スタミナ：30　相手レベル：20''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×300|1800|900|
+
+**大判焼き集め4
+''・消費スタミナ：40　相手レベル：30''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×400|2400|1200|
+**大判焼き集め5
+''・消費スタミナ：50　相手レベル：40''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×600|3000|1500|
+※WAVE3傘型セルリアンBOSS戦
+**わたあめ集め1
+&color(#ff0000){※解放にマップキーが1個必要}
+&color(#ff0000){※1日1回限り（マップキーを1個消費することで1日3回まで回復可能）}
+''・消費スタミナ：0　相手レベル：10''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×100|420|210|
+
+**わたあめ集め2
+解放条件
+-わたあめ集め1バトル1クリア
+-3話バトル3クリア
+&color(#ff0000){※解放にマップキーが1個必要}
+&color(#ff0000){※1日1回限り（マップキーを1個消費することで1日3回まで回復可能）}
+''・消費スタミナ：0　相手レベル：10''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×100|420|210|
+
+**わたあめ集め3
+解放条件
+-わたあめ集め2バトル1クリア
+-5話バトル3クリア
+&color(#ff0000){※解放にマップキーが1個必要}
+&color(#ff0000){※1日1回限り（マップキーを2個消費することで1日3回まで回復可能）}
+''・消費スタミナ：0　相手レベル：20''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200|420|210|
+**わたあめ集め4
+解放条件
+-わたあめ集め3バトル1クリア
+-7話バトル3クリア
+&color(#ff0000){※解放にマップキーが1個必要}
+&color(#ff0000){※1日1回限り（マップキーを2個消費することで1日3回まで回復可能）}
+''・消費スタミナ：0　相手レベル：30''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200|420|210|
+**わたあめ集め5
+解放条件
+-わたあめ集め4バトル1クリア
+-9話バトル3クリア
+&color(#ff0000){※解放にマップキーが1個必要}
+&color(#ff0000){※1日1回限り（マップキーを3個消費することで1日''9999''回まで回復可能）}
+&color(#ff0000){※他のクエストと比べてマップキー1つ辺りのドロップ効率は悪いので注意}
+''・消費スタミナ：0　相手レベル：30''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png,55,no_link)&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200|420|210|
+※WAVE2ボード型セルリアンBOSS戦
+*''すぺしゃるクエスト''
+&color(#ff0000){※解放にすごいマップキーが必要}
+&color(#ff0000){※1日1回限り（すごいマップキーを消費することで1日1回まで回復可能）}
+※wave2の敵に普段出現しないファングセルまたはティルセルが出現したときはレアドロップ（虹色のアニマルラムネ・おもいでの石。複数個ドロップする場合あり）、それ以外ではR素材とラッキーメダルがドロップします。
+※ラッキーメダルの枚数は10～20で変動するが、レアドロップ時は99。
+**すぺしゃる1
+解放条件
+-1話バトル3クリア
+''・消費スタミナ：なし　相手レベル：1''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種、けもけも弁当全種×1|600|300|
+
+**すぺしゃる2
+解放条件
+-すぺしゃる1バトル1クリア
+-3話バトル3クリア
+''・消費スタミナ：0　相手レベル：10''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種|600|300|
+
+**すぺしゃる3
+-すぺしゃる2バトル1クリア
+-4話バトル3クリア
+''・消費スタミナ：0　相手レベル：20''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種|600|300|
+
+**すぺしゃる4
+-すぺしゃる3バトル1クリア
+-5話バトル3クリア
+''・消費スタミナ：0　相手レベル：30''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種|600|300|
+
+**すぺしゃる5
+-すぺしゃる4バトル1クリア
+-7話バトル3クリア
+''・消費スタミナ：0　相手レベル：40''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種|600|300|
+**すぺしゃる6
+-すぺしゃる5バトル1クリア
+-9話バトル3クリア
+''・消費スタミナ：0　相手レベル：50''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種|600|300|
+
+**すぺしゃる7
+-すぺしゃる6バトル1クリア
+-フリーバトル1クリア
+''・消費スタミナ：0　相手レベル：60''
+[+]ミッション情報
+|center|center|center|c
+|~ステージ|ミッション|コンプリート報酬|
+|バトル1|left:&#128681;ギブアップ3人以内でクリア~~&#128681;10ターン以内にクリア~~&#128681;2コーラス以上のけもコーラスを発生させてクリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link)×1|
+[END]
+|center|center|center|center|center|center|center|center|c
+|~ステージ|地形|Wave数|敵の属性|獲得情報|経験値|ゴールド|
+|バトル1|-~~(夜)|2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,55,no_link)|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,55,no_link)&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,55,no_link)×1～3~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/L5kETCrg8i.png,55,no_link)×200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rqyYc4BRa_.png,55,no_link)×200&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png,55,no_link)×10～20~~R成長素材全種|600|300|
+※WAVE2通常時傘型/レアドロップ時ボード型BOSS戦

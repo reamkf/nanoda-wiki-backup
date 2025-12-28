@@ -1,0 +1,1026 @@
+#contents(1)
+*むちゃ・高難度クエスト攻略
+各種イベントページを新規作成することなく、情報を気軽に書き溜められるようにするページ
+''あくまで攻略法は一例のため参考程度に。''
+
+むちゃ以外だと通せんぼクエスト、大解放げきむず、四神系イベントの最難関部分も書いてもいいかも。
+
+編集者向け: クリア編成例は下記シートで生成できます。
+https://docs.google.com/spreadsheets/d/1p-C3wbkYZf_2Uce2J2J6w6T1V6X5eJmk-PtC4I__olk/edit?gid=1403879828#gid=1403879828
+
+*体力測定 クルペオギツネ編
+2025/12/11(木) ～ 2025/12/25(木) 14:00
+
+地形: 寒冷地(夜)
+助っ人: [[オセロット]]
+
+**敵情報
+リラックス 衣装型
+
+HP約80%以上のとき、くらくら・すやすや・びりびり・ばてばてヒリヒリ耐性増加
+ズキンズキン状態の相手に対する与ダメージ増加
+くたくた状態の相手に対する与ダメージ減少
+
+***行動内容
+-前列ズキンズキン付与攻撃
+-単体命中減少攻撃
+-全体与ダメージ減少攻撃
+-自己バフ
+
+**攻略
+付与できる状態異常の制約がほぼなく、相手の火力もそれほど大きくないのでかなり易しい。
+ダメージは通りにくいので、どく・ズキン・ばてヒリで削っていくのが良い。
+
+*体力測定 ティタノボア編
+2025年10月9日(木) 14:00 ～ 10月20日(月) 14:00
+
+地形: 運動場
+助っ人: [[シロナガスクジラ]]
+
+**敵情報
+ファニー属性 コンセント型
+
+常時全状態異常耐性150%増加
+常時リラックス属性以外から受ける被ダメージ減少
+
+***行動内容
+-複数状態異常耐性減少攻撃
+-複数状態異常付与攻撃
+-自己バフ: 与ダメ増加・被ダメ減少
+-自身にくたくた付与
+**攻略
+大量の状態異常耐性減少+状態異常付与をまともに相手するのが厳しい。
+-くらくらハメで無効化する
+-[[真・青龍]]で受けて無効化する
+-やられる前にやる(速攻)
+のいずれかになる。
+(もしくはくたくたギミックで攻略できるかもしれない…？)
+
+手持ちさえ揃っていればくらくらハメが一番簡単。具体的には、[[ヒメアリクイ]]・[[ハシブトガラス]]or[[トキ]]・[[神域の一皿]]・[[真・青龍]]・[[アカカンガルー]]のセットでくらくらハメが成立する。
+ダメージ源としては真・青龍とアカカンガルーのダメージで十分だが、余裕があれば[[ハシブトガラス]]or[[トキ]]の代わりに[[コモドドラゴン]]でどくを入れて早めてもよい。
+
+[[真・青龍]]で状態異常を無効化する方法では、かなり高い水準の耐久力が必要となる。
+[[ひんやりクリーミー]]・[[ミライあるけものみち]]・[[平和の歌]]×複数・[[花咲く思い出]]・[[あまおとのしらべ]]などを揃えた上でギリギリ勝てるかどうかといったところ。
+
+速攻で倒すのも簡単ではないが、手持ちを揃えた上でみんアタまたはもっプラで良いフラッグを引けば倒せると思われる。
+
+**クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,80,no_link)>真・青龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Akrh9z4Tbc.png,80,no_link)>アカカンガルー]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ixRw74OCCR.png,80,no_link)>シロナガスクジラ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dFsFeCYKZd.png,40,no_link)>ゆきのきらきら]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/8gXYJeGAj3.png,40,no_link)>https://seesaawiki.jp/kemono_friends3_5ch/d/%A4%EF%A4%BF%A4%B7%A4%BF%A4%C1%A4%C8%A4%A2%A4%BD%A4%DC%26%23%39%38%32%35%3B]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dd706f28dc84b1cc.png,40,no_link)>暑さに妬けて]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AovSW2wa8b.png,40,no_link)>幸運の流れ星]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a1b99de4dc03c76c.png,40,no_link)>神域の一皿]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/er5uu68R0k.png,40,no_link)>オーダー！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,40,no_link)>しあわせのうたごえ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+クリアターン: 32
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oJxhXJqdYV.png,80,no_link)>赤龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IUOl6lOwRj.jpg,80,no_link)>オランウータン]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ixRw74OCCR.png,80,no_link)>シロナガスクジラ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,80,no_link)>真・青龍]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_cFNMAWNru.png,40,no_link)>あまおとのしらべ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rPFM9OYK9u.jpg,40,no_link)>花咲く思い出]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,40,no_link)>しあわせのうたごえ]]|
+クリアターン: 27
+&aname(challenge202510)
+*チャレンジクエスト (2025年10月)
+2025年10月6日(月) メンテナンス後 ～ 10月13日(月) 14:00
+
+ビャッコ・ゲンブ・スザク・セイリュウ・麒麟の化身とのバトル。
+四神イベントのエクストラちゃれんじその3以降や通常のむちゃと比べて非常に弱く、熟練の隊長なら余裕でクリアできる。
+苦戦する場合は、当時の攻略が参考になるかもしれないが、報酬はラッキーメダル3×5だけなので無理にやる必要はない。
+
+[[隊長の休日INジャパリパーク～四神襲来！～ ビャッコ編]]
+[[隊長の休日INジャパリパーク～四神襲来！～ ゲンブ編]]
+[[隊長の休日INジャパリパーク～四神襲来！～ スザク編]]
+[[隊長の休日INジャパリパーク～四神襲来！～ セイリュウ編]]
+[[隊長の休日INジャパリパーク～えくすとら～]] (麒麟編)
+
+*体力測定 ツバメ
+2025/07/10(木) ～ 2025/07/24(木) 14:00
+
+地形: 運動場
+助っ人: [[ヤマタノオロチ]]
+
+**敵情報
+マイペース属性 重機型
+
+常時全状態異常耐性増加(どくは100%超)
+常時被ダメ減少・与ダメ増加(HP99%時点で被ダメ0.3874倍≒0.9^9、与ダメ約2.358倍≒1.1^9。残っているHP10%につき10%ずつ？)
+
+***行動内容
+-くらくら付与攻撃
+-デバフ付与攻撃
+-与ダメージ増加
+
+**攻略
+最初からついている被ダメ減少・与ダメ増加のバフが大きいが、これを剥がしてさえしまえば敵の耐久力は大したことなく、与ダメもやや大きい程度に収まる。
+それらを簡単に解除できる[[白龍]]か[[【わっふいわっふーい！】マイルカ]]がいればそれほど難しくない。
+安定性・発動回数は劣るが、[[エゾユキウサギ]]、[[ユニコ]]、[[アデリーペンギン]]、[[ブタ]]でも解除可能。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1dsFuPeoRk.png,80,no_link)>アフリカンゴールデンウルフ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,80,no_link)>コヨーテ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,80,no_link)>麒麟]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_gdX94OBvJ.jpg,80,no_link)>ヤマタノオロチ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AovSW2wa8b.png,40,no_link)>幸運の流れ星]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4QnkoLY1LG.jpg,40,no_link)>私が守る]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SByI3TJVv7.jpg,40,no_link)>サラダパーティー！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KSXBOeoJGo.png,40,no_link)>だいすきなぬいぐるみ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3Ssspk8UJt.png,40,no_link)>しあわせのうたごえ]]|||
+
+*体力測定 ヤマシマウマ編
+2025/06/19(木) ～ 2025/07/03(木) 14:00
+
+地形: 運動場
+助っ人: [[ディアトリマ]]
+
+**敵情報
+マイペース属性 衣装型 HP約73,333,300 (ズキンズキンダメージ2,199,999)
+
+常時被ダメ減少
+ひやひや状態の相手からの被ダメージ増加
+&color(red){HP90%以上(正確には88%以上？)のとき}、しょんぼりきぶん以外の全耐性増加(ひやひやのみ100%未満、それ以外は100%超)
+HP30%付近にも耐性が復活するゾーンがある
+HP90%以上(正確には88%以上？)のとき、追加で被ダメージ減少
+
+***行動内容
+-自己バフ: 与ダメ増加、かいひ増加、ルンルンきぶん
+-単体攻撃: MP減少、ひやひや
+-前列攻撃: ルンルンきぶん解除
+-全体攻撃: デバフ(与ダメ減少、命中減少、被ダメ増加？)
+
+**攻略
+高耐久・高火力・(HP>90%のときは)状態異常無効・ルンルン・かいひ増加命中減少・バフデバフと全部盛りのむちゃ。
+HP90%以下のときは耐性がなくなるので、それまでなんとか削った後、どく・ズキンズキン・ばてヒリで削っていく形になる。
+
+Beatで高確率でバフ解除できる[[白龍]]はほぼ必須。
+(一応バフ行動に大技を被せることが可能らしいので、それを利用すればいなくてもいけるかも…？)
+90%まで削るのは白龍だけでも可能だが、単体攻撃のMP減少を避けるためにタンクは別で持っておきたい。
+タンク役としてはステータス特効がついている[[クロサイ]]がかなり優秀。
+
+どく・ズキンズキン・ばてヒリの付与役としては、[[コモドドラゴン]]、[[ハブ]]、[[タイパン]]、[[ニホンオオカミ]]、[[プロングホーン]]、[[アリゲーター]]、[[キタコアリクイ]]などがいるが、3つ同時に付与できる[[カマイタチ・治]]を生存させられればそれが一番早い。
+HP30%付近にも耐性が復活するゾーンがあるので、それまでにどくズキンを積み重ねておいて早めに抜けたい。
+
+かいひ増加・命中減少でBeatが外れるので、[[麒麟]](なないろとくせい解放済み)、[[【青い瞳の迷い猫】マヌルネコ]]、[[ずんだもん]]、[[緑ハクトウワシ>【みんなでジャスティス】ハクトウワシ]]、[[クラハシコウ]]、[[カリフォルニアラッコ]]など、味方全体の命中増加ができるフレンズを1人は入れておこう。
+
+ちなみに、「ひやひや状態の相手からの被ダメージ増加」があるが、焼け石に水で大して意味がない。しかもルンルンきぶんで消える。
+HP>90%でもひやひやとしょんぼりきぶんは通るが、付与しても特に何も起こらない。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/e4bFCO74S2.png,80,no_link)>【みんなでジャスティス】ハクトウワシ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2Px9Ru8ObW.png,80,no_link)>クロサイ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,80,no_link)>カマイタチ・治]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZeM6Yw7J28.jpg,80,no_link)>ディアトリマ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_LCZmrLUGD.png,40,no_link)>つるつるすいすい]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4QnkoLY1LG.jpg,40,no_link)>私が守る]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54FMXq5Cl5.png,40,no_link)>あまおとのしらべ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+*体力測定 ターパン編
+2025/05/08(木) ～ 2025/05/22(木) 14:00
+
+地形: 運動場
+助っ人: [[アフリカタテガミヤマ>アフリカタテガミヤマアラシ]]アラシ
+
+**敵情報
+アクティブ属性 傘型 HP約2,602,550 (どくダメージ52,051)
+
+全状態異常耐性増加(くらくら・すやすや・びりびりは200%超、それ以外は30%以上50%未満)
+
+***行動内容
+-与ダメージ増加・被ダメージ減少バフ
+-与ダメージ減少・被ダメージ減少デバフ攻撃
+-毎ターンMP減少攻撃
+-くたくた付与攻撃
+-HPの低いフレンズを狙う攻撃？
+
+**攻略
+HPは小さめだが、ダメージは通りにくい。加えて、敵の火力が非常に高く、初手から毎ターンMP減少を入れてくるため、速攻はやりにくい。
+どく・ズキン・ばてヒリは耐性持ちだが、高確率のものなら通るので、それで削っていくのがよいと思われる。ただし、耐久力はかなり高い水準が求められる。
+
+付与役としては、助っ人のヤマアラシのミラクルもあるが、もう少し回転を速くしたい。
+マイペ有利なので、[[カマイタチ・切]]がド安定。[[【優秀な助手の出番なのです】ワシミミズク]]の耐性減少があると付与がさらに安定する。
+
+耐久面では、なないろとくせい解放済[[サバンナシマウマ]]・[[ヒトコブラクダ]]が味方全体の被ダメージ減少役として非常に強力なので入れておくとよい。サバシマはステータス特効もついている。
+ダメージの大きい大技を[[隊長スキル「気を散らす戦法」>隊長スキル]]や[[フンボルトペンギン]]の待機で凌いだり、[[シーサー・ライト]]のBeatや[[クロトキ]]の待機で与ダメ増加を解除するのも有効かもしれない。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gZqpSWyHJL.png,80,no_link)>ヒトコブラクダ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Zst6rcy8mT.png,80,no_link)>サバンナシマウマ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a7A6sSrXmM.png,80,no_link)>クロトキ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,80,no_link)>カマイタチ・切]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wzPqqH83Wr.jpg,80,no_link)>アフリカタテガミヤマアラシ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_LCZmrLUGD.png,40,no_link)>つるつるすいすい]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+
+隊長スキル: 気を散らす戦法
+*体力測定 トランスバールライオン編
+2025/04/10(木) ～ 2025/04/24(木) 14:00
+
+地形: 運動場
+助っ人: [[アオツラカツオドリ]]
+
+**敵情報
+アクティブ属性 傘型 HP約11,538,450(どくダメージ230,769)
+
+くらくら・すやすや・びりびり耐性増加(くらくらは200%)
+
+***行動内容
+5ターン周期
+-全体くらくら耐性減少攻撃
+-単体・前列くらくら付与攻撃
+-毎ターン5%回復×2回
+-くらくら状態の相手への与ダメージ増加
+**攻略
+くらくらが多いのでとりあえずそれの対策が必要。
+耐性を200%(高×2)程度にしておけばOK。
+耐性持ちの一覧は[[こちら>https://reamkf.github.io/wiki-nanodesu/abnormal-status-skills#%E3%81%8F%E3%82%89%E3%81%8F%E3%82%89-friends-incleaseResist]]。
+
+ダメージソースとしては、速攻でもどくズキンばてヒリでもいいが、5ターン周期の中で10%回復してくる(1ターンあたり2%)ので、素殴りやどく一本だと厳しい。
+どくズキンばてヒリのうち2つ以上を併用するなどして2%を超えるダメージを与え続けるか、からげんき付与で回復を無効化するかのどちらかが必要。
+
+相手はくらくら耐性200%だが、一応、[[ヒメアリクイ]]+[[おすすめのばしょでち！]]×4+[[真・青龍]]+[[アカカンガルー]]まで入れればくらくらハメが成立するので、くらくら攻撃も回復も全て無視してクリア可能。
+
+*体力測定 アマミノクロウサギ編
+2025年2月27日(木) ～ 3月13日(木) 14:00
+
+地形: 運動場
+助っ人: [[キンイロジャッカル]]
+
+**敵情報
+リラックス属性 ボード型 HP800万程度
+
+常時全状態異常耐性増加(おそらく全て完全耐性)
+HPが10%減るごとに被ダメージ5%減少
+
+***行動内容
+全体どく付与攻撃
+バフ行動: 与ダメ増加・どく状態の相手への与ダメ増加
+単体被ダメ増加攻撃
+単体いかく付与攻撃(1ターン)
+
+**攻略
+状態異常が何も効かないのでシンプルに殴り倒す他ない。
+速攻でも耐久でも攻略できる。
+耐久で攻略するなら、味方全体のどく耐性と、相手の与ダメ増加解除があるとよい。
+
+ちなみに、いかく付与という謎の攻撃があるが、3回目行動での付与で次の相手ターンには切れるので無意味。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nHTfTDhcCQ.png,80,no_link)>パラケラテリウム]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,80,no_link)>ヘラジカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png,80,no_link)>シヴァテリウム]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/P4K9grjxWg.png,80,no_link)>ブラックバック]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eBOfLX0YOW.png,80,no_link)>キンイロジャッカル]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]||[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9CxaO4lJcu.png,40,no_link)>ゆきのきらきら]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CYh3cqgJqB.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,40,no_link)>しあわせのうたごえ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|
+|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||||
+クリアターン: 87
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,80,no_link)>カマイタチ・治]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,80,no_link)>ヘラジカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png,80,no_link)>シヴァテリウム]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eBOfLX0YOW.png,80,no_link)>キンイロジャッカル]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2D3wA5kUi0.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CYh3cqgJqB.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54FMXq5Cl5.png,40,no_link)>あまおとのしらべ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3FgBhzaDlq.png,40,no_link)>ホワイトハンティング]]|||
+クリアターン: 68
+*体力測定 フクロミツスイ編
+2025/02/06(木)～02/20(木) 14:00
+
+地形: 運動場(夜)
+助っ人: [[ジャイアントパンダ]]
+
+**敵情報
+アクティブ属性両棲型 HP12,153,800 (どくダメージ243,076)
+すやすや状態の相手への与ダメージ増加
+被ダメージ減少
+くらくら・すやすや・びりびり耐性増加(くらくらは完全耐性)
+
+***行動内容
+与ダメージ増加
+ルンルンきぶん
+全体すやすや付与攻撃
+全体与ダメージ減少攻撃(9T)
+単体・全体被ダメージ増加攻撃(3T)
+
+**攻略
+相手の火力が高めだが、それ以外で難しいところはなく、速攻でも耐久でも攻略できる。
+
+*体力測定 山本五郎左衛門編
+2025年1月17日(金) 14:00 ～ 1月23日(木) 14:00
+
+**敵情報
+ラブリー属性 重機型(黒)
+地形: まち(夜)
+助っ人: [[カマイタチ・切]]
+
+常時与ダメージ増加・被ダメージ減少
+味方の生存人数1人につき与ダメ約20%？増加
+耐性増加: くらくら、すやすや、びりびり
+
+行動内容
+-全体からげんき・どく・くたくた付与攻撃
+-前列びりびり・ズキンズキン付与攻撃
+-自己バフ(無条件10%+状態異常の相手に50%、永続ではない？)
+-全体大技 からげんき・どく・くたくた付与
+**攻略
+速攻攻略は難しく、どく・ズキンズキン・ばてばてヒリヒリで削っていくのが基本。助っ人が[[カマイタチ・切]]なので頼れる。
+味方の耐久面はかなり厳しめ。状態異常の相手への与ダメージ増加が特に大きいため、耐性を用意するか、与ダメージ増加自体を解除してしまうのがいい。
+耐性は全体耐性でもいいが、[[はなまるだね！]]を持たせたタンク1人でもどうにかなる。
+
+味方の生存人数が多い方が与ダメが増すようなので、[[ヒトコブラクダ]]などをギブアップ前提で入れておくといいかもしれない。
+
+バフ行動は1回目行動なので、上手くやれば大技で上書きできるかも。
+
+**クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/nK3Slae6Ia.png,80,no_link)>ユニコ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oJxhXJqdYV.png,80,no_link)>赤龍]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,80,no_link)>カマイタチ・切]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,80,no_link)>カマイタチ・切]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vhyD1ST6Ug.png,80,no_link)>タテゴトアザラシ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54FMXq5Cl5.png,40,no_link)>あまおとのしらべ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EjfGJZnz68.png,40,no_link)>はなまるだね！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SByI3TJVv7.jpg,40,no_link)>サラダパーティー！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png,80,no_link)>ドール]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gZqpSWyHJL.png,80,no_link)>ヒトコブラクダ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,80,no_link)>カマイタチ・切]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Zst6rcy8mT.png,80,no_link)>サバンナシマウマ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a7A6sSrXmM.png,80,no_link)>クロトキ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_LCZmrLUGD.png,40,no_link)>つるつるすいすい]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_LCZmrLUGD.png,40,no_link)>つるつるすいすい]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EjfGJZnz68.png,40,no_link)>はなまるだね！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pBB39wWgQr.jpg,40,no_link)>サラダパーティー！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/m6QqoD2dEq.png,40,no_link)>水浴びターイム！]]|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png,80,no_link)>ドール]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qVufNoWzjZ.png,80,no_link)>アフリカゾウ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/a7A6sSrXmM.png,80,no_link)>クロトキ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,80,no_link)>カマイタチ・切]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44qNY1MSDC.jpeg,80,no_link)>キングコブラ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_LCZmrLUGD.png,40,no_link)>つるつるすいすい]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_LCZmrLUGD.png,40,no_link)>つるつるすいすい]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2BofktKKLs.png,40,no_link)>大海を往く]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/WeZ0LKhkCt.png,40,no_link)>はなまるだね！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,40,no_link)>しあわせのうたごえ]]|
+
+&aname(challenge202412)
+*チャレンジクエスト (2024年12月)
+2024年12月26日(木) メンテナンス後 ～ 2025年1月10日(金) 14:00
+
+通常のむちゃと同じく各バトル1wave強敵1体のみのバトル。
+攻撃力は総じて低く抑えられており、有利属性と言わず、いっそ不利属性フレンズでもフォトでガードを固めれば十分対応可能。
+この手のコンテンツとしては珍しく助っ人も自由なため、攻略において不足しているフレンズはどんどん借りよう。
+
+[+]ミッション情報等
+ミッション内容
+-ギブアップ4人以内でクリア
+-99ターン以内にクリア
+-パーティ全体のHP1%以上でクリア
+
+ミッション報酬：ゴールド×150,000
+
+消費スタミナ：1
+クリア時獲得探検隊経験値1,800
+クリア時獲得ゴールド900
+[END]
+
+**バトル1
+[+]
+***敵情報
+フレンドリー属性 コンセント型 HP13,717,900約 (どくダメージ274,358)
+地形：-(夜)
+耐性：全状態異常(くらくらは50%未満、びりびりは100%超、他は100%)
+びりびり付与攻撃が多い
+
+***攻略
+びりびり付与が多いので対策が必要。耐性減少のせいで実質100%超の付与率なので、(高)×2ぐらいは欲しい。
+ダメージソースは[[コモドドラゴン]]のどくが有効な他、相手の軽減を解除すれば普通に殴っても倒せる。
+耐性の代わりに、[[白龍]]のような耐性持ちのアタッカーを連打するだけでもいいだろう。
+
+[[ウミネコ]]+[[ヒメアリクイ]]×2+[[トキ]]で毎ターンくらくらにすることもできる。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q6bcoPFrCm.png,80,no_link)>【大きな瞳の美人顔】サーバル]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png,80,no_link)|
+フォトは省略
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hi2kMKomzy.jpg,80,no_link)>コヨーテ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,80,no_link)>麒麟]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/klfOh8aRfX.jpg,80,no_link)>シーラカンス]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/klfOh8aRfX.jpg,80,no_link)>シーラカンス]]|
+フォトは省略
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,80,no_link)>ウミネコ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kXqyjD2zn9.png,80,no_link)>トキ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|
+フォトは省略
+[END]
+
+**バトル2
+[+]
+***敵情報
+マイペース属性 錨型 HP約14,961,500 (どくダメージ299,230)
+地形：-
+耐性：状態異常を付与すると、付与した状態異常の耐性が増加する(付与したターンを含め8ターン持続、1ヒットにつき100%)
+ひやひや付与攻撃が多い
+[+]耐性の仕様詳細
++状態異常にかかったとき、その状態異常の耐性増加(100%, 8ターン)×max(1, ヒット数)を付与
+++1ターンで複数の状態異常を同時に付与された場合、対応する複数の耐性を付与
+++ただし前のターンまでで既に同効果により(別種でも)耐性が付与されている場合は、耐性が切れるまでは付与しない
++耐性が解けた瞬間にまだ状態異常にかかっている場合、再度耐性を付与
+++この場合、複数のターンに分けて付与されたものであっても、かかっている全ての状態異常に対して対応する複数の耐性を付与
++たいきスキルによる状態異常付与に対しては耐性増加しない
+[END]
+
+***攻略
+バトル1同様、どく等で倒してもいいし、普通に殴っても倒せる。
+耐性増加が変則的だが、先に別の状態異常を付与してその耐性を増加させて囮にし、その次のターンで本命のどくズキンばてヒリを入れれば、どくズキンばてヒリの耐性増加を回避できる。
+%%ぶっちゃけあんまり気にしなくても適当に殴ってれば倒せる。%%
+
+ひやひやの付与が多いので、速攻で倒すなら耐性が欲しい。
+どくなどのスリップダメージで倒す場合や、ゆっくり殴り倒すだけなら不要。
+
+また、[[ウミネコ]]+[[ヒメアリクイ]]×2で毎ターンくらくらにできる。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/52IyepaSR0.png,80,no_link)>アライグマ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,80,no_link)>【優秀な助手の出番なのです】ワシミミズク]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9UOE3QGK9l.png,80,no_link)>【天才博士が通りますよ】アフリカオオコノハズク]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,80,no_link)>カマイタチ・治]]|>|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png,80,no_link)|
+フォトは省略
+クリアターン: 19
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,80,no_link)>ウミネコ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bie6aZfUo8.png,80,no_link)>トラ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|
+フォトは省略
+[END]
+
+**バトル3
+[+]
+***敵情報
+ファニー属性 ボード型 HP約18,005,100 (どくダメージ360,102)
+地形：サバンナ
+耐性：くらくら、すやすや、くたくた、ひやひや、ぼんやりうっかり、びりびり(いずれも50%超100%未満)
+MP減少・毎ターンMP減少攻撃が多い
+
+***攻略
+スリップダメージの分を回復してくるので、からげんきを入れると良い。
+[[赤ブラバ>【解き放たれしダークネスホーン】ブラックバック]]の回復解除はおそらく不具合のため発動しない。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/52IyepaSR0.png,80,no_link)>アライグマ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,80,no_link)>【優秀な助手の出番なのです】ワシミミズク]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9UOE3QGK9l.png,80,no_link)>【天才博士が通りますよ】アフリカオオコノハズク]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,80,no_link)>カマイタチ・治]]|>|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png,80,no_link)|
+フォトは省略
+[END]
+
+**バトル4
+[+]
+***敵情報
+アクティブ属性 傘型 HP約23,688,700 (どくダメージ473,774)
+地形：サバンナ
+耐性：くらくら、すやすや、くたくた、ひやひや、ぼんやりうっかり、びりびり、ばてばてヒリヒリ(いずれも50%超100%未満)
+
+***攻略
+[[ウミネコ]]+[[ヒメアリクイ]]×2+[[トキ]]で毎ターンくらくらにできる。
+%%%[[おすすめのばしょでち！]]%%%をがあれば、その分トキ・ヒメアリクイを減らしてもOK。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3uz136QSMZ.png,80,no_link)>ウミネコ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kXqyjD2zn9.png,80,no_link)>トキ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|
+[END]
+
+**バトル5
+[+]
+***敵情報
+ラブリー属性 両生型 HP約33,728,300 (どくダメージ674,566)
+地形：みずべ
+耐性：くらくら、すやすや、くたくた、ひやひや、ぼんやりうっかり、びりびり、ばてばてヒリヒリ(いずれも100%)
+
+***攻略
+バトル3と同様。
+[END]
+
+**バトル6
+[+]
+リラックス属性 重機型 HP約51,489,850 (どくダメージ1,029,797)
+地形：みずべ(夜)
+耐性：くらくら、すやすや(いずれも100%超) + 状態異常を付与すると、付与した状態異常の耐性が増加(付与したターンを含め4ターン持続、1ヒットにつき100%)
+[+]耐性の仕様詳細
++状態異常にかかったとき、その状態異常の耐性増加(100%, 4ターン)×max(1, ヒット数)を付与
+++1ターンで複数の状態異常を同時に付与された場合、対応する複数の耐性を付与
+++ただし前のターンまでで既に同効果により(別種でも)耐性が付与されている場合は、耐性が切れるまでは付与しない
++耐性が解けた瞬間にまだ状態異常にかかっている場合、再度耐性を付与
+++この場合、複数のターンに分けて付与されたものであっても、かかっている全ての状態異常に対して対応する複数の耐性を付与
++たいきスキルによる状態異常付与に対しては耐性増加しない
+[END]
+
+***攻略
+バトル2とバトル3を合わせたような内容で、攻略もその2つを合わせた感じになる。
+バトル2では耐性増加が8ターンだったが、バトル6は4ターンと短くなっている。
+
+***クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,80,no_link)>【優秀な助手の出番なのです】ワシミミズク]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9UOE3QGK9l.png,80,no_link)>【天才博士が通りますよ】アフリカオオコノハズク]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,80,no_link)>カマイタチ・治]]|>|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png,80,no_link)|>|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png,80,no_link)|
+フォトは省略
+[END]
+*体力測定 エナガ編
+2024年12月26日(木) 14:00 ～ 2025年1月2日(木) 14:00
+
+**敵情報
+恐竜型亜種
+地形: 運動場
+助っ人: [[マカミ]]
+
+常時全状態異常耐性増加(くらくら以外は50%、くらくらは150%超)
+HP100%のとき被ダメージ減少
+
+''攻撃内容''
+ぼんやりうっかり付与攻撃
+与ダメージ増加・被ダメージ減少
+はねかえし5回(反射率30%)
+
+**攻略
+非常に固いので速攻は不可で、スリップダメージで削っていくのが基本。
+大技がかなり痛いので、与ダメージ増加の対策がほしい。
+与ダメージ増加解除は[[ブラックバック]]、[[ビントロング]]、[[マレーバク>【やってみる…！】マレーバク]]、[[白龍]]などで可能。
+または、助っ人の[[マカミ]]のミラクルでしょんぼりきぶんで無効化できる。ただし相手は耐性持ちのため確定付与にはならないので注意。
+ブラバ、ビントロング、マカミはミラクルなのでぼんやりうっかりの対策も必要。白龍はとくいわざだが、他属性の場合は大技を耐えるのがさらに難しい。
+一応[[キングコブラ]]をガチガチに固めると与ダメ増加の対策なしでもクリアできる。
+
+[[アルパカ・スリ]]・[[真・青龍]]の耐性減少と[[【ハツラツなつっこ！】バンドウイルカ]]を使ってすやすやにし続けることも可能。
+
+**クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v34QVfpnKd.png,80,no_link)>シナウスイロイルカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CjqE2CvVZk.png,80,no_link)>カマイタチ・治]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44qNY1MSDC.jpeg,80,no_link)>キングコブラ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png,80,no_link)>マカミ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+隊長スキル: オーダーチェンジ
+クリアターン: 39
+[+]説明
+シナウスイロイルカ、カマイタチ・治: 全体軽減・回復
+キングコブラ: タンク、どく付与
+白龍: 与ダメージ増加解除
+マカミ: 助っ人
+[END]
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/oJxhXJqdYV.png,80,no_link)>赤龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eviAZNMlRm.png,80,no_link)>ヘラジカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q6bcoPFrCm.png,80,no_link)>【大きな瞳の美人顔】サーバル]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44qNY1MSDC.jpeg,80,no_link)>キングコブラ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png,80,no_link)>マカミ]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MAP0JntchO.jpg,40,no_link)>いっしょにあそぼう]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Bm3Tn2fJK4.png,40,no_link)>ミライあるけものみち]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54FMXq5Cl5.png,40,no_link)>あまおとのしらべ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,40,no_link)>しあわせのうたごえ]]|||
+隊長スキル: オーダーチェンジ
+クリアターン: 39
+[+]説明
+赤龍: 全体回復
+ヘラジカ、【大きな瞳の美人顔】サーバル: 全体軽減
+キングコブラ: タンク、どく付与
+マカミ: 助っ人
+[END]
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,80,no_link)>真・青龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZMtL8C7ycK.png,80,no_link)>【ハツラツなつっこ！】バンドウイルカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ELH334IqQL.png,80,no_link)>アルパカ・スリ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png,80,no_link)>マカミ]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eaOqmJjHW_.png,40,no_link)>Dear my friends]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8_bgQGcPWp.png,40,no_link)>酸っぱいぶどう]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AovSW2wa8b.png,40,no_link)>幸運の流れ星]]||[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8_bgQGcPWp.png,40,no_link)>酸っぱいぶどう]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/kE58JRth63.png,40,no_link)>先生！お願いします]]|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/er5uu68R0k.png,40,no_link)>オーダー！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/g9qlswqAUw.png,40,no_link)>正義の味方]]|||||||||
+隊長スキル: オーダーチェンジ
+クリアターン: 30
+[+]説明
+真・青龍: 耐性減少
+バンドウイルカ: すやすや付与
+アルパカ・スリ: 耐性減少、すやすや付与(保険)
+コモドドラゴン: どく付与
+マカミ: 助っ人
+[END]
+*体力測定 モウコノウマ編
+2024年11月7日(木) メンテナンス後 ～ 11月21日(木) 14:00
+
+**敵情報
+コンセント型(黒) 
+地形: サバンナ
+助っ人: [[オーロックス]]
+
+常時全状態異常耐性増加(くらくらは75%程度、びりびりは200%超、それ以外は100%)
+常時与ダメージ増加・被ダメージ減少
+
+''攻撃内容''
+びりびり耐性減少・びりびり付与
+永続与ダメージ増加・被ダメージ減少
+
+**攻略
+速攻で倒すには、要求される火力・耐久力・MP溜め速度がかなり高水準かつ、相手の被ダメ減少解除とびりびり対策が必要で、不可能ではないがかなりハード。
+地道に殴り倒すには、全体びりびり耐性と与ダメ・被ダメバフ解除役2名を所持していることが必要で、編成のハードルが高め。
+
+正攻法ではないが、耐性減少を入れながらくらくらハメして毒殺する手がある。
+耐性減少役に[[ヒメアリクイ]]や[[真・青龍]]と、とくいわざで中確率くらくら(2ターン)付与がいれば毎ターンくらくらにできる。
+どく付与役は実質付与率150%の[[コモドドラゴン]]か[[キングコブラ]]が最適。
+
+くらくらなしでも、耐久しながら耐性減少+どく/ズキン/ばてヒリで倒すことも可能だが
+相手の与ダメ増加解除や、味方の耐久力も要求されるのでハードルは上がる。
+
+**クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1LsFPzpKDj.png,80,no_link)>ヒメアリクイ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,80,no_link)>真・青龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Akrh9z4Tbc.png,80,no_link)>アカカンガルー]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wm3U1VboWY.png,80,no_link)>オーロックス]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AovSW2wa8b.png,40,no_link)>幸運の流れ星]]||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/8gXYJeGAj3.png,40,no_link)>https://seesaawiki.jp/kemono_friends3_5ch/d/%A4%EF%A4%BF%A4%B7%A4%BF%A4%C1%A4%C8%A4%A2%A4%BD%A4%DC%26%23%39%38%32%35%3B]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/U3PMHJF8jC.jpg,40,no_link)>ひんやりクリーミー]]|||||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|||[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,40,no_link)>しあわせのうたごえ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/er5uu68R0k.png,40,no_link)>オーダー！]]|||||||
+隊長スキル: オーダーチェンジ
+クリアターン: 33
+[+]役割説明
+ヒメアリクイ、真・青龍: 耐性減少
+アカカンガルー: くらくら付与
+コモドドラゴン: どく付与
+オーロックス: 助っ人
+[END]
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/q6bcoPFrCm.png,80,no_link)>【大きな瞳の美人顔】サーバル]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v34QVfpnKd.png,80,no_link)>シナウスイロイルカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/P4K9grjxWg.png,80,no_link)>ブラックバック]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44qNY1MSDC.jpeg,80,no_link)>キングコブラ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wm3U1VboWY.png,80,no_link)>オーロックス]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SByI3TJVv7.jpg,40,no_link)>サラダパーティー！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4QnkoLY1LG.jpg,40,no_link)>私が守る]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+隊長スキル: オーダーチェンジ
+クリアターン: 49
+[+]役割説明
+【大きな瞳の美人顔】サーバル: 全体びりびり耐性、全体軽減
+シナウスイロイルカ: 全体軽減、全体毎ターン回復、ヒーラー
+ブラックバック: 与ダメ増加解除
+キングコブラ: どく付与、タンク
+オーロックス: 助っ人
+[END]
+
+
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,80,no_link)>【優秀な助手の出番なのです】ワシミミズク]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v34QVfpnKd.png,80,no_link)>シナウスイロイルカ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n0lf2POBi.png,80,no_link)>ロバ]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xMK0AsbpC0.png,80,no_link)>白龍]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wm3U1VboWY.png,80,no_link)>オーロックス]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZHyDdMciDI.png,40,no_link)>平和の歌]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AovSW2wa8b.png,40,no_link)>幸運の流れ星]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4QnkoLY1LG.jpg,40,no_link)>私が守る]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PNDTQqSJXw.png,40,no_link)>ジャキーン！]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+隊長スキル: オーダーチェンジ
+クリアターン: 64
+[+]役割説明
+ワシミミズク: 耐性減少
+シナウスイロイルカ: 全体軽減、全体毎ターン回復、ヒーラー
+ロバ: タンク、ヒーラー
+白龍: 全体びりびり耐性、与ダメ増加解除
+オーロックス: 助っ人、ズキンズキン付与
+[END]
+
+*体力測定 クラハシコウ編
+2024年10月10日(木) メンテナンス後 ～ 10月24日(木) 14:00
+→[[%%%イベント個別ページ%%%>体力測定 クラハシコウ編]]
+
+*体力測定 キタコアリクイ編
+2024年8月8日(木) メンテナンス後 ～ 8月22日(木) 14:00
+
+**敵情報
+ボード型 マイペース属性
+助っ人: ダイアウルフ
+
+くらくら・すやすや耐性増加
+被ダメージ減少
+
+6n+1T目の行動ではねかえし3T付与
+6n+4T目の行動で敵のMPが最大まで増加
+
+**攻略
+被ダメージ減少を剥がせば敵の耐久はかなり弱いので、速攻で倒せる。
+どく・ズキン・ばてヒリの耐性を持っていないため、耐久戦でも攻略できる。
+
+''はねかえし対策''
+3ターン持続のはねかえしが厄介で、はねかえしははねかえしむし持ちを使うか、回復ミラクル持ちを使って回復するなどの対策が必要。
+
+''大技対策''
+6n+4ターン目の相手の行動で相手のMPが最大まで増加するが、大技のダメージが非常に大きいので避ける必要がある。
+ぼんやりうっかり付与によって6n+4T目のMP増加を無効化することで対策が可能。
+ぼんやりうっかりは助っ人のダイアウルフのBeatかミラクルで付与できる。
+ただし、助っ人のダイアウルフだけで毎回ぼんかりにするのは厳しいので、追加の付与手段を用意するか、早めに終わらせることが必要になる。
+
+''どく対策''
+相手はどく付与攻撃をしてくるので、どく耐性も持ってきたいが、どく耐性減少も使用してくるため、高耐性持ちでも貫通してくる。
+
+*体力測定 イワハイラックス編
+2024年7月4日(木) メンテナンス後 ～ 7月18日(木) 14:00
+
+**敵情報
+衣装型 ラブリー属性
+助っ人: [[クビワペッカリー]]
+
+HP100%～85%, 35%～25%？のとき くらくら、すやすや、びりびり、ばてばてヒリヒリ耐性増加
+それ以外のとき、被ダメージ減少
+
+**攻略
+相手の耐久力が高いので、耐久しながらどく・ズキンズキン・ばてばてヒリヒリで削るのが基本。
+全体攻撃のからげんきさえ対策すれば耐久は余裕。
+
+[[ヒメアリクイ]]か[[トキ]]か[[おすすめのばしょでち！]]の耐性減少があれば、耐性が増加していない間は助っ人のクビワペッカリーのBeatで相手の行動を止められる。
+
+**クリア編成例
+|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|center:w(40)|c
+|>|!bgcolor(#cccccc):フレンズ1|>|!bgcolor(#cccccc):フレンズ2|>|!bgcolor(#cccccc):フレンズ3|>|!bgcolor(#cccccc):フレンズ4|>|!bgcolor(#cccccc):フレンズ5|
+|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/kXqyjD2zn9.png,80,no_link)>トキ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zvuussM9Nj.png,80,no_link)>アラビアオリックス]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/LmNmhu4Bc4.png,80,no_link)>コモドドラゴン]]|>|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xZTjEbByEg.png,80,no_link)>ホッキョクウサギ]]|>|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YFidDF3vxa.png,80,no_link)>クビワペッカリー]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lg6Fkqrtck.png,40,no_link)>ふぃにっしゅ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SByI3TJVv7.jpg,40,no_link)>サラダパーティー！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lg6Fkqrtck.png,40,no_link)>ふぃにっしゅ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/L4ffhum_31.png,40,no_link)>ジャスティスなふたり]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DSEu96Dugw.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EjfGJZnz68.png,40,no_link)>はなまるだね！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B6NZd4P4Ug.png,40,no_link)>大海を往く]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4QnkoLY1LG.jpg,40,no_link)>私が守る]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/o_oacqxSQq.png,40,no_link)>カリスマ美容師アルパカ・スリ]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UAi2XlbPuA.png,40,no_link)>隊長さーん！]]|
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mMgpDUgf96.png,40,no_link)>隊長さーん！]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1FZZDMe3vq.png,40,no_link)>こういうものだ！]]|||
+
+*体力測定 サバンナセンザンコウ編
+2024年5月16日(木) 14:00 ～ 5月23日(木) 14:00
+
+恐竜型亜種
+耐性増加：くらくら、すやすや、びりびり
+助っ人：[[ブラックサーバル]]
+
+**攻略法
+どくズキンばてヒリの耐性はないが、敵の攻撃が非常に強く耐久は困難であり、基本は速攻でやられる前にやる形になる。
+逆に敵の耐久は弱いので、自前の[[ブラックサーバル]]がいればオダチェンでも火力は十分足りる。
+くらくらとひやひやを付与してくるのでそれらの耐性は必要。
+
+&aname(challenge2024GW)
+*チャレンジクエスト (2024年GW版)
+1回目: 2024年05月01日 14:00 ～ 05月16日 14:00
+2回目: 2024年06月20日 18:00 ～ 07月04日 14:00
+
+通常のむちゃと同じく各バトル1wave強敵1体のみのバトル。
+今回は基本的にスリップダメージでの攻略を想定していると思われる。
+攻撃力は総じて低く抑えられており、有利属性と言わず、いっそ不利属性フレンズでもフォトでガードを固めれば十分対応可能。
+なお、手持ちが揃っていればバトル5までは速攻でも攻略可能。
+
+この手のコンテンツとしては珍しく助っ人も自由なため、攻略において不足しているフレンズはどんどん借りよう。
+
+敵はだいたいあせあせの使い手だが、1回目の開催時のあせあせはバグでミラクルまで使用不可になっており、本来より難易度が上がっていた。
+2回目開催時は修正済み…のはずだったのだが、実際はあせあせになっていると全体の行動順の2回目以降に発動したミラクルが全スキップされるという別の不具合が残った状態になっている。あせあせでもミラクルを撃ちたい場合は一番最初に撃とう。
+あせあせの不具合が修正された以外は2回目の開催で内容は変わっておらず、ミッションの達成状況も1回目から引き継ぎ。あせあせが修正された状態で挑めるようにするための開催と思われる。%%なので、3回目もあるかも%%。
+
+[+]ミッション情報等
+ミッション内容
+-ギブアップ4人以内でクリア
+-99ターン以内にクリア
+-パーティ全体のHP1%以上でクリア
+
+ミッション報酬：ゴールド×150,000
+
+消費スタミナ：1
+クリア時獲得探検隊経験値1,800
+クリア時獲得ゴールド900
+[END]
+
+**バトル1
+[+]
+ファニー属性 傘型 HP約13,717,900 (どくダメージ274,358)
+地形：-(夜)
+
+[[真・青龍]]でズキンズキン漬けにしつつ、ミラクルで適宜削っていくのが楽か。
+状態異常耐性はないので、不利属性だが[[カマイタチ・治]]でどくズキンばてヒリを全部盛ってやるのもいいだろう。
+[[HC助手>【優秀な助手の出番なのです】ワシミミズク]]を編成したり、真・青龍のミラクルを撃った後なら3種類すべてがガンガン入るので、より早く終わる。
+[END]
+**バトル2
+[+]
+リラックス属性 重機型 HP約14,961,500 (どくダメージ299,230)
+地形：-
+
+今回も状態異常耐性がないので、[[カマイタチ・治]]の独壇場である。治にBeat!!!を振っているだけで終わる。
+バトル１に続き[[真・青龍]]を組み込んで耐性減少とズキンズキンを撒くのもいい。
+[END]
+
+**バトル3
+[+]
+フレンドリー属性 重機型 HP約18,005,100 (どくダメージ360,102)
+地形：-
+
+最初はどくもズキンズキンも入るが、途中から耐性上昇が入るのでどちらも効かなくなる。
+耐性上昇後も[[HC助手>【優秀な助手の出番なのです】ワシミミズク]]等で耐性減少を入れることも可能だが、敵側もびりびりやどくやズキンズキンなど鬱陶しい状態異常を連発してくるので面倒。
+耐性が入る前に[[カマイタチ・切]]のBeatを10回分蓄積させてしまうか、今回は道場のようにバッファー+[[ブラックサーバル]]の構成で、もっプラやみんアタをいれつつブラックサーバルのミラクルで殴り倒すのも手っ取り早くてオススメ。
+敵のHPは相当高いが、ブラックサーバルの火力なら問題にはならないだろう。
+
+特に面倒なびりびりは[[セキショクヤケイ]]や[[ウンピョウ]]がいれば全体耐性を持てるが
+助っ人や手持ちにいなければ、自身に耐性があるブラックサーバルと助っ人手持ちのダブル[[ピーチパンサー]]の3人だけで動き続けるというのもいい。
+[END]
+
+**バトル4
+[+]
+アクティブ属性 両生型 HP約23,688,700 (どくダメージ473,774)
+地形：サバンナ
+
+どく・ズキンズキンを入れると、同時に毎ターンHP回復が入ってダメージを相殺しようとしてくる。2つ入れるとそれだけ回復量が増える。
+一応ズキンズキンのダメージについては毎ターン回復量より上なのだが、時間がかかるので素直に解除するか、からげんきで無効化したほうがよい。
+解除は[[赤ブラックバック>【解き放たれしダークネスホーン】ブラックバック]]のミラクルで可能。
+からげんきを付与できるフレンズはいろいろいるが、効果ターンが4Tと長い上に入る確率も高い[[HC博士>【天才博士が通りますよ】アフリカオオコノハズク]]でいれるのがおすすめ。
+[END]
+
+**バトル5
+[+]
+マイペース属性 鳥型 HP約33,728,300 (どくダメージ674,566)
+地形：みずべ
+
+バトル4に引き続き相手がどく・ズキンのときの毎ターンHP回復があるが、敵は2回行動なので、今回はどくもズキンズキンも同じダメージで相殺される。
+解除またはからげんきで防いでもいいが、それよりもバトル3同様に何も考えずに道場戦法で[[ケロロ]]で吹き飛ばすほうが早いかもしれない。
+[END]
+
+**バトル6
+[+]
+ラブリー属性 衣装型 HP約51,489,850 (どくダメージ1,029,797)
+地形：みずべ(夜)
+
+今回のラスボス。
+体力も凄まじいがそれ以上にやたら硬く、普通に殴り倒そうとすると終わりが見えない。
+しかし、どくズキンズキンばてヒリ全てに最初から耐性があるので、そもそもスリップダメージを伴う状態異常が入らない。
+
+ここはキセキとくせい開放済みの[[HC助手>【優秀な助手の出番なのです】ワシミミズク]]を助っ人含めて二人入れて耐性を下げるといい。
+二人で下げれば確定ではないにせよ[[カマイタチ・切]]の高確率のどくズキンなら頻繁に入るようになる。
+または、[[真・青龍]]のミラクルの耐性減少も使える。
+相手がどく状態のときはズキンズキン耐性が消えるので、[[ハブ]]・[[ブラックマンバ]]などでどく耐性だけ下げてもいい。
+ズキンズキン状態のときはばてばてヒリヒリ耐性が消えるので付与を狙ってもいいが、どくズキンに比べてコスパが悪いしそこまでしなくても勝てる。
+
+当然バトル6もバトル4・5に引き続き相手がどく・ズキンのときの毎ターンHP回復があるので、解除またはからげんき要員も必要。
+HC助手でもからげんきは入れられるが1T継続と短いので、[[HC博士>【天才博士が通りますよ】アフリカオオコノハズク]]や[[コアラ]]、[[赤ブラックバック>【解き放たれしダークネスホーン】ブラックバック]]等のより余裕のあるフレンズを別途用意するほうが戦いやすくなる。
+[END]
+*野生大解放チャレンジ　カバ編 げきむず
+2024年4月26日 14:00 ～ 5月2日 23:59
+
+**攻略法
+約50%程度の被ダメージ軽減がかかっておりだいぶ硬い。
+しかし、相手は[[フレパ>用語集#yougo_furepa]]なので、[[カラカル]]か[[カワウ]]を入れて最初に待機すれば、それだけで相手のガードは一撃で崩壊してしまう。
+相手は耐久構成で攻撃力自体は控えめなので、被ダメージ軽減を剥がした後は削られる前に殴り倒すだけ。
+
+[[ヒメアルマジロ]]の全体はねかえしが有効になると非常に厄介なので、最初にみんアタを入れて優先して倒したい。
+[[ロバ]]のかばうは確定に強化されたりはしていないので、だいたい倒しきれるだろう。
+
+なお、初手[[チンチラ]]が組めるのなら、カラカルカワウの待機を入れつつチンチラがみんアタミラクルを撃つだけで1ターンで終わる。
+
+*体力測定 アリゲーター編
+2024/04/11(木) ～ 2024/04/25(木) 14:00
+→[[%%%イベント個別ページ%%%>https://seesaawiki.jp/kemono_friends3_5ch/d/%c2%ce%ce%cf%c2%ac%c4%ea%20%a5%a2%a5%ea%a5%b2%a1%bc%a5%bf%a1%bc%ca%d4]]
+
+*野生大解放チャレンジ　カンザシフウチョウ編 げきむず
+2024年3月8日 18:00 ～ 3月14日 23:59
+
+**攻略法
+初手でカルガモのかばう(HP50%以上条件)を剥がすのがポイント。
+回避も高いため、場合によっては単体ミラクル持ちを採用して確実に落とそう。
+相手の攻撃性能はブラックサーバルに比較的特化しているため、
+かばうカルガモを倒した後は、黒鯖をとにかく一点集中で落としたい。
+その２人が落とせれば、残りは流れで攻略できるだろう。
+
+[[バーバリライオン]]、[[スカイフィッシュ]]、[[シーラカンス]]など単体で完成されているフレンズも使いやすい。
+長期戦を挑むなら[[フェネック]]を入れても良い。
+前日実装の下記むちゃよりは難易度が高いと感じる人もいるやもしれない。
+
+*体力測定 アカカンガルー編
+2024年3月7日 14:00 ～ 3月14日 14:00
+
+**攻略法
+素の攻撃力が初期のむちゃ程度しかなく、与ダメージ増加(10%増)もあるにはあるがわずか2T継続で、こちらへの被ダメージ増加(10%増)も2Tかつ単体付与。
+状態異常も耐性を全く持っておらず、付与も一切してこないと、むちゃとしてみると非常に弱い。
+
+体力だけは1000万超とむちゃ相応レベル(どくダメージが230,768入るので、約11,538,250)のため、[[状態異常]]ページを参考に
+有利属性でなくてもよいので、どくやズキンズキンやばてばてヒリヒリを付与できるフレンズを複数用意し
+「[[隊長さーん！]]」「[[こういうものだ！]]」「[[今日の宿題は2倍ですわ！]]」「[[カリスマ美容師アルパカ・スリ]]」あたりで固めて、[[フェネック]]でも入れて適度に回復しつつ耐久すればいい。
+
+それなりに育成をしている隊長さんなら、オート放置でも余裕で勝てるはず。
+むちゃを普段はスルーしている隊長さんも、むちゃ入門と50万ゴールドのために挑んでみるとよいかも。
+
+*野生大解放チャレンジ　タスマニアデビル編 げきむず
+2024年1月18日 14:00 ～ 1月24日 23:59
+**攻略法
+5人全員が一度倒しても最大HPの半分まで回復して復活する[[火の鳥]]状態であるという、ぶっ飛んだ設定が特徴のまさにげきむずな回。
+一人倒すだけでもそれなりにターンがかかり、MP回復力も非常に高いので、一人一人倒していると単体ミラクルの連発で押し切られてしまう。
+
+同一ターンにみんアタを有効にした状態から全体ミラクルを2～3連発して、蘇生や回復の上からまとめて押し切るのが安定するか。
+ラブリーの全体ミラクルアタッカーとしては、今回の大解放対象で強化が効いている[[タスマニアデビル]]を筆頭に、[[ゲンブ]]や[[オイナリサマ]]、[[ミーアキャット>【正義の家庭教師】ミーアキャット]]あたりが有力。
+ゲンブはミラクルを打ったターンに被ダメージ98%カットのかばうを発動するので、今回の相手が全員単体ミラクルであるのを考えると防御面でも優秀。
+
+相手の[[ダイアウルフ]]が全体攻撃被ダメージ軽減を全員に付与するので、全体ミラクルは多少ダメージを減らされる。
+2連発の場合で火力が足りない場合は、バッファーを入れて事前にバフミラクルを使っておくこと。
+耐久力が他の三人よりもだいぶ低い代わりに極めて攻撃力の高い、[[アフリカオニネズミ]]とダイアウルフの二人をミラクルで倒し損ねるとつらいため、この二人を倒しきれる火力は最低限ほしい。
+他の三人については攻撃力自体はだいぶ控えめなので、ミラクルで倒しきれない場合でもある程度なんとかなるはず。
+
+バッファーを入れる場合は、コチョコチョマスターである[[ジョフロイネコ]]を入れておけば、相手のミラクル潰しも可能で便利。
+こちら側がコチョコチョに成功すれば相手のMPを0にできるため、決まれば有効な時間稼ぎになる。
+
+フォトについては手早くミラクルを打つために[[ゆきのきらきら]]、[[雨と光と]]、[[みんなでしゅっぱつ♪]]のおなじみ課金MP増加フォトは入れておきたい。
+あまり守りを疎かにすると、アフリカオニネズミやダイアウルフのBeat!!!を一発食らうだけで倒されてしまうので、青フォトは[[こういうものだ！]]と[[隊長さーん！]]で固めると安定度が増す。
+また、相手の[[インドサイ]]は特に回避が高く攻撃を頻繁にかわすため、誰かに[[晴れ姿]]も1枚装備しておくのがおすすめ。
+
+[[エゾユキウサギ]]のとくいわざの与ダメージ増加解除については、[[私が守る]]等でバッファーやタンクに流すとよい。
+もしアタッカーが食らってしまったら、諦めてリタイアしたほうが早い。
+
+ちなみに、[[ウミネコ]]と[[おすすめのばしょでち！]]によるくらくらハメについては、おすすめのばしょでち！を4枚装備してもくらくらしないほど耐性が高いので使えない。
+(むずいまでなら1枚でもそこそこくらくらする)。
+
+*体力測定 エリマキトカゲ編
+2024/1/18 14:00～
+→[[%%%イベント個別ページ%%%>https://seesaawiki.jp/kemono_friends3_5ch/d/%c2%ce%ce%cf%c2%ac%c4%ea%20%a5%a8%a5%ea%a5%de%a5%ad%a5%c8%a5%ab%a5%b2%ca%d4]]
+
+
+*体力測定 バンテン編
+2023/12/14 14:00～
+
+**攻略法
+基本火力は助っ人のカマイタチ・治のBeat(どく、ズキンズキン)のみで十分。
+なないろとくせい解放済み[[キングコブラ]]を入れればさらに安定する。
+
+[[びりびり耐性持ち>https://seesaawiki.jp/kemono_friends3_5ch/d/%be%f5%c2%d6%b0%db%be%ef#biribiri]]を1人編成
+のんサバ、ライジュウ、バンテンが最適だが、耐性持ちは火力不要なため他属性のタチコマS等でも可。
+
+残りは耐久極振りで良い。[[シナウスイロイルカ]]を中心に回復タンク多めでジャキーンを積む。
+
+
+*体力測定 ヤブツカツクリ編
+2023/11/16 14:00～
+
+**攻略法
+昨今のむちゃにしてはHPが低め。
+優秀なアタッカーが育っていれば殴っているだけで終わる。
+[[ブラックサーバル]]、[[HCブラックバック>https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%da%b2%f2%a4%ad%ca%fc%a4%bf%a4%ec%a4%b7%a5%c0%a1%bc%a5%af%a5%cd%a5%b9%a5%db%a1%bc%a5%f3%a1%db%a5%d6%a5%e9%a5%c3%a5%af%a5%d0%a5%c3%a5%af]]、[[キティサーバル]]などが有力候補。
+
+残りはピーチパンサー、ムックなど定番バッファーで道場のように編成して良い。
+一発で倒せなくてもそのままアタッカーで殴り続ければOK。
+
+長期戦を挑む場合
+[[すやすや耐性持ち>https://seesaawiki.jp/kemono_friends3_5ch/d/%be%f5%c2%d6%b0%db%be%ef#suyasuya]]を編成
+パンサーカメレオン、セキショクヤケイなど
+ブラックサーバルも自分だけ耐性持ち
+
+*体力測定アイベックス編
+2023/10/19 14:00～
+''・消費スタミナ：30　相手レベル：65''
+&color(#ff0000){初回クリアまでは助っ人[[コウノトリ]]（Lv.90/野生4/フォトポケランク2/ミラクルLv.1/[[カリスマ美容師アルパカ・スリ]]・[[隊長さーん！]] いずれも無凸Lv.50）固定}
+
+**敵情報
+アクティブ属性
+HP約7,333,300 (どくダメージ146,666)  大技チャージ18回 ※敵の被弾時MP増加なし
+くらくら・びりびり耐性増加
+
+単体攻撃・単体多段攻撃・全体攻撃において、対象がちぐはぐリズム状態の場合追加ダメージ
+
+''行動内容''
+単体攻撃──対象がちぐはぐリズム状態の場合確率でどく3T・ばてばてヒリヒリ3T付与、ちぐはぐリズム解除
+単体多段攻撃──対象が状態異常の場合？確率で命中減少3T
+前列攻撃──確率でちぐはぐリズム3T
+全体攻撃──被ダメージ5%増加99T
+自己バフ──与ダメージ3%増加・命中率増加6T以上
+''大技''──全体 確率でちぐはぐリズム4T、ズキンズキン4T
+
+''行動表''
+6ターン周期
+|r[bgcolor(#dcdcdc)]:~ターン|center:1回目行動|center:2回目行動|center:3回目行動|
+|1|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|単体攻撃~~&size(10){対象がちぐはぐリズム状態の場合~~確率でどく3T・ばてばてヒリヒリ3T付与、ちぐはぐリズム解除}|単体攻撃~~&size(10){対象がちぐはぐリズム状態の場合~~確率でどく3T・ばてばてヒリヒリ3T付与、ちぐはぐリズム解除}|
+|2|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|前列攻撃~~&size(10){確率でちぐはぐリズム3T}|
+|3|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|全体攻撃~~&size(10){被ダメージ5%増加99T}|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|
+|4|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|単体攻撃~~&size(10){対象がちぐはぐリズム状態の場合~~確率でどく3T・ばてばてヒリヒリ3T付与、ちぐはぐリズム解除}|
+|5|前列攻撃~~&size(10){確率でちぐはぐリズム3T}|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|単体攻撃~~&size(10){対象がちぐはぐリズム状態の場合~~確率でどく3T・ばてばてヒリヒリ3T付与、ちぐはぐリズム解除}|
+|6|単体多段攻撃~~&size(10){対象が状態異常の場合？確率で命中減少3T}|全体攻撃~~&size(10){被ダメージ5%増加99T}|自己バフ~~&size(10){与ダメージ3%増加・命中率増加6T以上}|
+|!bgcolor(white):大技|>|>|全体 確率でちぐはぐリズム4T、ズキンズキン4T~~&size(10){チャージ18回}|
+
+
+**攻略
+味方の耐久面がやや厳しい代わりに、相手の耐久もかなり弱いという感じの相手。
+速攻攻略か、どく・ズキン・ばてヒリのスリップダメージを中心とした耐久攻略のどちらでも倒しやすい。
+助っ人のコウノトリがズキンズキン付与&回復持ちと強力で、配布・低レアのフレンズにも耐久力が高めの[[マレーバク]]と[[トキ]]、どく付与とどく耐性の[[コモドドラゴン]]がいたりと総合的に見てかなり優しめな相手。
+
+単体攻撃のどくとばてヒリの付与が少し厄介だが、[[タンク>用語集#yougo_tank]]を基本行動させないようにしておけば影響は少なくて済む。
+タンクが1人だと耐えきるのが難しいが、2人以上いるとダメージが分散して耐えやすくなる。
+タンクがいればどく・ズキン・ばてヒリの付与役はちぐはぐリズムを受けてもあまり関係がなく、大技のズキンズキンだけ気を付ければ良い。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,184 @@
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/p5BYsq9ERr.jpg,500,no_link)
+''開催期間'' : 2023年9月23日(土) メンテナンス後 ～ 9月30日(土) 14:00
+
+[-]目次
+#contents
+[END]
+// &size(18){&color(#ff0000){※過去のイベントからの推測を含みます。}}
+
+*Q&A
+**何をしたらいいの？
++新しいタームが始まったら、全拠点が制圧されるまで拠点を周回。
++全拠点が制圧されてボーナスクエストが解放されたらボーナスクエストに挑戦。
++イベント交換所でジャパリコインを欲しいアイテムと交換。
+
+**拠点はどこを周回するのが効率がいい？
+難易度が高い方が消費スタミナに対してドロップアイテムが多いので、できるだけ高い難易度を回りましょう。
+どの属性の拠点がいいかについては、敵の数が少ないファニー、リラックス、アクティブがおすすめです。
+
+**ボーナスクエストはどこをやるのがいい？
+こちらも難易度が高い方がいいです。
+挑戦可能な回数が限られているので、ミッション報酬のラッキーメダル×3がどうしても欲しいのでなければ、下の難易度は無視で構いません。
+
+**ドロップアイテムはリタマラで厳選できる？
+できません。
+拠点・ボーナス共に、バトル中に見えるドロップは確定ドロップのジャパリコインのみになっているようです。
+
+&aname(term)
+*ターム時間割
+|center|center|c
+|r[bgcolor(fbdd66)]:~ターム|時間|
+|left|left|c
+|第1ターム|14:00～18:00|
+|第2ターム|18:00～21:00|
+|第3ターム|21:00～23:59|
+|第4ターム|0:00～4:00|
+|第5ターム|4:00～9:00|
+|第6ターム|9:00～14:00|
+
+&aname(quest_data)
+*クエスト情報
+**拠点
+全属性共通。
+拠点が制圧されていない間は、ドロップするアイテムの種類とドロップ量が増加。
+ジャパリコイン以外は確率でドロップ。
+|~クエスト|スタミナ|ミッション報酬|ドロップ内容|経験値|ゴールド|獲得スコア|
+|げきむず|20|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×1200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×5&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×5~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×10&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×10&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×10&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×1|2400|1200|560,000|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×800&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×3&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×3&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×5&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×5&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×1|2400|1200|0|
+|むずい|15|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×600&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×20&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×7&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|1800|900|280,000|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×400&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×2&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×2~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×10&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×3&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|1800|900|0|
+|ふつう|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×270&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×5&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|1200|600|137,627|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|1200|600|0|
+|やさしい|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×75&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×3&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|300|150|70,000|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|300|150|0|
+
+**ボーナスクエスト
+全拠点制圧で解放。
+ターム中1回限り挑戦可能。
+タームごとに挑戦回数リセット。
+ジャパリコイン以外は確率でドロップ。
+|~クエスト|スタミナ|ミッション報酬|ドロップ内容|経験値|ゴールド|
+|げきむず|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×1200or9999&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×1&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×20~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×20&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×15&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×50~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×1&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×1&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Gmg9fbTd2f.png ,55,no_link)×1&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/396opvg_bT.png ,55,no_link)×1|2400|1200|
+|むずい|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Gmg9fbTd2f.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/396opvg_bT.png ,55,no_link)×?|???|???|
+|ふつう|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|???|???|
+|やさしい|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png, 55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|???|???|
+
+&aname(koukanjo)
+*交換所
+期間：2023/09/23 ～ 10/07 14:00まで
+&color(#ff0000){※イベントアイテムが入手可能な期間は 9/30 14:00まで}
+[-]
+無制限交換品を除いた累計全交換必要数：415,100
+|center|center|center|center|center|c
+|r[bgcolor(#ffaa00)]:~交換品|交換可能数|交換必要数|全交換必要数|備考|
+|left|center|center|center|left|c
+|☆4フレンズしょうたいチケット×5|1回|10,000|10,000||
+|r[bgcolor(#ffaa0020)]:9月ショップしょうたい券×1|10回|500|5,000||
+|4周年衣装交換券×1|8回|5,000|40,000||
+|r[bgcolor(#ffaa0020)]:小さな[[ブラックサーバル]]の輝石×5|24回|100|2,400||
+|四神玉×1|3回|15,000|45,000||
+|r[bgcolor(#ffaa0020)]:なないろのたね×1|5回|7,500|37,500||
+|麒麟のめぐみ×1|100回|600|60,000||
+|r[bgcolor(#ffaa0020)]:輝きの小瓶×1|100回|300|30,000||
+|輝きの結晶×1|50回|400|20,000||
+|r[bgcolor(#ffaa0020)]:ジャパまん手作りセット×1|10回|7,500|75,000||
+|虹色のラムネSR×1|1回|1,000|1,000||
+|r[bgcolor(#ffaa0020)]:虹色のラムネSR×1|1回|2,000|2,000||
+|虹色のラムネSSR×1|1回|3,000|3,000||
+|r[bgcolor(#ffaa0020)]:虹色のラムネSSR×1|1回|6,000|6,000||
+|おもいでの石SR×1|2回|1,000|2,000||
+|r[bgcolor(#ffaa0020)]:おもいでの石SR×1|2回|2,000|4,000||
+|おもいでの石SSR×1|1回|3,000|3,000||
+|r[bgcolor(#ffaa0020)]:おもいでの石SSR×1|1回|6,000|6,000||
+|ドールの輝石×1|5回|500|2,500||
+|r[bgcolor(#ffaa0020)]:ミーアキャットの輝石×1|5回|500|2,500||
+|マイルカの輝石×1|5回|500|2,500||
+|r[bgcolor(#ffaa0020)]:ハクトウワシの輝石×1|5回|500|2,500||
+|おしゃれメダル×1|2回|1,000|2,000||
+|r[bgcolor(#ffaa0020)]:おしゃれメダル×1|2回|2,000|4,000||
+|おしゃれメダル×1|2回|3,000|6,000||
+|r[bgcolor(#ffaa0020)]:ジャパまん（オール）大×5|50回|20|1,000||
+|あまーいベリーC×1|10回|100|1,000||
+|r[bgcolor(#ffaa0020)]:あまーいベリーUC×1|10回|400|4,000||
+|あまーいベリーR×1|6回|800|4,800||
+|r[bgcolor(#ffaa0020)]:とうめい水晶C×1|10回|100|1,000||
+|とうめい水晶UC×1|10回|400|4,000||
+|r[bgcolor(#ffaa0020)]:とうめい水晶R×1|6回|800|4,800||
+|かわいいリボンC×1|10回|100|1,000||
+|r[bgcolor(#ffaa0020)]:かわいいリボンUC×1|10回|400|4,000||
+|かわいいリボンR×1|6回|800|4,800||
+|r[bgcolor(#ffaa0020)]:けもけも弁当セット（赤色）×1|1回|800|800|けもけも弁当（ファニー）小×10~~けもけも弁当（ファニー）中×10~~けもけも弁当（ファニー）大×5|
+|輝きの欠片×1|50回|200|10,000||
+|r[bgcolor(#ffaa0020)]:ゴールド×1|無制限|1|||
+[END]
+
+&aname(mission)
+*ミッション
+[-]''デイリーミッション''
+|【イベント】立ち入り禁止区域イベントクエストを1回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png,55,no_link){ジャパまん（オール）大}×50|
+|【イベント】立ち入り禁止区域イベントクエストを3回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bzxwhysB2V.png,55,no_link){ジャパまんフォト☆3}×10|
+|【イベント】立ち入り禁止区域イベントクエストを5回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VxAqtBeVwD.png,55,no_link){キラキラ}×5|
+|【イベント】立ち入り禁止区域イベントクエストを7回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×2|
+|【イベント】立ち入り禁止区域イベントクエストを10回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VxAqtBeVwD.png,55,no_link){キラキラ}×10|
+[END]
+[-]''通常ミッション''
+|累計でファニーのいずれかのクエストを1回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×10|
+|累計でファニーのいずれかのクエストを3回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,55,no_link){赤色のアニマルラムネC}×6|
+|累計でファニーのいずれかのクエストを5回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,55,no_link){赤色のアニマルラムネUC}×3|
+|累計でファニーのいずれかのクエストを7回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,55,no_link){赤色のアニマルラムネR}×2|
+|累計でファニーのいずれかのクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png,55,no_link){おしゃれメダル}×3|
+|累計でファニーのいずれかのクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link){虹色のラムネSR}×1|
+|累計でファニーのいずれかのクエストを20回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png,55,no_link){麒麟のめぐみ}×50|
+|累計でフレンドリーのいずれかのクエストを1回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×10|
+|累計でフレンドリーのいずれかのクエストを3回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/IKZxa3KBov.png,55,no_link){緑色のアニマルラムネC}×6|
+|累計でフレンドリーのいずれかのクエストを5回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ufer3qqTd3.png,55,no_link){緑色のアニマルラムネUC}×3|
+|累計でフレンドリーのいずれかのクエストを7回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vmCak6tZVL.png,55,no_link){緑色のアニマルラムネR}×2|
+|累計でフレンドリーのいずれかのクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png,55,no_link){おしゃれメダル}×3|
+|累計でフレンドリーのいずれかのクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link){虹色のラムネSSR}×1|
+|累計でフレンドリーのいずれかのクエストを20回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link){四神玉}×1|
+|累計でリラックスのいずれかのクエストを1回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×10|
+|累計でリラックスのいずれかのクエストを3回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hCxbJsgTZm.png,55,no_link){青色のアニマルラムネC}×6|
+|累計でリラックスのいずれかのクエストを5回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/onkMBdStWl.png,55,no_link){青色のアニマルラムネUC}×3|
+|累計でリラックスのいずれかのクエストを7回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/JtzfGFEhJ6.png,55,no_link){青色のアニマルラムネR}×2|
+|累計でリラックスのいずれかのクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png,55,no_link){おしゃれメダル}×3|
+|累計でリラックスのいずれかのクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link){虹色のラムネSR}×1|
+|累計でリラックスのいずれかのクエストを20回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png,55,no_link){麒麟のめぐみ}×50|
+|累計でラブリーのいずれかのクエストを1回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×10|
+|累計でラブリーのいずれかのクエストを3回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,55,no_link){桃色のアニマルラムネC}×6|
+|累計でラブリーのいずれかのクエストを5回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,55,no_link){桃色のアニマルラムネUC}×3|
+|累計でラブリーのいずれかのクエストを7回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,55,no_link){桃色のアニマルラムネR}×2|
+|累計でラブリーのいずれかのクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png,55,no_link){おしゃれメダル}×3|
+|累計でラブリーのいずれかのクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link){虹色のラムネSSR}×1|
+|累計でラブリーのいずれかのクエストを20回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link){四神玉}×1|
+|累計でアクティブのいずれかのクエストを1回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×10|
+|累計でアクティブのいずれかのクエストを3回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,55,no_link){黄緑色のアニマルラムネC}×6|
+|累計でアクティブのいずれかのクエストを5回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,55,no_link){黄緑色のアニマルラムネUC}×3|
+|累計でアクティブのいずれかのクエストを7回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,55,no_link){黄緑色のアニマルラムネR}×2|
+|累計でアクティブのいずれかのクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png,55,no_link){おしゃれメダル}×3|
+|累計でアクティブのいずれかのクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,55,no_link){虹色のラムネSR}×1|
+|累計でアクティブのいずれかのクエストを20回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png,55,no_link){麒麟のめぐみ}×50|
+|累計でマイペースのいずれかのクエストを1回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QpARntE3DX.png,55,no_link){スタミナ20回復ドリンク}×10|
+|累計でマイペースのいずれかのクエストを3回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,55,no_link){水色のアニマルラムネC}×6|
+|累計でマイペースのいずれかのクエストを5回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,55,no_link){水色のアニマルラムネUC}×3|
+|累計でマイペースのいずれかのクエストを7回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,55,no_link){水色のアニマルラムネR}×2|
+|累計でマイペースのいずれかのクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png,55,no_link){おしゃれメダル}×3|
+|累計でマイペースのいずれかのクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,55,no_link){虹色のラムネSSR}×1|
+|累計でマイペースのいずれかのクエストを20回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link){四神玉}×1|
+|累計でボーナスクエストを5回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png,55,no_link){輝きの欠片}×60|
+|累計でボーナスクエストを10回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png,55,no_link){麒麟のめぐみ}×100|
+|累計でボーナスクエストを15回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MABE0DL1S_.png,55,no_link){しょうたい券}×10|
+|累計でイベントクエストを10回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/obeLpIn1G4.png,55,no_link){☆4フレンズしょうたいチケット}×5|
+|累計でイベントクエストを20回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png,55,no_link){輝きの欠片}×60|
+|累計でイベントクエストを30回クリア|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1ZLyQWORyJ.png,55,no_link){スタミナ50回復ドリンク}×10|
+|累計でイベントクエストを50回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d0sr4XGnn4.png,55,no_link){輝きの欠片フォト☆4}×1|
+|累計でイベントクエストを70回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png,55,no_link){輝きの結晶}×30|
+|累計でイベントクエストを90回クリア|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png,55,no_link){麒麟のめぐみ}×30|
+|累計でイベントクエストを100回クリア|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SIfTA4zeeF.png,55,no_link){称号「4周年 立ち入り禁止区域・解除開始」}>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EMJ5HY9D7O.png]]|
+[END]
+
+
+
+
+
+
+

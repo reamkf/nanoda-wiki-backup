@@ -1,0 +1,95 @@
+#contents
+* フォト交換券パックでのおすすめフォト
+主にアニバに発売されるフォト交換券パックや、月1のフォト交換券パックの交換対象としておすすめできるフォトを、更新時点の性能面からピックアップした一覧です。
+選択肢が多すぎて何を選べばいいのかさっぱりわからないという場合の1つの参考としてどうぞ。
+
+フォトの細かい性能は、リンク先のフォトの個別ページを参照ください。一部フォトには詳しい性能解説も記載されています。
+
+一覧に記載のフォトは「再販実績がある」or「そのうち再販されると思われる」「限定☆4フォト」のみです。
+☆3や課金限定フォトやコラボキャラが描かれている復刻しなそうなものは含まれていません。
+☆3や課金限定フォトなども含めて見たい場合は%%%[[効果別フォト早見表]]%%%や%%%[[フォト一覧]]%%%を参照してください。
+
+** 全体与ダメージ上昇
+アタッカー以外に装備することで、間接的にアタッカーを強化できます。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f_cu9sYoHS.jpg,55,no_link)|[[ざぶざぶごろごろ]]|マイペース(水)属性の味方の~~「Beat!!!」の与ダメージが&color(#ff0000){8%}増加し~~&color(#ff0000){毎ターンMPが1増加する}|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/z0fLpQ8x8U.png,55,no_link)|[[たまには、ね]]|自身を除く味方全体の与ダメージが&color(red){6%}増加し~~状態異常の相手に与えるダメージが&color(red){6%}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UIqVSR1CS6.png,55,no_link)|[[自然のお宝を求めて]]|自身のたいりょくが&color(red){70%}以下のとき~~相手全体の被ダメージを&color(red){7%}増加させる|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_vy1gmygAE.png,55,no_link)|[[えがおまんてん！]]|自身がギブアップ状態でないとき~~自身を除く味方全体の与ダメージが&color(red){6%}増加する~~さらにギブアップ中ではない味方が3人以上の場合~~自身の被ダメージが&color(red){6%}減少する|
+** 全体MP増加
+Welcome to ようこそ！は持ってない場合はおすすめの筆頭に挙げられる、道場でもちからくらべでも使う強力フォトです。
+その他3つは道場上級者向けですが、使いこなせれば誇張抜きにスコアの桁が1つ上がります。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Qqdc3ukD0d.png,55,no_link)|[[Welcome to ようこそ！]]|自身がギブアップしたとき~~味方全体の&color(#ff0000){たいりょくが10%回復し}~~MPが20増加する(発動回数：1回)|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t7qODZd1CC.png,55,no_link)|[[トップスピード！！]]|自身のたいりょくが50%以下のとき~~ファニー(赤)属性の味方のMPが&color(#ff0000){10}増加する~~（発動回数：1回）|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V4S21iPXG1.jpg,55,no_link)|[[さんぽみち]]|自身のたいりょくが50%以下のとき~~リラックス（青）属性の味方のMPが&color(#ff0000){10}増加する~~（発動回数：1回）|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3JZ18BxmR.png,55,no_link)|[[お水をどうぞ～♪]]|自身のたいりょくが50%以下のとき~~アクティブ(黄緑)属性の味方のMPが&color(#ff0000){10}増加する~~(発動回数：1回)|
+
+** 毎ターンMP増加
+ミラクル1回撃つにも苦労するしんまいさんから、何度も撃つべてらんさんまで幅広く使えます。特にしあわせのうたごえは活躍の場を選ばないため複数枚持ってもよいでしょう。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FkbQeODcXS.png,55,no_link)|[[しあわせのうたごえ]]|たいりょくが50％以上のとき毎ターンMPが&color(#ff0000){4}増加し~~たいりょくが50％以下のとき毎ターンたいりょくが&color(#ff0000){8％}回復する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/UIapX8f46d.jpg,55,no_link)|[[ちいさな願いごと]]|ステージの時間が夜の場合~~自身の与ダメージが&color(red){10%}増加し~~毎ターンMPが&color(red){5}増加する|
+
+** 開始時MP増加
+ちからくらべやとくべつくんれんで、速攻でミラクルを叩き込みたい場合に有用です。月光のきらめきは[[ムック]]等の[[出張>用語集#yougo_syuttyou]]時の安定性向上にも。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ol8b1gv6Sr.png,55,no_link)|[[ときいろに染まる空]]|相手フレンズ出現waveの場合、与ダメージが&color(#ff0000){15%}増加し~~バトル開始時にMPが&color(#ff0000){10}増加する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TjBZodyDOR.png,55,no_link)|[[月光のきらめき]]|自身の与ダメージが&color(#ff0000){7%}増加し~~バトル開始時にMPが&color(#ff0000){10}増加する|
+
+** 与ダメージ上昇(汎用)
+主に道場向けの、相手の属性問わず大きな与ダメージ上昇を得られるフォトです。1枚あれば全曜日で使えて便利です。
+「渾身の一発」はフラッグ、地形、属性によらず使えるものでは条件を満たせば最強格ですが、かなり上級者向けなので、使いこなす自信がある人のみおすすめです。
+また、このカテゴリの肉球フォトは課金限定フォトに競合が多いので([[きらきらのパレード]]、[[春の吐息]]等)、それらが揃っている隊長さんの場合はおすすめ度が下がる点にご注意ください。
+
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KMpea9Dp8U.png,55,no_link)|[[オフショット]]|たいりょくが50%以上のとき与ダメージが&color(#ff0000){8%}増加し~~たいりょくが50%以下のときかいひが&color(#ff0000){8%}増加する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fPOyxA3281.jpg,55,no_link)|[[ぜったいぜつめい！]]|セルリアン戦で「Beat!!!」の与ダメージが&color(#ff0000){13%}増加し~~かいひが&color(#ff0000){5%}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/s44XH5W2QH.png,55,no_link)|[[渾身の一発]]|自身の減少しているたいりよく20%につき~~与ダメージが&color(red){6%}増加し、被ダメージが&color(red){6%}減少する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZcO7CDy2Fk.png,55,no_link)|[[誰よりも速く！]]|与ダメージを5%増加する~~さらに強敵出現waveの場合、与ダメージが&color(red){9％}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3313caf935369a04.png,55,no_link)|[[みゃみゃみゃドラゴン！]]|自身の与ダメージと被ダメージが5%増加する~~さらに自身のたいりょくが70%以上のとき~~与ダメージが&color(red){10%}増加する|
+
+** 与ダメージ上昇(属性特効)
+主に道場向けの、ヌルい条件で15%という最高峰の倍率の与ダメージ上昇を発揮するフォトたちです。こちらも各属性1枚あると便利です。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yG780zmkcB.png,55,no_link)|[[わんだふる！]] |たいりょくが&color(#ff0000){30%以上}のとき~~リラックス（青）属性の相手に対して~~与ダメージが&color(#ff0000){15%}増加する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t2FerKN9hK.png,55,no_link)|[[がぶっとお仕置き]] |たいりょくが&color(#ff0000){30％以上}のとき~~フレンドリー（緑）属性の相手に対して~~与ダメージが&color(#ff0000){15％}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hu8R5M0yJe.png,55,no_link)|[[試作品プラモ type-SC]] |たいりょくが&color(#ff0000){30%以上}のとき~~アクティブ (黄緑) 属性の相手に対して~~与ダメージが&color(#ff0000){15%}増加する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/obTRbqh0JK.png,55,no_link)|[[参謀の秘術！]] |たいりょくが&color(#ff0000){30%以上}のとき~~マイペース(水)属性の相手に対して~~与ダメージが&color(#ff0000){15%}増加する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Q3bFQRbPm9.png,55,no_link)|[[ちょっとはいしゃく！]]|たいりょくが&color(#ff0000){30%以上}のとき~~ラブリー(桃)属性の相手に対して~~与ダメージが&color(#ff0000){15%}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZA462PbN1S.png,55,no_link)|[[誇りを手に！！！]]|たいりょくが&color(#ff0000){30%以上}のとき~~ファニー(赤)属性の相手に対して~~与ダメージが&color(#ff0000){15%}増加する|
+
+** 耐性減少
+使えるところではぶっ壊れといっていいフォトですが、今後の運営の匙加減次第でただの微妙な与ダメージ上昇フォトになってしまう可能性にも注意してください。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jjAwXeDbCc.jpg,55,no_link)|[[おすすめのばしょでち！]]|与ダメージが&color(red){7%}増加し~~アクティブ(黄緑)属性の相手のくらくら耐性(低)を減少する|
+
+** プラズムチャージ回数増加
+ストーリー配布の「[[やっと会えたね]]」よりも強力な、プラズムチャージ回数増加効果と与ダメージ上昇効果を持つフォトです。
+劇的に差があるわけではないですが、上位互換としての取り回しの良さが魅力です。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2K_K7ytcg9.png,55,no_link)|[[ひといきたいむ]]|自身の与ダメージが&color(red){6%}増加し~~攻撃命中率が&color(red){6%}増加する~~&color(red){さらに毎ターンプラズムチャージの効果が1回追加される}|
+
+** 状態異常耐性
+恒常フォトでは一切耐性を得られない上に、受けると致命傷になりかねないやっかいな状態異常をカバーするフォトです。
+ただし、今のところは中耐性が上限のものが多く、中耐性のものについては[[まよなかぴかぴか]]の存在もあり、そこまで出番は多くないので、いざというときの備えとして1枚あれば十分かもしれません。
+(中耐性1枚だと貫通しまくるような時は、フォトでがんばるよりも、フレンズのとくせいによる全体高耐性が優先される場合が多い)
+
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/d94f9fdbd698e9ba.png,55,no_link)|[[たまにはこうやって]]|自身のばてばてヒリヒリ耐性&color(red){(高)}が増加し~~自身の与ダメージが&color(red){9%}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Nen9Sc1Vwh.jpg,55,no_link)|[[まばたき禁止やで！]]|ちぐはぐリズム耐性(中)が増加し、~~与ダメージと攻撃命中率が5%増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pMRYJ0ZtfG.jpg,55,no_link)|[[ときめきオシャレモード]]|びりびり耐性(中)が増加し、~~与ダメージと攻撃命中率が5%増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/I9qN_RwupK.PNG,55,no_link)|[[ワンツーステップ]]|しょんぼりきぶん耐性&color(#ff0000){（中）}が増加する~~さらに攻撃命中率が&color(#ff0000){7%}増加し、かいひが&color(#ff0000){4%}増加する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b51kueA2Ik.png,55,no_link)|[[ゆらゆらゆれて]]|ぼんやりうっかり耐性(中)が増加し、~~与ダメージと攻撃命中率が5%増加する|
+
+** 被ダメージ軽減・回復
+被ダメージ軽減・回復は恒常や限定☆3フォトが非常に強力なので、フォト交換券での交換対象としては優先度は高くありません。
+|r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LLsmWiXr6G.jpg,55,no_link)|[[おかしこうかんこ！]]|自身の与ダメージが&color(red){9％}増加し~~自身を除く味方全体の被ダメージが&color(red){7％}減少する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54FMXq5Cl5.png,55,no_link)|[[あまおとのしらべ]]|被ダメージが&color(#ff0000){7%}減少し、毎ターンたいりょくが&color(#ff0000){7%}回復する|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3FgBhzaDlq.png,55,no_link)|[[ホワイトハンティング]]|強敵出現waveの場合、毎ターンたいりょくが&color(#ff0000){3%}回復し~~強敵からの被ダメージが&color(#ff0000){13%}減少する|
+
+
+
+
+

@@ -1,0 +1,401 @@
+[+]目次
+#contents(2)
+[END]
+※アクティブ属性のピーチパンサーについては[[%%%こちら%%%>https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%da%cc%ee%c0%b8%a4%ac%a4%a6%a4%ba%a4%a6%a4%ba%a4%b7%a4%c1%a4%e3%a4%a4%a4%de%a4%b9%26%239825%3b%a1%db%a5%d4%a1%bc%a5%c1%a5%d1%a5%f3%a5%b5%a1%bc]]
+*ピーチパンサー
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/FIOdnc6sgb.png,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2d91c5692b4d6329.png,50%)
+// [END]
+// [+]LV99
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0jaE9auXBv.jpg,50%)
+// [[けものフレンズ3 #241&gt;&gt;388より>>http://krsw.5ch.net/test/read.cgi/gamesm/1596335145/388]]
+// ☆6衣装+巫女服でたいりょく/こうげき/まもりが+300/+150/+75
+// [END]
+// [+]大解放Lv.90
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mghbS80odu.PNG,50%)
+// ☆6衣装のみ たいりょく+200/こうげき+100/まもり+50
+// [END]
+// [+]大解放Lv.99(未)
+// &__disabled__attachref(50%)
+// 衣装補正 ???/???/???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|42044|16718|7009|3821|4.0|10|center:size(9):&color(#ff0000){''ファニー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MiVDbHZZ0y.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|48972|19475|8166|4447|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|51760|20583|8631|4700|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|54083|21508|9018|4911|4.2|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|56872|22615|9484|5164|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|19/11/30、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|+6.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|25,25|+5.0%|+6.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|40,30|+6.0%|+7.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|おひとついかが？|必要MP100|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|味方全体の与ダメージが45%増加する（2ターン）|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Try!!]}|>|>|味方全体の与ダメージが53%増加する（2ターン）|
+|>|>||
+|!とくいわざ|サービスプレイ|相手単体に115%のダメージを与え~~高確率で与ダメージと攻撃命中率を10%減少させる~~（2ターン）|
+|!たいきスキル|おつかえいたします|味方全体のたいりょくを15%回復する~~発動率：100%　発動回数：2回|
+|!とくせい|メイド・イン・ピンク|状態異常にならない|
+|!キセキとくせい|それでは始めます♪|ファニー(赤)属性の味方の与ダメージが15%増加し~~攻撃命中率が10％増加する|
+|!なないろとくせい|ほんわか笑顔でおでむかえ|ファニー(赤)属性の味方の被ダメージが10％減少する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~自身がギブアップしたとき~~味方全体のたいりょくを8％回復する（発動回数：1回）~~&color(,#f3f3fe){（変化後）~~自身がギブアップしたとき~~味方全体のたいりょくを&color(#ff0000){12％}回復する（発動回数：1回）}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+当時の星4フレンズの中でもトップクラスのけもステータスを持ち、
+サポートに特化した能力も兼ね備えた、非常に高い性能を持つフレンズ。
+なお、何かと間違えやすいが''ピンク''パンサーではなく、''ピーチ''パンサー、
+属性も、''ラブリー属性(ピンク)ではなく、ファニー属性(赤)''である。
+
+能力値としては突出したものは持たないものの、全能力が高めである。
+
+けものミラクルは味方全体の与ダメージをアップさせるサポート系だが
+''MP100を必要とする''これまでになかった初めてのタイプとなっており、
+発動が難しくなった反面、効果量は既存の物より大きく向上している。
+
+さらに待機スキルは100％発動で味方全体の体力を小回復させる回復タイプ、
+特性は''&color(#ffffff,#ef007c){状態異常にならない}''という&color(#ef007c){全ての状態異常を無効化する完全耐性}と、
+いずれも非常に強力なものになっている。
+
+また、オーダーフラッグもAction!!25が2枚、Try!は黄色と赤が1枚ずつと
+Beat!!!が少ないことを除けば、サポート向けとしては理想の構成。
+
+ショップで見ることのできる温厚で人懐っこい人柄とは裏腹に
+複数の部分で規格外の性能を持つ、非常に強力なフレンズとなっている。
+特にダメージ量が要求される道場や難易度むちゃなどでは引っ張りだこ。
+
+実装後しばらくして道場では非有利MP減少攻撃が増え、全ての属性へ出張して使い回す作戦はだいぶ困難になってきた。
+とは言えキセキとくせいもミラクルもの与ダメージバフ効果は強く、ファニー属性の編成から抜ける事は当時ではあり得ないくらいだった。
+
+2022年5月、[[ムック]]の登場で複数人の[[Wバフ>用語集#yougo_double_buff]]が可能になったことでついにピーチパンサーが理想編成から外れるようになった。
+5月22日までほぼ90～100%近くを維持してきた道場TOP100採用率がついに下落し8割台になったとか。
+とはいえ、状態異常無効化は便利で、優秀なTryフラッグで安定感もあり今後も出番はあるだろう。
+
+…と思われていたが、ムックのMP配布、マジムン12体撃破、[[マイルカの楽園]]、[[トップスピード！！]]などを利用して''ピーチパンサーの[[Wバフ>用語集#yougo_double_buff]]''が環境次第では可能であることが後に分かってきた。
+MP100を1ターンで溜め直すのはさすがに厳しい部分があるため、拾えるTryフラッグが1枚か2枚少なくなることもある(1ターンでフラッグ以外の効果でMP100集めれば大して変わらなくなる)が、
+ミラクルのバフ倍率が53%ともなるとWバフで上乗せされる倍率の方が大きくなり、理論値としてはピーチパンサーWバフが勝るようだ。
+
+**スキル詳細
+[+]
+**けものミラクル：おひとついかが？
+ ''味方全体の与ダメージが53%増加する（2ターン）※必要MP100''
+どこからともなく取り出したジャパまんを盛大にバラ撒き、味方全体の攻撃力を大きく上昇させる。
+また、初の必要MP100のけものミラクルとなる。
+
+これまでも[[ミーアキャット]]や[[ギンギツネ]]など与ダメージアップ系けものミラクルの使い手は存在したが、
+いずれも最大値が34％アップだったのに対し、こちらはそれらを上回る53％アップとなっている。
+効果が大きくなった反面、必要MPも高くなっているが、
+ピーチパンサー自身のオーダーフラッグがAction!!25を2枚所持しているため
+発動は比較的容易となっている。
+**とくいわざ：サービスプレイ
+ ''相手単体に115%のダメージを与え　高確率で与ダメージと攻撃命中率を10%減少させる（2ターン）''
+バック転の要領で、華麗に敵を蹴り上げつつ後方に一回転する。
+%%技名に関しては、通常攻撃（ヒップアタック）の方がそれっぽい気もするが…。%%
+
+通常攻撃よりも威力の高い攻撃に加え、敵の攻撃力と命中率を下げる特殊効果を持つ。
+単体ダメージ系得意技としては115％ダメージは決して悪い数字ではなく
+さらに高確率で相手への攻撃力関係のデバフを付与できるため、効果としてはかなり優秀な部類に入る。
+**たいきスキル：おつかえいたします
+ ''味方全体のたいりょくを15%回復する~~発動率：100%　発動回数：2回''
+自ターン終了時、片手を掲げてニッコリ微笑む。味方の攻撃中にたいきスキルが発動してるかどうかがわからない珍しい特徴をもつ。
+
+味方全体の体力を少量回復する回復系の待機スキル。
+発動回数は一度のバトルで2回だけだが発動率は100％なので
+待機さえさせれば任意のタイミングで確実に味方全体の回復を行えるという大きなメリットを持つ。
+
+他のフレンズの回復系のスキルやけものミラクルだと
+自身のみしか回復できなかったり任意のタイミングで発動するのが難しかったりするため
+1回の回復量は少なめなものの、使いやすさとしてはトップクラスの回復スキルとなる。
+適切な場面で使いたいなら待機スキルのON/OFFを切り替えて、無駄撃ちは避けるようにしたい。
+**とくせい：メイド・イン・ピンク
+ ''状態異常にならない''
+状態異常にならない。シンプルにしてあまりにも強力な効果である。
+これまでも状態異常に対して耐性のあるフレンズは多く存在したが
+いずれも特定の状態異常を一定確率で防ぐ程度に収まっていたのに対し、
+こちらは全状態異常を常時無効化できるため、完全な上位互換となる。
+
+ちなみに厳密には各々の耐性アイコンを個別に１つずつ持っており、アップデートで新しい[[状態異常]]が追加されるたび、自動でこちらも更新される。公式のヘルプも参照。
+状態異常マークの付かない与ダメージ減少・命中減少・被ダメ減少解除等のいわゆる「固有名称のないデバフ」効果は無効化しない。
+また、ギブアップ状態にはなる。
+
+[[大海を往く]]を持たせれば、単体攻撃で厄介な状態異常を与えるセルリアンへの回答になる。高難易度クエストやファニー属性有利のシーサーバル道場で大海ピーチパンサーを連れていくとよいだろう。
+**キセキとくせい：それでは始めます♪
+ ''ファニー(赤)属性の味方の与ダメージが15%増加し~~攻撃命中率が10％増加する''
+他のフレンズのキセキとくせいによる同属性強化は
+同属性の味方の与ダメージ増加と被ダメージ減少が両方あるものが多いが、
+ピーチパンサーは与ダメージに特化した強化能力となった。
+ちからくらべ(防衛側)や難易度むちゃなど一部のバトルでは被ダメージ減少の評価が高まっているものの、
+大抵の場面では与ダメージ特化の方が強さを感じられるだろう。
+**なないろとくせい：ほんわか笑顔でおでむかえ
+ ''ファニー(赤)属性の味方の被ダメージが10％減少する''
+さらにファニー属性を強化する効果を得た。今回の強化は被ダメージ減少。
+[[マイルカの楽園]]などHP～%以下で発動するフォトが発動しにくく(できなく)なるときもデメリットもあるのでこのとくせいを開放するときはよく考えて行おう。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×9|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×14|必要ゴールド~~3,000|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/TT7bUeJlaz.png,no_link,40){かわいいリボンSR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SKmqHTJ7JX.png,no_link,40){ぴかぴかミラーSR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DpjewTiCX9.png,no_link,40){あまーいベリーSR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jiA5dQ74OM.png,40,no_link){ピーチパンサーの小瓶}×200|^| 
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/94eFdMYokS.png,no_link,40){赤色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/v1oR3F5rib.png,no_link,40){赤色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0cA72VLIn.png,no_link,40){赤色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|
+|>|>|>|>|>|野生解放5|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/jiA5dQ74OM.png,40,no_link){ピーチパンサーの小瓶}×200|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,40,no_link){虹色のアニマルラムネSSR}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,40,no_link){虹色のアニマルラムネSR}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/TT7bUeJlaz.png,no_link,40){かわいいリボンSR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SKmqHTJ7JX.png,no_link,40){ぴかぴかミラーSR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/DpjewTiCX9.png,no_link,40){あまーいベリーSR}×8|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7wuVXTSTKa.png,no_link,40){ぴかぴかミラーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_g3ADPt2t3.png,no_link,40){けもけも弁当（ファニー）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JAMiONlpgc.png,no_link,40){ぴかぴかミラーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qBL1PcmzSe.png,no_link,40){ぴかぴかミラーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SfpObalkiy.png,no_link,40){けもけも弁当（ファニー）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YSfK6Z8ZoZ.png,no_link,40){けもけも弁当（ファニー）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「わたし…癒し系なのですか？~~ふわっとしてるからでしょうか？~~人に尽くすことに喜びを感じます。~~ボランティアにすごく興味があります。~~あ、マッサージも得意なんですよ。~~肩でも、お揉みいたしましょうか？」''
+けものフレンズ３を開始した際、プレイヤーを探検隊の拠点へ案内してくれる存在であり、
+パーク内のショップの店員をしていることもあって、ゲームを進める上で必ず関わりを
+持つキャラクターとなっている。
+
+使用可能なフレンズとしては、2019年11月の「すぺしゃるすてっぷあっぷしょうたい」
+にて実装された。☆４限定のフレンズとなっている。
+
+ボランティアとか、人に尽くすことに喜びを感じる性格で、パークでは癒し系と言われる。
+マッサージを得意としていて、フレンズや隊長にもよく勧めてくる。
+
+緩い穏やかな性格ではあるが、フレンズストーリーでは、高圧で少々毒のある性格の博士
+と助手でさえ圧倒する場面もあった。
+（結局二人は閉店まで店でコキ使われた挙句、翌日も手伝ってもらうと言われ、狼狽している）
+しかし、それもパークのみんなに奉仕したいという気持ちが根底にある。
+
+また、ペンギンアイドルに続くアイドルを発見する為のイベント「私こそはアイドルだ」で
+優勝してしまうという、アイドル素養の高さも垣間見せた。
+
+そんなピーチパンサーであるが、博士・助手曰く「一体何のフレンズなんでしょう…」
+とあるように、その存在は聡明な二人でもわからない正体不明のフレンズ。
+サンドスターが鉱物に反応し、誕生したという噂があるが・・・
+
+ＣＶ：立花理香　（けもフレ３）
+　　　藤井ゆきよ（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|ドールさんもミーアキャットさんも、元気いっぱいですね~~私もがんばらなくっちゃ！|
+|^|どこかにお困りのフレンズさんは~~いないでしょうか…|
+|^|カフェも癒やしの場所として最適ですね~~お店でもお茶を出そうかしら？|
+|^|あら、隊長さん~~私に何か、お手伝いできることが？|
+|^|そういえば、あの商品が残り僅かでしたね…~~今度補充しておかないと|
+|!固定|今なら最高のマッサージを提供できそうです！|
+|^|なんだか、お店にフレンズさんがい～っぱい~~来てくれそうな気がします♪|
+|^|ふんふん…♪　ご奉仕ご奉仕…♪|
+|^|マッサージをご所望ですか？　喜んで！|
+|!すやすや|皆さんが…癒され、ますように…すぅ…すぅ…|
+|^|んん…ご、ご奉仕…すぅ…すぅ…|
+|^|…んふふふふ…~~抜き足…さし足…忍び足…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|精一杯尽くします！|
+|^|がんばりますね|
+|!WAVE移行|まだまだいけますよぉ|
+|^|お疲れのかたはいませんかぁ|
+|!クエスト終了|私がお役に立てたならなによりです|
+|^|皆さんお疲れさまでした~~運動の後のマッサージはいかがですか|
+|!フラッグ選択|よろこんで♪|
+|^|かしこまりました|
+|!けもコーラス|サポートします|
+|^|合わせますね|
+|^|後ろはおまかせください|
+|^|いつでもどうぞ|
+|!攻撃|[''通常攻撃'']|
+|^|えいっ|
+|^|よいしょっと|
+|^|そーれ|
+|^|いやぁ！|
+|^|[''とくいわざ'']|
+|^|こういうのはどうです|
+|^|くるりんっと|
+|^|いきますよー|
+|^|痛いですよ！|
+|!ダメージ|[''通常攻撃'']|
+|^|きゃあ|
+|^|いやぁ|
+|^|[''強攻撃'']|
+|^|はううぅ|
+|^|うわぁ|
+|^|[''ちからくらべ'']|
+|^|やりますねぇ|
+|^|まあ|
+|^|あらぁ|
+|^|ええ！|
+|!どく状態|まだ、倒れるわけには…|
+|^|このままでは…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|すみません…　みなさん…|
+|^|[''ちからくらべ'']|
+|^|ご奉仕なら負けませんのに|
+|^|さすがですぅ…|
+|^|まあ、負けてしまいました|
+|^|お強いんですねぇ|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|あらー…|
+|!復帰|お待たせしましたー　もう大丈夫です|
+|^|ご奉仕再開です！|
+|!けものミラクル　|[''等速'']~~（発動時）~~ご奉仕の時間です～~~（発動中）~~疲れたときはやっぱりこれですよねー~~はい　(うふ)　そーれー~~|
+|^                              |[''倍速'']~~（発動時）~~ご奉仕ですー~~（発動中）~~疲れたときはやっぱりこれですよねー~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~スペシャルご奉仕です～~~（発動中）~~みなさんのためなら苦労は惜しみません~~うふふ　たーんと召し上がれー~~|
+|^                              |[''倍速'']~~（発動時）~~スペシャルご奉仕~~（発動中）~~たーんと　(うふ)　召し上がれー~~|
+|!けものミラクル後|このピーチパンサーに全部おまかせくださいなー|
+|}
+[END]
+[-]掛け合い
+現在、掛け合いのあるフレンズはいないようダネ。 
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|ピーチパンサーです　誰かに尽くすことに~~喜びを感じます　…隊長さんも、~~たくさん、ご奉仕させてくださいね♪|
+|!ログインボーナス|隊長さん？~~どうかこれをうけとってください~~私からの心ばかりのプレゼントです♪|
+|^|喜んでもらえてよかったぁ♪~~明日も用意してお待ちしてますね|
+|!なかよしレベルアップ|隊長さん、お疲れじゃありませんか？~~私が特別なご奉仕してさしあげますね♪|
+|!レベルアップ|あら？　なんだか力が湧いてきますー|
+|!野生解放|あらあら…　私にもこんな力があったんですねぇ|
+|!けも級アップ|隊長さんのおかげで　こーんなにマッサージが上手くなったんですよー~~ほらー　モミモミっとー|
+|!ミラクルレベルアップ|うふふ♪　ご奉仕が捗ってしまいますね|
+|!フォトポケット開放|皆さんが喜ぶ顔をいーっぱい集めたいですね♪　…うふふ♪|
+|!着替え|どうです　似合ってますか？|
+|^|こういうのも悪くないですねー|
+|^|これ　気に入っちゃいましたー|
+|^|うふ　素敵な衣装ですー|
+|!ふれあい|あらー　なにかお悩みですかー~~よろしかったらお聞かせください|
+|^|どうしましたか～|
+|^|私って　そんなにふわっとしてるでしょうかー？~~でも　癒し系と言われるのは…嬉しいですねー|
+|^|お茶にしましょうかー？|
+|!ふれあい~~(撫でる)|まぁー　とーってもお上手~~隊長さんも　マッサージが得意なんですねー|
+|^|ははぁ～　最っ高に癒されますー~~じゃあ、次は隊長さんが癒される番ですねー|
+|^|うふふ　ありがとうございます~~隊長さんも、ご奉仕がお好きなんですねー|
+|!アシスタント選択|お疲れさまですぅ　隊長さん♪　僭越ながら本日もお世話をさせていただきますねぇ|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^|ピーチパンサーのお店に、ようこそ～|
+|^|いらっしゃいませー　ごゆーっくり、ご覧くださいな～|
+|^|''[購入]''|
+|^|またのご利用を、お待ちしております|
+|^|お買い物の後は、ピーチパンサーの、~~スペシャルマッサージはいかがですか～？|
+|!おてつだい(共通)|''[タップ]''|
+|^|はい　なんなりとおっしゃってくださいね～？|
+|^|隊長さん、お茶はいかがですか？~~いいお茶の葉をいただいたんです～|
+|^|どうすれば、隊長さんを癒せるのでしょうか…？~~隊長さん、なにかしてほしいこととかありませんか？|
+|^|あらぁ…　隊長さんって結構甘えん坊さんなんですね～|
+|^|''[伸び]''|
+|^|うぅ～～ん…|
+|^|よい…っしょっと…|
+|^|''[すやすや]''|
+|^|すぅ…すぅ…すぅ…|
+|^|''[寝起き]''|
+|^|うーん…　ふぁあ…~~たいちょうさーん…　一緒にひとねむり…いかがですかぁ…？|
+|}
+[END]
+**掛け合い相手
+（未実装）
+*実際の動物について
+ ''ジャパリパークの動物寓話集に描かれている、伝説の動物です。~~その姿はヒョウによく似ていますが、毛色は鮮やかなピンク色をしています。~~忠誠を誓った相手には、一生寄り添うといわれています。''
+ピーチパンサーは、けものフレンズプロジェクトにおける架空の動物である。
+
+ＵＭＡ（未確認動物）という扱いではあるが、ツチノコ等に代表される各地での目撃証言や、
+文献等で記録が存在する、本来の意味でのＵＭＡではなく、作品上の創作キャラクターである。
+
+実在する動物ではない上、特定地域に伝わるＵＭＡでもない為、ここではピーチパンサーという
+キャラクターの存在意図について考察してみたい。
+
+まず、ピーチパンサーというキャラクターの創作起源を考えた時、第一に「ピンクパンサー」
+というキャラクターが挙げられる。
+ピンクパンサーとは、1964年に公開された実写映画『The Pink Panther』（邦題：ピンクの豹）の
+オープニングに登場するキャラクターであり、スピンオフのアニメーション作品の主人公である。
+
+ピンク色を基調とした容姿、パンサー（豹）をモチーフにしていること、宝石に関わるキャラクター
+であること（ピンクパンサーは宝石泥棒である）等、ピーチパンサーのキャラクターを形成する背景
+設定と共通点は多い。
+名前もピンクとピーチをかけていると思われる節から、ピンクパンサーが元となったキャラクターで
+ある可能性は大いに高いと言えよう。
+
+さてこのような、実在する動物とも、四神、ＵＭＡといった現実で信仰、記録されている動物とも違う
+完全創作の存在は希少のものであり、それをけものフレンズの世界に組み込んだ意図は何だったのだろうか。
+(シーサーバル2人を始めパルコアライサン、みゆはん/スナネコはんのフレンズ、シロイキタキツネなど
+創作フレンズ自体は公式にもいくらか存在する。）
+
+ピーチパンサーは、サンドスターが鉱物に反応し、誕生したという噂のフレンズである。
+アニメ１期のガイドブックでも、島内調査で発見された「ピンク色のハートが浮かぶダイヤモンドの原石」
+の紛失がその存在の関連性としてあがっている。
+
+けもフレ3においては、実は''隊長（プレイヤー）が最初に出会ったアニマルガール''がピーチパンサーである。ドールでは無いのだ。
+現状あるだけの情報で完全な考察は不可能であるが、けものフレンズというＩＰを通して物語自体に深く
+関わってくる存在なのだろうか。
+
+*その他
+-[[ピーチパンサー(フォト)]]
+-[[ピーチパンサー　フレンズストーリー]]
+**星6衣装
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/tz0JBCoLDN.png,50%)
+-かわいらしい白×ピンクのエプロンドレス姿のメインコスチュームとは一転、~~大人っぽい黒×ピンクを基調としたライダースーツ風のコスチュームとなる。
+-ボディラインが強調され、見事なプロポーションがより際立つ装いなので、~~普段とは違った雰囲気を楽しめるだろう。
+-前述した通り、ピーチパンサーのモチーフが宝石泥棒ピンクパンサーだったとするならば、~~この衣装は同じネコ科モチーフの女怪盗「キャットウーマン」をイメージしたものである可能性が高い。
+--そういえば彼女がショップで扱っている品物は一体どこから調達して…？
+**特別衣装
+***巫女服
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/96d77961f2c9a362.jpg,50%)
+
+***収穫祭衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7U08dXqt1_.jpg,50%)
+
+***パーティドレス
+[+]&color(#ff0000){''※ネタバレ注意''}
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5b0c456eb95d99db.png,50%)
+[END]
+
+**アイコン一覧
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/HclZvqA6DC.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QUquypkS4J.webm){400,240}
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jTxssAME6N.webm){400,240}

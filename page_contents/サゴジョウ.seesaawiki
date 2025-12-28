@@ -1,0 +1,290 @@
+[+]目次
+#contents
+[END]
+*サゴジョウ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dcef7d2408e4f2be.png,50%)
+//[+]けも級最大(未)
+//&__disabled__attachref(50%)
+//衣装ボーナス +???/+???/+???
+//[END]
+//[+]LV99(未)
+//&__disabled__attachref(50%)
+//衣装ボーナス +???/+???/+???
+//[END]
+//|r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|center:属性|
+//|!bgcolor(#dcdcdc):初期|☆4|46618|20073|7139|4571|1.0%|20|center:size(9):&color(#88abda){''マイペース''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,40,no_link)|
+//|r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|?????|?????|????|????|^|^|^|^|
+//|r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|57384|24713|8789|5623|^|^|^|^|
+//|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|^|
+//|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|^|
+//
+//|!bgcolor(#dcdcdc):最高フォトポケランク|08||!bgcolor(#dcdcdc):野生大解放|なし||!bgcolor(#dcdcdc):輝石交換|なし||!bgcolor(#dcdcdc):実装|25/09/18、限定|
+//
+//||center|center|center|center|c
+//|r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+//|r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|－|
+//|r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|3枚|20,20,30|+6.0%|－|
+//|r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|30|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|水底にアテンションや！|必要MP120|
+|!bgcolor(#e6e6e6):center:Lv.1|>|味方全体の与ダメージか19%増加し~~相手全体の与ダメージを19%減少させる(3ターン)~~さらにファニー(赤)、マイベース(水)属性の味方の~~被ダメージが19%減少し(3ターン)~~MPが10増加する~~また、高確率でラブリー(桃)、フレンドリー(緑)属性の相手の~~被ダメージを19%増加させ(3ターン)~~MPを10減少させる|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Action!]|>|味方全体の与ダメージか23%増加し~~相手全体の与ダメージを23%減少させる(3ターン)~~さらにファニー(赤)、マイベース(水)属性の味方の~~被ダメージが23%減少し(3ターン)~~MPが14増加する~~また、高確率でラブリー(桃)、フレンドリー(緑)属性の相手の~~被ダメージを23%増加させ(3ターン)~~MPを14減少させる|
+|>|>||
+|!とくいわざ|降妖宝杖・退魔の光|相手単体に108%のダメージを与え~~自身のたいりょくか9%回復する|
+|!たいきスキル|寝とるわけとちゃうで？|味方全体のたいりょくを15%回復し~~自身のMPが15増加する~~~~~発動率：100%　発動回数：2回|
+|!とくせい|カッバじゃあらへん！|マイペース(水)、ファニー(赤)属性の味方のからげんき耐性(高)が増加し~~ラブリー(桃)属性の相手の与ダメージを15%減少させる~~さらに自身のひやひや耐性(高)が増加し~~大幅に狙われにくくなる|
+|!キセキとくせい|天上の元捲簾大将|マイペース(水)、ファニー(赤)属性の味方の与ダメージが15%増加する~~さらに毎ターンマイペース(水)属性の味方のたいりょくが2%回復し~~MPが4増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~毎ターン自身のたいりょくが2%回復する~~&color(,#f3f3fe){（変化後）~~毎ターン自身のたいりょくが&color(red){3%}回復する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+**戦闘について
+文章
+//***スキル詳細
+//[+]
+//***けものミラクル：水底にアテンションや！　※必要MP120/ミラクルLv5
+// ''味方全体の与ダメージか23%増加し~~相手全体の与ダメージを23%減少させる(3ターン)~~さらにファニー(赤)、マイベース(水)属性の味方の~~被ダメージが23%減少し(3ターン)~~MPが14増加する~~また、高確率でラブリー(桃)、フレンドリー(緑)属性の相手の~~被ダメージを23%増加させ(3ターン)~~MPを14減少させる''
+//文章
+//
+//***とくいわざ：降妖宝杖・退魔の光
+// ''相手単体に108%のダメージを与え~~自身のたいりょくか9%回復する''
+//文章
+//
+//***たいきスキル：寝とるわけとちゃうで？
+// ''味方全体のたいりょくを15%回復し~~自身のMPが15増加する~~発動率：100%　発動回数：2回''
+//文章
+//
+//***とくせい：カッバじゃあらへん！
+// ''マイペース(水)、ファニー(赤)属性の味方のからげんき耐性(高)が増加し~~ラブリー(桃)属性の相手の与ダメージを15%減少させる~~さらに自身のひやひや耐性(高)が増加し~~大幅に狙われにくくなる''
+//文章
+//
+//***キセキとくせい：天上の元捲簾大将
+// ''マイペース(水)、ファニー(赤)属性の味方の与ダメージが15%増加する~~さらに毎ターンマイペース(水)属性の味方のたいりょくが2%回復し~~MPが4増加する''
+//文章
+//[END]
+
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+情報募集中
+**ミラクル強化
+情報募集中
+
+*キャラクターについて
+ ''「ゴクウ、苦戦してるみたいやん。ワタシがおらんとダメみたい~~やな。手伝ったろか？　そない強がらんかってええですやん。~~ヘルプミーいうたらええやん。そしたらワタシもオフコース~~ゆうて。なあハッカイ！　ちよっと待ってなんで寝とんねん！~~おまえらホントに変わっとらんな。苦労するのはいっつも~~ワタシなの、かわらへんやん。ま、オモロいからそれでええわ。~~さてまたいこか、天竺！」''
+文章
+
+ＣＶ：加藤たまき（けもフレ３）
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|　|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!固定|　|
+|^|　|
+|^|　|
+|^|　|
+|!すやすや|　|
+|^|　|
+|^|　|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|　|
+|^|　|
+|!WAVE移行|　|
+|^|　|
+|!クエスト終了|　|
+|^|　|
+|!フラッグ選択|　|
+|^|　|
+|!けもコーラス|　|
+|^|　|
+|^|　|
+|^|　|
+|!攻撃|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''とくいわざ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!ダメージ|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|[''強攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!どく状態|　|
+|^|　|
+|!ギブアップ|[''セルリアン戦'']|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|　|
+|^|　|
+|!けものミラクル　|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル後|　|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**ソンサーバル
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){手伝うてあげるで、サーバル！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ti0Yo20RLa.png,right){一人で相手できるってばー！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){気ぃ抜いたらあかんで、サーバル！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ti0Yo20RLa.png,right){分かってるよー！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){さてと、これで終いやな}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ti0Yo20RLa.png,right){いっぱい動いたからお腹すいてきたなー}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){少しばかり…休ませてもらうわ…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ti0Yo20RLa.png,right){残りは私がやっておく！}|
+|}
+[[%%%ソンサーバル　セリフ集%%%>ソンサーバル#serifu]]
+**ギョクリュウ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){共闘といこか、ギョクリュウ！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zgQ6rFbXyn.png,right){ええ、お供しますよ}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){まだ続くんか？ギョクリュウ～乗せてって～}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zgQ6rFbXyn.png,right){嫌ですよ、自分で歩いてください}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){よーし、楽勝やったなあ}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zgQ6rFbXyn.png,right){さすがサゴジョウさんですね}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){う…やってもうた…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zgQ6rFbXyn.png,right){大丈夫ですよ、後は任せてください}|
+|}
+[[%%%ギョクリュウ　セリフ集%%%>ギョクリュウ#serifu]]
+**チョハッカイ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){ほら！せかせか働き！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/37be9387134b55c1.png,right){うぇ～しょうがねえなあ}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){真面目にやらんとシバくぞお前ぇ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/37be9387134b55c1.png,right){うわー！言ったそばから叩くなってー！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){はぁ、いっつもワタシばっかり苦労しとるやん}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/37be9387134b55c1.png,right){ねえねえ、ゴジョウさん？あんなに叩く必要、ありました？}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png){う…暴走せえへんよう…気ぃつけえ…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/37be9387134b55c1.png,right){心配すんなって、おれさまに任せろ！}|
+|}
+[[%%%チョハッカイ　セリフ集%%%>チョハッカイ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|　|
+|!ログインボーナス|　|
+|^|　|
+|!なかよしレベルアップ|　|
+|!レベルアップ|　|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|　|
+|!けも級アップ|　|
+|!ミラクルレベルアップ|　|
+|!フォトポケット開放|　|
+|!着替え|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(たのしい！)|　|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|　|
+|^|　|
+|^|　|
+|!アシスタント選択|　|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ti0Yo20RLa.png,70)>ソンサーバル#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/zgQ6rFbXyn.png,70)>ギョクリュウ#serifu]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/37be9387134b55c1.png,70)>チョハッカイ#serifu]]|
+*実際の動物について
+ ''元々は天界で天帝に仕える役人でしたが、宴席で貴重な宝物を~~壊してしまい、重い罰を受け妖怪となりました。観音菩薩に経~~典を求める者の弟子になれば救われると諭されていましたが、~~三蔵法師を襲ってしまいます。三蔵法師を守る猪八戒らと激闘~~の末、仲間になりました。川に潜んでいたことから河童のイメ~~ージを持たれることが多いようです。''
+文章
+*その他
+-[[サゴジョウ(フォト)]]
+-[[サゴジョウ　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b6a76ac37fc0b679.PNG,50%)
+//
+//**特別衣装
+//***衣装名
+//&attachref(50%)
+//
+//『パーティドレス』
+//[+]&color(red){''ネタバレ注意！''}
+//&attachref(50%)
+//[END]
+
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/be75e11f3d3e1269.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+//&video(){400,240}
+//&video(){400,240}
+

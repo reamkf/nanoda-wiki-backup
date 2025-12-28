@@ -1,0 +1,291 @@
+[+]目次
+#contents
+[END]
+*イロワケイルカ
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6922dad6f69dbb35.png,50%)
+//[+]けも級最大(未)
+//&__disabled__attachref(50%)
+//衣装ボーナス +???/+???/+???
+//[END]
+//[+]LV99(未)
+//&__disabled__attachref(50%)
+//衣装ボーナス +???/+???/+???
+//[END]
+//|r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|center:属性|
+//|!bgcolor(#dcdcdc):初期|☆4|46158|16686|7557|5069|2.0%|20|center:size(9):&color(#ffb3b3){''ラブリー''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,40,no_link)|
+//|r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|?????|?????|????|????|^|^|^|^|
+//|r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|?????|?????|????|????|^|^|^|^|
+//|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|^|
+//|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|^|
+//
+//|!bgcolor(#dcdcdc):最高フォトポケランク|08||!bgcolor(#dcdcdc):野生大解放|なし||!bgcolor(#dcdcdc):輝石交換|なし||!bgcolor(#dcdcdc):実装|25/08/21、限定|
+//
+//||center|center|center|center|c
+//|r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+//|r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|－|
+//|r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|3枚|20,20,25|+6.0%|－|
+//|r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|20|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|あなたもいっちにっさーん♪|必要MP100|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手単体に390%のダメージを与える~~さらに味方全体の与ダメージが16%増加し~~ラブリー(桃)属性の味方の与ダメージが20%増加する(3ターン)|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Action!]|>|相手単体に546%のダメージを与える~~さらに味方全体の与ダメージが20%増加し~~ラブリー(桃)属性の味方の与ダメージが24%増加する(3ターン)|
+|>|>||
+|!とくいわざ|ふりふりべちん！|相手単体に22%×5のダメージを与え、自身のMPが5増加する~~さらに地形がみずべの場合、高確率で対象のMPを5減少させる~~※一回発動分のMPは残る|
+|!たいきスキル|みてみて！ばら～んす♪|ラブリー(桃)属性の味方のMP減少状態を解除し~~MPが10増加する~~~~~発動率：100%　発動回数：2回|
+|!とくせい|パンダににてる …？|ラブリー(桃)属性の味方のぼんやりうっかり耐性(高)が増加する~~さらに自身の被ダメージが15%減少し~~毎ターンたいりょくが2%回復する|
+|!キセキとくせい|小さくてもいつかおっきく！|自身を除くラブリー(桃)属性の味方の与ダメージが10%増加し~~毎ターンたいりょくが3%回復する~~さらに地形がみすべの場合~~バトル開始時にラブリー(桃)属性の味方のMPが10増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~情報募集中~~&color(,#f3f3fe){（変化後）~~地形がみずべの場合、自身の与ダメージが6%増加し~~毎ターンたいりょくが3%回復する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+//足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+**戦闘について
+文章
+//***スキル詳細
+//[+]
+//***けものミラクル：あなたもいっちにっさーん♪　※必要MP100/ミラクルLv5
+// ''相手単体に546%のダメージを与える~~さらに味方全体の与ダメージが20%増加し~~ラブリー(桃)属性の味方の与ダメージが24%増加する(3ターン)''
+//文章
+//
+//***とくいわざ：ふりふりべちん！
+// ''相手単体に22%×5のダメージを与え、自身のMPが5増加する~~さらに地形がみずべの場合、高確率で対象のMPを5減少させる~~※一回発動分のMPは残る''
+//文章
+//
+//***たいきスキル：みてみて！ばら～んす♪
+// ''ラブリー(桃)属性の味方のMP減少状態を解除し~~MPが10増加する~~発動率：100%　発動回数：2回''
+//文章
+//
+//***とくせい：バンダににてる …？
+// ''ラブリー(桃)属性の味方のぼんやりうっかり耐性(高)が増加する~~さらに自身の被ダメージが15%減少し~~毎ターンたいりょくが2%回復する''
+//文章
+//
+//***キセキとくせい：小さくてもいつかおっきく！
+// ''自身を除くラブリー(桃)属性の味方の与ダメージが10%増加し~~毎ターンたいりょくが3%回復する~~さらに地形がみすべの場合~~バトル開始時にラブリー(桃)属性の味方のMPが10増加する''
+//文章
+//[END]
+
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+情報募集中
+**ミラクル強化
+情報募集中
+
+*キャラクターについて
+ ''「遊ぶの大好き！　ボール？　輪投げ？　ヒトのおもちゃが~~楽しいね！　波乗りだってやっちゃうんだから！~~遊んでくれるヒト、大ぼしゅう！　遊び疲れたらひっくり返って~~すーいすいってね。あ一、なんか遠くで楽しそうな声が~~聞こえる一。わたしも混ぜてー！（ピューッ！）」''
+文章
+
+ＣＶ：篠宮くれは（けもフレ３）
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|　|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!固定|　|
+|^|　|
+|^|　|
+|^|　|
+|!すやすや|　|
+|^|　|
+|^|　|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|　|
+|^|　|
+|!WAVE移行|　|
+|^|　|
+|!クエスト終了|　|
+|^|　|
+|!フラッグ選択|　|
+|^|　|
+|!けもコーラス|　|
+|^|　|
+|^|　|
+|^|　|
+|!攻撃|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''とくいわざ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!ダメージ|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|[''強攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!どく状態|　|
+|^|　|
+|!ギブアップ|[''セルリアン戦'']|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|　|
+|^|　|
+|!けものミラクル　|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル後|　|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**バンドウイルカ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){今日はわたしのジャンプを見せるよー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JcqhXwdYjs.png,right){うん！いっぱい見せてね！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){次はどうするー？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JcqhXwdYjs.png,right){このまま進んじゃおう！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){よーし、帰ろ！ドルカちゃん！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JcqhXwdYjs.png,right){うん！みんなが待ってるよ}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){ごめんね…上手にできなかった…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JcqhXwdYjs.png,right){大丈夫だよ、イロワケ！わたしに任せて！}|
+|}
+[[%%%バンドウイルカ　セリフ集%%%>バンドウイルカ#serifu]]
+**カマイルカ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bf62c74c8f005ef1.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bf62c74c8f005ef1.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bf62c74c8f005ef1.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bf62c74c8f005ef1.png,right){情報募集中}|
+|}
+[[%%%カマイルカ　セリフ集%%%>カマイルカ#serifu]]
+**マッコウクジラ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){わーい！マッコウクジラと一緒だー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3871ef73787b0969.png,right){元気なのはいいけど、はしゃぎすぎちゃダメ}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){ふぁいとー！おー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3871ef73787b0969.png,right){ふふ、頑張ろうね}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){ねえねえ、わたし上手にできてた？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3871ef73787b0969.png,right){ええ、よくできました}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png){ううう…うごけないよぉ…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3871ef73787b0969.png,right){イロワケイルカになんてことを}|
+|}
+[[%%%マッコウクジラ　セリフ集%%%>マッコウクジラ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|　|
+|!ログインボーナス|　|
+|^|　|
+|!なかよしレベルアップ|　|
+|!レベルアップ|　|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|　|
+|!けも級アップ|　|
+|!ミラクルレベルアップ|　|
+|!フォトポケット開放|　|
+|!着替え|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(たのしい！)|　|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|　|
+|^|　|
+|^|　|
+|!アシスタント選択|　|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JcqhXwdYjs.png,70)>バンドウイルカ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bf62c74c8f005ef1.png,70)>カマイルカ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3871ef73787b0969.png,70)>マッコウクジラ#serifu]]|
+
+*実際の動物について
+ ''他のイルカに比べて背びれが丸みを帯びていて、見た目からパ~~ンダイルカとも言われています。イルカは主に「ピーピー」と~~聞こえるホイッスルと、「カリカリ、ギリギリ」と短い音が連~~続するクリックスという２種の音波を使いますが、イロワケイ~~ルカは超音波領域のクリックスのみを発します。''
+文章
+*その他
+-[[イロワケイルカ(フォト)]]
+-[[イロワケイルカ　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0a2cbca48c97dd86.PNG,50%)
+//
+//**特別衣装
+//***衣装名
+//&attachref(50%)
+//
+//『パーティドレス』
+//[+]&color(red){''ネタバレ注意！''}
+//&attachref(50%)
+//[END]
+
+**アイコン一覧
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5690e9137c9eba68.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+//&video(){400,240}
+//&video(){400,240}
+

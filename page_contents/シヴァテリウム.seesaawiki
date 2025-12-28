@@ -1,0 +1,334 @@
+[+]目次
+#contents(2)
+[END]
+*シヴァテリウム
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bTg7__ZMmt.png,50%)
+// [+]けも級最大
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KbEXfvSa5L.90.PNG,50%)
+// 衣装ボーナス +200/+100/+50
+// [END]
+// [+]LV.99
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qUEV3PC2Wu.99.PNG,50%)
+// 衣装ボーナス +200/+100/+50
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|44666|17994|7780|3465|1.0|50|center:size(9):&color(#009e25){''フレンドリー''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|52029|20962|9063|4035|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|54991|22154|9579|4265|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|21/06/26、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|3枚|－|+6.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|1枚|20|+5.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|30|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|雷撃一閃！|必要MP100|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手全体に500%のダメージを対象の数で均等割で与え~~高確率でびりびり状態にする（3ターン）|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Beat!!!]|>|相手全体に700%のダメージを対象の数で均等割で与え~~高確率でびりびり状態にする（3ターン）|
+|>|>||
+|!とくいわざ|迷いを断ち切る！|相手単体に120%のダメージを与え~~中確率でぼんやりうっかり状態にする（2ターン）|
+|!たいきスキル|不思議な音色…|味方全体の与ダメージが10%増加し~~相手全体の被ダメージを10%増加させる（2ターン）~~発動率：70%　発動回数：2回|
+|!とくせい|優しき破壊の力|味方全体の「Beat!!!」の与ダメージが15%増加する|
+|!キセキとくせい|シヴァの獣|自身の与ダメージが10%増加し~~「Beat!!!」の与ダメージが15%増加する~~さらにバトル開始時にMPが20増加する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~ぼんやりうっかり耐性(中)が増加する~~&color(,#f3f3fe){（変化後）~~ぼんやりうっかり耐性&color(#ff0000){(高)}が増加し~~&color(#ff0000){攻撃命中率が3%増加する}}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+//|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+注目したいのはけものミラクルのびりびり付与、とくいわざの中確率ぼんやりうっかり2ターン付与、そしてたいきスキルととくせいによる全体与ダメ強化の3点。
+
+まずけものミラクル、相手全体にLv.5で700％の均等割ダメージとびりびりを属性不問で高確率3ターン付与。
+ミラクル＋がBeatなこともあり、ダメージ倍率としては非常に高い。
+こうげき値も高くとくせい等でのダメージアップも豊富なため、単体の火力としてはかなり高水準で、フレンドリー属性のアタッカーとしてはトップクラス。
+
+びりびりはver1.10のバージョンアップでヘルプに記載された「状態異常」で、付与できるのはシヴァテリウムが初。
+詳しい説明は「[[状態異常のページ>状態異常]]」に譲るが、行動毎にくらくらの判定が入るような状態異常となる。
+なお、高確率表記だが確定付与ではない。検証によると90回中70回付与で、70～90％程度の確率と思われる。
+
+くらくらの様に必ず敵を止める事はできないが、3ターン持続で敵の行動数に対してびりびりの判定が通った分だけ行動が減るため、行動回数の多い強敵ほど足止めが期待できる。
+全体付与なのでフレンズ戦でも十分な効果が期待でき、びりびりが判定されたオーダー分手数やコーラスが減るので強力かつ厄介。
+
+また、びりびりは[[TIPS：敵の行動のキャンセル>TIPS#enemy_action_cancel]]を使った大技上書きテクニックへと応用できる。
+このテクニックは非常に強力で、その原理である行動キャンセルを発生させられるフレンズは貴重。興味があれば目を通してみよう。
+
+
+続いてとくいわざは中確率ぼんやりうっかりを属性不問で2ターン付与。
+道場や高難易度攻略で大技を撃たれたくない時に重宝される非常に強力なスキルである。ほぼ[[ケツァール]]の物と同様のため、そちらの個別説明も参照。
+[[ケツァール]]と異なるのは、こちらはセルリアンへ付与した場合に「被弾によるMP増加より前にぼんやりうっかりが付与される」という点である。
+付与した際にこちらの方が[[大技チャージ>用語集#yougo_charge_su]]1回分少なくなるため、大技を遅らせるという目的においてこちらの方が優れている。
+また、ケツァールは自身がBeatフラッグを1枚しか持っておらず、強力なとくいわざを少し活かしにくい部分があったが、その点シヴァテリウムはBeat3枚持ちで抜かりない。
+
+大技ならとくいわざのぼんやりうっかりで遅延、通常攻撃ならびりびりを使って大技で上書きと、大技でも通常攻撃でもシヴァテリウム1人で対応が可能になっている。
+むちゃ攻略においてはシヴァテリウムは非常に強力な武器になるだろう。
+
+
+最後に、たいきスキルととくせいの全体与ダメ強化について
+たいきスキルは味方全体の与ダメージ10%増加・''相手''全体の被ダメージを10%増加という効果で、実質味方全体の与ダメージ21%増加と同じ。
+とくせいでは味方全体のBeatの与ダメージ15%増加で、たいきスキルと合わせればBeatオーダーは約39.2%増加と、それだけでバフミラクル1回分に匹敵するバフ量になる。
+ちからくらべでは特に全体Beat編成において有用で、Beatフラッグ3枚構成でBeatを引ける確率を高めつつ、味方全体に15%～39%与ダメージ増加を与えることができるのがシンプルに強力。
+ただしキセキとくせいのBeat強化は勘違いしやすいがシヴァテリウムのみなので注意。ちなみにたいきスキルは[[アルパカ・スリ]]の上位互換。
+
+たいきスキルを2ターン連続で発動させて重ね掛けすれば合計約68.4%増加になる。ただし発動率は70%で2回連続発動には少し頼りない。
+
+シーサーバル道場においては自身が強力なアタッカーでありながら、同時に味方全体を大幅に強化できるという点で非常に強力。
+また、有利属性曜日以外でミラクルを使用しない出張バッファーとしても使える。
+たいきスキルの発動率が低めでActionフラッグ1枚、ぷらずむ50なのはバッファーとしてはもったいないが、前述のぼんやりうっかり付与で大技（特に2回目）を遅延させ、
+大ダメージや状態異常を未然に防ぐのに役立てるのは大きな利点。全体攻撃の大技を封じれば自身も最後まで生存しやすく、サポート専門でも出来る事は多い。
+
+総じて、ちからくらべ・高難易度・シーサーバル道場でも隊長の手腕次第でそれぞれ異なった能力を発揮して活躍する、強力かつ奥が深いフレンズといえる。
+//**スキル詳細
+//[+]
+//**けものミラクル：スキル名　※必要MP80
+// ''(最大強化時)~~効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''（野生解放1段階目達成で習得）~~効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''（フォトポケ2段階達成で習得）~~''
+//文章
+//[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+情報募集中
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）C}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）UC}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）R}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）UC}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7CHfMcCdHc.png,no_link,40){けもけも弁当（フレンドリー）C}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）UC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）R}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）R}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LRWjL9athf.png,no_link,40){けもけも弁当（フレンドリー）UC}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JseuX7YlRc.png,no_link,40){けもけも弁当（フレンドリー）R}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+//別属性フレンズの場合は内容を消して下記のコメントアウトを外す
+//[[フレンズ名]]を参照
+ ''「“シヴァの獣”って呼ばれてるんだけど……~~名前に追いついていない感じ。~~このままでいいのかな？ 誰か迷える子キリンを救って！」''
+ヒンドゥー教の最高神の一柱である破壊神シヴァを名前の由来に持つが、特別なことができる訳でもなく、名前負けしてしまっているのでは、という悩みを抱えるフレンズ。&color(#d9d9d9){持ち物の鼓の力を借りているとはいえけものミラクルで雷を呼び寄せられるのは特別なことではないのだろうか}
+また、他の[[キリン>アミメキリン]][[の仲間>オカピ]]と比べスラっとしていないことも気にしている（現生のキリンと比べ四肢が短い動物であったことにちなむ）。
+何かとコンプレックスを抱えがちで、引っ込み思案なところがある一方、自分にできる範囲で、仲間のために頑張ろうとする健気な一面も持つ。自信のなさに隠れているものの高い実力も備えており、彼女が時に振るう力はまさに「優しき破壊の力」といえよう。
+
+ＣＶ：原田彩楓（けもフレ３）
+　　　和多田美咲（NEXONアプリ版）((NEXONアプリでは「シバテリウム」名義))
+
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|タスマニアデビルとかは…~~自分の名前をどう思ってるのかな|
+|^|もっとみんなに馴染みたいのに~~ううっ…どうしたら…|
+|^|隊長？　どうしたの？|
+|^|いいなあ、アミメキリンたちは~~スラっとしていて…|
+|^|こ、こんにちは、いい天気だぬ…~~だ、だめだぁ…|
+|!固定|今日はなんだか~~ツノの調子がいい気がする|
+|^|今日はサバンナのフレンズと~~ちょっとおしゃべりできたの|
+|^|かっこいいねって言われると~~恥ずかしくなっちゃうんだよね|
+|^|私と一緒にお出かけしたい、とか？|
+|!すやすや|私…ぜんぜん普通なの…に…|
+|^|あっ…ツノが引っかかっちゃう…|
+|^|すぅ…ジャパまんがいっぱいだ…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|できるだけ、頑張るね！|
+|^|み、みんなのためなら、私…！|
+|!WAVE移行|はぁ、はぁ…いけた…！|
+|^|まだまだ、いける！|
+|!クエスト終了|良かった…ああっ、やりすぎてない…よね…？|
+|^|勝てた、けど…暴れすぎて、引かれてないかな…？|
+|!フラッグ選択|いけるよ！|
+|^|分かった！|
+|!けもコーラス|大丈夫！|
+|^|任せて！|
+|^|行こう！|
+|^|頑張る！|
+|!攻撃|[''通常攻撃'']|
+|^|とう！|
+|^|やぁ！|
+|^|ほっ！|
+|^|おりゃ！|
+|^|[''とくいわざ'']|
+|^|えーい！|
+|^|はっ！|
+|^|よいしょ！|
+|^|どうだ！|
+|!ダメージ|[''通常攻撃'']|
+|^|わっ|
+|^|ひゃっ|
+|^|[''強攻撃'']|
+|^|何するの！|
+|^|嫌っ…！|
+|^|[''ちからくらべ'']|
+|^|やられた|
+|^|強っ！？|
+|^|うわぁ！|
+|^|わぁ|
+|!どく状態|うーん…調子が出ない…|
+|^|あれ…？なんだか力が抜けて…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|みんなの力になりたいのに…|
+|^|[''ちからくらべ'']|
+|^|わぁー！これは無理だよー…|
+|^|降参だよー…|
+|^|えへへ…強いなぁ…|
+|^|すごいなぁみんな…|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|まだまだ、諦めない！|
+|^|これじゃ、終われないから！|
+|!けものミラクル　|[''等速'']~~（発動時）~~みんなの助けになれるなら…頑張る！~~（発動中）~~古の力、ここに…~~来た！さぁ、行くよ！~~|
+|^                              |[''倍速'']~~（発動時）~~みんなの助けに！~~（発動中）~~古の力…~~さぁ、行くよ！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~仲間のためなら…強くなれる！~~（発動中）~~鼓よ、私に力を貸して！~~雷撃一閃、受けてみよ！~~|
+|^                              |[''倍速'']~~（発動時）~~仲間のためなら…！~~（発動中）~~力を貸して！~~雷撃一閃、はぁっ！~~|
+|!けものミラクル後|はぁ、やっちゃった|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+　失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**オカピ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png){皆を守るためなら}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,right){うぉ、楽しもう！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png){オカピ、いる？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,right){ここにいるよ！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png){やりすぎちゃったかな？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,right){派手で良かったよ！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Z6QkBJJim2.png){オカピ…ごめんね…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,right){ちょっと、なんてことするの！}|
+|}
+[[%%%オカピ　セリフ集%%%>オカピ#serifu]]
+//実装がない場合は下記のコメントアウトを外す
+//現在、掛け合いのあるフレンズはいないようダネ。
+//別属性フレンズの場合は内容を消して下記のコメントアウトを外す
+//通常の[[フレンズ名]]と同じなのデ、そちらを参照してネ。
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|私はシヴァテリウム~~名前は「シヴァの獣」って意味だけど…~~そんなにすごくないの、普通だよ|
+|!ログインボーナス|隊長、これ、受け取って|
+|^|明日も渡したいの~~来てくれる…よね？|
+|!なかよしレベルアップ|隊長、いつもありがとう…~~私と、その、普通に接してくれて…|
+|!レベルアップ|少しは強くなれたの…かな|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|ちょっとはシヴァに近づけた…かも|
+|!けも級アップ|ありがとう！隊長と一緒なら、何でもできちゃう気がするね|
+|!ミラクルレベルアップ|なんだか、不思議な感覚…力が湧き上がってくる！|
+|!フォトポケット開放|思い出、大切にしてるんだ　ずっとね|
+|!着替え|似合ってる？変じゃない？|
+|^|普段しない格好だから、緊張する…かも|
+|^|少しはスラっとして見えるかな|
+|^|一番最初に見る相手が、隊長で良かったなぁ|
+|!ふれあい|私に頼み事かな？それなら嬉しいな|
+|^|隊長！来てくれたんだ！|
+|^|今日は何しに来たの？おしゃべり？お散歩？|
+|^|「我に何用か？」なんちゃって！冗談だよ、言ってみただけ|
+|!ふれあい~~(うれしい！)|わぁ…！|
+|!ふれあい~~(たのしい！)|うん|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|えへっ、ちょっとくすぐったいかも|
+|^|耳、かわいい…？ありがとう…|
+|^|んーっ、気持ちいい…♪|
+|!アシスタント選択|わ、私にもできるかな…あまり期待しないでね…？|
+|!ツリーハウス~~(はて)|あれぇ？|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)|ふぁ～… |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^|んん～… おぉっとと！ |
+|^|そろそろ、おでかけしない？ |
+|^|''[すやすや]''|
+|^|ふぅ… ふぅ…|
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V_WX4Xn_qP.png,70)>オカピ#serifu]]|
+
+*実際の動物について
+//[[フレンズ名]]を参照
+ ''シヴァテリウムは、500万年前～１万2000年前に生息していたキリンの仲間です。~~「シヴァ」は額に第三の目を持つヒンドゥー教の破壊神＜シヴァ＞からきています。''
+文章
+*その他
+-[[シヴァテリウム(フォト)]]
+-[[シヴァテリウム　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/FZnPBXISVp.png,50%)
+
+**特別衣装
+***収穫祭衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/88d7f931f39b7d6d.jpg,50%)
+
+***イニシエヨリツタワルレトロナミズギ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/c5c74b62de4bd42c.jpg,50%)
+
+***カフェ制服＜リウキウ・イエロー＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6baf3d05ab030635.jpg,50%)
+
+***カフェ制服＜リウキウ・グリーン＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/e1efa9ccd48ce06c.jpg,50%)
+
+***カフェ制服＜リウキウ・ブルー＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rMo3IvHV_D.PNG,50%)
+
+***カフェ制服＜リウキウ・ピンク＞
+&attachref(50%)
+**アイコン一覧
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1vYz6QoT3m.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+//&video(){400,240}
+//&video(){400,240}
+

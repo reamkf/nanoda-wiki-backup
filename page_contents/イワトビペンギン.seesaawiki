@@ -1,0 +1,473 @@
+[+]目次
+#contents(2)
+[END]
+*イワトビペンギン
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2d4401df874f2d71.jpeg,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/985311f28300931c.png,50%)
+// [END]
+// [+]Lv.99
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DEkvFevuO_.jpg,50%)
+// [[けものフレンズ3 #241 &gt;&gt;64より>https://krsw.5ch.net/test/read.cgi/gamesm/1596335145/64]]
+// [END]
+// [+]Lv.90+野生大解放(未)
+// &__disabled__attachref(50%)
+// 衣装補正 たいりょく/こうげき/まもり +???/+???/+???
+// [END]
+// [+]Lv.99+野生大解放(未)
+// &__disabled__attachref(50%)
+// 衣装補正 たいりょく/こうげき/まもり +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|41989|16371|7346|3427|4.0|20|center:size(9):&color(#a6cf00){''アクティブ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/AdaA8Hw5MM.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|48917|19071|8558|3993|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|51705|20156|9046|4221|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|54026|21062|9452|4410|4.2|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|56811|22147|9939|4638|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|20/01/23、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|2枚|－|+6.0%|+7.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,15|+5.0%|+6.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|20|+5.0%|+6.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|全開！ロック魂！|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に390%のダメージを与え~~対象の属性がマイペース（水）の場合、与ダメージを10%減少させ~~被ダメージを10%増加させる（2ターン）|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Beat!!!]}|>|>|相手単体に546％のダメージを与え~~対象の属性がマイペース（水）の場合、与ダメージを15％減少させ~~被ダメージを15％増加させる（2ターン）|
+|>|>||
+|!とくいわざ|アイドルのステップ|相手単体に120％のダメージを与え~~対象がマイペース（水）属性の場合~~低確率でくたくた状態にする（1ターン）|
+|!たいきスキル|今日も絶好調！|与ダメージが15％増加し~~攻撃命中率が10％増加する（2ターン）~~発動率：50%　発動回数：3回|
+|!とくせい|アイドルスマイル・I|毎wave開始時に与ダメージが9％増加する~~（発動回数：5回）|
+|!キセキとくせい|ロックに身をゆだねて|与ダメージが10％増加し~~アクティブ（黄緑）属性の味方のすやすや耐性（高）が増加する|
+|!なないろとくせい|テンポ上げていこうぜ！|自身の与ダメージが10％増加する~~さらに自身のたいりょくが50％以下のとき~~相手全体の被ダメージを5％増加させる|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~地形がみずべの場合、毎ターンMPが2増加する~~&color(,#f3f3fe){(変化後)~~地形がみずべの場合、毎ターンMPが&color(#ff0000){3}増加する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+
+*戦闘について
+1月の大掃除イベントで追加された、アクティブ属性の限定☆4フレンズ。
+けもステータスとしてはこうげきが高め。まもりがやや低いものの、必要最低限の耐久はある。
+
+マイペース属性に対して効果を発揮するとくいわざとけものミラクルのほか、特徴的なのがとくせい。
+ターン数ではなくwave数で変動する与ダメージアップというかなり珍しいものとなっている。
+最大wave5まで発動し、その場合は単純加算で53.86%ととくせいとしては破格の上昇率。
+一般的なwave3でも29.5%と高めであり、対ボスキラーとしての性能が期待できる。
+波に乗ってテンションを上げていく、イワビーらしいロックなとくせいである。
+
+一方でwave1で固定のちからくらべやシーサーバル道場では何ターン経とうが9%止まり。
+とはいえ元々のこうげき自体高めなので不足には感じられないだろう。
+また、キセキとくせいを解放できれば他と遜色なくなる。
+**スキル詳細
+[+]
+**けものミラクル：全開！ロック魂！！~~
+ ''相手単体に546％のダメージを与え~~対象の属性がマイペース（水）の場合、与ダメージを15％減少させ~~被ダメージを15％増加させる（2ターン）~~''
+ステージ上でエレキギターをかき鳴らし、膝立ち姿勢のままスライディングを決める。
+なお、使用していたギターは技後に後方へブン投げる。ロックである。
+
+技としては単体大ダメージ系で、マイペース属性の相手にのみ
+攻撃力と防御力を低下させるデバフを付与する。
+
+相手を選ぶ効果のため汎用性は低いが、
+該当属性の相手が出現するクエストであれば高い効果が期待できる。
+
+後述する「とくせい」の効果を期待するのであれば、
+WAVEが多く、かつマイペース属性のボスが登場するシナリオで狙いたい。
+
+**とくいわざ：アイドルのステップ
+ ''相手単体に120％のダメージを与え~~対象がマイペース（水）属性の場合~~低確率でくたくた状態にする（1ターン）~~''
+大きくジャンプしてから相手を両足で踏みつけ、後方宙返りを決める。
+“イワトビ”ペンギンらしい見事な跳躍力で、ステップというよりはスタンプに近い。
+
+威力は通常攻撃の1.2倍の威力を持つ一般的なとくいわざの効果に加え、
+マイペース属性の相手にのみ、低確率でくたくた状態の付与を行う。
+
+追加効果はマイペース属性以外には効果がなく使いどころが難しいので、
+基本的には威力の高さにだけ期待しよう。
+くたくた状態の付与は、効果自体があまり有効ではない上に
+継続ターンも短いためあまり現実的ではない。
+
+**たいきスキル：今日も絶好調！
+ ''与ダメージが15％増加し~~攻撃命中率が10％増加する（2ターン）~~発動率：50%　発動回数：3回~~''
+その場で華麗なステップを決める。ヒップホップ系のものだろうか。
+
+自身の攻撃力と命中率を上昇させる、自己強化スキル。
+効果自体は割と有用で発動回数も多いので、積極的に狙うとよい。
+難点は発動率が50%と微妙なため、確実に効果が期待できるわけではない点か。
+
+**とくせい：アイドルスマイル・I
+ ''毎wave開始時に与ダメージが9％増加する~~（発動回数：5回）~~''
+Waveが進むごとに自身の攻撃力が強化されていく珍しい自己強化スキル。
+技名は、ほかのPIPメンバー同様「アイドルスマイル」の名を冠しており、
+「I」は「イワトビペンギン」のイニシャルと思われる。
+
+**キセキとくせい：ロックに身をゆだねて
+ ''与ダメージが10％増加し~~アクティブ（黄緑）属性の味方のすやすや耐性（高）が増加する~~''
+フォトポケット1枠で解放される追加とくせい。
+自身の攻撃力強化に加え、アクティブ属性の味方にすやすや耐性（高）を付与する。
+
+すやすや耐性アップ効果はパーティ内のアクティブ属性フレンズ全員に適用されるほか、
+アクティブ属性であるイワビー自身にも効果が適用される。
+**なないろとくせい：テンポ上げていこうぜ！
+ ''自身の与ダメージが10％増加する~~さらに自身のたいりょくが50％以下のとき~~相手全体の被ダメージを5％増加させる''
+自身の与ダメージ増加。さらに相手の被ダメージ増加があるが、条件にHP50%以下があるため上手く利用するには少々難しい。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fgtDQveKsF.png,no_link,40){よつばのクローバーC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/XP3yvdxueG.png,no_link,40){よつばのクローバーUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ng2fmLnCYp.png,no_link,40){黄緑色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vPtByHdUDo.png,no_link,40){黄緑色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7n6HcERD1H.png,no_link,40){黄緑色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RMmvqhIpS6.png,no_link,40){よつばのクローバーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qocRsv6ZQs.png,no_link,40){かがやくガラス玉C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EtIzccZS9R.png,no_link,40){けもけも弁当（アクティブ）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ogkWOMjaUc.png,no_link,40){かがやくガラス玉UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XOOOLzbCs.png,no_link,40){かがやくガラス玉R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/N82GVUQshJ.png,no_link,40){けもけも弁当（アクティブ）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l3j5OIM2Nq.png,no_link,40){けもけも弁当（アクティブ）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「『PPP』((3/25のPPP結成イベントに伴い『PIP』から『PPP』へと変更された))のロック娘、イワビーの参上だぜ！~~熱い気持ちは誰にも負けやしない！~~今日も完全燃焼でロックにいくぜ～！~~おいフルル、寝てる場合かー！」''
+ペンギン達による、歌って踊れるアイドルユニット「PIP」（Penguin Idol Project）のメンバー。
+ユニットでの愛称はイワビー。
+
+メインストーリー第５章で初登場となる。
+プレイアブルキャラとしては、2020年1月開催の「セルリアン大掃除イベント」開始に伴い
+マーゲイと共にダブルピックアップという形で実装された。☆４限定フレンズとなっている。
+
+ロックな魂を持ち、熱い気持ちなら誰にも負けないと豪語しており、負けん気が強い性格をしている反面、
+仲間を思いやる気持ちはPIP内でも特に強く、[[ジャイアント先輩>ジャイアントペンギン]]曰く意外とマジメっ子。
+
+アイドルグループのメンバーでありながら、一人称は「オレ」。（メディアによって一人称は異なるようである）
+得意楽器はギターで、今作ではけものミラクル発動時に、エレキギターでその腕を見せてくれる。
+但し、楽器に愛着心は持っていないようで、ミラクル終了時にはギターをぞんざいに投げ捨てている。
+これも彼女のロックな魂の表現だろうか？
+
+ＣＶ：相羽あいな（けもフレ３・アニメ１期・２期)
+　　　後藤友香里（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|よし、今日も練習練習っとぉ！|
+|^|「なんだかせつないわ」…って~~この詩の意味わかんねーよ！|
+|^|隊長じゃんか！　ちょうどよかった！~~ダンスの練習につきあってくんねーか？|
+|^|ここにはロックな奴らがたくさんいるなー…~~くぅーっ！負けてらんねーぜ！|
+|^|次のライブ会場どこだろうなぁ　海の近く？~~それとも山の上？考えるだけでテンション上がるー|
+|!固定|今日のオレもロックに決まってるな♪|
+|^|この調子なら、ライブも最高に盛り上がるぜ！|
+|^|よっ！~~次のライブも、楽しみにしてくれよな！|
+|^|ふんふーん♪ふんふふんふふーん♪|
+|!すやすや|むにゃ…ライブ…さいこー…|
+|^|すぅ…あついぜ…ろぉっく…|
+|^|いええぇーいッ！！~~みんなでロックにゅむ…むにゃむにゃ…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|ショータイムだ！いっくぜー！|
+|^|オレのロックを、見せてやるぜ！|
+|!WAVE移行|ふぅーっ！絶好調だぜ！|
+|^|うんうん、まだまだ余裕だな|
+|!クエスト終了|どうよ！これがアイドルだ！|
+|^|いえーい！ロックンロール！|
+|!フラッグ選択|よしきた！|
+|^|まかせろーい！|
+|!けもコーラス|準備はいいか？|
+|^|よーし、オレについてこい！|
+|^|息を合わせて行くぞっ！|
+|^|一緒に盛り上がろうぜ！|
+|!攻撃|[''通常攻撃'']|
+|^|オラァ！|
+|^|ハァ！|
+|^|ふっ！|
+|^|くらぇーっ！|
+|^|[''とくいわざ'']|
+|^|本気でいくぜ！|
+|^|覚悟はいいか？|
+|^|強めにいくぜ？|
+|^|ぶっとびなっ！|
+|!ダメージ|[''通常攻撃'']|
+|^|うわっ|
+|^|なにっ！|
+|^|[''強攻撃'']|
+|^|いってーな！|
+|^|あだっ|
+|^|[''ちからくらべ'']|
+|^|わっ！|
+|^|マジか！|
+|^|マジかよ…|
+|^|やるじゃねえか|
+|!どく状態|こんな事…全然たいしたことねーし|
+|^|うぇ～目が回る…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|今日は…これくらいに…しといてやる、ぜ…|
+|^|[''ちからくらべ'']|
+|^|おまえ…超ロックだな！|
+|^|次は…負けねえからな！|
+|^|おまえ…強いなー！まいったまいった！|
+|^|くっそー　降参だ！|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|台詞|
+|!復帰|寝てる場合じゃねー！|
+|^|ここからが本番だぜ！|
+|!けものミラクル　|[''等速'']~~（発動時）~~よっしゃー　ノッてきたー！~~（発動中）~~いっくぜお前らー！~~オレのロックをきけー！~~|
+|^                              |[''倍速'']~~（発動時）~~ノッていくぞー！~~（発動中）~~オレのロックをきけー！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~おおーっ！　燃えてきたー！~~（発動中）~~聴かせてやるぜー！~~最高のー！ロックをなー！~~|
+|^                              |[''倍速'']~~（発動時）~~ノッてきたー！~~（発動中）~~オレのロックをきけー！~~|
+|!けものミラクル後|いえーい！|
+|}
+[END]
+[+]掛け合い
+**フンボルトペンギン
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){行くぜフルル！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,right){うん！　どこ行く～？}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){まだまだ行くぜー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,right){どこに行くの～？}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){最高にロックだったぜ！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,right){ホントだ～！この石かわいい～！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){ロックじゃねーなぁ…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,right){違うの～？}|
+|}
+[[%%%フンボルトペンギン　セリフ集%%%>フンボルトペンギン#serifu]]
+**コウテイペンギン
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){コウテイ！いっくぜー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JqKT9GEC_N.png,right){ああ、行こう！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){まだまだ行くぜぇー！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JqKT9GEC_N.png,right){そうだな、まだまだ！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){これがオレたちの！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JqKT9GEC_N.png,right){ロックンロールだ！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){ご、ごめん…コウテイ…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JqKT9GEC_N.png,right){大丈夫…後は任せて！}|
+|}
+[[%%%コウテイペンギン　セリフ集%%%>コウテイペンギン#serifu]]
+**ジェンツーペンギン
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){ジェーン！　準備はいいか！？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_ndm4quDSA.png,right){いつでも大丈夫です！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){まだまだ行くぜぇー！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_ndm4quDSA.png,right){まだまだ行きます！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){これがオレたちの！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_ndm4quDSA.png,right){ロックンロールです！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){やられちまった…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_ndm4quDSA.png,right){イワビーさん！？}|
+|}
+[[%%%ジェンツーペンギン　セリフ集%%%>ジェンツーペンギン#serifu]]
+**ジャイアントペンギン
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){ジャイアント先輩！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/btAgN1Eu5f.png,right){おーう！ロックに行こうぜーい！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){俺のロック…見せてやる！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/btAgN1Eu5f.png,right){楽しみにしてるぜい！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){これが俺の…ロックだ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/btAgN1Eu5f.png,right){あいつも成長したねぇ…ロックンロール！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){じゃ…ジャイアント先輩…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/btAgN1Eu5f.png,right){よしよし、頑張った頑張った}|
+|}
+[[%%%ジャイアントペンギン　セリフ集%%%>ジャイアントペンギン#serifu]]
+**ロイヤルペンギン
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){いくぜプリンセスー！ついてきな！！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/j500HPIQEM.png,right){は…はい！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){ついてこれてるかー！？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/j500HPIQEM.png,right){イエーイ…！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){最高にロックだったぜー！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/j500HPIQEM.png,right){はい！ロック…でした！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m5YUMZjuwn.png){悪い…やっちまったぁ…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/j500HPIQEM.png,right){イワビーさん！？}|
+|}
+[[%%%ロイヤルペンギン　セリフ集%%%>ロイヤルペンギン#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|イワトビペンギンの、イワビーだ！~~熱い気持ちなら誰にも負けねー！~~よろしくな！|
+|!ログインボーナス|頑張ってる隊長に、~~ロックなプレゼントだぜ！~~オレの魂、受け取ってくれよな！|
+|^|明日の分も用意してるからな！~~必ず来いよ～|
+|!なかよしレベルアップ|隊長って、かなりロックって感じだよな！~~最高だぜ、へへっ！|
+|!レベルアップ|ますますロックになっちまうな|
+|!野生解放|見せてやるぜ…最高のロックを！|
+|!けも級アップ|俺たちなら、まだまだ上に行けるはずだぜ　そうだろう、隊長！|
+|!ミラクルレベルアップ|もっともっと熱いパフォーマンス見せてやるぜ！|
+|!フォトポケット開放|いいねいいね！熱い思い出、たくさん残していこうぜ！|
+|!着替え|この衣装いいなぁ･･･気に入ったぜ！|
+|^|似合ってるか？へへへ…ありがとな|
+|^|新しい衣装って、テンション上がるよな～|
+|^|こういうのも悪くないなぁ…次のライブで着てみるか|
+|!ふれあい|よっ！待ってたぜ、隊長！|
+|^|握手？　へへっ、別に構わないぜ|
+|^|アイドルってのも、結構大変なんだぜ　ま、それが楽しいんだけどな|
+|^|隊長、ちょうどよかった~~次のライブのことで相談があってさー　つきあってくれよ～|
+|!ふれあい~~(撫でる)|おいおい、いいのか？オレはアイドルなんだぜ？~~えっへっへー、冗談冗談　もっと撫でてくれよ　ほら|
+|^|あっはははははは！あははそこはダメだぞそこは！~~っふふふくすぐったいっ！あはははははは！|
+|^|はあ～･･･そこそこ~~最近練習のしすぎで疲れちゃってさ　助かるぜー　はあ～…|
+|!アシスタント選択|へっへー、任せてくれよ　何でもロックに決めてやるぜ！|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,70)>フンボルトペンギン#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JqKT9GEC_N.png,70)>コウテイペンギン#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_ndm4quDSA.png,70)>ジェンツーペンギン#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/btAgN1Eu5f.png,70)>ジャイアントペンギン#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j500HPIQEM.png,70)>ロイヤルペンギン#serifu]]|
+
+*実際の動物について
+ ''和名も英名も、ピョンピョン飛び跳ねて移動する姿に由来します。~~体は小さいですが、ペンギンの中でも特にアクティブで、警戒心が強く攻撃的な性格です。''
+イワトビペンギンは　鳥綱 ペンギン目　ペンギン科　マカロニペンギン属に属する3種の総称である。
+学名：Eudyptes chrysocome
+英名：Rockhopper Penguin
+和名：イワトビペンギン
+別名：カンムリペンギン
+
+体長：45cm～60cm
+体重：2kg～4kg
+寿命：10年～20年
+食性：オキアミ等の小甲殻類、小魚、イカ
+
+キタイワトビペンギン
+学名：Eudyptes chrysocome moseleyi
+英名：Northern Rockhopper Penguin
+分布：南大西洋中部、南インド洋海域
+
+ミナミイワトビペンギン
+学名：Eudyptes chrysocome chrysocome
+英名：Southern Rockhopper Penguin
+分布：フォークランド諸島からアルゼンチン、チリにわたる海域
+
+ヒガシイワトビペンギン
+学名：Eudyptes chrysocome filholi
+英名：Eastern Rockhopper Penguin
+分布：プリンスエドワード諸島、ケルゲレン島、アンティポーズ諸島
+
+マカロニペンギン属のうち、キタイワトビペンギン、ミナミイワトビペンギン、ヒガシイワトビペンギンの
+３亜種を総称してイワトビペンギンと呼んでいる。
+しかし、現在はDNAを用いた系統解析により、３種のうちキタイワトビペンギンが他２種と独立した種とする
+考えが強くなってきている。
+
+イワトビペンギン３種は、マカロニペンギン属の中で最も小型種となるペンギンである。
+ペンギン種の中で最小種であるコガタペンギンと比べても、わずかに大きい程度の差となる。
+
+ペンギンの陸上での移動方法は、通常歩いたり、身体を滑らせたりして移動するが、イワトビペンギンは飛び跳ねて
+移動するのが特徴となっており、岩場を飛び跳ねるその様が和名の元となった。
+
+イワトビペンギンとして共通の形態的特徴は、冠羽があるペンギンの中で唯一、羽毛が逆立っていることである。
+背側と尾は暗青灰色をしており、喉から下、腹側の羽毛は白色でる。
+脚はピンク色をしており、その裏は黒くなっている。クチバシは硬く、くすんだ橙赤色となっている。
+
+性格は、小型でありながらも、ペンギンの中でも特に攻撃的であり、同種間だけでなく、コロニーに近づく者があれば
+興奮状態になり、換羽を逆立て、頬の羽毛を膨らませて攻撃をしかける。
+
+３種の形態的特徴であるが、キタイワトビペンギンは 特に長い冠羽を持つのが特徴で、9cmにもなる。
+ミナミイワトビペンギンは他種と比べ、クチバシの付け根の黒い皮膚面積が広くなっている。
+ヒガシイワトビペンギンは、クチバシの付け根の皮膚がピンク色に縁どられており、他種より太ったような形状となる。
+
+生活の場は岩場となり、急斜面でも巨大なコロニーを形成する。巣は、小石やタソックグラス、土を集めて作られる。
+繁殖期は生息する島々によって大きく異なりをみせるが、およそ９～１２月が産卵期となる。
+この頃に雌は１度に２～３個の産卵を行う。
+通常、第１卵は抱卵中に死ぬか、争いの中で損傷し、育てられることはない。第２卵が最初に孵化することが一般的である。
+抱卵期間は３２日～３４日間であり、雄と雌が交代で行う。抱卵中は片方が戻るまで最大３３日～３９日の間絶食となる。
+
+ヒナが孵化した後、雄雌とも２～６日の間巣に残りヒナを見守るが、雌はその後度々採餌に出かけるが、雄は絶食状態のまま
+約１８日間ヒナを抱き続ける。この期間を警護期と呼ぶが、期間は２０～２６日間にも及ぶ。
+親鳥が抱けない程ヒナが育ち、警護期が終わるとヒナは共同保育所「クレイシ」を形成しはじめ、しばらくしてから雄はようやく
+平均３６日ぶりに採餌に出かける。クレイシ期のヒナへの給餌は主に雌親が行う。
+そして１２月中頃～２月下旬にかけて、ヒナ達は巣立っていく。
+
+［日本での飼育施設］
+・サンピアザ水族館（北海道）　　・旭山動物園　　　　　（北海道）　　・登別マリンパークニクス　　（北海道）
+・浅虫水族館　　　（青森県）　　・男鹿水族館ＧＡＯ　　（秋田県）　　・新潟市水族館ﾏﾘﾝﾋﾞｱ日本海　（新潟県）
+・ﾏﾘﾝﾋﾞｱ松島水族館（宮城県）　　・アクアパーク品川　　（東京都）　　・横浜・八景島シーパラダイス（神奈川県）
+・油壺マリンパーク（神奈川県）　・新江ノ島水族館　　　（神奈川県）　・鴨川シーワールド　　　　　（千葉県）
+・越前松島水族館　（福井県）　　・豊橋総合動植物公園　（愛知県）　　・伊豆・三津シーパラダイス　（静岡県）
+・志摩マリンランド（三重県）　　・二見シーパラダイス　（三重県）　　・二見シーパラダイス　　　　（三重県）
+・海遊館　　　　　（大阪府）　　・立川しものせき水族館（山口県）　　・長崎ペンギン水族館　　　　（長崎県）
+
+*その他
+-[[イワトビペンギン(フォト)]]
+-[[イワトビペンギン　フレンズストーリー]]
+**星6衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/09958cf3e105f544.jpeg,50%)
+-フレンズの中では珍しい、スカジャンやゴツめの厚底ブーツを使ったコーディネートが特徴。~~配色についてもイワビーのパーソナルカラーである「黒」「白」「赤」「黄」が随所に盛り込まれている。
+-一見するとボーイッシュな印象だが、ミニスカートやハートのワンポイント付きの網タイツなどガーリーな面も充実。~~イワビーらしい「ロック」と「可愛さ」を両立したファッションであるといえる。
+**特別衣装
+***PPPパーカー
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/262e61b1d4ba9413.png,50%)
+
+***カフェ制服＜リウキウ・イエロー＞
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3a858fc900cdf9d0.jpeg,50%)
+
+***カフェ制服＜リウキウ・グリーン＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fadb47e8f65ff274.jpg,50%)
+
+***カフェ制服＜リウキウ・ブルー＞
+&attachref(50%)
+
+***カフェ制服＜リウキウ・ピンク＞
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fee59385da08300d.png,50%)
+
+***フリフリフリルPPPのビキニ
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/248c70f2a07f01eb.jpg,50%)
+
+***パーティドレス
+[+]&color(#ff0000){''ネタバレ注意''}
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/K433SAlbby.png,50%)
+[[http://krsw.5ch.net/test/read.cgi/gamesm/1613055017/132]]より
+[END]
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ab6fc74c865e1e48.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/m9gnDKRn83.webm){400,240}
+&video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/iXZBDPhAPx.webm){400,240}

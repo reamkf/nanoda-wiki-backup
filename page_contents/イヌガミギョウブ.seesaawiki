@@ -1,0 +1,309 @@
+[+]目次
+#contents(2)
+[END]
+*イヌガミギョウブ
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/i85VzKXyTb.png,50%)
+// [+]けも級最大(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// [+]LV.99(未)
+// &__disabled__attachref(50%)
+// 衣装ボーナス +???/+???/+???
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|45185|18113|7642|3884|1.0|30|center:size(9):&color(#88abda){''マイペース''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|52630|21101|8903|4520|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|55627|22301|9410|4778|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|8||!bgcolor(#dcdcdc):野生大解放|なし||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|21/09/10、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+5.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,20|+5.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|2枚|40,20|+6.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|八百八狸大徳利|必要MP80|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手単体に100%×4のダメージを与え、~~被ダメージを10%増加させる(1ターン)|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Try!!]|>|相手単体に140%×4のダメージを与え~~被ダメージを15%増加させる(1ターン)|
+|>|>||
+|!とくいわざ|十八番化かし術|相手単体に120%のダメージを与える~~対象の属性がラブリー(桃)の場合、高確率でルンルンきぶん状態を解除し~~中確率でくたくた状態にする（1ターン）|
+|!たいきスキル|呑んで呑まれて|与ダメージが5%増加し~~高確率でルンルンきぶん、どく状態になる(5ターン)~~発動率：50%　発動回数：3回|
+|!とくせい|釣りは楽しいねえ|どく状態のとき、~~ターン開始時にたいりょくが12%回復し、与ダメージとかいひが15%増加する|
+|!キセキとくせい|これでもタヌキの長なんよ|マイペース(水)属性の味方の与ダメージが15%増加する~~さらにたいりょくが50%以下になったとき自身のMPが20増加する~~（発動回数：1回）|
+|!なないろとくせい|城を守りし刑部|自身がどく状態のとき、与ダメージが20％増加する~~さらに自身のたいりょくが30％以下になったとき~~自身のたいりょくを30％回復する~~(発動回数：1回)|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~どく状態のとき与ダメージが8%増加する~~&color(,#f3f3fe){（変化後）~~どく状態のとき与ダメージが&color(red){10%}増加する}|
+
+//|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
+*戦闘について
+昔、愛媛の松山藩で城主より「刑部」の位階を拝領し守護にあたっていた808の化け狸を従える頭領の大妖怪、隠神刑部のフレンズ。
+人当たりは良いのに酒癖が悪いのはたいきスキルにも表れているが、全体強化や後続のダメージを上げるミラクルと味方を立てる技が揃う。
+けもステはバランス型、フラッグはActionが20/20と大Tryを持つが、Beat1枚に小Tryがあったりと一長一短。ぷらずむも30と平均的。
+
+まずはBeatのとくいわざから。120％ダメージと有利属性相手にはルンルンきぶんを解除し、更に中確率でくたくたも与える。
+字面だと酒飲みのウザ絡みに見えるが、道場デバフを無効化するルンルンきぶんは対策出来ない場合スコアに大きく影響するため、価値は高い。
+中確率のくたくたは付与できればラッキーだが、単純な大技遅延での時間稼ぎから道場での大技ターン調整と狙えるリターンは多い。
+
+全フレンズで見てもトップクラスにユニークなのがたいきスキル。
+自身の与ダメージ+5％に加えてルンルンきぶんと毒状態を自身に5ターン付与する。完全に酔っ払いのそれ。
+合わせてとくせいでは自身が毒状態の時に与ダメージと回避が+15%され、毎ターン12％回復を獲得する（差し引き毎ターン2％回復）。
+要は「酒を飲んで毒になってからが本領発揮」であり、毒状態でたいきスキルを重ねて使うと毒の効果ターンもしっかり伸びる。
+たいきスキルを使う毎に与ダメージ+5％も全て適用されるため、ミラクル前のセットアップではガンガン追い酒しよう。
+なお[[パラケラテリウム]]や[[ヤク]]など味方に毒耐性を持たせるフレンズと組むと酒がノンアルコールにされる為とくせいが無意味になる。
+ルンルンきぶんにはなるのでプラシーボか騙されているのかもしれない。
+
+キセキとくせいではHP50％でのMP増加と、マイペース属性の味方全員がパッシブで与ダメージ+15％を獲得する。
+ダメージ倍率では[[シーサー・ライト]]より高く、アタッカーでありながらサポート組に迫るバックアップはさすが頭領らしい。
+代わりにけものミラクルはLv5でMP80の単体560％ダメージ・1ターン被ダメージ+15％デバフと本人の爆発力は控えめで後続が重要。
+道場では1番目により爆発力に優れたアタッカーを立て、自身は2番目に位置するアタッカーが「刑部」らしい立ち位置だろうか。
+
+
+//**スキル詳細
+//[+]
+//**けものミラクル：スキル名　※必要MP80
+// ''(最大強化時)~~効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''（野生解放1段階目達成で習得）~~効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''（フォトポケ2段階達成で習得）~~''
+//文章
+//[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×14|必要ゴールド~~2,400|
+
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/l6Pgg7OxG2.png,no_link,40){おいしそうなタネC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ryMh99lViy.png,no_link,40){あまーいベリーC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/EdXXZmh60u.png,no_link,40){まっかなサンゴC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVvcVIFZU5.png,no_link,40){おいしそうなタネUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YoItpg7lXN.png,no_link,40){水色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MVICHMU9BY.png,no_link,40){あまーいベリーUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/OtK87U2XF5.png,no_link,40){まっかなサンゴUC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ucyS6r5Xh4.png,no_link,40){水色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yr47IzBzZy.png,no_link,40){水色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Slfh4jCNw3.png,no_link,40){おいしそうなタネR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/A8QGggbtsV.png,no_link,40){あまーいベリーR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aAOZ5eOtcC.png,no_link,40){まっかなサンゴR}×4|
+
+
+[END]
+**ミラクル強化
+情報募集中
+*キャラクターについて
+//別属性フレンズの場合は内容を消して下記のコメントアウトを外す
+//[[フレンズ名]]を参照
+ ''「わたしはイヌガミギョウブ。~~808のタヌキを束ねた総帥だよん。~~えっ、全然そう見えないって？ まいったねえコリャ！~~ま、話があんなら酒でも酌みかわそうや。~~ちびっとでいいから、ねぇ？…なんだー、持ってないのんかー。~~まあここであったのも運の尽…もとい何かの縁、~~困ったことがあったら相談してねん」''
+文章
+
+ＣＶ：上杉夏穂（けもフレ３）
+　　　國府田マリ子(NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|うい～～ひっく…ひっく~~しゃっくりってどうやって止めるんだっけ|
+|^|ここも言ってみれば城みたいなもんだよねん~~そんなら、守ってやらないといけんね|
+|^|キュウビキツネは妙に気を張りすぎなんよ~~そこがいいところでもあるけんどねん|
+|^|んー？　酒盛りかい？|
+|^|ガイドってやつは大変だよねぇ~~えらいもんだよ|
+|!固定|　|
+|^|　|
+|^|　|
+|^|　|
+|!すやすや|　|
+|^|　|
+|^|　|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|　|
+|^|　|
+|!WAVE移行|　|
+|^|　|
+|!クエスト終了|　|
+|^|　|
+|!フラッグ選択|任せなよ|
+|^|やるけんね|
+|!けもコーラス|　|
+|^|　|
+|^|　|
+|^|　|
+|!攻撃|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''とくいわざ'']|
+|^|こんなもんだ|
+|^|　|
+|^|　|
+|^|　|
+|!ダメージ|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|[''強攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!どく状態|ちぃーっと飲みすぎたかね|
+|^|　|
+|!ギブアップ|[''セルリアン戦'']|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|降参、降参|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|　|
+|^|　|
+|!けものミラクル　|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル後|　|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+　失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**キュウビキツネ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){キュウビキツネ、化かし比べじゃ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MCEKBHG25b.png,right){いいじゃない、乗ってあげるわ}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){ついてきてるかい？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MCEKBHG25b.png,right){フン、余裕だわ}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){どっちが勝ったかのぅ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MCEKBHG25b.png,right){私に決まっているわよね}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){ちょっと調子が悪いね}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MCEKBHG25b.png,right){飲みすぎなのよ、あなた}|
+|}
+[[%%%キュウビキツネ　セリフ集%%%>キュウビキツネ#serifu]]
+**ダンザブロウダヌキ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){ダンザブロウダヌキがいるなら、勝ったも同然だね}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v7VY_h8vBA.jpg,right){あなたねぇ…もう少しちゃんとしてくださらないと…}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){そろそろ楽しくなってくるね}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v7VY_h8vBA.jpg,right){油断しないでください、もぉ…}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){よーし！勝ったら酒って決まってるんよ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v7VY_h8vBA.jpg,right){程々になさってくださいね}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nntfd5yZh2.png){不覚ー！　後は任せたよん…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v7VY_h8vBA.jpg,right){軽く言ってくれますね}|
+|}
+[[%%%ダンザブロウダヌキ　セリフ集%%%>ダンザブロウダヌキ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|わたしはイヌガミギョウブ~~808の狸を束ねた総帥だよん~~ま、話があんなら酒でも…ないのんか？|
+|!ログインボーナス|　|
+|^|　|
+|!なかよしレベルアップ|隊長ともいつの間にか付き合いが増えたねぇ~~キミもまんざらでもないじゃろ？　なぁ？|
+|!レベルアップ|　|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|　|
+|!けも級アップ|　|
+|!ミラクルレベルアップ|　|
+|!フォトポケット開放|　|
+|!着替え|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(たのしい！)|　|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|　|
+|^|　|
+|^|　|
+|!アシスタント選択|　|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MCEKBHG25b.png,70)>キュウビキツネ#serifu]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/v7VY_h8vBA.jpg,70)>ダンザブロウダヌキ#serifu]]|
+*実際の動物について
+//[[フレンズ名]]を参照
+ ''隠神刑部は、日本三大狸話のひとつ『松山騒動八百八狸物語』に登場する、伊予国（現・愛媛県）に伝わる化け狸です。~~松山城主より「刑部」の称号をもらい、城を守護していました。''
+文章
+*その他
+-[[イヌガミギョウブ(フォト)]]
+-[[イヌガミギョウブ　フレンズストーリー]]
+
+**星6衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/aHdBMmhgIV.png,50%)
+**特別衣装
+***織姫衣装
+&attachref(50%)
+
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3UCDsDlbV9.png,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+//&video(){400,240}
+//&video(){400,240}

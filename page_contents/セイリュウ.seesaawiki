@@ -1,0 +1,370 @@
+[+]目次
+#contents(2)
+[END]
+*セイリュウ
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Xs80kdQFDd.PNG,50%)
+// [+]けも級最大
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ENMeXrwdKf.jpg,50%)
+// 衣装ボーナス +200/100/50
+// https://krsw.5ch.net/test/read.cgi/gamesm/1637136861/201より
+// [END]
+// [+]LV99
+// &ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dSQ3zuvs42.jpg,50%)
+// 衣装ボーナス +200/100/50
+// https://krsw.5ch.net/test/read.cgi/gamesm/1637136861/201より
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|46774|17951|7773|4547|1.0|50|center:size(9):&color(#88abda){''マイペース''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|54479|20911|9056|5291|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|57583|22101|9572|5593|^|^|^|
+// //|r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|||||0.0|^|^|
+// //|r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|||||^|^|^|
+//
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|21/11/18、限定|
+//
+// ||center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|2枚|－|+5.0%|－|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|2枚|20,20|+6.0%|－|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|40|+5.0%|－|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|青き龍の救済の一手・極|必要MP110|
+|!bgcolor(#e6e6e6):center:Lv.1|>|相手全体に164%×3のダメージを対象の数で均等割で与え~~高確率でひやひや状態にする。さらに対象の属性が~~ラブリー（桃）属性の場合被ダメージを10%増加させる（2ターン）|
+|!bgcolor(#e6e6e6):center:Lv.5~~+[Action!]|>|相手全体に229%×3のダメージを対象の数で均等割で与え~~高確率でひやひや状態にする。さらに対象の属性が~~ラブリー（桃）属性の場合被ダメージを15%増加させる（2ターン）|
+|>|>||
+|!とくいわざ|清き水の奔流|相手単体に24%×5のダメージを与え、自身のMPを5増加する~~さらに相手が3人以上のとき追加でMPを10増加する|
+|!たいきスキル|静かなる呼吸|たいりょくが20%回復し、MPが20増加する~~さらに与ダメージが15%増加する(2ターン)~~発動率：100%　発動回数：1回|
+|!とくせい|東方の守護者|与ダメージが10%増加し、ためこみ上手になる~~さらにたいりょくが40%以下になったとき40%回復する~~（発動回数：1回）|
+|!キセキとくせい|四神獣の救済者|状態異常にならない~~さらに自身を除くマイペース（水）属性~~しょんぼりきぶん耐性（高）が増加する|
+|!なないろとくせい|静かに流れる水の如し|自身がギブアップ状態でないとき~~自身を除く味方全体の与ダメージが4%増加し~~被ダメージが4%減少し、毎ターンたいりょくが4%回復する|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~毎ターンMPが3増加する~~&color(,#f3f3fe){（変化後）~~毎ターンMPが&color(#ff0000){4}増加する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+*戦闘について
+11月の隊長の休日イベントで実装されたマイペース属性の限定フレンズ。
+流石四神最後の1人と言うべきか、実装時点ではけもステ合計トップ。
+攻撃と守りが高く、ぷらずむ値も高めなアタッカーとなっている。
+
+けものミラクルは扱いやすい均等割攻撃。
+ただし倍率自体は687%とMP110の割にやや控えめ。[[ゲンブ]]と同じくらい。
+同じくMP110の均等割ミラクルを持つ[[ウィッチ]]はひやひや効果がない代わりに742%で、被ダメージ増加に属性制限もない。
+またアタッカーとしては珍しくキセキとくせいで火力が上がらないので、意外と素の火力は低め。
+ウィッチが強すぎなだけで普通のMP80～100ミラクルと比較すると相当強いが。
+
+…ただしその代わりこちらはためこみ上手を持っている。
+MPを220も溜めないといけないので大変だが、その分瞬間火力は絶大。
+道場などで2連打したい場合は[[ケツァール]]や[[ヤク]]に[[ホッキョクオオカミ]]、他属性では[[アードウルフ]]や[[緑ハクトウワシ>【みんなでジャスティス】ハクトウワシ]]でMPケアをしたい。
+火力は犠牲になるが、ワイルドフォトにMPリジェネ+4が付くため使用する場合は長期戦と道場のMP事故に強くなる。
+
+ひやひや付与があるので[[セーバル]]や[[トムソンガゼル]]と[[ホッキョクオオカミ]]、コイちゃんこと[[人面魚]]と組める。
+逆に組まないとひやひやの効果でダメージが少し減ってしまう（対ラブリーなら被ダメージ増加効果が上回るが）。
+ちからくらべ・とくべつくんれんではひやひやでミラクルと待機を封じられるものの、[[火の鳥]]など全体耐性持ちが多い。
+…が均等割ミラクルを撃てた時点でほぼ試合が決まるため、あまり問題は無い。カウンターミラクルの線が残るのは注意。
+
+また耐久に目を向けるとたいきスキルで20%回復、とくせいで40%回復、キセキとくせいで状態異常無効とかなりしぶとい。
+&color(#bfbfbf){簡単にはわからせられないということか…}
+タンクにするには少々勿体ないが、事故死しづらくHP条件のあるフォトの効果を失いにくいのは単純にメリット。
+状態異常無効のありがたさは言うまでもない。
+
+攻守に優れており、四神にふさわしい規格外の能力を備えた東方の守護者。
+彼女が直接力を貸すのは稀。招待できた隊長はその期待に応えられるよう尽力したいところ。
+//**スキル詳細
+//[+]
+//**けものミラクル：スキル名　※必要MP80
+// ''(最大強化時)~~効果~~''
+//文章
+//**とくいわざ：スキル名
+// ''効果~~''
+//文章
+//**たいきスキル：スキル名
+// ''効果~~''
+//文章
+//**とくせい：スキル名
+// ''（野生解放1段階目達成で習得）~~効果~~''
+//文章
+//**キセキとくせい：スキル名
+// ''（フォトポケ2段階達成で習得）~~''
+//文章
+//[END]
+//不明の場合この欄は後付けでかまいません
+//↓のスプレッドシートから作成できます。
+//　https://docs.google.com/spreadsheets/d/1bTVnb4PQAWuZywMmYqmIqdyPixO5dfpXjm1_5L2S-2M/edit?usp=sharing
+**野生解放
+情報募集中
+**ミラクル強化
+情報募集中
+
+*キャラクターについて
+ ''「私はジャパリパークの東方を守護する、四神獣のセイリュウ。~~清き力と誇りの尾で、一切を救済することが私の務め。~~さりとて、自分で何とかなせることは、己の力で切り抜けなさい。~~軟弱者を救済するほど甘くはないのです。厳しいですか？~~しかし、それがジャパリパークの掟。星の掟なのです。~~いずれあなたにもわかる刻がくるでしょう」''
+ジャパリパークの東方を守護る四神の1人。
+青龍の名のとおり全身とにかく青基調、ツインテールの髪に猫科フレンズと似た学生服のような衣装を着ている。
+また水を自在に操ることができ、嵐を起こすことすら可能と、他の守護けもの同様とてつもない力を持つ。
+今作での化身は鯉のぼりモチーフ。
+
+性格は厳しく、基本的に力を貸すようなことはしない。
+探検隊が散々苦戦している巨大セルリアンのことを「ただ図体が大きくて記憶を奪うことしかできない」とバッサリ切り捨てる。
+しかしそれは「自分でできることは自分の力で解決することがフレンズのためになる」という彼女の考えがあり、決して意地悪をしているわけではない。
+（加えて、この時は別件で身動きが取れなかったということも関係している）
+それなりの力を示せば協力することを惜しまず、相談や助言に関してはむしろ進んで行うこともある。
+&color(#bfbfbf){まぁ「面倒くさいから」というのもあるのだが}
+
+初登場はメインストーリー9章（8章でも名前だけ登場）。
+目の前で[[ドール]]を失って絶望していたカレンダと偶然同じ洞窟に居合わせる。
+この際カレンダに対し上記のようなかなり厳しい態度を取っていた。
+
+2021年8月のシナリオイベント『アツく闘え！納涼夏祭り』でも登場。
+[[コイちゃん>人面魚]]に夏祭りの手伝いを頼まれたが、ちからくらべで力を示すことを条件にしていた。
+コイちゃんとは以前から知り合いでちょくちょく遊んでいるらしい。
+また同5月の『手をのばせ！空飛ぶ魚へネコパンチ』では空飛ぶ魚＝鯉のぼりに合わせてか
+デイリークエストにこっそり化身を出してくれるなどお茶目なところもある。
+
+四神実装イベントである隊長の休日イベントでは、最初に[[ビャッコ]]の相手役として登場。
+が、実装順としては[[ゲンブ]]→[[スザク]]→セイリュウと最後になり
+その間も[[ヤタガラス]]、[[キュウビキツネ]]&[[イヌガミギョウブ]]、[[ケルベロス]]と守護けものや同格クラスの実装が相次いだ。
+
+そのため隊長たちは長期に渡ってセイリュウ貯金を貯め込み続けることになり
+（上から目線なのと諸々で）''「セイリュウをわからせる」''目的で実装を待つ隊長も散見。
+結局実装されたのは''初登場から1年と1ヶ月後''で、本当に満を持してという感じとなった。
+
+…まぁ、オコジョ（ちょこアニで出てから丸々2年後に実装）やアラスカラッコ（OPには出ていたが実装は運営開始から実に4年4ヶ月後）なんていう先輩もいるのだが。
+
+ＣＶ：大西沙織（けもフレ３）
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!通常|オオセンザンコウの鱗…とても綺麗だわ~~私の水を使ってもっと艶を出してあげたいくらい…|
+|^|…水の妖精を操っているのが私だってこと~~みんなにはバレないようにしないと|
+|^|なあに？~~話くらいなら聞いてあげますよ|
+|^|フレンズたちも、水の妖精が相手なら~~悩みを打ち明けやすいのかしら|
+|^|この間、湖の近くに来ていた子…~~何か悩みがあるみたいだったわね|
+|!固定|　|
+|^|　|
+|^|　|
+|^|　|
+|!すやすや|　|
+|^|　|
+|^|　|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始|　|
+|^|　|
+|!WAVE移行|　|
+|^|　|
+|!クエスト終了|　|
+|^|　|
+|!フラッグ選択|　|
+|^|　|
+|!けもコーラス|　|
+|^|　|
+|^|　|
+|^|　|
+|!攻撃|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''とくいわざ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!ダメージ|[''通常攻撃'']|
+|^|　|
+|^|　|
+|^|[''強攻撃'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|!どく状態|わ…私を…ここまで追い詰めるなんて、ね…|
+|^|まだ…倒れるわけにはいかないのに…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|　|
+|^|[''ちからくらべ'']|
+|^|　|
+|^|　|
+|^|　|
+|^|　|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|　|
+|!復帰|私は...何度でも立ち上がる！|
+|^|二度目はない...絶対に...！|
+|!けものミラクル　|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~　~~（発動中）~~　~~|
+|^                              |[''倍速'']~~（発動時）~~　~~（発動中）~~　~~|
+|!けものミラクル後|　|
+|!コチョコチョ※|[''コチョコチョ1'']~~　|
+|^|[''コチョコチョ2'']~~　|
+|^|[''成功時'']~~　|
+|}
+※コチョコチョ成功パターンは「コチョコチョ1 → コチョコチョ2 → 成功時セリフ」
+失敗パターンはコチョコチョ1を2回繰り返し
+[END]
+[+]掛け合い
+**真・青龍
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){私を二人も従えるなんて、やるじゃない}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,right){うふふ、罰も二人分かしらね？}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){あとどれぐらいで終わるかしら}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,right){瞬く間に決めるわ}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){二人分の力だもの、楽勝よ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,right){まあ、神だからってことで}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){後は、あなたに任せるわ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,right){自分の失態は自分でかたをつける！}|
+|}
+[[%%%真・青龍　セリフ集%%%>真・青龍#serifu]]
+**ビャッコ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){我ら四神の！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,right){使命に懸けて！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){ビャッコ！あなたの出番よ！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,right){待ってました！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){当然の結果ね}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,right){うん！当然だな！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){うそ...この...私が...！？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,right){おい！？何の冗談だよ！？}|
+|}
+[[%%%ビャッコ　セリフ集%%%>ビャッコ#serifu]]
+**ゲンブ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){行きましょう、ゲンブ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9lsoElSWoy.png,right){頼んだぞ、セイリュウ...！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){さっさと終わらせましょう？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9lsoElSWoy.png,right){そのつもりだ…！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){他愛もないわねぇ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9lsoElSWoy.png,right){うむ、我ら四神獣にかかれば...！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){こんな...はずは...}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9lsoElSWoy.png,right){ほう...次は我が相手だ...！}|
+|}
+[[%%%ゲンブ　セリフ集%%%>ゲンブ#serifu]]
+**スザク
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){手っ取り早く片付けましょう？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4jmhpZpX7V.png,right){うん！全力で行くよ！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){次、行くわよ！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4jmhpZpX7V.png,right){気合いが入ってるね、セイリュウ！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){はぁ、暑い暑い…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4jmhpZpX7V.png,right){そうかなぁ？まだまだ燃え足りないよ！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){ごめんなさい...油断した...！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4jmhpZpX7V.png,right){問題ないよ！我がいるからね！}|
+|}
+[[%%%スザク　セリフ集%%%>スザク#serifu]]
+**麒麟
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){あなたの力、楽しみだわ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,right){おぉ、お手柔らかに頼むよ}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){まったく…次から次へと…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,right){これもパークの平和のため！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){ふー、これで終わり}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,right){さすがセイリュウ！よくやった！}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F0OH8YP7eS.png){ごめんなさい…麒麟…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,right){いいんだよ、ゆっくり休んで}|
+|}
+[[%%%麒麟　セリフ集%%%>麒麟#serifu]]
+//現在、掛け合いのあるフレンズはいないようダネ。
+
+[END]
+[+]その他
+{|class="edit"
+|bgcolor(#ccc):||c
+|!加入|私はジャパリパークの東方を守護する者、~~セイリュウ　そう簡単に手は貸さないけれど~~近くで見守るくらいはしてあげるわ|
+|!ログインボーナス|あまり施しはしない主義だけど~~隊長はよく頑張ってくれているからね~~特別よ、特別|
+|^|今日のはたらきによっては~~明日も何か考えておきましょう~~…期待しているわよ|
+|!なかよしレベルアップ|みながあなたを慕う理由…~~私にも分かってきたわ|
+|!レベルアップ|　|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|　|
+|!けも級アップ|　|
+|!ミラクルレベルアップ|　|
+|!フォトポケット開放|　|
+|!着替え|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい|　|
+|^|　|
+|^|　|
+|^|　|
+|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(たのしい！)|　|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|　|
+|^|　|
+|^|　|
+|!アシスタント選択|ふむ、そうね…~~本当に困窮を極める状況になったら、救済の手を差し伸べましょう|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手リンク
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Hw4qxx4kgW.png,70)>ビャッコ#serifu]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9lsoElSWoy.png,70)>ゲンブ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4jmhpZpX7V.png,70)>スザク#serifu]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/B_r0jReY1G.jpg,70)>麒麟#serifu]]||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5P16hbkY5m.png,70)>真・青龍#serifu]]|
+*実際の動物について
+ ''東方を守護する神聖な龍が、青龍です。東側に豊かな川の流れがあるのが、よい風水とされています。四神は、国内では奈良県明日香村のキトラ古墳や高松塚古墳の壁画が有名です。''
+文章
+*その他
+-[[セイリュウ(フォト)]]
+-[[セイリュウ　フレンズストーリー]]
+
+**星6衣装
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MjeMmvpAx5.png,50%)
+**特別衣装
+***4周年記念！ハッピーラッキーTシャツ
+&attachref(50%)
+
+***パーティドレス
+[+]&color(#ff0000){''ネタバレ注意！''}
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0fb50829b5f3b2f8.png,50%)
+[END]
+**アイコン一覧
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/qitliqZqA9.PNG,50%)
+
+//添付する動画ファイルはwebmにすると5MB以内に収まるのでおすすめです
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+//&video(){400,240}
+//&video(){400,240}

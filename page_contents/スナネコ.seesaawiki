@@ -1,0 +1,419 @@
+[+]目次
+#contents(2)
+[END]
+※ファニー属性のスナネコについては[[%%%こちら%%%>【いいこと思いつきました】スナネコ]]
+*スナネコ
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/egJD57pqV8.PNG,50%)
+// [+]けも級最大
+// &__disabled__attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0cd03066e8ea6d9c.png,50%)
+// [END]
+// [+]LV99
+// &ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/Ntgc0QRGgP.png,50%)
+// [[けものフレンズ3 #241&gt;&gt;301より>>http://krsw.5ch.net/test/read.cgi/gamesm/1596335145/301]]
+// 特別衣装1個+☆6衣装+パーティドレスでたいりょく/こうげき/まもりが+500/+250/+125
+// [END]
+// |r[bgcolor(#dcdcdc)]:~|けも級|けもステ|体力|攻撃|守り|回避|ぷらずむ|属性|
+// |!bgcolor(#dcdcdc):初期|☆4|39514|15619|6912|3141|6.0|20|center:size(9):&color(#ffb3b3){''ラブリー''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,40,no_link)|
+// |r[bgcolor(#ffe663)]:!bgcolor(#dcdcdc):最大|★6|46030|18194|8052|3659|^|^|^|
+// |r[bgcolor(#ccffff)]:!bgcolor(#dcdcdc):LV99|★6|48653|19230|8511|3868|^|^|^|
+// |r[bgcolor(#ccffcc)]:!bgcolor(#dcdcdc):LV90+野生大解放|★6|?????|?????|????|????|6.2|^|^|
+// |r[bgcolor(#ffeeee)]:!bgcolor(#dcdcdc):LV99+野生大解放|★6|?????|?????|????|????|^|^|^|
+// 
+// |!bgcolor(#dcdcdc):最高フォトポケランク|12||!bgcolor(#dcdcdc):野生大解放|あり||!bgcolor(#dcdcdc):輝石交換|あり||!bgcolor(#dcdcdc):実装|19/09/24、恒常|
+// 
+// ||center:|center:|center:|center:|c
+// |r[bgcolor(#dcdcdc)]:~オーダーフラッグ|所持枚数|増加量|ダメージアップ|野生大解放時|
+// |r[bgcolor(#ffd3d3)]:!bgcolor(#ef007c):color(#ffffff):Beat!!!|1枚|－|+6.0%|+7.0%|
+// |r[bgcolor(#a3e0fd)]:!bgcolor(#3a32c3):color(#ffffff):Action!|3枚|25,20,10|+5.0%|+6.0%|
+// |r[bgcolor(#e4f163)]:!bgcolor(#009e25):color(#ffffff):Try!!|1枚|30|+5.0%|+6.0%|
+#include(フレンズ個別ページ_ステータス注意書き)
+
+|! けものミラクル|エンジェル砂遊び|必要MP80|
+|!bgcolor(#e6e6e6): &align(center){Lv.1}|>|>|相手単体に63%×6のダメージを与え~~攻撃命中率を30%減少させる（1ターン）|
+|!bgcolor(#e6e6e6): &align(center){Lv.5~~+[Beat!!!]}|>|>|相手単体に89%×6のダメージを与え~~攻撃命中率を36%減少させる（1ターン）|
+|>|>||
+|!とくいわざ|あそびましょー？|相手単体に60%×2のダメージを与える|
+|!たいきスキル|砂掘り|与ダメージが15%増加し~~被ダメージが15%減少する（2ターン）~~発動率：100%　発動回数：2回|
+|!とくせい|天使の祝福|与ダメージが7%増加する~~さらに地形がさばくの場合、~~さらに「Beat!!!」の与ダメージが15%増加する|
+|!キセキとくせい|お困りですか？|与ダメージが15%増加し~~被ダメージが15%減少する|
+|!なないろとくせい|おもてなしの気持ち|自身の与ダメージが5%増加し、かいひが5%増加する~~さらに自身がギブアップ状態でないとき~~マイペース(水)属性の相手の攻撃命中率を5%減少させ~~アクティブ(黄緑)属性の相手のかいひを5%減少させる|
+|>|>||
+|!bgcolor(#f3f3fe):動物フォト|>|(変化前)~~毎ターン味方全体のたいりょくが1％回復する~~&color(,#f3f3fe){(変化後)~~毎ターン味方全体のたいりょくが&color(#ff0000){2％}回復する}|
+
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
+
+*戦闘について
+初期からいるラブリー属性の☆4フレンズ。
+与ダメや被ダメに関わるバフを手軽に発動しやすく見た目の数値より実戦での期待度は思いのほか大きい。
+
+また現状Action!フラッグ3枚持ちは限定フレンズにこそそれなりにいるが、恒常フレンズだとスナネコだけなのでそれだけでPTに入れる価値がある。
+
+PTに入れるだけで目に見えてMPの回り方が良くなり、本人もアタッカーとして優秀。
+序盤のミラクル発動ミッションから高難度のクエストまで幅広い活躍が期待でき、
+[[ギンギツネ]]やワイルドフォトを持たせた[[ハクトウワシ]]などと組ませる事でよりパーティのMP稼ぎに貢献できる。
+
+ワイルドフォトも毎ターン味方全員2％回復とリジェネ手段に乏しい序盤にはなかなか良い効果を持っている。
+
+反対にミラクル＋やとくせいの効果を活かしたいところであるがBeatは1枚しかなく、足りない場合はbeatフラッグが2枚以上のフレンズを用いて互いの札を補いあえる。
+**スキル詳細
+[+]
+**けものミラクル：エンジェル砂遊び
+ ''相手単体に89%×6のダメージを与え攻撃命中率を36%減少させる（1ターン）~~''
+砂玉を手当たり次第に投げつける、単体攻撃系けものミラクル。
+大ダメージを与えるとともに、敵の命中率を下げるデバフ効果付き。
+命中率が下がるのは砂による目潰し効果だろうか。
+
+一般的な単体大ダメージ系ミラクルが560％ダメージで、この技の合計ダメージは534％と多少低め。
+敵の命中率を確定で大幅に下げられるので妥当なところか。
+意外にもミラクル＋がBeat!!!なので、解禁しておけば威力は他と遜色なくなる。
+
+また、スナネコ自身のAction!!フラッグ3枚積みというフラッグ構成もあり、
+発動は比較的容易であることもうれしい。
+**とくいわざ：あそびましょー？
+ ''相手単体に60%×2のダメージを与える~~''
+豪快に地面の砂を浴びせて攻撃。キレイにしましょうね～
+合計ダメージは120％で、一般的な得意技と同値となる。
+
+この技自体はスタンダードな性能だが、
+スナネコは自身の攻撃力を上げるスキルを豊富に持っており
+中でも地形がさばくのときに「Beat!!!」の与ダメージが15%増加する特性を
+持っているため、状況によっては驚異的な破壊力を発揮することも。
+**たいきスキル：砂掘り
+ ''与ダメージが15%増加し被ダメージが15%減少する（2ターン）~~発動率：100%　発動回数：2回~~''
+その名の通り、猛烈な勢いで足元の砂を掘りだし、
+ターン終了後に自分の攻守を強化するバフを付与する。
+
+100％発動かつ攻守両方を同時に強化できる優秀な待機スキル。
+なお被ダメージ軽減効果は発動ターンと次のターンの2ターンぶん効果が期待できるが
+与ダメージ増加効果は発動ターンが動けないので実質次のターンにしか効果がない。
+何も考えずに発動させてもいいが、けものミラクル発動前などに発動させてやるとより効果的。
+
+余談だが、実装されてから5月まで砂「堀」りだった。
+でもまあ騒ぐほどでもないか。
+**とくせい：天使の祝福
+ ''与ダメージが7%増加する　さらに地形がさばくの場合、さらに「Beat!!!」の与ダメージが15%増加する~~''
+常時与ダメージが7％増加し、地形によってはさらに得意技の威力が上昇する攻撃補助系のパッシブスキル。
+
+常時攻撃力が増加するだけでも十分な性能だが、
+砂漠地形時の「Beat!!!」の与ダメージ上昇率が高く、かなりの威力が見込める。
+さらに、待機スキルでも自身の攻撃力を強化できるため、
+全てを活用すれば、砂を浴びせるだけであっけなく敵を粉砕できるだろう。
+
+**キセキとくせい：お困りですか？
+ ''与ダメージが15%増加し　被ダメージが15%減少する~~''
+フォトポケ1段階成長で解禁されるキセキとくせい。
+数値も効果も無難な攻防強化だが、入れられるようになったフォトの効果も含めるとかなりの強化となる。
+スナネコは耐久面の数値があまり高くないので、純粋に被ダメージが減少するのは嬉しいところか。
+**なないろぞくせい：おもてなしの気持ち
+ ''自身の与ダメージが5%増加し、かいひが5%増加する~~さらに自身がギブアップ状態でないとき~~マイペース(水)属性の相手の攻撃命中率を5%減少させ~~アクティブ(黄緑)属性の相手のかいひを5%減少させる''
+純粋な能力強化。さらに苦手な相手からの攻撃は当たりにくく、得意な相手に攻撃を当てやすくなった。
+[END]
+*フレンズ強化素材
+//不明の場合この欄は後付けでかまいません
+**野生解放
+最大解放までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×21|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cw01Jde2Or.png,no_link,40){カラフルこんぺいとうUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×22|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZAcdA67VQC.png,no_link,40){カラフルこんぺいとうR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×14|必要ゴールド~~2,400|
+[+]段階別必要素材
+|>|>|>|>|>|野生解放1|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MLZTmwW4qL.png,no_link,40){かわいいリボンC}×2|
+|>|>|>|>|>|野生解放2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/wVqllFx9KN.png,no_link,40){かわいいリボンUC}×3|
+|>|>|>|>|>|野生解放3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/nR8tmJmfz0.png,no_link,40){桃色のアニマルラムネC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eH0pnop3z0.png,no_link,40){虹色のアニマルラムネSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cw01Jde2Or.png,no_link,40){カラフルこんぺいとうUC}×6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×6|
+|>|>|>|>|>|野生解放4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQTWYy3pGV.png,no_link,40){桃色のアニマルラムネUC}×12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VzJBjk8_bN.png,no_link,40){桃色のアニマルラムネR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1ezrEOodxm.png,no_link,40){虹色のアニマルラムネSSR}×3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/S12TTSe3f7.png,no_link,40){かわいいリボンR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZAcdA67VQC.png,no_link,40){カラフルこんぺいとうR}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×4|
+[END]
+**ミラクル強化
+最大強化までの必要素材
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SjzgmMDBQk.png,no_link,40){けもけも弁当（ラブリー）小}×24|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×15|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cw01Jde2Or.png,no_link,40){カラフルこんぺいとうUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×30|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×6|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZAcdA67VQC.png,no_link,40){カラフルこんぺいとうR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×21|必要ゴールド~~435,000|
+[+]段階別必要素材
+|>|>|>|>|>|>|ミラクルレベル1→2|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SjzgmMDBQk.png,no_link,40){けもけも弁当（ラブリー）小}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×1|>|>||&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×5,000|
+|>|>|>|>|>|>|ミラクルレベル2→3|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_XPDIsqjLL.png,no_link,40){カラフルこんぺいとうC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/j0PdsH9HFY.png,no_link,40){銀の鈴C}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/SjzgmMDBQk.png,no_link,40){けもけも弁当（ラブリー）小}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×30,000|
+|>|>|>|>|>|>|ミラクルレベル3→4|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cw01Jde2Or.png,no_link,40){カラフルこんぺいとうUC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/57uTXn7c3d.png,no_link,40){銀の鈴UC}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×6|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×100,000|
+|>|>|>|>|>|>|ミラクルレベル4→5|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZAcdA67VQC.png,no_link,40){カラフルこんぺいとうR}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9km2Y8ZvxM.png,no_link,40){銀の鈴R}×8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/_l71lCDqUZ.png,no_link,40){けもけも弁当（ラブリー）中}×16|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8h6V4GyXYO.png,no_link,40){けもけも弁当（ラブリー）大}×12|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3LsyKVllNa.PNG,no_link,40){思い出の石SR}×8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgiZYPlyHT.PNG,no_link,40){思い出の石SSR}×4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Nqf1Y6flny.png,no_link,40){ゴールド}×300,000|
+[END]
+*キャラクターについて
+ ''「”砂漠の天使”って呼ばれてるからには、~~いろいろボクにまかせてね。昼間はホントにあっついけど、~~慣れれば砂漠の暮らしも案外悪くないよ。~~一緒に住むっていうんならボクがいろいろとお世話してあげる。~~自慢の料理を捕ってきてあげるね♪」''
+「砂漠の天使」と言われ、アニメでもサーバルが唯一「噂通り、可愛いね！」と言わしめた初期星4フレンズ。洗練されたビジュアルにハートを射抜かれた隊長も多いのではないか。
+
+元々の動物が砂漠で生きる性質上、体温調節の転換がきく要素がキャラクターに「熱しやすく冷めやすい」といった性格面に落とし込まれている。
+
+どこか透明感のある涼しげな表情で基本的に穏やかな敬語で話すのだが、戦闘時の攻撃モーションで発する「邪魔です！」はインパクト大。
+
+NEXONアプリ版の性格は少々つっけんどんなところがあり、サーバルが「ひどいことする」「スナネコがイジワル言う」と言ってしまう程。
+返す言葉も「うるさいので静かにしてください」と、（悪意はないものの）相手の気持ちを考えないような物言いで、超マイペースなきらいがあったが、
+けものフレンズ３での性格はかなりマイルドになっている様子。
+唯一、戦闘での「邪魔です！」になごりが感じられる。
+メインストーリー6章で登場した際も、落としてしまったフォトポケを探しに行った[[ラクダ>ヒトコブラクダ]]姉妹を止めなきゃいけなかったと責任を感じていた。
+
+今作では人格的（ケモ格的？）に成長した姿になっているのだろうか。
+少なくとも、よりフレンドリーなアニメ版スナネコはサーバルと初対面だったことで、別個体のようだ。
+
+なお、ＣＶはアニメ版と同じ、みゆはん。ちなみにアニメ１期ＥＤの作詞・作曲・歌も彼女によるものである。
+
+ＣＶ：みゆはん（けもフレ３・アニメ１期)
+　　　斉藤佑圭（NEXONアプリ版)
+&aname(serifu)
+*セリフ集
+[+]ロビー時
+{|class="edit"
+|!通常|…あっ、面白いこと思いつきました　…まあでも…騒ぐほどでもないですね|
+|^|喉が渇きましたね…|
+|^|暇ですね…サーバルでも冷やかしにいきましょうか…|
+|^|穴があったら入りたいです…|
+|^|なんですか？砂遊びならいつでもやりますよ|
+|!固定|どうしましたか？一緒について行きましょうか？|
+|^|砂を浴びると、とってもきもちいいんですよ♪|
+|^|砂漠に行くときはボクが案内しますね|
+|^|…あの穴、新しいお家に使えそうですね|
+|!すやすや|うぅ…ん…砂漠の夜は…冷えますね…|
+|^|むにゃむにゃ…サーバルは…もう少し…落ち着いた方がいいです…|
+|^|すやぁ…すやぁ…|
+|}
+[END]
+[+]戦闘時
+{|class="edit"
+|!クエスト開始|何とかやってみます|
+|^|頑張ってみますね|
+|!WAVE移行|倒せましたね！|
+|^|次、行きましょう|
+|!クエスト終了|隊長さんも喜んでくれますか？|
+|^|さて、砂の上にゴロンっとしましょう？|
+|!フラッグ選択|やってみますね|
+|^|分かりました|
+|!けもコーラス|一緒にやりますね|
+|^|面白そうですね|
+|^|みんなでやる方が面白そうです|
+|^|ズバっといきましょう！|
+|!攻撃|[''通常攻撃'']|
+|^|たぁ！|
+|^|とぉ！|
+|^|しょ！|
+|^|うんっ|
+|^|[''とくいわざ'']|
+|^|キレイにしましょうねー|
+|^|これでどうですー？|
+|^|邪魔です|
+|^|気持ちよさそうですねぇ～|
+|!ダメージ|[''通常攻撃'']|
+|^|イタタタ…|
+|^|うわっ|
+|^|[''強攻撃'']|
+|^|うぅ、イタい…|
+|^|まだ…　大丈夫…です|
+|^|[''ちからくらべ'']|
+|^|うぉ？|
+|^|おっ！|
+|^|やりますねぇ|
+|^|びっくりしました|
+|!どく状態|ちょっと…疲れてきました…|
+|^|うぅ…なんだかダメそう…|
+|!ギブアップ|[''セルリアン戦'']|
+|^|ちょっと…休ませてください…|
+|^|[''ちからくらべ'']|
+|^|参りました|
+|^|ボクの負けです|
+|^|みなさん、頑張り屋ですね|
+|^|ちょっと、休憩します|
+|^|[''ちからくらべ後退時'']~~※現在使用されていない|
+|^|残念です…|
+|!復帰|あとちょっと！　がんばってみますね！|
+|^|ふぅー…！　もう少し戦えそうです！|
+|!けものミラクル　|[''等速'']~~（発動時）~~楽しいお遊びの始まりです！~~（発動中）~~え～と…この砂を…あっ！こうですね！~~|
+|^                              |[''倍速'']~~（発動時）~~始まります！~~（発動中）~~……あっ！こうですね！~~|
+|!けものミラクル＋|[''等速'']~~（発動時）~~今日もズババっといきましょう！~~（発動中）~~うふ、うふふふふふ……おっと、砂に見惚れていました~~|
+|^                              |[''倍速'']~~（発動時）~~ズババっといきましょう！~~（発動中）~~……おっと、砂に見惚れていました~~|
+|!けものミラクル後|はぁー…、やりきりました|
+|}
+[END]
+[-]掛け合い
+**ツチノコ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){あ、これ　何でしょう？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png,right){お、おい　あまりふらふらするな！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){次はあっちですか？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png,right){そうみたいだな　行くぞ！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){記念のフォト　撮っても良いですか？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png,right){ま、待て　それはちょっと…}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){これくらいなら　平気です…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png,right){そんな訳ないだろ　下がってろ！}|
+|}
+[[%%%ツチノコ　セリフ集%%%>ツチノコ#serifu]]
+**クロヒョウ
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){ささっと終わらせて、砂の上にごろんしましょう！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z-s.png,right){砂漠は堪忍してな～}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){さ、いきましょう！ クロヒョウ}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z-s.png,right){う、うん。ほんま元気やねぇスナネコー}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){ちょっとクロヒョウをまねてみました！~~どうでしたか？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z-s.png,right){え？ あー…うん、ええんやないかなぁ}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ai6qwQHbJh.png){無理…しちゃいましたぁ…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z-s.png,right){スナネコ！ ちょっとだけ休んでてぇや！}| 
+[[%%%クロヒョウ　セリフ集%%%>クロヒョウ#serifu]]
+[END]
+[+]その他
+{|class="edit"
+|!加入|はじめまして、スナネコです~~砂漠の天使なんて呼ばれていたりします~~よろしくです|
+|!ログインボーナス|プレゼントです　しっかり受け取ってください|
+|^|明日の分は明日に渡しますので　忘れずに|
+|!なかよしレベルアップ|思えば、いつも一緒ですね|
+|!レベルアップ|砂遊びがもっと楽しくなるならいいですね|
+|!レベル上限解放|※ふれあいの「うれしい！」と同一|
+|!野生解放|おぉ～！まぁ…ありがとうございます|
+|!けも級アップ|毛並みがアップ！　ですね|
+|!ミラクルレベルアップ|もっと、遠くに飛ばせるようになったのでしょうか|
+|!フォトポケット開放|思い出をいっぱい作れますね|
+|!着替え|どうですか？似合ってますか？|
+|^|おぉー、この服とっても可愛いですね|
+|^|珍しいものを着させてくれて、ありがとうございます|
+|^|隊長さんがくれたものなら、何でも嬉しいです|
+|!ふれあい|こんにちは！…元気がありませんね？砂、かけましょうか？|
+|^|こんにちは！何か用事ですか？|
+|^|砂漠へ行くときはボクも連れて行ってくださいね　面白そうなので|
+|^|どうも！気になることでもあるんですか？|
+|!ふれあい~~(うれしい！)|やりましたね！|
+|!ふれあい~~(たのしい！)|そうですね|
+|!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
+|!ふれあい~~(撫でる)|好きなだけ撫でていいですよ|
+|^|ボクを撫でてるときの隊長さん、とっても楽しそうです|
+|^|ボクの毛、フワフワしていて気持ちいいでしょ？|
+|!アシスタント選択|はい、しっかりお手伝いしてあげます|
+|!ツリーハウス~~(はて)|　|
+|!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
+|!ツリーハウス~~(あくび)| |
+|!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
+|!しょうたい確定演出|　|
+|!おてつだい(クエスト)|''[出迎え]''|
+|^||
+|^||
+|^||
+|^||
+|!おてつだい(ショップ)|''[出迎え]''|
+|^||
+|^||
+|^|''[購入]''|
+|^||
+|^||
+|!おてつだい(共通)|''[タップ]''|
+|^||
+|^||
+|^||
+|^||
+|^|''[伸び]''|
+|^| |
+|^| |
+|^|''[すやすや]''|
+|^| |
+|^|''[寝起き]''|
+|^||
+|}
+[END]
+**掛け合い相手
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dxOaTQQIPK.png,70)>ツチノコ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RZsbq_wV4z.png,70)>クロヒョウ#serifu]]|
+*実際の動物について
+ ''日中は岩陰にひそみ、夜になると活動します。~~足の裏は長い毛で覆われていますが、これは熱い砂から皮膚を守るためです。~~見た目の可愛らしさと裏腹に、ネコ科の中でもかなり獰猛といわれています。''
+スナネコは　ネコ目ネコ科 ネコ属 の哺乳類である。
+学名：Felis margarita
+英名：Sand cat
+和名：スナネコ
+別名：砂漠の天使、歳をとらないネコ
+
+体長：40cm～55cm
+体重：1.3kg～3.5kg
+寿命：10年～13年
+分布：アラブ首長国連邦、アルジェリア、エジプト、オマーン、カザフスタン、カタール、クゥエート、
+　　　サウジアラビア、トルクメニスタン、モロッコ
+食性：肉食。小型の哺乳類、昆虫、トカゲ等
+
+スナネコは主にサハラ砂漠周辺国や、アラビア半島の砂漠地帯に生息するネコ科の動物であり、野生のネコ科としては、
+かなりの小型種となる。体長は最大でも50cm超程であり、おおよそイエネコよりも小さい。
+毛色は、砂漠の砂に紛れるよう、淡い黄色をしており、背には８本程の薄黒の横縞が入っている。　
+毛は焼けるような砂漠の砂上を歩く為に、足裏にまで生えている。
+
+大きな三角形の耳を持っており、熱を放出する役割があると思われる。
+暑く日射の強い砂漠の日中は、体力を蝕むことから昼は巣穴に潜み、天敵も少なくなる日没以降から行動を始める。
+
+妊娠期間は５９日～６７日で、一度におよそ３～４匹程の仔を産む。
+
+スナネコは砂漠の生態系の中では中位であり、天敵は、カラカル、キンイロジャッカル、タイリクオオカミ、
+イヌワシ、アカギツネ、ワシミミズク等、数多く存在する。
+その為、排泄したフンも必ず砂で隠し、自分の存在の痕跡を消す習性がある。
+
+性格は、見た目に反し荒い気性を持っており、飼育下でも人間に懐くことはない。
+また、飼育が非常に困難なネコであり、飼育下での寿命は非常に短くなり、その為に日本ではスナネコを飼育している施設は2つしかない。繁殖も成功事例が少なく、多くが数か月以内に命を落とす。
+ゆえに、人間が飼育してはいけない動物の一つとされる。
+
+%%スナネコは現在、日本ではその姿を見ることができない動物であるが、それは将来にわたっても同じであろう。%%
+
+※2020.3.13に神戸どうぶつ王国（兵庫県）にスナネコがやってきました。
+日本で見ることができるのはいいですが、うまく環境に適応して長生きしてくれることを願わずにはいられません。
+
+※2020.4.27　那須どうぶつ王国（栃木県 上記の神戸どうぶつ王国とは姉妹園になるとのこと）でスナネコの赤ちゃんが誕生しました。
+6/13～　一般公開も始まっています。
+*その他
+-[[スナネコ(フォト)]]
+-[[スナネコ　フレンズストーリー]]
+-[[【いいこと思いつきました】スナネコ]]
+**星6衣装
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/l4qK7Q3gBU.png,50%)
+-黒×赤を基調とした、まさかのバンギャ系パンクファッション。~~よく見ると首元のリボンには鈴がついており、より猫らしいコスチュームになっている。
+--奇抜なファッションは、ボクっ娘で我が道を行く性格と、独特の感性によるものだろうか。
+-その姿は「天使」というよりも「小悪魔」に近い。~~通常コスチュームとのギャップに驚かされた隊長も多く、当時は大きな話題を呼んだ。
+
+**特別衣装
+***ふわもこパジャマ
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eecb18506bb0f530.png,50%)
+
+***織姫衣装
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/513c078082ca5a88.png,50%)
+
+***収穫祭衣装
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b354cdc90fa8acfd.jpeg,50%)
+
+***パーティドレス
+[+]&color(#ff0000){''※ネタバレ注意''}
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/YZmaOMy5KT.jpg,50%)
+-アラビアンナイトやベリーダンスを彷彿とさせる、エキゾチックな雰囲気のドレス。~~スナネコにしては珍しい露出度が高いファッションで、貴重なヘソ出しが拝める。
+-ドレスの由来に関しては、スナネコの生息地(アラブやエジプト方面)から着想を得たものと思われる。
+[END]
+
+**アイコン一覧
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0a368af35254ab1f.png,50%)
+
+**ミラクル+のセリフ・演出変化
+※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
+&color(#ff0000){※音量注意}
+&video(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PW3Xc1u5dD.webm){400,240}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

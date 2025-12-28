@@ -3793,7 +3793,8 @@
       "name": "MenuBar1",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/MenuBar1",
       "contentFile": "MenuBar1.seesaawiki",
-      "remoteUpdatedAt": "2025-06-06T13:25:13.000Z"
+      "remoteUpdatedAt": "2025-06-06T13:25:13.000Z",
+      "localUpdatedAt": "2025-06-06T13:25:13.000Z"
     },
     {
       "name": "フォト火力ランキング",
@@ -3946,7 +3947,8 @@
       "name": "トップページ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c8%a5%c3%a5%d7%a5%da%a1%bc%a5%b8",
       "contentFile": "トップページ.seesaawiki",
-      "remoteUpdatedAt": "2025-03-19T02:30:34.000Z"
+      "remoteUpdatedAt": "2025-03-19T02:30:34.000Z",
+      "localUpdatedAt": "2025-03-19T02:30:34.000Z"
     },
     {
       "name": "本気のきーっく",
@@ -11407,7 +11409,8 @@
       "name": "MenuBar2",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/MenuBar2",
       "contentFile": "MenuBar2.seesaawiki",
-      "remoteUpdatedAt": "2019-10-29T13:25:37.000Z"
+      "remoteUpdatedAt": "2019-10-29T13:25:37.000Z",
+      "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
   "fetchedAt": "2025-12-28T08:55:23.444Z"

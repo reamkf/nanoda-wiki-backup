@@ -42,7 +42,22 @@
 //足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 **戦闘について
-文章
+MP200のバフミラクルが特徴的で、[[黒龍]]のものと少し似ている。
+[[Wバフ>用語集#yougo_double_buff]]をしようと思うと大変だが、とくせい・キセキとくせい・待機のMP増加があるので、1回目のチャージは100程度とそれほど重たくはない。
+一応攻撃倍率400%は全体攻撃としては高めではあるが、発動までが長いのでそれを主目的として使うことはあまりなく、道場のバッファーとしての使い方がメインと思われる。
+ミラクル1回だと、合計のバフ量は99%ほど。[[【こっわーい悪魔だぞぉ！】タスマニアデビル]]のWバフ+ズキンズキンよりは30%ほど劣るものの、ミラクル1回分としては非常に強力で、多くのプレイヤーにとっては十分採用の価値があるだろう。
+
+たいきスキルのMP増加は、Wバフに充てる、道中で[[【ブームの予感ですよ？】チベットスナギツネ]]のチャージに使う、シンメ自身のチャージに使うの3つの使い方が考えられる。
+シンメ自身のチャージは他の2つのどちらかと兼ねるとして、Wバフとチベのどちらに使うかは迷いどころ。[[総攻撃>用語集#yougo_soukougeki]]直前はアカギツネの待機もあるのであまり待機要因を増やしたくないところではある。
+
+けものミラクルのびりびり付与は[[【わたしを頼ってね！】アカギツネ]]のキセキとくせいや%%%[[たまには、ね]]%%%の条件を満たすのに使える。
+ただし付与率は中確率なので、確実に付与するなら[[真・青龍]]のミラクルを先に入れておくか、[[ギンカク]]、%%%[[神域の一皿]]%%%の耐性減少で付与率を上げておきたい。
+びりびりで相手の行動がランダムになることはHP調整の面で問題だが、ここは割り切るしかないか。
+
+MP配布とびりびり付与だけでタスデビWとの30%差と釣り合うかどうかは微妙で、道場上位ランカーの編成に割り込むには追加で何かしらのメリットを見出したいところ。
+ギブアップさせて%%%[[Welcome to ようこそ！]]%%%の発動を狙う手はある。リラックス属性は軽減や回復が多いので、あえてレベルを上げずに留めておくなどしないと落ちなさそうだが…
+確実に勝ちに行くなら無理をしてでもWバフをするしかないか。自身の待機と[[【わたしを頼ってね！】アカギツネ]]や[[ツシマヤマネコ]]・[[ムック]]のMP配布に加え、Actionフラッグを多めに踏めばなんとか溜まるかもしれない。
+
 //***スキル詳細
 //[+]
 //***けものミラクル：神様の舞～雷こわいの段～　※必要MP200/ミラクルLv5
@@ -164,14 +179,14 @@
 [+]掛け合い
 **サラブレッドくりげ
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){情報募集中}|
-|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){情報募集中}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){ああ！身体が勝手に暴れちゃうー！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){好きなだけ暴れちゃえ！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){やだー！あっちにも何かいるー！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){ちょっと待ってーそっちじゃないよー！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){はぁ…ふぅ…コホン。これにて神事はおしまいです}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){今のって、何してたの？}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c3c6cf6b3ace0d8d.png){神様なのに…倒れちゃうなんて…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sNhZ_0_nvY.png,right){大丈夫、そういうこともあるよ}|
 |}
 [[%%%サラブレッドくりげ　セリフ集%%%>サラブレッドくりげ#serifu]]
 [END]
@@ -264,3 +279,6 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+
+
+

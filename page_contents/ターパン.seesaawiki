@@ -176,14 +176,14 @@
 [+]掛け合い
 **モウコノウマ
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){もうこのうま私やったよすごかった？}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){はいー絵に残しておきたいくらいでしたよ}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){行こう、モウコノウマ　一緒に}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){はい～、頑張りましょうね～}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){キレイな景色ありそう　あっち}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){あ～、勝手に行っちゃダメですよ～}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){モウコノウマ、私やったよ　すごい？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){はい～、絵に残しておきたいくらいでしたよ～}|
 |!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ffe59b631353f1a0.png){まだ描きたいものがたくさん……}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){タ、ターパンさん！しっかりしてくださーい！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/hpNnc2z4kj.png,right){タ、ターパンさん！し、しっかりしてください～…}|
 |}
 [[%%%モウコノウマ　セリフ集%%%>モウコノウマ#serifu]]
 [END]
@@ -256,11 +256,11 @@
 
 **星6衣装
 &attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7d636af30c32b646.PNG,50%)
-//
-//**特別衣装
-//***衣装名
-//&attachref(50%)
-//
+
+**特別衣装
+***巫女服
+&attachref(50%)
+
 //『パーティドレス』
 //[+]&color(red){''ネタバレ注意！''}
 //&attachref(50%)
@@ -274,5 +274,6 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+
 
 

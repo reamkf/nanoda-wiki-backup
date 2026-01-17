@@ -42,7 +42,19 @@
 //足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 **戦闘について
-文章
+なんと言っても目を引くのは超高威力のけものミラクル。
+特に相手が1人の場合は実に合計1330%のダメージを与えるという、ダメージ倍率だけ見ればあの[[白龍]]すら上回る凄まじい威力の攻撃ミラクルである。てゆーか、豪快無比？
+
+消費MPは200と非常に重く見えるが、待機・キセキによる補助が手厚いため、見た目ほど重くはない。
+マイペース属性には[[N・ハイランドワイルドドッグ]]や[[サゴジョウ]]、[[水助手>【優秀な助手の出番なのです】ワシミミズク]]などMP面をサポートできるメンバーが多いため、同時に編成してやれば更に軽くなる。てゆーか、潤沢供給？
+
+道場アタッカーとして見ると、実装時点でのトップアタッカーである[[山本五郎左衛門]]と競合しており、待機スキル込みでの火力は13%程度モアが上回る。
+ただしこちらは待機スキルによる与ダメージ増加が2ターンしか持続しないのが扱いを難しくしてしまっている。3ターン持続の山本に比べ、総攻撃前の行動に制約がかかりやすいのがマイナス。
+その他有利な点はHPキープの必要がないことが挙げられる。一方で山本の全状態異常耐性も単純に便利であり、一概にどちらが良いと決めるのは難しい。てゆーか、一長一短？
+
+総合すると汎用性の山本、上振れのモアというところだろうか。
+暴れられそうな環境を見極め、&ruby(ペコポン){地球}すら割る高火力を発揮してやりたい。てゆーか、適材適所？
+
 //***スキル詳細
 //[+]
 //***けものミラクル：黙示録撃！１００万分の１！　※必要MP200/ミラクルLv5
@@ -162,21 +174,18 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-**相手フレンズ名
+**タママ
 {|class="edit"
-|bgcolor(#ccc):||c
-|!クエスト開始時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!WAVE移行時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!クエスト終了時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!ギブアップ時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-[[%%%相手フレンズ　セリフ集%%%>相手フレンズ#serifu]]
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png,right){情報募集中}|
 |}
-//現在、掛け合いのあるフレンズはいないようダネ。
-//
+[[%%%タママ　セリフ集%%%>タママ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -238,8 +247,7 @@
 |}
 [END]
 **掛け合い相手リンク
-//|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/.png,70)>ミーアキャット#serifu]]|
-情報募集中
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png,70)>タママ#serifu]]|
 *実際の動物について
  ''パークの外からやってきた女子高校生です。本来は実態を持た~~ない外宇宙の精神生命体で、ヒトに擬態しているという説があ~~ります。槍のような武器ルシファースピアを使用して未知数の~~破壊をもたらすとされていますが、大変な危険が予想されるた~~め、調査の継続は断念せざるをえません。''
 文章
@@ -267,3 +275,4 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+

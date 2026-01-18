@@ -36,13 +36,28 @@
 |!とくせい|究極のメイドさん|アクティブ(黄緑)属性の味方のしょんぼりきぶん耐性(高)が増加する~~さらにギブアップしていない味方1人につき~~自身を除く味方全体の与ダメージが2%増加し~~毎ターンたいりょくが1%回復するj|
 |!キセキとくせい|キュートなニ等兵|ギブアップしていない味方1人につき味方全体の与ダメージが6%増加し~~アクティブ(黄緑)属性の味方のMPが毎ターン1増加する~~さらにギブアップしていない味方が5人の場合~~自身のマイペース(水)属性に与えるダメージが20%増加する|
 |>|>||
-|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~情報募集中~~&color(,#f3f3fe){（変化後）~~ギブアップ状態ではない味方が5人の場合~~相手全体の被ダメージが6%増加し~~与ダメージが5%減少する}|
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~ギブアップ状態ではない味方が5人の場合~~相手全体の被ダメージが5%増加し~~与ダメージが4%減少する~~&color(,#f3f3fe){（変化後）~~ギブアップ状態ではない味方が5人の場合~~相手全体の被ダメージが&color(red){6%}増加し~~与ダメージが&color(red){5%}減少する}|
 
 |!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 **戦闘について
-文章
+特性・キセキによる生存人数に応じた全体バフが特徴的。
+5人生存時には実に47.8%という、属性指定のない置きバフ要員としては[[シーラカンス]]も超える最高クラスのバフを出力する。
+
+加えてキセキには同属性へのMP配布もあり、こちらは同条件で毎ターンMP+5。
+[[ハクトウワシ]]などアクティブ属性の全体攻撃ミラクル持ちの補助に充ててやるのがいいだろう。
+
+道場においてはMP配布ができるデバッファーとして[[オグロスナギツネ]]のような使い方ができる可能性はある。
+バフ倍率もオグスナより高く、MP90で貯めやすくWバフもしやすい。
+しかし、ぷらずむが30でありサポート要員の理想形からは離れること、先述の常時発動の全体バフが災いして撃破数がどんどん嵩んでいくこと、ミラクルに付帯するMP減少効果で敵の大技が遠のくことには注意。
+
+また倍率面はオグスナにこそ勝っているものの、アクティブバッファーは他にも[[ユニコ]]やら[[コヨーテ]]やら[[麒麟]]やら[[【青い瞳の迷い猫】マヌルネコ]]やらと強豪ぞろい。
+割って入るには独自の強みが欲しいところ。
+
+余談だが、キセキの5人生存時に自身の対マイペース属性与ダメージが増加する効果は、同イベントでマイペースで実装された[[あの女>アンゴル=モア]]を意識した効果であると思われる。
+嫉妬を力に変えるタママらしい効果だ。
+
 //***スキル詳細
 //[+]
 //***けものミラクル：タママ流超秘奥義…嫉妬玉！　※必要MP90/ミラクルLv5
@@ -119,7 +134,7 @@
 |^|　|
 |^|　|
 |^|[''とくいわざ'']|
-|^|　|
+|^|タママインパクト！|
 |^|　|
 |^|　|
 |^|　|
@@ -164,14 +179,14 @@
 [+]掛け合い
 **アンゴル=モア
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){情報募集中}|
-|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){情報募集中}|
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){ボクが全部倒すまで、前に出るなですぅ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){いいえ！モアにも頑張らせてください！}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){どんどん持ってこーい！ですぅ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){わぁ～ やる気満々ですね、タママさん！}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){任務完了ですぅ！ボ・ク・がー！頑張った成果ですぅ～♪}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){無事に終わって良かったです！てゆーか、残業反対？}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png){あの女に、無様なところを見せるなんてぇ…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,right){タママさん…！もう許しません！}|
 |}
 [[%%%アンゴル=モア　セリフ集%%%>アンゴル=モア#serifu]]
 [END]
@@ -185,7 +200,7 @@
 |!レベルアップ|　|
 |!レベル上限解放|※ふれあいの「うれしい！」と同一|
 |!野生解放|　|
-|!けも級アップ|　|
+|!けも級アップ|昇格！　ついにメイドちゃ...~~じゃなくて一等兵ですぅ！|
 |!ミラクルレベルアップ|　|
 |!フォトポケット開放|　|
 |!着替え|　|
@@ -196,7 +211,7 @@
 |^|　|
 |^|　|
 |^|　|
-|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(うれしい！)|やったですぅ！|
 |!ふれあい~~(たのしい！)|　|
 |!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
 |!ふれあい~~(撫でる)|　|
@@ -229,9 +244,9 @@
 |^| |
 |^| |
 |^|''[すやすや]''|
-|^| |
+|^|タマぁ...すぅ...タマぁ...すぅ...|
 |^|''[寝起き]''|
-|^||
+|^|ウダルザルション...あ、あれ？~~あの女と軍曹さんの...うぅ~夢でよっかたですぅ~|
 |}
 [END]
 **掛け合い相手リンク

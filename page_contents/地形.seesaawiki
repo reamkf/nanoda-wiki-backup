@@ -77,6 +77,7 @@
 *みずべ
 |center|center|left|center|left|left|c
 |r[bgcolor(#dcdcdc)]:~ ☆ |>||属性|種別|効果|備考|
+|☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/940780adc73cce0e.png,55,no_link)|[[ガラパゴスペンギン]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,no_link)|たいきスキル|味方全体の被ダメージが5%減少する(10ターン)||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4db5efe3771d7f32.png,55,no_link)|[[アナコンダ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,no_link)|キセキとくせい|自身の与ダメージが20%増加し、毎ターンMPが2増加する||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dc8c89b9de316d66.png,55,no_link)|[[カナダカワウソ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,no_link)|たいきスキル|追加でMPが10増加する|無条件で30|
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/02710a57970f93d5.png,55,no_link)|[[イロワケイルカ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,no_link)|とくいわざ|高確率で相手単体のMPを5減少させる~~※一回発動分のMPは残る||
@@ -280,5 +281,6 @@
 |^|^|^|^|とくせい(変化後)|^|地形条件なしでHP80%以下で5%あり|
 |☆3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cAti56GtKW.png,55,no_link)|[[タマゴのみちびき]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|かいひが2%増加する|地形条件なしでHP60%以下で2%あり|
 |^|^|^|^|とくせい(変化後)|かいひが3%増加する|地形条件なしでHP80%以下で3%あり|
+
 
 

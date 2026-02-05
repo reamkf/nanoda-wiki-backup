@@ -293,17 +293,27 @@
 **キラキラ単価
 キラキラのみの購入。無償キラキラがおまけについている。
 高額な商品ほど無償キラキラが多めに加算されるため、まとめ買いすることで単価が下がる。
+アプリペイで販売されているものはアプリペイから購入すると、ゲーム内ショップで売られているものよりも無償キラキラが増えて、より単価が下がる。
+
 また、不定期で販売される「お得なキラキラ80個セット」は通常の半額近い金額でお得に購入できる。
 |center:bgcolor(#dcdcdc):''価格''|>|>|center:bgcolor(#dcdcdc):''キラキラ個数''|center:bgcolor(#dcdcdc):''キラキラ単価''|center:bgcolor(#dcdcdc):''パック''|
 |^|center:bgcolor(#dcdcdc):''有償分''|center:bgcolor(#dcdcdc):''無償分''|center:bgcolor(#dcdcdc):''合計''|^|^|
 |right:160円|right:11個|right:0個|right:11個|right:14.55円/個|常設|
+|right:160円|right:11個|right:2個|right:13個|right:12.31円/個|常設(アプリペイ)|
 |right:480円|right:32個|right:4個|right:36個|right:13.34円/個|常設|
+|right:480円|right:32個|right:9個|right:41個|right:11.71円/個|常設(アプリペイ)|
 |right:1000円|right:67個|right:11個|right:78個|right:12.83円/個|常設|
+|right:1000円|right:67個|right:20個|right:87個|right:11.50円/個|常設(アプリペイ)|
 |right:1800円|right:120個|right:25個|right:145個|right:12.42円/個|常設|
+|right:1800円|right:120個|right:40個|right:160個|right:11.25円/個|常設(アプリペイ)|
 |right:3000円|right:200個|right:55個|right:255個|right:11.77円/個|常設|
+|right:3000円|right:200個|right:75個|right:275個|right:10.91円/個|常設(アプリペイ)|
 |right:4900円|right:327個|right:90個|right:417個|right:11.76円/個|常設|
+|right:4900円|right:327個|right:120個|right:447個|right:10.97円/個|常設(アプリペイ)|
 |right:8800円|right:587個|right:180個|right:767個|right:11.48円/個|常設|
+|right:8800円|right:587個|right:220個|right:807個|right:10.91円/個|常設(アプリペイ)|
 |right:10000円|right:667個|right:235個|right:902個|right:11.09円/個|常設|
+|right:10000円|right:667個|right:285個|right:952個|right:10.51円/個|常設(アプリペイ)|
 |right:''480円''|right:''32個''|right:''48個''|right:''80個''|right:''6円/個''|''期間限定~~お得なキラキラ80個セット''~~(通称：ミーア先生パック)|
 |right:1000円|right:67個|right:63個|right:130個|right:7.7円/個|期間限定|
 |right:3000円|right:200個|right:200個|right:400個|right:7.5円/個|期間限定|
@@ -1102,6 +1112,7 @@ ver1.6.0（2020年7月8日アップデート）においてアライグマとフ
 |''<お一人様2個まで>もっとフレンズ成長パック''|8/13-8/26|3060円|204個|輝きの結晶×150、四神玉×1、ジャパまん手づくりセット×1|
 |''<お一人様5個まで>~~2周年前夜祭スペシャル5回しょうたい券パック''|2021/9/10-9/23|1960円|8個|&color(#ff0000){2周年前夜祭すぺしゃる5回しょうたい券}×1~~※排出内容は[[期間限定しょうたい>期間限定しょうたい一覧(2021)#kgs_2021_09_10_2]]に記載~~輝きの欠片×150|
 [END]
+
 
 
 

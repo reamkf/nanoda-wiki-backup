@@ -12,12 +12,15 @@
 |入隊称号|フレンズ加入で獲得|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2aCcZ70w3D.png,300)|
 |なかよし称号|フレンズをなかよしLv.10にすると獲得|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cZDsVKfSVO.png,300)|
 |イベント称号|イベント報酬で獲得|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EMJ5HY9D7O.png,300)|
+|シリアルコード称号|シリアルコード入力で獲得|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VirxR1KhBw.png,300)|
 |マスター称号|フレンズの育成に関する一定の条件を満たすと獲得|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4aolCFr9_0.png,300)|
 
 **コラボフレンズの称号
-称号機能実装前に登場したコラボフレンズには称号(入隊称号・なかよし称号)がありません。
+称号機能実装より前に登場したコラボフレンズには称号(入隊称号・なかよし称号)がありません。
 ただし、その後復刻が行われたフレンズにはそのタイミングで称号が追加されています。
-コラボフレンズの称号は入手するまで一覧に表示されない隠し称号となっています。
+
+**隠し称号
+コラボフレンズの称号やリアルイベント連動のシリアルコードで入手できる称号は、入手するまで一覧に表示されないようになっています。
 
 *称号一覧
 **イベント称号
@@ -26,8 +29,6 @@
 |4周年 立ち入り禁止区域・解除開始|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EMJ5HY9D7O.png,300)|2023/09/23 ～ 09/30 14:00|イベントミッション|
 |4.5周年記念「パークの春いちばん！」|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dbRWuypFuK.png,300)|2024/03/24 ～ 04/04 23:59|ログインでプレゼント|
 |5周年記念「フレンズ・メモリアル」|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TcrIwa5v3k.png,300)|2024/09/24 ～ 10/03 23:59|ログインでプレゼント|
-|神戸どうぶつ王国名誉隊長|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VirxR1KhBw.png,300)|2024/10/18 ～ 11/07 23:59|神戸どうぶつ王国に設置されたポスターに記載のシリアルコードを使用|
-|きみのあしおとがまたきこえた|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2NaF4ypMwd.png,300)|2024/11/08 ～ 11/17 23:59|舞台「けものフレンズ」 JAPARI STAGE!～きみのあしおとがまたきこえた～会場内に設置されたポスターに記載のシリアルコードを使用|
 |運気にすっごく自信アリ|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/yWfhkjt8Sm.PNG,300)|2024/12/26 ～ 2025/01/10 14:00|イベントミッション|
 |オレと空を飛んでみようぜ！|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ufhN8NldI_.PNG,300)|2025/01/30 ～ 02/06 14:00|イベント「寒さを飛ばせ！空舞うポカポカ大作戦」ミッション|
 |いざ、西方へ|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lNF5VqVNEi.PNG,300)|2025/03/14 ～ 04/03 14:00|イベント「けもの西遊記　パークの異変の巻」ミッション報酬|
@@ -40,19 +41,26 @@
 |キラめく速さで|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9b8474243a9834ca.PNG,300)|2025/05/01 ～ 05/08 14:00|イベント「泳げ！光よりも速く！」ミッション|
 |いざ、経典を探す旅へ|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/aff3e988ad3101c0.PNG,300)|2025/06/01 ～ 06/15 14:00|イベント「けもの西遊記　異世界の旅の巻」ミッション報酬|
 |かんろくたっぷり！|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3f43f1c66a56e384.PNG,300)|2025/07/03 ～ 07/10 14:00|イベント「ねえ、聞いて　ボクの旅の話」ミッション報酬|
-|冒険！池田動物園|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f5f3667d5fa2a17d.PNG,300)|2025/07/18 ～ 08/03 23:59|池田動物園に設置されたポスターに記載のシリアルコードを使用|
 |まっしろ～で幸せに♪なのです。|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2b108983925e16d9.PNG,300)|2025/07/17 ～ 08/03 14:00|イベント「体力測定 とくべつ編」ミッション報酬|
 |パークの特大ジケン、解決！|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/708e11e691c64796.PNG,300)|2025/07/31 ～ 08/07 14:00|イベント「ホバクせよ！　消えた交番のナゾ」ミッション報酬|
 |たちはだかるゲートのナゾ|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bba9030ad4c0ad3c.PNG,300)|2025/09/11 ～ 10/02 14:00|イベント「けもの西遊記　ゲートの秘密の巻」ミッション報酬|
 |6周年記念「旅の途中」|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/019ef1fac8122186.PNG,300)|2025/09/24 ～ 10/02 23:59|ログインでプレゼント|
-|ズームオン！ZOOMO|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/635df46105b2d347.PNG,300)|2025/10/09 ～ 11/03 23:59|盛岡市動物公園 ZOOMOに設置されたポスターに記載のシリアルコードを使用|
 |ヤマとカワのずーっ友♪|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4ac3488945d4e485.PNG,300)|2025/10/09 ～ 11/03 14:00|イベント「体力測定 ZOOMO編」ミッション報酬|
 |毎日が楽しいハロウィン♪|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0c49ae44992e46b6.PNG,300)|2025/10/23 ～ 10/30 14:00|イベント「目指せ！　エブリデイ・ハロウィン」ミッション報酬|
 |とりあえず、西へ！|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dbbefda4808e1471.PNG,300)|2025/11/27 ～ 12/11 14:00|イベント「けもの西遊記　輝きの決戦の巻」ミッション報酬|
 |パカラッといい日になぁれ|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/797b4ade3cd096f6.PNG,300)|2025/12/25 ～ 01/12 14:00|イベント「目指せいちばん！　年越しかけっこ祭り」ミッション報酬|
 |てゆーか、切磋琢磨？ですぅ～！|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/9d24771eb340183f.PNG,300)|2026/01/15 ～ 02/05 14:00|イベント「タママ＆モア　メイドさんの真髄！？」ミッション報酬|
-|？？？|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)|2026/01/29 ～ 02/23 23:59|手塚治虫記念館に設置されたポスターに記載のシリアルコードを使用|
-|はじめてのハッピーバレンタイン！|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)|2026/01/29 ～ 02/05 14:00|イベント「はじめてがいっぱいのバレンタイン！？」ミッション報酬|
+|はじめてのハッピーバレンタイン！|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b30996dc34dd240a.PNG,300)|2026/01/29 ～ 02/05 14:00|イベント「はじめてがいっぱいのバレンタイン！？」ミッション報酬|
+|}
+
+**シリアルコード称号
+{| class="filter custom-css" style="min-width: 1000px"
+|~center:名前|center:画像|center:獲得可能期間|center:w(300):獲得方法|
+|神戸どうぶつ王国名誉隊長|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VirxR1KhBw.png,300)|2024/10/18 ～ 11/07 23:59|神戸どうぶつ王国に設置されたポスターに記載のシリアルコードを使用|
+|きみのあしおとがまたきこえた|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2NaF4ypMwd.png,300)|2024/11/08 ～ 11/17 23:59|舞台「けものフレンズ」 JAPARI STAGE!～きみのあしおとがまたきこえた～会場内に設置されたポスターに記載のシリアルコードを使用|
+|冒険！池田動物園|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/f5f3667d5fa2a17d.PNG,300)|2025/07/18 ～ 08/03 23:59|池田動物園に設置されたポスターに記載のシリアルコードを使用|
+|ズームオン！ZOOMO|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/635df46105b2d347.PNG,300)|2025/10/09 ～ 11/03 23:59|盛岡市動物公園 ZOOMOに設置されたポスターに記載のシリアルコードを使用|
+|けものフレンズ展へようこそ！|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cc03eb8accee283d.PNG,300)|2026/01/29 ～ 02/23 23:59|手塚治虫記念館に設置されたポスターに記載のシリアルコードを使用|
 |}
 
 **マスター称号
@@ -516,5 +524,6 @@
 |[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,55,no_link)~~''アンゴル=モア''>アンゴル=モア]]||
 |[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/65542f6b7c6e01dd.png,55,no_link)~~''タママ''>タママ]]|目指せ小隊のアイドルですぅ～！|
 |[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/940780adc73cce0e.png,55,no_link)~~''ガラパゴスペンギン''>ガラパゴスペンギン]]||
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dca02ec8826c1920.png,55,no_link)~~''ジャージー''>ジャージー]]||
 |}
 [END]

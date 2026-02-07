@@ -3,6 +3,20 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
+      "name": "シーサーバル道場（β2-35）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d35%a1%cb",
+      "contentFile": "シーサーバル道場（β2-35）.seesaawiki",
+      "remoteUpdatedAt": "2026-02-07T14:12:24.000Z",
+      "localUpdatedAt": "2026-02-07T14:12:24.000Z"
+    },
+    {
+      "name": "ジャージー",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b8%a5%e3%a1%bc%a5%b8%a1%bc",
+      "contentFile": "ジャージー.seesaawiki",
+      "remoteUpdatedAt": "2026-02-06T09:35:55.000Z",
+      "localUpdatedAt": "2026-02-06T09:35:55.000Z"
+    },
+    {
       "name": "サラブレッドしろげ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b5%a5%e9%a5%d6%a5%ec%a5%c3%a5%c9%a4%b7%a4%ed%a4%b2",
       "contentFile": "サラブレッドしろげ.seesaawiki",
@@ -129,25 +143,11 @@
       "localUpdatedAt": "2026-02-05T11:02:41.000Z"
     },
     {
-      "name": "シーサーバル道場（β2-35）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d35%a1%cb",
-      "contentFile": "シーサーバル道場（β2-35）.seesaawiki",
-      "remoteUpdatedAt": "2026-02-05T11:01:36.000Z",
-      "localUpdatedAt": "2026-02-05T11:01:36.000Z"
-    },
-    {
       "name": "フレンズ一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
       "contentFile": "フレンズ一覧.seesaawiki",
       "remoteUpdatedAt": "2026-02-05T10:59:34.000Z",
       "localUpdatedAt": "2026-02-05T10:59:34.000Z"
-    },
-    {
-      "name": "ジャージー",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b8%a5%e3%a1%bc%a5%b8%a1%bc",
-      "contentFile": "ジャージー.seesaawiki",
-      "remoteUpdatedAt": "2026-02-05T10:59:16.000Z",
-      "localUpdatedAt": "2026-02-05T10:59:16.000Z"
     },
     {
       "name": "お姉ちゃんにまかせて♪",
@@ -11532,5 +11532,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-02-05T13:39:45.344Z"
+  "fetchedAt": "2026-02-07T14:12:37.709Z"
 }

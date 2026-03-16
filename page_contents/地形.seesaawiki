@@ -223,12 +223,15 @@
 ||||||||
 
 *昼
-※正確には「夜ではないとき」の条件。
+// ※正確には「夜ではないとき」の条件。
 |center|center|left|center|left|left|c
 |r[bgcolor(#dcdcdc)]:~ ☆ |>||属性|種別|効果|備考|
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cafcc4e192115549.png,55,no_link)|[[シロフクロウ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,no_link)|とくせい|マイペース(水)属性の味方の与ダメージが20%増加し~~毎ターンMPが3増加する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/h5XIrIPX17.png,55,no_link)|[[ウサギコウモリ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,no_link)|キセキとくせい|少し狙われにくくなり~~毎ターンたいりょくが1％回復する||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/E0D3ezmgia.png,55,no_link)|[[アカミミガメ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,55,no_link)|キセキとくせい|毎ターンたいりょくが5%回復する||
+||||||||
+|☆3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/d02b636df63cb68f.png,55,no_link)|[[夜明けに飛ぶ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,55,no_link)|とくせい(変化前)|自身の攻撃命中率が5%増加し~~与ダメージが4%増加する||
+|^|^|^|^|とくせい(変化後)|自身の攻撃命中率が&color(red){6%}増加し~~与ダメージが&color(red){5%}増加する||
 
 *夜
 |center|center|left|center|left|left|c
@@ -282,6 +285,7 @@
 |^|^|^|^|とくせい(変化後)|^|地形条件なしでHP80%以下で5%あり|
 |☆3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cAti56GtKW.png,55,no_link)|[[タマゴのみちびき]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|かいひが2%増加する|地形条件なしでHP60%以下で2%あり|
 |^|^|^|^|とくせい(変化後)|かいひが3%増加する|地形条件なしでHP80%以下で3%あり|
+
 
 
 

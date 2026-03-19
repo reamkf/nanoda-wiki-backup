@@ -71,9 +71,10 @@ Welcome to ようこそ！は持ってない場合はおすすめの筆頭に挙
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2K_K7ytcg9.png,55,no_link)|[[ひといきたいむ]]|自身の与ダメージが&color(red){6%}増加し~~攻撃命中率が&color(red){6%}増加する~~&color(red){さらに毎ターンプラズムチャージの効果が1回追加される}|
 
 ** 状態異常耐性
-恒常フォトでは一切耐性を得られない上に、受けると致命傷になりかねないやっかいな状態異常をカバーするフォトです。
-ただし、今のところは中耐性が上限のものが多く、中耐性のものについては[[まよなかぴかぴか]]の存在もあり、そこまで出番は多くないので、いざというときの備えとして1枚あれば十分かもしれません。
-(中耐性1枚だと貫通しまくるような時は、フォトでがんばるよりも、フレンズのとくせいによる全体高耐性が優先される場合が多い)
+受けると致命傷になりかねない厄介な状態異常をカバーするフォトです。
+びりびりといった新しめの状態異常については中耐性止まりのものが多く、それらについては[[まよなかぴかぴか]]の存在もありそこまで出番は多くないので
+いざというときの備えとして1枚あれば十分かもしれません。
+(中耐性1枚だと全体に貫通しまくるような時は、フォトでがんばるよりもフレンズのとくせいによる全体高耐性や、そもそも状態異常攻撃を発動させないようにする手段が優先される場合が多い)
 
 |r[bgcolor(#cccccc):center]:~アイコン|フォト名|とくせい(変化後)|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/d94f9fdbd698e9ba.png,55,no_link)|[[たまにはこうやって]]|自身のばてばてヒリヒリ耐性&color(red){(高)}が増加し~~自身の与ダメージが&color(red){9%}増加する|
@@ -81,6 +82,7 @@ Welcome to ようこそ！は持ってない場合はおすすめの筆頭に挙
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/pMRYJ0ZtfG.jpg,55,no_link)|[[ときめきオシャレモード]]|びりびり耐性(中)が増加し、~~与ダメージと攻撃命中率が5%増加する|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/I9qN_RwupK.PNG,55,no_link)|[[ワンツーステップ]]|しょんぼりきぶん耐性&color(#ff0000){（中）}が増加する~~さらに攻撃命中率が&color(#ff0000){7%}増加し、かいひが&color(#ff0000){4%}増加する|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b51kueA2Ik.png,55,no_link)|[[ゆらゆらゆれて]]|ぼんやりうっかり耐性(中)が増加し、~~与ダメージと攻撃命中率が5%増加する|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d4a1a0a1c2a0279b.png,55,no_link)|[[お姉ちゃんにまかせて♪]]|自身のすやすや耐性&color(red){(高)}が増加し~~被ダメージが&color(red){7%}減少する|
 
 ** 被ダメージ軽減・回復
 被ダメージ軽減・回復は恒常や限定☆3フォトが非常に強力なので、フォト交換券での交換対象としては優先度は高くありません。
@@ -88,6 +90,8 @@ Welcome to ようこそ！は持ってない場合はおすすめの筆頭に挙
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LLsmWiXr6G.jpg,55,no_link)|[[おかしこうかんこ！]]|自身の与ダメージが&color(red){9％}増加し~~自身を除く味方全体の被ダメージが&color(red){7％}減少する|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54FMXq5Cl5.png,55,no_link)|[[あまおとのしらべ]]|被ダメージが&color(#ff0000){7%}減少し、毎ターンたいりょくが&color(#ff0000){7%}回復する|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3FgBhzaDlq.png,55,no_link)|[[ホワイトハンティング]]|強敵出現waveの場合、毎ターンたいりょくが&color(#ff0000){3%}回復し~~強敵からの被ダメージが&color(#ff0000){13%}減少する|
+
+
 
 
 

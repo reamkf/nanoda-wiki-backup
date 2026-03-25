@@ -222,7 +222,7 @@
 |r[bgcolor(#dcdcdc)]:~ ☆ |>||属性|種別|効果|備考|
 ||||||||
 
-*昼・夜ではない
+*昼/夜ではない
 |center|center|left|center|left|left|c
 |r[bgcolor(#dcdcdc)]:~ ☆ |>||属性|種別|効果|備考|
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/88e404505c537c9f.png,55,no_link)|[[&size(10){&color(red){【神代の白き翼】}}~~ヤタガラス>【神代の白き翼】ヤタガラス]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,no_link)|キセキとくせい|味方全体の与ダメージが30%増加し~~毎ターン自身のたいりょくが10%回復する||
@@ -273,6 +273,8 @@
 |☆2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/91_xiccfsF.png,55,no_link)|[[ヤマバク]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,55,no_link)|とくせい|MPが12増加する||
 |^|^|^|^|なないろとくせい|毎ターンマイペース(水)属性の味方のMPが2増加する||
 ||||||||
+|☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4a4c7b54baf26088.png,55,no_link)|[[ぐりゃああぁぁ！！]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|味方全体の被ダメージが5%減少する||
+|^|^|^|^|とくせい(変化後)|味方全体の被ダメージが&color(red){6%}減少する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TXq1NHsiq4.jpg,55,no_link)|[[よるの流星]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,55,no_link)|とくせい(変化前)|与ダメージと攻撃命中率が5%増加する||
 |^|^|^|^|とくせい(変化後)|与ダメージと攻撃命中率が7%増加する||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/__txDtCAf5.png,55,no_link)|[[よるに花咲く]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|HPが60%以上のとき与ダメージが10%増加し、被ダメージが3%減少する||

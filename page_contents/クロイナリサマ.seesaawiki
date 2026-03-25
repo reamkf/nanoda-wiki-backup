@@ -84,18 +84,18 @@
 [+]ロビー時
 {|class="edit"
 |bgcolor(#ccc):||c
-|!通常|　|
-|^|　|
-|^|　|
-|^|　|
-|^|　|
-|!固定|　|
-|^|　|
-|^|　|
-|^|　|
-|!すやすや|　|
-|^|　|
-|^|　|
+|!通常|この平穏が少しでも長く続くように~~なすべきことをなしましょう|
+|^|あら　お疲れのようですね、隊長さん~~あまり根を詰めてはいけませんよ|
+|^|この地を去ることになったとしてもみなさんとの~~思い出があればさびしくはないのでしょう|
+|^|今日のヤタガラスさんは…白い姿ですか~~黒色の方がお似合いですのに…|
+|^|身だしなみには気を付けなくては…　いつどこで~~誰に見られているか、わかりませんからね|
+|!固定|どんなささいなことでもおっしゃってください~~あなたのチカラになるために私はいるのです|
+|^|キンカクとギンカク…　独り残されたキュウビコリ~~の友になってくれたふたり…　何か礼をしなくては|
+|^|キュウビコリは…読書中ですか　ふふっ~~楽しそう…　良き書に出会えたようですね|
+|^|キツネのフレンズたちは相変わらずかわいらしい~~あの子たちの笑顔のためにも役割を果たしましょう|
+|!すやすや|おいしい油揚げがいちまーい…にまーい~~いっぱいーい…♪　はむはむ…ん～…♪|
+|^|毛並みが黒かろうと…白かろうと…　はたまた~~虹色だろうと…　私の本質は変わりませんよ…|
+|^|さびしくて…荒れ果てているでしょう…~~この未来を変えられるのは……|
 |}
 [END]
 [+]戦闘時
@@ -164,45 +164,71 @@
 [+]掛け合い
 **ヤタガラス
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){情報募集中}|
-|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){情報募集中}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){白色なんて流行りじゃありません。~~あなたも黒い姿のほうが、似合っていますよ}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){そうか？余は白色の姿も気に入っておるぞ}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){ふふふ、心地よい解放感です&#9825;}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){まだまだヤンチャが過ぎる}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){やはり、黒い姿のほうがよろしいかと}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){ふふ、まあ考えておこう}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){私が…倒れるなんて…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,right){余に任せて休んでおれ}|
 |}
 [[%%%ヤタガラス　セリフ集%%%>ヤタガラス#serifu]]
+
+**キュウビコリ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){共にジャパリパークを守りましょうね、キュウビコリ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c66ae3ab7efe194c.png,right){知るか。勝手にやっていろ}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){その程度ですか？大した事ないですね、あなたも}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c66ae3ab7efe194c.png,right){侮るな。望み通り一掃してやる}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){あなたの働きに感謝を。これでパークの危機がまた一つ去りました}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c66ae3ab7efe194c.png,right){感謝の言葉などいらん。さっさと報酬をよこせ}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){あなたに無様を晒すなんて…不覚…}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c66ae3ab7efe194c.png,right){ふふっ、そこで這いつくばって待っていろ}|
+|}
+[[%%%キュウビコリ　セリフ集%%%>キュウビコリ#serifu]]
+
+**オイナリサマ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){せっかく力を持っているのに、何故使わないのです？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){使いどころを良く考えているんですよ}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){退屈な戦い方ですね、白い私}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){少しくらい加減しては？}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){力は開放してこそです。そうでしょう？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){弁えなければ、いつか痛い目を見ますよ？}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png){私では力不足だと…？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){まったく、修行が足りませんね}|
+|}
+[[%%%オイナリサマ　セリフ集%%%>オイナリサマ#serifu]]
 [END]
 [+]その他
 {|class="edit"
 |bgcolor(#ccc):||c
-|!加入|　|
+|!加入|天下泰平、開運招福　姿かたちは変われど私の~~本質は変わらぬまま　ただ少し自由なだけ~~チカラが弾けて…あｓぁ、なんという解放感&#9825;|
 |!ログインボーナス|　|
 |^|　|
-|!なかよしレベルアップ|　|
-|!レベルアップ|　|
+|!なかよしレベルアップ|この安寧が少しでも長く続くように~~パークも、みんなも、あなたのことも、私が守りましょう|
+|!レベルアップ|美味しいですね～！　あなたがいると特に&#9825;|
 |!レベル上限解放|※ふれあいの「うれしい！」と同一|
-|!野生解放|　|
-|!けも級アップ|　|
+|!野生解放|私のさらなる力、お見せしましょう！|
+|!けも級アップ|あなたの想いは受け止めました！　最善を尽くしましょう！|
 |!ミラクルレベルアップ|　|
 |!フォトポケット開放|　|
-|!着替え|　|
-|^|　|
-|^|　|
-|^|　|
-|!ふれあい|　|
-|^|　|
-|^|　|
-|^|　|
+|!着替え|私を着飾るのがそんなに楽しいのですか？|
+|^|おしゃれをするのは久しぶりですね！|
+|^|似合っていますか？　それはよかったです！|
+|^|これが当世の装いですか|
+|!ふれあい|やはり白よりも黒のほうがいい&#9825;~~あなた以外の何物にも染まらぬ証拠です|
+|^|あなたの話をもっと聞かせてください。楽しかったこと~~悲しかったこと、大変だったこと、何でも知りたいのです&#9825;|
+|^|私のことが気になりますか？　散歩もままならない~~身でしたから、あまり面白い話はできませんよ|
+|^|はむはむ、あっ、見つかってしまいましたか。~~おいしいですね、この油揚げ。うっかりつまみ食いしてしまいました&#9825;|
 |!ふれあい~~(うれしい！)|　|
 |!ふれあい~~(たのしい！)|　|
 |!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
-|!ふれあい~~(撫でる)|　|
-|^|　|
-|^|　|
-|!アシスタント選択|　|
+|!ふれあい~~(撫でる)|撫でるときはやさしく、そう、こんな風に……|
+|^|もふもふしたいのですか？　ええ、どうぞ&#9825;|
+|^|こうして触れ合うのは久方ぶりです！~~もっと撫でていただいていいですよ&#9825;|
+|!アシスタント選択|人を導くのは久方ぶりです。~~あなたの望みは何ですか？|
 |!ツリーハウス~~(はて)|　|
 |!ツリーハウス~~(待ち1)|※おてつだい(共通)の伸びボイスと同一|
 |!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
@@ -235,8 +261,7 @@
 |}
 [END]
 **掛け合い相手リンク
-|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,70)>ヤタガラス#serifu]]|
-
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png,70)>ヤタガラス#serifu]]||[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/c66ae3ab7efe194c.png,70)>キュウビコリ#serifu]]||[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,70)>オイナリサマ#serifu]]|
 *実際の動物について
  ''キツネが稲荷神の神使となったのには、いくつもの伝承があり~~ます。「食べ物を司る神、御饌津神とキツネの古名の“ケツ“~~をかけている」「穀物を食べるネズミを捕食するから」「尻尾~~の色や形が実った稲穂に似ているから」などです。キツネ像が~~白狐だけでなく時おり黒い姿で描かれることがあるのも「狐狸~~」の伝承の名残かもしれません。''
 文章
@@ -264,3 +289,6 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+
+
+

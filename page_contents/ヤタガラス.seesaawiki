@@ -214,10 +214,19 @@
 |^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,right){ヤタガラス様を、よくも…！！}|
 |}
 [[%%%ハシブトガラス　セリフ集%%%>ハシブトガラス#serifu]]
-//実装がない場合は下記のコメントアウトを外す
-//現在、掛け合いのあるフレンズはいないようダネ。
-//別属性フレンズの場合は内容を消して下記のコメントアウトを外す
-//通常の[[フレンズ名]]と同じなのデ、そちらを参照してネ。
+
+**クロイナリサマ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){良き力を持つが、まだまだ青い。よい、余が導こう}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){ヤタガラスさんの秘めたる力、しっかり見せてくださいね}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){余が手本となろう、しかと見ておくとよい}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){ちゃーんと、見させてもらいますね}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){危うげない勝利だが、その力何のために使う？}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){もちろんパークを守るため、そして私が楽しむためです}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){クロイナリサマ…任せるぞ}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){任せてください、パークを守るのが私の務めです！}|
+|}
+[[%%%クロイナリサマ　セリフ集%%%>クロイナリサマ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -277,18 +286,6 @@
 |^|''[寝起き]''|
 |^||
 |}
-**クロイナリサマ
-{|class="edit"
-|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){情報募集中}|
-|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/KcO5nHEXxd.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,right){情報募集中}|
-|}
-[[%%%クロイナリサマ　セリフ集%%%>クロイナリサマ#serifu]]
 [END]
 **掛け合い相手リンク
 |[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AvD56v_Wqk.png,70)>ハシブトガラス#serifu]]|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/379c80a686387cbf.png,70)>クロイナリサマ#serifu]]|
@@ -315,4 +312,5 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+
 

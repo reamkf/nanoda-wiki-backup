@@ -3,6 +3,48 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
+      "name": "シーサーバル道場（β2-36）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
+      "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
+      "remoteUpdatedAt": "2026-04-02T15:28:19.000Z",
+      "localUpdatedAt": "2026-04-02T15:28:19.000Z"
+    },
+    {
+      "name": "フレンズ掛け合い一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
+      "contentFile": "フレンズ掛け合い一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-02T15:27:35.000Z",
+      "localUpdatedAt": "2026-04-02T15:27:35.000Z"
+    },
+    {
+      "name": "シュバシコウ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a5%e5%a5%d0%a5%b7%a5%b3%a5%a6",
+      "contentFile": "シュバシコウ.seesaawiki",
+      "remoteUpdatedAt": "2026-04-02T15:26:47.000Z",
+      "localUpdatedAt": "2026-04-02T15:26:47.000Z"
+    },
+    {
+      "name": "コウノトリ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b3%a5%a6%a5%ce%a5%c8%a5%ea",
+      "contentFile": "コウノトリ.seesaawiki",
+      "remoteUpdatedAt": "2026-04-02T15:26:23.000Z",
+      "localUpdatedAt": "2026-04-02T15:26:23.000Z"
+    },
+    {
+      "name": "シーサーバル道場・概要",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%a6%b3%b5%cd%d7",
+      "contentFile": "シーサーバル道場・概要.seesaawiki",
+      "remoteUpdatedAt": "2026-04-02T15:25:43.000Z",
+      "localUpdatedAt": "2026-04-02T15:25:43.000Z"
+    },
+    {
+      "name": "しょうたい（ガチャ）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%b7%a4%e7%a4%a6%a4%bf%a4%a4%a1%ca%a5%ac%a5%c1%a5%e3%a1%cb",
+      "contentFile": "しょうたい（ガチャ）.seesaawiki",
+      "remoteUpdatedAt": "2026-04-02T14:55:59.000Z",
+      "localUpdatedAt": "2026-04-02T14:55:59.000Z"
+    },
+    {
       "name": "四神玉のシール",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%bb%cd%bf%c0%b6%cc%a4%ce%a5%b7%a1%bc%a5%eb",
       "contentFile": "四神玉のシール.seesaawiki",
@@ -50,13 +92,6 @@
       "contentFile": "ウミウ.seesaawiki",
       "remoteUpdatedAt": "2026-04-02T12:39:36.000Z",
       "localUpdatedAt": "2026-04-02T12:39:36.000Z"
-    },
-    {
-      "name": "コウノトリ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b3%a5%a6%a5%ce%a5%c8%a5%ea",
-      "contentFile": "コウノトリ.seesaawiki",
-      "remoteUpdatedAt": "2026-04-02T12:39:20.000Z",
-      "localUpdatedAt": "2026-04-02T12:39:20.000Z"
     },
     {
       "name": "地形",
@@ -115,13 +150,6 @@
       "localUpdatedAt": "2026-04-02T12:18:58.000Z"
     },
     {
-      "name": "シーサーバル道場（β2-36）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
-      "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
-      "remoteUpdatedAt": "2026-04-02T12:14:04.000Z",
-      "localUpdatedAt": "2026-04-02T12:14:04.000Z"
-    },
-    {
       "name": "称号一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
       "contentFile": "称号一覧.seesaawiki",
@@ -164,13 +192,6 @@
       "localUpdatedAt": "2026-04-02T12:10:01.000Z"
     },
     {
-      "name": "シュバシコウ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a5%e5%a5%d0%a5%b7%a5%b3%a5%a6",
-      "contentFile": "シュバシコウ.seesaawiki",
-      "remoteUpdatedAt": "2026-04-02T12:09:30.000Z",
-      "localUpdatedAt": "2026-04-02T12:09:30.000Z"
-    },
-    {
       "name": "シールコレクション",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
       "contentFile": "シールコレクション.seesaawiki",
@@ -190,13 +211,6 @@
       "contentFile": "マカミ.seesaawiki",
       "remoteUpdatedAt": "2026-04-01T09:52:58.000Z",
       "localUpdatedAt": "2026-04-01T09:52:58.000Z"
-    },
-    {
-      "name": "フレンズ掛け合い一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
-      "contentFile": "フレンズ掛け合い一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-03-31T23:22:00.000Z",
-      "localUpdatedAt": "2026-03-31T23:22:00.000Z"
     },
     {
       "name": "シーサーバル道場（β2-35）",
@@ -1541,13 +1555,6 @@
       "contentFile": "おすすめのばしょでち！.seesaawiki",
       "remoteUpdatedAt": "2025-12-18T15:24:25.000Z",
       "localUpdatedAt": "2025-12-18T15:24:25.000Z"
-    },
-    {
-      "name": "しょうたい（ガチャ）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%b7%a4%e7%a4%a6%a4%bf%a4%a4%a1%ca%a5%ac%a5%c1%a5%e3%a1%cb",
-      "contentFile": "しょうたい（ガチャ）.seesaawiki",
-      "remoteUpdatedAt": "2025-12-18T10:28:43.000Z",
-      "localUpdatedAt": "2025-12-18T10:28:43.000Z"
     },
     {
       "name": "ホロホロチョウ",
@@ -4061,13 +4068,6 @@
       "contentFile": "おーきーてー！.seesaawiki",
       "remoteUpdatedAt": "2025-10-10T06:09:28.000Z",
       "localUpdatedAt": "2025-10-10T06:09:28.000Z"
-    },
-    {
-      "name": "シーサーバル道場・概要",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%a6%b3%b5%cd%d7",
-      "contentFile": "シーサーバル道場・概要.seesaawiki",
-      "remoteUpdatedAt": "2025-10-08T02:12:27.000Z",
-      "localUpdatedAt": "2025-10-08T02:12:27.000Z"
     },
     {
       "name": "すぺしゃるクエスト",
@@ -11861,5 +11861,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-04-02T12:54:32.913Z"
+  "fetchedAt": "2026-04-02T15:28:43.422Z"
 }

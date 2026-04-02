@@ -196,6 +196,18 @@ Actionが不足しがちなフレンドリー属性で20と30のAciton2枚持ち
 |^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,right){休息も必要って事だね……}|
 |}
 [[%%%ゴシンギュウサマ　セリフ集%%%>ゴシンギュウサマ#serifu]]
+**オイナリサマ
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png){厄介そうね。オイナリサマ、力を貸して}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){ええ、一緒に片付けましょうマカミさん}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png){まだまだいるのね}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){マカミさん、頼りにしてますよ}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png){なんとかなったわ。あ、おにぎり、どう？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){まあ、では『おいなりさん』と交換で}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/W91PY297Li.png){オイナリサマ…わたしの代わりにみんなを…}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,right){任せてください！}|
+|}
+[[%%%オイナリサマ　セリフ集%%%>オイナリサマ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -257,7 +269,7 @@ Actionが不足しがちなフレンドリー属性で20と30のAciton2枚持ち
 |}
 [END]
 **掛け合い相手リンク
-|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,70)>ゴシンギュウサマ#serifu]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7gHbCgWimz.png,70)>ゴシンギュウサマ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/0YYCmzFZgK.png,70)>オイナリサマ#serifu]]|
 *実際の動物について
  ''かつて日本の野山を駆けていた野生のオオカミは、人々に「真神（まかみ）」として神格崇拝されてきました。~~関東秩父地方には日本武尊の道案内をした白狼の伝承も残っており、大口真神（おおぐちのまかみ）とも呼ばれ、魔除け・盗難除けの神として広く知られています。''
 文章
@@ -270,7 +282,7 @@ Actionが不足しがちなフレンドリー属性で20と30のAciton2枚持ち
 
 **特別衣装
 ***ふわもこパジャマ
-&attachref(50%)
+&attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0e008fc5d09adc40.jpg,50%)
 
 //***パーティドレス
 //[+]&color(#ff0000){''ネタバレ注意！''}
@@ -285,3 +297,4 @@ Actionが不足しがちなフレンドリー属性で20と30のAciton2枚持ち
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 &video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ocsQPgAlgY.webm){400,240}
 &video(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sT1cmfW777.webm){400,240}
+

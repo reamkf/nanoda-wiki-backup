@@ -6,8 +6,22 @@
       "name": "シーサーバル道場（β2-36）",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
       "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
-      "remoteUpdatedAt": "2026-04-02T15:28:19.000Z",
-      "localUpdatedAt": "2026-04-02T15:28:19.000Z"
+      "remoteUpdatedAt": "2026-04-04T23:59:21.000Z",
+      "localUpdatedAt": "2026-04-04T23:59:21.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-34）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d34%a1%cb",
+      "contentFile": "シーサーバル道場（β2-34）.seesaawiki",
+      "remoteUpdatedAt": "2026-04-03T15:02:46.000Z",
+      "localUpdatedAt": "2026-04-03T15:02:46.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-35）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d35%a1%cb",
+      "contentFile": "シーサーバル道場（β2-35）.seesaawiki",
+      "remoteUpdatedAt": "2026-04-03T15:02:26.000Z",
+      "localUpdatedAt": "2026-04-03T15:02:26.000Z"
     },
     {
       "name": "フレンズ掛け合い一覧",
@@ -211,13 +225,6 @@
       "contentFile": "マカミ.seesaawiki",
       "remoteUpdatedAt": "2026-04-01T09:52:58.000Z",
       "localUpdatedAt": "2026-04-01T09:52:58.000Z"
-    },
-    {
-      "name": "シーサーバル道場（β2-35）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d35%a1%cb",
-      "contentFile": "シーサーバル道場（β2-35）.seesaawiki",
-      "remoteUpdatedAt": "2026-03-31T09:42:21.000Z",
-      "localUpdatedAt": "2026-03-31T09:42:21.000Z"
     },
     {
       "name": "ハシブトガラス",
@@ -995,13 +1002,6 @@
       "contentFile": "シーサーバル道場（β2-33）.seesaawiki",
       "remoteUpdatedAt": "2026-01-31T14:54:57.000Z",
       "localUpdatedAt": "2026-01-31T14:54:57.000Z"
-    },
-    {
-      "name": "シーサーバル道場（β2-34）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d34%a1%cb",
-      "contentFile": "シーサーバル道場（β2-34）.seesaawiki",
-      "remoteUpdatedAt": "2026-01-31T14:53:41.000Z",
-      "localUpdatedAt": "2026-01-31T14:53:41.000Z"
     },
     {
       "name": "イベント攻略",
@@ -11861,5 +11861,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-04-02T15:28:43.422Z"
+  "fetchedAt": "2026-04-05T00:00:25.090Z"
 }

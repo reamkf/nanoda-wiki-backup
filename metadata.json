@@ -3,6 +3,27 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
+      "name": "ゴールドのシール",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a1%bc%a5%eb%a5%c9%a4%ce%a5%b7%a1%bc%a5%eb",
+      "contentFile": "ゴールドのシール.seesaawiki",
+      "remoteUpdatedAt": "2026-04-11T14:31:16.000Z",
+      "localUpdatedAt": "2026-04-11T14:31:16.000Z"
+    },
+    {
+      "name": "アライグマのシール",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a2%a5%e9%a5%a4%a5%b0%a5%de%a4%ce%a5%b7%a1%bc%a5%eb",
+      "contentFile": "アライグマのシール.seesaawiki",
+      "remoteUpdatedAt": "2026-04-11T14:30:55.000Z",
+      "localUpdatedAt": "2026-04-11T14:30:55.000Z"
+    },
+    {
+      "name": "マジカルキャンディオール（小）のシール",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%de%a5%b8%a5%ab%a5%eb%a5%ad%a5%e3%a5%f3%a5%c7%a5%a3%a5%aa%a1%bc%a5%eb%a1%ca%be%ae%a1%cb%a4%ce%a5%b7%a1%bc%a5%eb",
+      "contentFile": "マジカルキャンディオール（小）のシール.seesaawiki",
+      "remoteUpdatedAt": "2026-04-11T14:30:25.000Z",
+      "localUpdatedAt": "2026-04-11T14:30:25.000Z"
+    },
+    {
       "name": "フレンズ一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
       "contentFile": "フレンズ一覧.seesaawiki",
@@ -507,13 +528,6 @@
       "localUpdatedAt": "2026-03-25T10:41:07.000Z"
     },
     {
-      "name": "マジカルキャンディオール（小）のシール",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%de%a5%b8%a5%ab%a5%eb%a5%ad%a5%e3%a5%f3%a5%c7%a5%a3%a5%aa%a1%bc%a5%eb%a1%ca%be%ae%a1%cb%a4%ce%a5%b7%a1%bc%a5%eb",
-      "contentFile": "マジカルキャンディオール（小）のシール.seesaawiki",
-      "remoteUpdatedAt": "2026-03-25T10:16:30.000Z",
-      "localUpdatedAt": "2026-03-25T10:16:30.000Z"
-    },
-    {
       "name": "おしゃれメダルのシール",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%aa%a4%b7%a4%e3%a4%ec%a5%e1%a5%c0%a5%eb%a4%ce%a5%b7%a1%bc%a5%eb",
       "contentFile": "おしゃれメダルのシール.seesaawiki",
@@ -528,25 +542,11 @@
       "localUpdatedAt": "2026-03-25T10:16:07.000Z"
     },
     {
-      "name": "ゴールドのシール",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a1%bc%a5%eb%a5%c9%a4%ce%a5%b7%a1%bc%a5%eb",
-      "contentFile": "ゴールドのシール.seesaawiki",
-      "remoteUpdatedAt": "2026-03-25T10:15:54.000Z",
-      "localUpdatedAt": "2026-03-25T10:15:54.000Z"
-    },
-    {
       "name": "ジャパリカリカリのシール",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b8%a5%e3%a5%d1%a5%ea%a5%ab%a5%ea%a5%ab%a5%ea%a4%ce%a5%b7%a1%bc%a5%eb",
       "contentFile": "ジャパリカリカリのシール.seesaawiki",
       "remoteUpdatedAt": "2026-03-25T10:15:47.000Z",
       "localUpdatedAt": "2026-03-25T10:15:47.000Z"
-    },
-    {
-      "name": "アライグマのシール",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a2%a5%e9%a5%a4%a5%b0%a5%de%a4%ce%a5%b7%a1%bc%a5%eb",
-      "contentFile": "アライグマのシール.seesaawiki",
-      "remoteUpdatedAt": "2026-03-25T10:14:41.000Z",
-      "localUpdatedAt": "2026-03-25T10:14:41.000Z"
     },
     {
       "name": "サーバルのシール",
@@ -11861,5 +11861,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-04-11T13:41:19.127Z"
+  "fetchedAt": "2026-04-11T14:31:39.645Z"
 }

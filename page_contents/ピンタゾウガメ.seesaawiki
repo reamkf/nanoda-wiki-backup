@@ -177,21 +177,18 @@ MP140の2ターンバフはWバフするには極めて厳しいので、ギブ�
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-**相手フレンズ名
+**ファウストガメ
 {|class="edit"
-|bgcolor(#ccc):||c
-|!クエスト開始時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!WAVE移行時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!クエスト終了時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!ギブアップ時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-[[%%%相手フレンズ　セリフ集%%%>相手フレンズ#serifu]]
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/12b83853d92b3abc.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/11e7a5d9b07b0f8e.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/12b83853d92b3abc.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/11e7a5d9b07b0f8e.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/12b83853d92b3abc.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/11e7a5d9b07b0f8e.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/12b83853d92b3abc.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/11e7a5d9b07b0f8e.png,right){情報募集中}|
 |}
-//現在、掛け合いのあるフレンズはいないようダネ。
-//
+[[%%%ファウストガメ　セリフ集%%%>ファウストガメ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -253,8 +250,7 @@ MP140の2ターンバフはWバフするには極めて厳しいので、ギブ�
 |}
 [END]
 **掛け合い相手リンク
-//|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/.png,70)>ミーアキャット#serifu]]|
-情報募集中
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/11e7a5d9b07b0f8e.png,70)>ファウストガメ#serifu]]|
 *実際の動物について
  ''かつてビンタ島で穏やかに暮らしていましたが、食用の乱獲、~~家畜による植生の破壊、ネズミなどによる卵や幼体の捕食によ~~り絶滅しました。１９７１年に１頭のオスの生存が確認され「~~ロンサム・ジョージ」と名付け保護していましたが、２０１２~~年に亡くなりました。推定１００歳を超えていたそうです。''
 文章
@@ -282,3 +278,4 @@ MP140の2ターンバフはWバフするには極めて厳しいので、ギブ�
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+

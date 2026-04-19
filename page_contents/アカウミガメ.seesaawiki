@@ -162,21 +162,18 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-**相手フレンズ名
+**アオウミガメ
 {|class="edit"
-|bgcolor(#ccc):||c
-|!クエスト開始時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!WAVE移行時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!クエスト終了時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!ギブアップ時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-[[%%%相手フレンズ　セリフ集%%%>相手フレンズ#serifu]]
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
 |}
-//現在、掛け合いのあるフレンズはいないようダネ。
-//
+[[%%%アオウミガメ　セリフ集%%%>アオウミガメ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -238,8 +235,8 @@
 |}
 [END]
 **掛け合い相手リンク
-//|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/.png,70)>ミーアキャット#serifu]]|
-情報募集中
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,70)>アオウミガメ#serifu]]|
+
 *実際の動物について
  ''温帯から亜熱帯にかけての海洋に生息しています。北太平洋で~~は日本が主な産卵場所で、子ガメは暖かい黒潮にのって太平洋~~を横断、アメリカ沿岸で成長し大きくなると北赤道海流にのつ~~て日本へ戻ってくるのです。雑食ですが貝類や甲殻類を好み、~~硬いものを食べるためアオウミガメより顎が大きく発達してい~~ます。''
 文章

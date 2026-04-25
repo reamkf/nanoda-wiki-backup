@@ -3,18 +3,137 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
-      "name": "シーサーバル道場（β2-36）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
-      "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T08:22:10.000Z",
-      "localUpdatedAt": "2026-04-19T08:22:10.000Z"
+      "name": "フレンズ衣装一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
+      "contentFile": "フレンズ衣装一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T02:01:20.000Z",
+      "localUpdatedAt": "2026-04-25T02:01:20.000Z"
+    },
+    {
+      "name": "キングペンギン",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ad%a5%f3%a5%b0%a5%da%a5%f3%a5%ae%a5%f3",
+      "contentFile": "キングペンギン.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:59:39.000Z",
+      "localUpdatedAt": "2026-04-25T01:59:39.000Z"
+    },
+    {
+      "name": "ヒゲペンギン",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d2%a5%b2%a5%da%a5%f3%a5%ae%a5%f3",
+      "contentFile": "ヒゲペンギン.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:59:18.000Z",
+      "localUpdatedAt": "2026-04-25T01:59:18.000Z"
+    },
+    {
+      "name": "おしゃれアクセ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%aa%a4%b7%a4%e3%a4%ec%a5%a2%a5%af%a5%bb",
+      "contentFile": "おしゃれアクセ.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:55:37.000Z",
+      "localUpdatedAt": "2026-04-25T01:55:37.000Z"
     },
     {
       "name": "シールコレクション",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
       "contentFile": "シールコレクション.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T07:27:56.000Z",
-      "localUpdatedAt": "2026-04-19T07:27:56.000Z"
+      "remoteUpdatedAt": "2026-04-25T01:53:14.000Z",
+      "localUpdatedAt": "2026-04-25T01:53:14.000Z"
+    },
+    {
+      "name": "フレンズ掛け合い一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
+      "contentFile": "フレンズ掛け合い一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:49:24.000Z",
+      "localUpdatedAt": "2026-04-25T01:49:24.000Z"
+    },
+    {
+      "name": "おとどちゃん",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%aa%a4%c8%a4%c9%a4%c1%a4%e3%a4%f3",
+      "contentFile": "おとどちゃん.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:48:51.000Z",
+      "localUpdatedAt": "2026-04-25T01:48:51.000Z"
+    },
+    {
+      "name": "アオウミガメ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a2%a5%aa%a5%a6%a5%df%a5%ac%a5%e1",
+      "contentFile": "アオウミガメ.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:48:25.000Z",
+      "localUpdatedAt": "2026-04-25T01:48:25.000Z"
+    },
+    {
+      "name": "アカウミガメ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a2%a5%ab%a5%a6%a5%df%a5%ac%a5%e1",
+      "contentFile": "アカウミガメ.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:46:57.000Z",
+      "localUpdatedAt": "2026-04-25T01:46:57.000Z"
+    },
+    {
+      "name": "動物フォト一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
+      "contentFile": "動物フォト一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:43:52.000Z",
+      "localUpdatedAt": "2026-04-25T01:43:52.000Z"
+    },
+    {
+      "name": "フレンズCV一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%baCV%b0%ec%cd%f7",
+      "contentFile": "フレンズCV一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:40:24.000Z",
+      "localUpdatedAt": "2026-04-25T01:40:24.000Z"
+    },
+    {
+      "name": "フレンズオーダー一覧表",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%a5%aa%a1%bc%a5%c0%a1%bc%b0%ec%cd%f7%c9%bd",
+      "contentFile": "フレンズオーダー一覧表.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:39:56.000Z",
+      "localUpdatedAt": "2026-04-25T01:39:56.000Z"
+    },
+    {
+      "name": "ラブリー（桃）属性フレンズ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e9%a5%d6%a5%ea%a1%bc%a1%ca%c5%ed%a1%cb%c2%b0%c0%ad%a5%d5%a5%ec%a5%f3%a5%ba",
+      "contentFile": "ラブリー（桃）属性フレンズ.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:39:33.000Z",
+      "localUpdatedAt": "2026-04-25T01:39:33.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-36）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
+      "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:39:16.000Z",
+      "localUpdatedAt": "2026-04-25T01:39:16.000Z"
+    },
+    {
+      "name": "フレンズ一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
+      "contentFile": "フレンズ一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:34:23.000Z",
+      "localUpdatedAt": "2026-04-25T01:34:23.000Z"
+    },
+    {
+      "name": "称号一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
+      "contentFile": "称号一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:33:43.000Z",
+      "localUpdatedAt": "2026-04-25T01:33:43.000Z"
+    },
+    {
+      "name": "なんだかほっとけない！",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%f3%a4%c0%a4%ab%a4%db%a4%c3%a4%c8%a4%b1%a4%ca%a4%a4%a1%aa",
+      "contentFile": "なんだかほっとけない！.seesaawiki",
+      "remoteUpdatedAt": "2026-04-25T01:23:56.000Z",
+      "localUpdatedAt": "2026-04-25T01:23:56.000Z"
+    },
+    {
+      "name": "ブームスラング",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d6%a1%bc%a5%e0%a5%b9%a5%e9%a5%f3%a5%b0",
+      "contentFile": "ブームスラング.seesaawiki",
+      "remoteUpdatedAt": "2026-04-22T19:57:17.000Z",
+      "localUpdatedAt": "2026-04-22T19:57:17.000Z"
+    },
+    {
+      "name": "サーバル",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b5%a1%bc%a5%d0%a5%eb",
+      "contentFile": "サーバル.seesaawiki",
+      "remoteUpdatedAt": "2026-04-19T09:34:28.000Z",
+      "localUpdatedAt": "2026-04-19T09:34:28.000Z"
     },
     {
       "name": "過去のイベント",
@@ -24,74 +143,11 @@
       "localUpdatedAt": "2026-04-19T07:12:33.000Z"
     },
     {
-      "name": "称号一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
-      "contentFile": "称号一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T07:10:19.000Z",
-      "localUpdatedAt": "2026-04-19T07:10:19.000Z"
-    },
-    {
-      "name": "動物フォト一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
-      "contentFile": "動物フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T07:09:57.000Z",
-      "localUpdatedAt": "2026-04-19T07:09:57.000Z"
-    },
-    {
-      "name": "フレンズCV一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%baCV%b0%ec%cd%f7",
-      "contentFile": "フレンズCV一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T07:09:15.000Z",
-      "localUpdatedAt": "2026-04-19T07:09:15.000Z"
-    },
-    {
-      "name": "フレンズオーダー一覧表",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%a5%aa%a1%bc%a5%c0%a1%bc%b0%ec%cd%f7%c9%bd",
-      "contentFile": "フレンズオーダー一覧表.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T07:08:51.000Z",
-      "localUpdatedAt": "2026-04-19T07:08:51.000Z"
-    },
-    {
       "name": "リラックス（青）属性フレンズ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ea%a5%e9%a5%c3%a5%af%a5%b9%a1%ca%c0%c4%a1%cb%c2%b0%c0%ad%a5%d5%a5%ec%a5%f3%a5%ba",
       "contentFile": "リラックス（青）属性フレンズ.seesaawiki",
       "remoteUpdatedAt": "2026-04-19T07:08:39.000Z",
       "localUpdatedAt": "2026-04-19T07:08:39.000Z"
-    },
-    {
-      "name": "フレンズ一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
-      "contentFile": "フレンズ一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T06:56:23.000Z",
-      "localUpdatedAt": "2026-04-19T06:56:23.000Z"
-    },
-    {
-      "name": "フレンズ衣装一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
-      "contentFile": "フレンズ衣装一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T06:54:40.000Z",
-      "localUpdatedAt": "2026-04-19T06:54:40.000Z"
-    },
-    {
-      "name": "フレンズ掛け合い一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
-      "contentFile": "フレンズ掛け合い一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T06:51:56.000Z",
-      "localUpdatedAt": "2026-04-19T06:51:56.000Z"
-    },
-    {
-      "name": "アカウミガメ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a2%a5%ab%a5%a6%a5%df%a5%ac%a5%e1",
-      "contentFile": "アカウミガメ.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T06:51:12.000Z",
-      "localUpdatedAt": "2026-04-19T06:51:12.000Z"
-    },
-    {
-      "name": "アオウミガメ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a2%a5%aa%a5%a6%a5%df%a5%ac%a5%e1",
-      "contentFile": "アオウミガメ.seesaawiki",
-      "remoteUpdatedAt": "2026-04-19T06:50:05.000Z",
-      "localUpdatedAt": "2026-04-19T06:50:05.000Z"
     },
     {
       "name": "効果別フォト早見表",
@@ -106,13 +162,6 @@
       "contentFile": "フォト一覧.seesaawiki",
       "remoteUpdatedAt": "2026-04-17T15:22:39.000Z",
       "localUpdatedAt": "2026-04-17T15:22:39.000Z"
-    },
-    {
-      "name": "なんだかほっとけない！",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%f3%a4%c0%a4%ab%a4%db%a4%c3%a4%c8%a4%b1%a4%ca%a4%a4%a1%aa",
-      "contentFile": "なんだかほっとけない！.seesaawiki",
-      "remoteUpdatedAt": "2026-04-17T15:21:09.000Z",
-      "localUpdatedAt": "2026-04-17T15:21:09.000Z"
     },
     {
       "name": "イチバンの波",
@@ -731,13 +780,6 @@
       "localUpdatedAt": "2026-03-19T15:31:53.000Z"
     },
     {
-      "name": "ラブリー（桃）属性フレンズ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e9%a5%d6%a5%ea%a1%bc%a1%ca%c5%ed%a1%cb%c2%b0%c0%ad%a5%d5%a5%ec%a5%f3%a5%ba",
-      "contentFile": "ラブリー（桃）属性フレンズ.seesaawiki",
-      "remoteUpdatedAt": "2026-03-19T15:28:25.000Z",
-      "localUpdatedAt": "2026-03-19T15:28:25.000Z"
-    },
-    {
       "name": "オコジョ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%aa%a5%b3%a5%b8%a5%e7",
       "contentFile": "オコジョ.seesaawiki",
@@ -841,13 +883,6 @@
       "contentFile": "ジョフロイネコ.seesaawiki",
       "remoteUpdatedAt": "2026-03-04T14:19:49.000Z",
       "localUpdatedAt": "2026-03-04T14:19:49.000Z"
-    },
-    {
-      "name": "おしゃれアクセ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%aa%a4%b7%a4%e3%a4%ec%a5%a2%a5%af%a5%bb",
-      "contentFile": "おしゃれアクセ.seesaawiki",
-      "remoteUpdatedAt": "2026-03-02T06:44:00.000Z",
-      "localUpdatedAt": "2026-03-02T06:44:00.000Z"
     },
     {
       "name": "エメラルドツリーボア",
@@ -1156,20 +1191,6 @@
       "contentFile": "ケープペンギン.seesaawiki",
       "remoteUpdatedAt": "2026-01-29T10:58:18.000Z",
       "localUpdatedAt": "2026-01-29T10:58:18.000Z"
-    },
-    {
-      "name": "キングペンギン",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ad%a5%f3%a5%b0%a5%da%a5%f3%a5%ae%a5%f3",
-      "contentFile": "キングペンギン.seesaawiki",
-      "remoteUpdatedAt": "2026-01-29T10:57:22.000Z",
-      "localUpdatedAt": "2026-01-29T10:57:22.000Z"
-    },
-    {
-      "name": "ヒゲペンギン",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d2%a5%b2%a5%da%a5%f3%a5%ae%a5%f3",
-      "contentFile": "ヒゲペンギン.seesaawiki",
-      "remoteUpdatedAt": "2026-01-29T10:56:29.000Z",
-      "localUpdatedAt": "2026-01-29T10:56:29.000Z"
     },
     {
       "name": "ジャイアントペンギン",
@@ -1569,13 +1590,6 @@
       "contentFile": "サゴジョウ.seesaawiki",
       "remoteUpdatedAt": "2025-12-29T10:50:26.000Z",
       "localUpdatedAt": "2025-12-29T10:50:26.000Z"
-    },
-    {
-      "name": "ブームスラング",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d6%a1%bc%a5%e0%a5%b9%a5%e9%a5%f3%a5%b0",
-      "contentFile": "ブームスラング.seesaawiki",
-      "remoteUpdatedAt": "2025-12-29T10:32:04.000Z",
-      "localUpdatedAt": "2025-12-29T10:32:04.000Z"
     },
     {
       "name": "アナコンダ",
@@ -3312,13 +3326,6 @@
       "contentFile": "カルガモ.seesaawiki",
       "remoteUpdatedAt": "2025-10-27T09:32:03.000Z",
       "localUpdatedAt": "2025-10-27T09:32:03.000Z"
-    },
-    {
-      "name": "サーバル",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b5%a1%bc%a5%d0%a5%eb",
-      "contentFile": "サーバル.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T09:31:51.000Z",
-      "localUpdatedAt": "2025-10-27T09:31:51.000Z"
     },
     {
       "name": "【頼れる副隊長】ドール",
@@ -11896,5 +11903,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-04-19T08:23:17.427Z"
+  "fetchedAt": "2026-04-25T02:45:57.203Z"
 }

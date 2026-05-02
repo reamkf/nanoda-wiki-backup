@@ -156,6 +156,7 @@
 *寒冷地
 |center|center|left|center|left|left|c
 |r[bgcolor(#dcdcdc)]:~ ☆ |>||属性|種別|効果|備考|
+|☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b9a6155606ec5f05.png,55,no_link)|[[ニホンツキノワグマ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b5kQyuXIZZ.png,no_link)|とくせい|自身の与ダメージが10%減少し~~被ダメージが10%減少する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f5cecbf64ddd0d81.png,55,no_link)|[[クルペオギツネ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,no_link)|とくせい|自身の与ダメージが15%減少し~~自身を除く味方全体の与ダメージが20%増加する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DQFkA74Dee.jpeg,55,no_link)|[[ユキウサギ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b5kQyuXIZZ.png,no_link)|とくせい|自身の与ダメージが10％増加する||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6eWJkNeb_s.png,55,no_link)|[[ホワイトカリブー]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,no_link)|とくせい|アクティブ(黄緑)属性の相手全体の攻撃命中率を10%減少する||
@@ -236,6 +237,7 @@
 *夜
 |center|center|left|center|left|left|c
 |r[bgcolor(#dcdcdc)]:~ ☆ |>||属性|種別|効果|備考|
+|☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b9a6155606ec5f05.png,55,no_link)|[[ニホンツキノワグマ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b5kQyuXIZZ.png,no_link)|キセキとくせい|自身の与ダメージが10%減少し~~被ダメージが10%減少する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f5cecbf64ddd0d81.png,55,no_link)|[[クルペオギツネ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7qOukM1TmN.png,no_link)|キセキとくせい|味方全体の全体攻撃による被ダメージが20%減少する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cafcc4e192115549.png,55,no_link)|[[シロフクロウ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/J1JIo1nE4W.png,no_link)|キセキとくせい|自身の被ダメージが20%減少し~~毎ターンたいりょくが5%回復する||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1I3hrhVNeA.png,55,no_link)|[[フクロミツスイ]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wV27pQ3TaJ.png,no_link)|とくせい|味方全体の与ダメージが8%増加し~~自身の全状態異常耐性(低)が増加する||
@@ -273,6 +275,8 @@
 |☆2|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/91_xiccfsF.png,55,no_link)|[[ヤマバク]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,55,no_link)|とくせい|MPが12増加する||
 |^|^|^|^|なないろとくせい|毎ターンマイペース(水)属性の味方のMPが2増加する||
 ||||||||
+|☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1053d3cad7b139f9.png,55,no_link)|[[ざわざわ、こつん]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|自身の被ダメージが2%減少する||
+|^|^|^|^|とくせい(変化後)|自身の被ダメージが&color(red){4%}減少する||
 |☆4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4a4c7b54baf26088.png,55,no_link)|[[ぐりゃああぁぁ！！]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|味方全体の被ダメージが5%減少する||
 |^|^|^|^|とくせい(変化後)|味方全体の被ダメージが&color(red){6%}減少する||
 |☆4|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/TXq1NHsiq4.jpg,55,no_link)|[[よるの流星]]|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,55,no_link)|とくせい(変化前)|与ダメージと攻撃命中率が5%増加する||
@@ -287,11 +291,4 @@
 |^|^|^|^|とくせい(変化後)|^|地形条件なしでHP80%以下で5%あり|
 |☆3|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cAti56GtKW.png,55,no_link)|[[タマゴのみちびき]]|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,55,no_link)|とくせい(変化前)|かいひが2%増加する|地形条件なしでHP60%以下で2%あり|
 |^|^|^|^|とくせい(変化後)|かいひが3%増加する|地形条件なしでHP80%以下で3%あり|
-
-
-
-
-
-
-
 

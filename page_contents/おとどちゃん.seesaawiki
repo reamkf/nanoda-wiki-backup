@@ -42,7 +42,21 @@
 //足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 **戦闘について
-文章
+待機とミラクルでのMP配布、常時効果とミラクルでの強力なバフ、そして何より瀕死になることで起動するMP満タン効果が光るバッファー。
+
+敵の大技等を根性で耐え、HP10%以下が条件のMP満タン効果を起動してWバフするというコンセプト。
+発動さえできればMPフォトやActionフラッグ等々を一切気にせずバフを重ねられる。
+
+ミラクルでは全体バフとMP配布に加えて、ランダムな味方1人の体力を全快するというこれまた豪快かつ不安定な効果も持つ。
+[[HCヤタガラス>【神代の白き翼】ヤタガラス]]とは好相性な反面、ダメージ増加フォトとして優秀な[[自然のお宝を求めて]]や[[渾身の一発]]の発動を邪魔するリスクがある。
+ランダムなのも問題で、アテにするにも当たらないように祈るにも運が絡んでしまう。
+
+とくいわざでは低確率ながらしょんぼりきぶん付与も持っている。
+状態異常付与要員として活かすなら、アタッカーに[[神域の一皿]]は積んでおきたいところ。
+ただしおとどちゃんBeatを振れるだけの行動数の余裕があるかは考えておく必要がある。
+
+若干クセはあるものの強力なバッファーであることには違いないだろう。
+
 //***スキル詳細
 //[+]
 //***けものミラクル：GOGO！ハマスイ！　※必要MP110/ミラクルLv5
@@ -76,7 +90,9 @@
 
 *キャラクターについて
  ''「ハマスイの宣伝大使、おとどです&#9825;~~ハイテンション看板娘です!！　好きなものはエサとさ…~~えつ、これもＮＧ？　パークでの宣伝も楽やないねえ。~~いつもの見た目やとフレンズのみんなあをビビらしてしまうきよ！~~美に拍車をかけたおニューの姿に大変身ちや！~~パークもえいトコやけんど、ハマスイもしょうえいトコで！~~スイゾクらあともどもよろしゅうね☆」''
-文章
+桂浜水族館(ハマスイ)コラボで実装されたキャラクター。
+本作においては、宣伝のためにパワーを爆発させた結果、おとどちゃんが増えてしまう事態が発生。
+おあざらしちゃん、データおとど、ポスターおとど、NGおとど、おしとやかおとどの総勢五人の存在が確認された。
 
 ＣＶ：小松里歌（けもフレ３）
 &aname(serifu)
@@ -89,13 +105,13 @@
 |^|　|
 |^|　|
 |^|　|
-|!固定|　|
+|!固定|今日はアオウミガメちゃんといっしょに宣伝！~~いつもの姿にならんよう頑張るでー！|
 |^|　|
 |^|　|
 |^|　|
-|!すやすや|　|
-|^|　|
-|^|　|
+|!すやすや|みんな違って...~~みんな...いい加減にしろっ...!|
+|^|おとども...カリフォルニアアシカちゃんも...~~アサラシやないんもん...!|
+|^|乗るしかない...このビックウェーブに...!~~うぉぉお...あっ...足を瞑らして...ごぼぼぼぼ...|
 |}
 [END]
 [+]戦闘時
@@ -124,22 +140,22 @@
 |^|　|
 |^|　|
 |!ダメージ|[''通常攻撃'']|
-|^|　|
+|^|あたっ！|
 |^|　|
 |^|[''強攻撃'']|
-|^|　|
-|^|　|
+|^|もったいないや~|
+|^|なっちゃない！|
 |^|　|
 |^|　|
 |^|[''ちからくらべ'']|
+|^|大津いな~|
 |^|　|
 |^|　|
 |^|　|
-|^|　|
-|!どく状態|　|
-|^|　|
+|!どく状態|おとどは...漁らしゃった？|
+|^|いかん、喉悪い|
 |!ギブアップ|[''セルリアン戦'']|
-|^|　|
+|^|すべて最後に...ハマスイの宣伝を...! ガクッ|
 |^|[''ちからくらべ'']|
 |^|　|
 |^|　|
@@ -164,26 +180,26 @@
 [+]掛け合い
 **アカウミガメ
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
-|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){どういたらハマスイにお客さんがこじゃんとくるがやろ？}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){一緒に考えよっか～}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){交通の便が悪いがかネックながよ～}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){わたしが泳いで、お客さんを連れて行けばいいんじゃない？}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){ハマスイはまっことええとこやき}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){みんなきてね～。泳げない子は、わたしが運んであげるよ～！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){くっ…お土産の宣伝はまかした…！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){はいは～い！わたしのお気に入りは、おとどちゃんのクッキーだよ！}|
 |}
 [[%%%アカウミガメ　セリフ集%%%>アカウミガメ#serifu]]
 **アオウミガメ
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
-|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){情報募集中}|
-|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){情報募集中}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){一緒に宣伝じゃー！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){ハマスイはいいとこだよ～！}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){はぁ…はぁ…まだまだぁ！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){焦らず、チルしてからいこう！}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){今日はありがとう、アオウミガメちゃん}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){こちらこそ！今度は一緒にサーフィンしよう！}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png){まだ…宣伝せんと、いかんことが…！}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png,right){なになに？代わりにやっとくよ！}|
 |}
 [[%%%アオウミガメ　セリフ集%%%>アオウミガメ#serifu]]
 [END]
@@ -208,10 +224,10 @@
 |^|　|
 |^|　|
 |^|　|
-|!ふれあい~~(うれしい！)|　|
+|!ふれあい~~(うれしい！)|いよっしゃー！|
 |!ふれあい~~(たのしい！)|　|
 |!ふれあい~~(びっくり！)|※ちからくらべの被ダメボイスと同一|
-|!ふれあい~~(撫でる)|　|
+|!ふれあい~~(撫でる)|隊長ちゃんでば、おとどにメロメロやね！|
 |^|　|
 |^|　|
 |!アシスタント選択|　|
@@ -251,7 +267,14 @@
 
 *実際の動物について
  ''桂浜水族館からやってきた「ハマスイ宣伝大使」です。普段は~~他のアニマルガールと同じくヒトの女の子に似た姿をしていま~~すが、時々サンドスターが不安定になり、着ぐるみのような姿~~に変身します。トドの女の子を自称していますが、その生態は~~明らかになっていません。''
-文章
+高知県にある桂浜水族館のマスコットキャラクター「おとどちゃん」がアニマルガール化した姿。
+その名の通り、動物の[[トド]]がモチーフとなっており、
+本作においても生物上の分類は「哺乳綱ネコ科アシカ科トド属トド」となっている。
+
+ピンク色の身体にうつろな表情、そして剥き出しの歯と、
+かなり奇抜な外見をしているが、れっきとした女の子である。
+大好物はイケメンと面白いネタ、天然もののFカップが自慢…らしい。
+
 *その他
 -[[おとどちゃん(フォト)]]
 -[[おとどちゃん　フレンズストーリー]]
@@ -261,7 +284,7 @@
 
 **特別衣装
 ***桂浜水族館の服
-&attachref(50%)
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/63b9031fb938508c.jpg,50%)
 //
 //『パーティドレス』
 //[+]&color(red){''ネタバレ注意！''}
@@ -276,3 +299,4 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+

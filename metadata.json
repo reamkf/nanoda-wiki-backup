@@ -3,6 +3,27 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
+      "name": "なないろとくせい一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%c8%a4%af%a4%bb%a4%a4%b0%ec%cd%f7",
+      "contentFile": "なないろとくせい一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-05-16T05:44:16.000Z",
+      "localUpdatedAt": "2026-05-16T05:44:16.000Z"
+    },
+    {
+      "name": "メンダコ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e1%a5%f3%a5%c0%a5%b3",
+      "contentFile": "メンダコ.seesaawiki",
+      "remoteUpdatedAt": "2026-05-16T05:43:23.000Z",
+      "localUpdatedAt": "2026-05-16T05:43:23.000Z"
+    },
+    {
+      "name": "シーラカンス",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%e9%a5%ab%a5%f3%a5%b9",
+      "contentFile": "シーラカンス.seesaawiki",
+      "remoteUpdatedAt": "2026-05-16T05:41:47.000Z",
+      "localUpdatedAt": "2026-05-16T05:41:47.000Z"
+    },
+    {
       "name": "シーサーバル道場（β2-36）",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
       "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
@@ -953,13 +974,6 @@
       "contentFile": "用語集.seesaawiki",
       "remoteUpdatedAt": "2026-03-16T01:06:14.000Z",
       "localUpdatedAt": "2026-03-16T01:06:14.000Z"
-    },
-    {
-      "name": "なないろとくせい一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%c8%a4%af%a4%bb%a4%a4%b0%ec%cd%f7",
-      "contentFile": "なないろとくせい一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-03-16T01:04:11.000Z",
-      "localUpdatedAt": "2026-03-16T01:04:11.000Z"
     },
     {
       "name": "キラキラ交換所",
@@ -2710,20 +2724,6 @@
       "contentFile": "ヒクイドリ.seesaawiki",
       "remoteUpdatedAt": "2025-10-27T10:05:59.000Z",
       "localUpdatedAt": "2025-10-27T10:05:59.000Z"
-    },
-    {
-      "name": "メンダコ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e1%a5%f3%a5%c0%a5%b3",
-      "contentFile": "メンダコ.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T10:05:28.000Z",
-      "localUpdatedAt": "2025-10-27T10:05:28.000Z"
-    },
-    {
-      "name": "シーラカンス",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%e9%a5%ab%a5%f3%a5%b9",
-      "contentFile": "シーラカンス.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T10:05:18.000Z",
-      "localUpdatedAt": "2025-10-27T10:05:18.000Z"
     },
     {
       "name": "マンドリル",
@@ -11938,5 +11938,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-05-16T03:06:33.930Z"
+  "fetchedAt": "2026-05-16T05:49:16.869Z"
 }

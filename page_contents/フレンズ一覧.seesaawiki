@@ -1,6 +1,41 @@
+*フレンズ一覧
+// 
+// [+]フレンズ個別ページについて
+// &size(16){フレンズに詳しい方は''キャラクターについて''を、動物の生態に詳しい方は''実際の動物について''を埋めて頂けると助かります。}
+// ''実際の動物について''の例文は''アライグマ''のページを参照してください。&color(#3a32c3){(この文体に必ずしも従う必要はありません)}
+//
+// ステータスは全て&color(red){衣装補正を除いた数値}を掲載しています。
+// [END]
+// [+]『はなまるチェンジ♪フレンズ』(旧『属性の異なるフレンズ』)について
+// ''新規フレンズ扱い''として新たにページを作成しています。
+//
+// ページ名は公式で採用されている''「【２つ名】フレンズ名」''を採用し、一覧では２つ名を赤字で表記しています。
+// なお「キャラクターについて」及び「実際の動物について」は、元のフレンズと同じなのでそちらにリンクを飛ばしています。
+// [END]
+[+]実装種別の凡例
+具体的なイベント名は%%%[[過去のイベント]]%%%で確認できます。
+ 
+(3章)…メインストーリー3章　　(ア2章)…アライさん隊長日誌2章　　(セ1章)…セーバルぶらり旅1章
+(s2-0章)…メインストーリーシーズン2 0章　　(s3-0章)…メインストーリーシーズン3 0章
+
+(シナリオ)…一般的な形式のシナリオイベント(例：[[迎春！フレンズかくし芸大会！]])
+(測定)…体力測定イベント　　(掃除)…セルリアン大掃除イベント　
+(マップ)…マップ形式のイベント(例：[[闇と舞え！漆黒のダークネスひな祭り]])
+(共闘)…共闘型イベント(例：[[ジャパリパーク立ち入り禁止区域・解除開始]])
+(とくれん)…とくべつくんれんイベント
+(四神)…隊長の休日INジャパリパーク～四神襲来！～およびその形式を継承したシナリオイベント
+(特殊)…これらに当てはまらない形式のイベント　　(－)…イベントと連動しないガチャ
+[END]
+
+''&size(18){本ページに記載のステータスは、%%%初期けも級・野生解放4段階目%%%でのステータスです。}''
+&size(18){それ以外のステータスは%%%[[フレンズステータスランキング>https://reamkf.github.io/wiki-nanodesu/friends-status]]%%%を参照してください。}
+
+表の最上段をクリックすると、該当項目でのソートができます。
+
 {| class="sort filter custom-css" style="min-width: 900px; max-width: 1500px;"
 |center:w(45)|w(180)|center:w(45):size(9)|center:w(40):size(7)|w(100)|center:w(50)|center:w(50)|center:w(50)|center:w(50)|center:w(50)|center:w(30)|c
 |~アイコン|フレンズ名|size():属性|size():middle:&size(12){サブ~~属性}|実装|けもステ|たいりょく|こうげき|まもり|かいひ|ぷらずむ|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2e45e66e53580e78.png,55,no_link)|''[[ウミイグアナ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2026/05/21~~限定(s3-7章後半)|46231|19774|7115|4533|1.0%|30|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7e18f19f73987c2c.png,55,no_link)|''[[ハシボソガラス]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#a6cf00){'' アクティブ ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sbHG16adu9.png,40,no_link)|-|2026/05/14~~限定(シナリオ)|46561|19977|8117|3114|1.0%|60|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4b40194757dfd886.png,55,no_link)|[[&size(10){&color(red){【華麗に舞いま～す！】}}~~''サラブレッドしろげ''>【華麗に舞いま～す！】サラブレッドしろげ]]~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|&color(#ffb3b3){'' ラブリー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4NWcmHe3Ol.png,30,no_link)|2026/05/07~~限定(－)|46344|19997|6936|4769|2.0%|30|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/b9a6155606ec5f05.png,55,no_link)|''[[ニホンツキノワグマ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2026/05/01~~限定(測定)|46291|18673|7002|5173|1.0%|40|
@@ -61,9 +96,9 @@
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/h4v4poo4vk.png,55,no_link)|[[&size(10){&color(red){【自然の音とリズムにのせて】}}~~''オオミミギツネ''>【自然の音とリズムにのせて】オオミミギツネ]]~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,30,no_link)|2025/03/06~~限定(－)|46471|19056|6954|5182|1.0%|30|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/IZmZV_EYYX.png,55,no_link)|''[[アマミノクロウサギ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2025/02/27~~限定(測定)|46185|19360|7343|4334|2.0%|20|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/maIvF9qp9N.png,55,no_link)|''[[バシロサウルス・イシス]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#88abda){'' マイペース ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,40,no_link)|-|2025/02/20~~限定(掃除)|46123|19123|7394|4321|1.0%|30|
-|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lYbUTg72cH.png,55,no_link)|''[[カワラバト]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#88abda){'' マイペース ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,40,no_link)|-|2025/02/14~~限定(－)|45732|19883|6709|4849|1.0%|10|
-|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1I3hrhVNeA.png,55,no_link)|''[[フクロミツスイ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#ffb3b3){'' ラブリー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4NWcmHe3Ol.png,40,no_link)|-|2025/02/06~~限定(測定)|46089|18821|7232|4668|1.0%|10|
-|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/HwM4Ssy4sL.png,55,no_link)|''[[イヌワシ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2025/01/30~~限定(シナリオ)|46185|18646|7778|3967|2.0%|60|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lYbUTg72cH.png,55,no_link)|''[[カワラバト]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#88abda){'' マイペース ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,40,no_link)|-|2025/02/14~~限定(－)|45732|19883|6709|4849|1.0%|10|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1I3hrhVNeA.png,55,no_link)|''[[フクロミツスイ]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#ffb3b3){'' ラブリー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4NWcmHe3Ol.png,40,no_link)|-|2025/02/06~~限定(測定)|46089|18821|7232|4668|1.0%|10|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/HwM4Ssy4sL.png,55,no_link)|''[[イヌワシ]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2025/01/30~~限定(シナリオ)|46185|18646|7778|3967|2.0%|60|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Ihv2hI1pLt.png,55,no_link)|''[[スプリングボック]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2025/01/23~~限定(S3-5章後半)|45888|18206|7869|3858|2.0%|50|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0TILmOudCs.png,55,no_link)|''[[山本五郎左衛門]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#88abda){'' マイペース ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,40,no_link)|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,30,no_link)|2025/01/10~~限定(測定)|46577|18658|7992|3837|1.0%|70|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/mDu2trolvo.png,55,no_link)|''[[ビャクダ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2025/01/01~~限定(シナリオ)|46471|18751|7582|4362|2.0%|60|
@@ -146,8 +181,8 @@
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8XpLHka5F2.png,55,no_link)|''[[ヒクイドリ]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2023/07/06~~限定(測定)|45272|19131|6983|4509|1.0%|50|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/sqIuZrccIA.png,55,no_link)|[[&size(10){&color(red){【どこでも突撃！えんため隊】}}~~''カラカル''>【どこでも突撃！えんため隊】カラカル]]~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#ffb3b3){'' ラブリー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4NWcmHe3Ol.png,40,no_link)|-|2023/07/03~~限定(－)|45883|17533|7854|4147|4.0%|60|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GdHCVmBFy3.png,55,no_link)|''[[N・ハイランドワイルドドッグ]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#88abda){'' マイペース ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/w4NXdo915I.png,40,no_link)|-|2023/06/29~~限定(シナリオ)|45181|19686|6530|4921|1.0%|10|
-|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/iWM1_iWZiR.png,55,no_link)|''[[メンダコ]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2023/06/22~~限定(シナリオ)|45953|19433|7484|3977|1.0%|30|
-|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/klfOh8aRfX.jpg,55,no_link)|''[[シーラカンス]]''~~&size(12){☆4 8ポケ 野生4 なないろ無}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2023/06/19~~限定(シナリオ)|46099|19380|8087|3167|4.0%|70|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/iWM1_iWZiR.png,55,no_link)|''[[メンダコ]]''~~&size(12){☆4 8ポケ 野生4 &color(,#00ff0040){''なないろ有''}}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2023/06/22~~限定(シナリオ)|45953|19433|7484|3977|1.0%|30|
+|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/klfOh8aRfX.jpg,55,no_link)|''[[シーラカンス]]''~~&size(12){☆4 8ポケ 野生4 &color(,#00ff0040){''なないろ有''}}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2023/06/19~~限定(シナリオ)|46099|19380|8087|3167|4.0%|70|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b8evYQw51f.png,55,no_link)|''[[マンドリル]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2023/06/08~~限定(測定)|45200|17493|7723|4018|1.0%|30|
 |&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eBOfLX0YOW.png,55,no_link)|''[[キンイロジャッカル]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2023/06/01~~限定(マップ)|45432|19269|7012|4490|1.0%|30|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1dsFuPeoRk.png,55,no_link)|''[[アフリカンゴールデンウルフ]]''~~&size(12){☆4 8ポケ &color(,#ff9d0050){''野生5''} なないろ無}|&color(#a6cf00){'' アクティブ ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sbHG16adu9.png,40,no_link)|-|2023/05/25~~限定(マップ)|45327|17764|7783|3883|1.0%|30|
@@ -452,7 +487,7 @@
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ht4LKUmaEp.png,55,no_link)|''[[アメリカビーバー]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2019/09/24~~恒常(初期)|26202|9714|4966|1766|1.0%|30|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/etMkSzhwDr.png,55,no_link)|''[[オオアルマジロ]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(#a6cf00){'' アクティブ ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/sbHG16adu9.png,40,no_link)|-|2019/09/24~~恒常(初期)|25156|12974|2524|3602|1.0%|50|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/57CXKt3Hxi.png,55,no_link)|''[[ダチョウ]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2019/09/24~~恒常(初期)|26555|13040|3837|2306|1.0%|60|
-|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fw4yW0wP3m.png,55,no_link)|''[[カリフォルニアアシカ]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2019/09/24~~恒常(初期)|25975|11302|4027|2426|1.0%|20|
+|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/fw4yW0wP3m.png,55,no_link)|''[[カリフォルニアアシカ]]''~~&size(12){☆3 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2019/09/24~~恒常(初期)|25975|11302|4027|2426|1.0%|20|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/szC2DzMZSp.png,55,no_link)|''[[アメリカレア]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(red){'' ファニー ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vXf03Kpfcp.png,40,no_link)|-|2019/09/24~~恒常(初期)|26705|9201|4940|2262|1.0%|30|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/wmPhhP6k8w.png,55,no_link)|''[[チャップマンシマウマ]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(#009e25){'' フレンドリー ''}~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1A7oOIefKg.png,40,no_link)|-|2019/09/24~~恒常(初期)|24765|10260|4381|1707|6.0%|40|
 |&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/tOEI8a5I8x.png,55,no_link)|''[[オグロヌー]]''~~&size(12){☆2 8ポケ &color(,#ff9d0050){''野生5''} &color(,#00ff0040){''なないろ有''}}|&color(#0075c8){'' リラックス ''}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OEyQU1TXsg.png,40,no_link)|-|2019/09/24~~恒常(初期)|26331|10971|3924|2891|1.0%|10|

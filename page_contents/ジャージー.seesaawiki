@@ -168,21 +168,18 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-**相手フレンズ名
+**ガーンジー
 {|class="edit"
-|bgcolor(#ccc):||c
-|!クエスト開始時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!WAVE移行時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!クエスト終了時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!ギブアップ時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-[[%%%相手フレンズ　セリフ集%%%>相手フレンズ#serifu]]
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dca02ec8826c1920.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1c23f4f431d8a279.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dca02ec8826c1920.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1c23f4f431d8a279.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dca02ec8826c1920.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1c23f4f431d8a279.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/dca02ec8826c1920.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1c23f4f431d8a279.png,right){情報募集中}|
 |}
-//現在、掛け合いのあるフレンズはいないようダネ。
-//
+[[%%%ガーンジー　セリフ集%%%>ガーンジー#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -244,8 +241,8 @@
 |}
 [END]
 **掛け合い相手リンク
-//|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/.png,70)>ミーアキャット#serifu]]|
-情報募集中
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1c23f4f431d8a279.png,70)>ガーンジー#serifu]]|
+
 *実際の動物について
  ''イギリス海峡のジャージー島原産のウシで、乳牛として飼育さ~~れています。ホルスタインよりも小柄で乳量は２／３ほどです~~が、乳脂肪率５％、無脂乳固形分率９％を超える濃厚で風味の~~良い乳質が特徴です。乳は脂肪球が大きくバター作りに適して~~います。やや神経質なところもありますが、人懐こい性格です~~。''
 文章

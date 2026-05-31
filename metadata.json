@@ -3,6 +3,41 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
+      "name": "シーサーバル道場（β2-35）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d35%a1%cb",
+      "contentFile": "シーサーバル道場（β2-35）.seesaawiki",
+      "remoteUpdatedAt": "2026-05-31T15:48:33.000Z",
+      "localUpdatedAt": "2026-05-31T15:48:33.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-36）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
+      "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
+      "remoteUpdatedAt": "2026-05-31T15:48:10.000Z",
+      "localUpdatedAt": "2026-05-31T15:48:10.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-37）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d37%a1%cb",
+      "contentFile": "シーサーバル道場（β2-37）.seesaawiki",
+      "remoteUpdatedAt": "2026-05-31T15:41:59.000Z",
+      "localUpdatedAt": "2026-05-31T15:41:59.000Z"
+    },
+    {
+      "name": "ガチャピン",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%c1%a5%e3%a5%d4%a5%f3",
+      "contentFile": "ガチャピン.seesaawiki",
+      "remoteUpdatedAt": "2026-05-31T09:40:07.000Z",
+      "localUpdatedAt": "2026-05-31T09:40:07.000Z"
+    },
+    {
+      "name": "ムック",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e0%a5%c3%a5%af",
+      "contentFile": "ムック.seesaawiki",
+      "remoteUpdatedAt": "2026-05-31T09:39:32.000Z",
+      "localUpdatedAt": "2026-05-31T09:39:32.000Z"
+    },
+    {
       "name": "フォト一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
       "contentFile": "フォト一覧.seesaawiki",
@@ -36,13 +71,6 @@
       "contentFile": "ガーンジー.seesaawiki",
       "remoteUpdatedAt": "2026-05-30T07:28:48.000Z",
       "localUpdatedAt": "2026-05-30T07:28:48.000Z"
-    },
-    {
-      "name": "シーサーバル道場（β2-36）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d36%a1%cb",
-      "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
-      "remoteUpdatedAt": "2026-05-30T07:27:15.000Z",
-      "localUpdatedAt": "2026-05-30T07:27:15.000Z"
     },
     {
       "name": "地形",
@@ -708,13 +736,6 @@
       "contentFile": "シーサーバル道場（β2-34）.seesaawiki",
       "remoteUpdatedAt": "2026-04-03T15:02:46.000Z",
       "localUpdatedAt": "2026-04-03T15:02:46.000Z"
-    },
-    {
-      "name": "シーサーバル道場（β2-35）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d35%a1%cb",
-      "contentFile": "シーサーバル道場（β2-35）.seesaawiki",
-      "remoteUpdatedAt": "2026-04-03T15:02:26.000Z",
-      "localUpdatedAt": "2026-04-03T15:02:26.000Z"
     },
     {
       "name": "シーサーバル道場・概要",
@@ -3081,20 +3102,6 @@
       "contentFile": "ツシマヤマネコ.seesaawiki",
       "remoteUpdatedAt": "2025-10-27T09:53:39.000Z",
       "localUpdatedAt": "2025-10-27T09:53:39.000Z"
-    },
-    {
-      "name": "ムック",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e0%a5%c3%a5%af",
-      "contentFile": "ムック.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T09:53:28.000Z",
-      "localUpdatedAt": "2025-10-27T09:53:28.000Z"
-    },
-    {
-      "name": "ガチャピン",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%c1%a5%e3%a5%d4%a5%f3",
-      "contentFile": "ガチャピン.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T09:53:17.000Z",
-      "localUpdatedAt": "2025-10-27T09:53:17.000Z"
     },
     {
       "name": "ヤマタノオロチ",
@@ -11966,5 +11973,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-05-30T07:50:36.571Z"
+  "fetchedAt": "2026-05-31T15:48:47.126Z"
 }

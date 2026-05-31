@@ -1,5 +1,5 @@
-// &color(#ff0000){''&size(18){※このページは2026/05/31までのβ2シーズン36の攻略ページです}''}
-// β2シーズン37の攻略は[[%%%こちら%%%>シーサーバル道場（β2-37）]]
+&color(#ff0000){''&size(18){※このページは2026/05/31までのβ2シーズン36の攻略ページです}''}
+β2シーズン37の攻略は[[%%%こちら%%%>シーサーバル道場（β2-37）]]
 // β2シーズン37攻略は[[%%%こちら%%%>シーサーバル道場（β2-37）]]、最新の攻略ページは[[%%%メニュー%%%>MenuBar1]]へ
 [-]目次
 //#contents(2)
@@ -22,7 +22,7 @@
 -[[シーサーバル道場・概要]]
 -[[シーサーバル道場・基本戦術]]
 -[[<< 前のシーズン>シーサーバル道場（β2-35）]]
-//-[[次のシーズン &#62;&#62;>シーサーバル道場（β2-36）]]
+-[[次のシーズン &#62;&#62;>シーサーバル道場（β2-37）]]
 
 -[[状態異常]]
 -[[スキル効果別フレンズ一覧]]
@@ -906,7 +906,40 @@ MPを配布できるフレンズも同様
 [END]
 **土曜日 マイペース属性有利
 [+]後期
-&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+// &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+今回集計日：2026/05/31 午後
+前回集計日：2026/04/26 午後
+
+{| style="min-width: 1100px"
+|~bgcolor(#dcdcdc):順位|>|bgcolor(#dcdcdc):キャラクター名|bgcolor(#dcdcdc):採用率(前回比)|~bgcolor(#dcdcdc):スコア順（前回比）|>|>|>|>|~bgcolor(#dcdcdc):スコア上位パーティー|
+|1|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/vhyD1ST6Ug.png,55,no_link)|[[タテゴトアザラシ]]|91%(&color(#009e25){+1%})|1位(+0)(未使用:36位)|山本五郎左衛門|アゴヒゲアザラシ|タテゴトアザラシ|サゴジョウ|ムック|
+|2|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8b4125c51f4b6fd0.png,55,no_link)|[[サゴジョウ]]|81%(&color(#009e25){+3%})|1位(+0)(未使用:34位)|山本五郎左衛門|アゴヒゲアザラシ|タテゴトアザラシ|サゴジョウ|ムック|
+|3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0TILmOudCs.png,55,no_link)|[[山本五郎左衛門]]|72%(&color(#009e25){+3%})|1位(+0)(未使用:3位)|山本五郎左衛門|アゴヒゲアザラシ|タテゴトアザラシ|サゴジョウ|ムック|
+|4|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/cwJvo4ggA1.png,55,no_link)|[[シーサー・ライト]]|49%(&color(#ff0000){-6%})|13位(&color(#ff0000){-1})|山本五郎左衛門|サゴジョウ|シーサー・ライト|タテゴトアザラシ|ムック|
+|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Hl2Ta8pAYu.png,55,no_link)|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~[[ワシミミズク>【優秀な助手の出番なのです】ワシミミズク]]|40%(+0%)|3位(&color(#009e25){+4})|アンゴル=モア|アゴヒゲアザラシ|タテゴトアザラシ|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~ワシミミズク|サゴジョウ|
+|6|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fLg2dTlEHI.jpg,55,no_link)|[[ムック]]|34%(&color(#009e25){+1%})|1位(+0)(未使用:3位)|山本五郎左衛門|アゴヒゲアザラシ|タテゴトアザラシ|サゴジョウ|ムック|
+|7|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rXQwAM939s.png,55,no_link)|[[アゴヒゲアザラシ]]|29%(+0%)|1位(+0)(未使用:10位)|山本五郎左衛門|アゴヒゲアザラシ|タテゴトアザラシ|サゴジョウ|ムック|
+|8|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lYbUTg72cH.png,55,no_link)|[[カワラバト]]|25%(&color(#009e25){+4%})|19位(&color(#009e25){+1})|山本五郎左衛門|サゴジョウ|シーサー・ライト|タテゴトアザラシ|カワラバト|
+|8|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/V6HumHU2iF.png,55,no_link)|[[クラハシコウ]]|25%(&color(#009e25){+4%})|27位(&color(#ff0000){-5})|アンゴル=モア|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~ワシミミズク|タテゴトアザラシ|クラハシコウ|サゴジョウ|
+|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ad0841f06d55a847.png,55,no_link)|[[アンゴル=モア]]|21%(&color(#009e25){+2%})|3位(&color(#009e25){+2})|アンゴル=モア|アゴヒゲアザラシ|タテゴトアザラシ|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~ワシミミズク|サゴジョウ|
+|11|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/GdHCVmBFy3.png,55,no_link)|[[N・ハイランドワイルドドッグ]]|8%(&color(#ff0000){-7%})|24位(&color(#ff0000){-15})|山本五郎左衛門|サゴジョウ|タテゴトアザラシ|N・ハイランドワイルドドッグ|シーサー・ライト|
+|12|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PigTrYEnQM.png,55,no_link)|[[コアラ]]|7%(&color(#009e25){+2%})|22位(&color(#009e25){+8})|山本五郎左衛門|コアラ|タテゴトアザラシ|シーサー・ライト|サゴジョウ|
+|13|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/300b83fb6ca70ad7.png,55,no_link)|[[ヨーロッパビーバー]]|4%(&color(#009e25){+3%})|10位(&color(#009e25){+21})|山本五郎左衛門|ヨーロッパビーバー|タテゴトアザラシ|サゴジョウ|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~ワシミミズク|
+|14|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZMtL8C7ycK.png,55,no_link)|&size(10){&color(#ff0000){【ハツラツなつっこ！】}}~~[[バンドウイルカ>【ハツラツなつっこ！】バンドウイルカ]]|3%(&color(#ff0000){-2%})|37位(&color(#ff0000){-17})|&size(10){&color(#ff0000){【ハツラツなつっこ！】}}~~バンドウイルカ|タテゴトアザラシ|サゴジョウ|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~ワシミミズク|カワラバト|
+|15|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/jV8zTC3IPk.png,55,no_link)|[[フンボルトペンギン]]|2%(&color(#ff0000){-1%})|66位(&color(#009e25){+7})|コアラ|フンボルトペンギン|アジアゴールデンキャット|クラハシコウ|カワラバト|
+|15|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/LDplRPztb9.jpg,55,no_link)|[[セイウチ]]|2%(+0%)|69位(&color(#009e25){+6})|山本五郎左衛門|カワラバト|クラハシコウ|シーサー・ライト|セイウチ|
+|17|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/GnVhWzHflj.png,55,no_link)|[[アラスカラッコ]]|1%(+0%)|35位(&color(#ff0000){-8})|サゴジョウ|アンゴル=モア|アラスカラッコ|タテゴトアザラシ|カワラバト|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/pY6GXcy9dN.png,55,no_link)|[[アジアゴールデンキャット]]|1%(+0%)|66位(&color(#009e25){+7})|コアラ|フンボルトペンギン|アジアゴールデンキャット|クラハシコウ|カワラバト|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VJECYNnwGo.png,55,no_link)|[[キットギツネ]]|1%(+0%)|81位(+0)|キットギツネ|サゴジョウ|タテゴトアザラシ|&size(10){&color(#ff0000){【優秀な助手の出番なのです】}}~~ワシミミズク|ムック|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/OV6KsZOCBH.png,55,no_link)|[[カマイタチ・切]]|1%(&color(#ff0000){-2%})|82位(&color(#ff0000){-7})|カマイタチ・切|シーサー・ライト|サゴジョウ|セイウチ|クラハシコウ|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6JM2Fb43VX-s.png,55,no_link)|[[セーバル]]|1%(+0%)|88位(&color(#ff0000){-3})|アンゴル=モア|セーバル|サゴジョウ|シーサー・ライト|ムック|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/t3OZxqEVvK.png,55,no_link)|[[キンシャチ]]|1%(+0%)|93位(&color(#ff0000){-10})|フンボルトペンギン|カワラバト|キンシャチ|タテゴトアザラシ|シーサー・ライト|
+|17|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lFmA8Dbn0W.jpg,55,no_link)|[[オオサイチョウ]]|1%(&color(#ff0000){-3%})|95位(&color(#ff0000){-39})|アゴヒゲアザラシ|オオサイチョウ|山本五郎左衛門|シーサー・ライト|タテゴトアザラシ|
+|}
+
+※1位の人のスコア：10億5406万2786(前回比:&color(#009e25){+5255万3167})
+※10位の人のスコア：7億3567万0403(前回比:&color(#ff0000){-186万0520})
+※100位の人のスコア：1億2442万6650(前回比:&color(#009e25){+1183万1462})
 [END]
 [+]前期
 // &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
@@ -1023,6 +1056,7 @@ MPを配布できるフレンズも同様
 ※100位の人のスコア：6687万7281
 
 [END]
+
 
 
 

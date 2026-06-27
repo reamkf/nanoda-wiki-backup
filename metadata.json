@@ -3,32 +3,151 @@
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
   "pages": [
     {
-      "name": "なないろとくせい一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%c8%a4%af%a4%bb%a4%a4%b0%ec%cd%f7",
-      "contentFile": "なないろとくせい一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-21T02:14:18.000Z",
-      "localUpdatedAt": "2026-06-21T02:14:18.000Z"
-    },
-    {
       "name": "フレンズ一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
       "contentFile": "フレンズ一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-21T02:10:58.000Z",
-      "localUpdatedAt": "2026-06-21T02:10:58.000Z"
+      "remoteUpdatedAt": "2026-06-27T04:30:57.000Z",
+      "localUpdatedAt": "2026-06-27T04:30:57.000Z"
     },
     {
-      "name": "フレンズ衣装一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
-      "contentFile": "フレンズ衣装一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-21T02:05:40.000Z",
-      "localUpdatedAt": "2026-06-21T02:05:40.000Z"
+      "name": "シーサーバル道場（β2-37）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d37%a1%cb",
+      "contentFile": "シーサーバル道場（β2-37）.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T04:24:24.000Z",
+      "localUpdatedAt": "2026-06-27T04:24:24.000Z"
+    },
+    {
+      "name": "過去のイベント",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b2%e1%b5%ee%a4%ce%a5%a4%a5%d9%a5%f3%a5%c8",
+      "contentFile": "過去のイベント.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T04:20:44.000Z",
+      "localUpdatedAt": "2026-06-27T04:20:44.000Z"
+    },
+    {
+      "name": "効果別フォト早見表",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b8%fa%b2%cc%ca%cc%a5%d5%a5%a9%a5%c8%c1%e1%b8%ab%c9%bd",
+      "contentFile": "効果別フォト早見表.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T04:10:19.000Z",
+      "localUpdatedAt": "2026-06-27T04:10:19.000Z"
+    },
+    {
+      "name": "フォト一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
+      "contentFile": "フォト一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T04:05:51.000Z",
+      "localUpdatedAt": "2026-06-27T04:05:51.000Z"
+    },
+    {
+      "name": "太陽よ、照らしたまえ～！",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c2%c0%cd%db%a4%e8%a1%a2%be%c8%a4%e9%a4%b7%a4%bf%a4%de%a4%a8%a1%c1%a1%aa",
+      "contentFile": "太陽よ、照らしたまえ～！.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T04:05:28.000Z",
+      "localUpdatedAt": "2026-06-27T04:05:28.000Z"
+    },
+    {
+      "name": "地形",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c3%cf%b7%c1",
+      "contentFile": "地形.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:29:05.000Z",
+      "localUpdatedAt": "2026-06-27T02:29:05.000Z"
+    },
+    {
+      "name": "フレンズCV一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%baCV%b0%ec%cd%f7",
+      "contentFile": "フレンズCV一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:27:52.000Z",
+      "localUpdatedAt": "2026-06-27T02:27:52.000Z"
+    },
+    {
+      "name": "フレンズオーダー一覧表",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%a5%aa%a1%bc%a5%c0%a1%bc%b0%ec%cd%f7%c9%bd",
+      "contentFile": "フレンズオーダー一覧表.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:27:16.000Z",
+      "localUpdatedAt": "2026-06-27T02:27:16.000Z"
+    },
+    {
+      "name": "ファニー（赤）属性フレンズ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a1%a5%cb%a1%bc%a1%ca%c0%d6%a1%cb%c2%b0%c0%ad%a5%d5%a5%ec%a5%f3%a5%ba",
+      "contentFile": "ファニー（赤）属性フレンズ.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:26:59.000Z",
+      "localUpdatedAt": "2026-06-27T02:26:59.000Z"
+    },
+    {
+      "name": "フレンズ掛け合い一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
+      "contentFile": "フレンズ掛け合い一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:26:29.000Z",
+      "localUpdatedAt": "2026-06-27T02:26:29.000Z"
+    },
+    {
+      "name": "ガラパゴスコバネウ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%b3%a5%d0%a5%cd%a5%a6",
+      "contentFile": "ガラパゴスコバネウ.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:25:06.000Z",
+      "localUpdatedAt": "2026-06-27T02:25:06.000Z"
+    },
+    {
+      "name": "ガラパゴスペンギン",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%da%a5%f3%a5%ae%a5%f3",
+      "contentFile": "ガラパゴスペンギン.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:24:41.000Z",
+      "localUpdatedAt": "2026-06-27T02:24:41.000Z"
+    },
+    {
+      "name": "ウミイグアナ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a6%a5%df%a5%a4%a5%b0%a5%a2%a5%ca",
+      "contentFile": "ウミイグアナ.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:24:08.000Z",
+      "localUpdatedAt": "2026-06-27T02:24:08.000Z"
+    },
+    {
+      "name": "動物フォト一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
+      "contentFile": "動物フォト一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:22:46.000Z",
+      "localUpdatedAt": "2026-06-27T02:22:46.000Z"
     },
     {
       "name": "称号一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
       "contentFile": "称号一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T23:13:25.000Z",
-      "localUpdatedAt": "2026-06-20T23:13:25.000Z"
+      "remoteUpdatedAt": "2026-06-27T02:21:23.000Z",
+      "localUpdatedAt": "2026-06-27T02:21:23.000Z"
+    },
+    {
+      "name": "フレンズ衣装一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
+      "contentFile": "フレンズ衣装一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-06-27T02:20:08.000Z",
+      "localUpdatedAt": "2026-06-27T02:20:08.000Z"
+    },
+    {
+      "name": "シールコレクション",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
+      "contentFile": "シールコレクション.seesaawiki",
+      "remoteUpdatedAt": "2026-06-26T15:04:45.000Z",
+      "localUpdatedAt": "2026-06-26T15:04:45.000Z"
+    },
+    {
+      "name": "かっこいいですよね？",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ab%a4%c3%a4%b3%a4%a4%a4%a4%a4%c7%a4%b9%a4%e8%a4%cd%a1%a9",
+      "contentFile": "かっこいいですよね？.seesaawiki",
+      "remoteUpdatedAt": "2026-06-23T21:49:45.000Z",
+      "localUpdatedAt": "2026-06-23T21:49:45.000Z"
+    },
+    {
+      "name": "ヌエ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%cc%a5%a8",
+      "contentFile": "ヌエ.seesaawiki",
+      "remoteUpdatedAt": "2026-06-21T06:29:20.000Z",
+      "localUpdatedAt": "2026-06-21T06:29:20.000Z"
+    },
+    {
+      "name": "なないろとくせい一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%c8%a4%af%a4%bb%a4%a4%b0%ec%cd%f7",
+      "contentFile": "なないろとくせい一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-06-21T02:14:18.000Z",
+      "localUpdatedAt": "2026-06-21T02:14:18.000Z"
     },
     {
       "name": "ダイイヌガミギョウブ",
@@ -59,41 +178,6 @@
       "localUpdatedAt": "2026-06-20T07:25:29.000Z"
     },
     {
-      "name": "シーサーバル道場（β2-37）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d37%a1%cb",
-      "contentFile": "シーサーバル道場（β2-37）.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T07:20:17.000Z",
-      "localUpdatedAt": "2026-06-20T07:20:17.000Z"
-    },
-    {
-      "name": "過去のイベント",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b2%e1%b5%ee%a4%ce%a5%a4%a5%d9%a5%f3%a5%c8",
-      "contentFile": "過去のイベント.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T07:11:26.000Z",
-      "localUpdatedAt": "2026-06-20T07:11:26.000Z"
-    },
-    {
-      "name": "フォト一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
-      "contentFile": "フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T07:10:15.000Z",
-      "localUpdatedAt": "2026-06-20T07:10:15.000Z"
-    },
-    {
-      "name": "かっこいいですよね？",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ab%a4%c3%a4%b3%a4%a4%a4%a4%a4%c7%a4%b9%a4%e8%a4%cd%a1%a9",
-      "contentFile": "かっこいいですよね？.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T07:09:00.000Z",
-      "localUpdatedAt": "2026-06-20T07:09:00.000Z"
-    },
-    {
-      "name": "地形",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c3%cf%b7%c1",
-      "contentFile": "地形.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T06:54:20.000Z",
-      "localUpdatedAt": "2026-06-20T06:54:20.000Z"
-    },
-    {
       "name": "ジャック・オー・ランタン",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b8%a5%e3%a5%c3%a5%af%a1%a6%a5%aa%a1%bc%a1%a6%a5%e9%a5%f3%a5%bf%a5%f3",
       "contentFile": "ジャック・オー・ランタン.seesaawiki",
@@ -115,32 +199,11 @@
       "localUpdatedAt": "2026-06-20T06:34:30.000Z"
     },
     {
-      "name": "フレンズCV一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%baCV%b0%ec%cd%f7",
-      "contentFile": "フレンズCV一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T06:32:52.000Z",
-      "localUpdatedAt": "2026-06-20T06:32:52.000Z"
-    },
-    {
-      "name": "フレンズオーダー一覧表",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%a5%aa%a1%bc%a5%c0%a1%bc%b0%ec%cd%f7%c9%bd",
-      "contentFile": "フレンズオーダー一覧表.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T06:32:27.000Z",
-      "localUpdatedAt": "2026-06-20T06:32:27.000Z"
-    },
-    {
       "name": "ゴールデンライオンタマリン",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a1%bc%a5%eb%a5%c7%a5%f3%a5%e9%a5%a4%a5%aa%a5%f3%a5%bf%a5%de%a5%ea%a5%f3",
       "contentFile": "ゴールデンライオンタマリン.seesaawiki",
       "remoteUpdatedAt": "2026-06-20T06:31:59.000Z",
       "localUpdatedAt": "2026-06-20T06:31:59.000Z"
-    },
-    {
-      "name": "動物フォト一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
-      "contentFile": "動物フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T06:31:08.000Z",
-      "localUpdatedAt": "2026-06-20T06:31:08.000Z"
     },
     {
       "name": "リラックス（青）属性フレンズ",
@@ -155,13 +218,6 @@
       "contentFile": "イヌガミギョウブ.seesaawiki",
       "remoteUpdatedAt": "2026-06-20T06:18:59.000Z",
       "localUpdatedAt": "2026-06-20T06:18:59.000Z"
-    },
-    {
-      "name": "フレンズ掛け合い一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
-      "contentFile": "フレンズ掛け合い一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T06:17:26.000Z",
-      "localUpdatedAt": "2026-06-20T06:17:26.000Z"
     },
     {
       "name": "ヤマタノオロチ",
@@ -218,13 +274,6 @@
       "contentFile": "課金ガイド.seesaawiki",
       "remoteUpdatedAt": "2026-06-14T15:23:25.000Z",
       "localUpdatedAt": "2026-06-14T15:23:25.000Z"
-    },
-    {
-      "name": "シールコレクション",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
-      "contentFile": "シールコレクション.seesaawiki",
-      "remoteUpdatedAt": "2026-06-13T08:28:45.000Z",
-      "localUpdatedAt": "2026-06-13T08:28:45.000Z"
     },
     {
       "name": "シロヘラコウモリ",
@@ -428,20 +477,6 @@
       "contentFile": "みんなも歌って！.seesaawiki",
       "remoteUpdatedAt": "2026-05-23T07:40:59.000Z",
       "localUpdatedAt": "2026-05-23T07:40:59.000Z"
-    },
-    {
-      "name": "ファニー（赤）属性フレンズ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a1%a5%cb%a1%bc%a1%ca%c0%d6%a1%cb%c2%b0%c0%ad%a5%d5%a5%ec%a5%f3%a5%ba",
-      "contentFile": "ファニー（赤）属性フレンズ.seesaawiki",
-      "remoteUpdatedAt": "2026-05-23T06:41:07.000Z",
-      "localUpdatedAt": "2026-05-23T06:41:07.000Z"
-    },
-    {
-      "name": "ウミイグアナ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a6%a5%df%a5%a4%a5%b0%a5%a2%a5%ca",
-      "contentFile": "ウミイグアナ.seesaawiki",
-      "remoteUpdatedAt": "2026-05-23T06:40:26.000Z",
-      "localUpdatedAt": "2026-05-23T06:40:26.000Z"
     },
     {
       "name": "ソンゴクウ",
@@ -701,13 +736,6 @@
       "contentFile": "アカウミガメ.seesaawiki",
       "remoteUpdatedAt": "2026-05-02T01:21:32.000Z",
       "localUpdatedAt": "2026-05-02T01:21:32.000Z"
-    },
-    {
-      "name": "効果別フォト早見表",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b8%fa%b2%cc%ca%cc%a5%d5%a5%a9%a5%c8%c1%e1%b8%ab%c9%bd",
-      "contentFile": "効果別フォト早見表.seesaawiki",
-      "remoteUpdatedAt": "2026-05-01T16:00:54.000Z",
-      "localUpdatedAt": "2026-05-01T16:00:54.000Z"
     },
     {
       "name": "ざわざわ、こつん",
@@ -1520,13 +1548,6 @@
       "contentFile": "ドラゴンサーバル.seesaawiki",
       "remoteUpdatedAt": "2026-02-04T13:37:29.000Z",
       "localUpdatedAt": "2026-02-04T13:37:29.000Z"
-    },
-    {
-      "name": "ガラパゴスペンギン",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%da%a5%f3%a5%ae%a5%f3",
-      "contentFile": "ガラパゴスペンギン.seesaawiki",
-      "remoteUpdatedAt": "2026-02-03T10:49:26.000Z",
-      "localUpdatedAt": "2026-02-03T10:49:26.000Z"
     },
     {
       "name": "トナカイ",
@@ -2584,13 +2605,6 @@
       "contentFile": "ライリュウ.seesaawiki",
       "remoteUpdatedAt": "2025-10-27T10:17:10.000Z",
       "localUpdatedAt": "2025-10-27T10:17:10.000Z"
-    },
-    {
-      "name": "ヌエ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%cc%a5%a8",
-      "contentFile": "ヌエ.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T10:17:00.000Z",
-      "localUpdatedAt": "2025-10-27T10:17:00.000Z"
     },
     {
       "name": "ニルガイ",
@@ -12008,5 +12022,5 @@
       "localUpdatedAt": "2019-10-29T13:25:37.000Z"
     }
   ],
-  "fetchedAt": "2026-06-21T02:14:31.145Z"
+  "fetchedAt": "2026-06-27T04:31:32.296Z"
 }

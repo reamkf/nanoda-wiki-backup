@@ -12,7 +12,7 @@
 |[[''MP増加(HP条件)''>#mp_cond]]|[[［自身のみ］>#mp_cond_1_self]]|-|[[［自身のみ］>#mp_cond_2_self]]|[[［味方全体］>#mp_cond_2_all]]|
 |[[''命中増加・回避減少''>#hit]]|[[［自身のみ］>#hit_1_self]]|[[［味方全体］>#hit_1_all]]|[[［自身のみ］>#hit_2_self]]|[[［味方全体］>#hit_2_all]]|
 |[[''回避増加・命中減少''>#avoid]]|[[［自身のみ］>#avoid_1_self]]|[[［味方全体］>#avoid_1_all]]|[[［自身のみ］>#avoid_2_self]]|[[［味方全体］>#avoid_2_all]]|
-|[[''プラズムチャージ回数追加''>#plasm]]|[[［自身のみ］>#plasm_1_self]]|-|[[［自身のみ］>#plasm_2_self]]|-|
+|[[''プラズムチャージ回数追加''>#plasm]]|[[［自身のみ］>#plasm_1_self]]|[[［味方全体］>#plasm_1_all]]|[[［自身のみ］>#plasm_2_self]]|-|
 |[[''おかわり増加''>#okawari]]|>|[[［味方全体］>#okawari_1_all]]|>|-|
 [END]
 
@@ -68,6 +68,7 @@
 |☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/MoS8tazSi9.jpg,55,no_link)~~みんなでしゅっぱつ♪>みんなでしゅっぱつ♪]]|(変化前)~~自身の与ダメージが8％増加する~~さらにバトル開始時、自身のMPが12増加する~~&color(,#f3f3fe){(変化後)~~&color(red){味方全体}の与ダメージが8％増加する~~さらにバトル開始時、&color(red){味方全体}のMPが12増加する}|781|576|803|969|714|996|2023/09/24~~限定~~課金パック|
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/lx0UWRKXL3.png,55,no_link)~~きらきらのパレード>きらきらのパレード]]|(変化前)~~自身の与ダメージが7%増加する~~&color(,#f3f3fe){(変化後)~~&color(red){味方全体の}与ダメージが7%増加する~~&color(red){さらに強敵出現waveの場合~~自身の与ダメージが7%増加し~~毎ターンたいりょくが4%回復する}}|242|987|457|300|1224|567|2024/12/24~~限定~~課金パック|
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/heU0OqDDQ3.png,55,no_link)~~セカイをもっとカザって>セカイをもっとカザって]]|(変化前)~~自身の状態異常の相手に与えるダメージが12%増加する~~&color(,#f3f3fe){(変化後)~~&color(red){味方全体}の状態異常の相手に与えるダメージが12%増加する}|655|663|735|813|822|912|2023/12/24~~限定~~課金パック|
+|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0be2ae281f6f3338.png,55,no_link)~~白くておいしいやつ！>白くておいしいやつ！]]|(変化前)~~自身を除く味方全体の与ダメージが6%増加する~~&color(,#f3f3fe){(変化後)~~自身を除く味方全体の与ダメージが6%増加し~~&color(red){毎ターンたいりょくが3%回復する~~さらに自身のたいりょくが50%以下になったとき~~味方全体のプラズムチャージの効果が1回追加される~~(2ターン)(発動回数：1回)}}|1081|210|1205|1341|261|1494|2026/07/09~~限定~~課金パック|
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/MmjCqCbgYk.png,55,no_link)~~かっこよく？がおー！>かっこよく？がおー！]]|(変化前)~~自身が狙われやすくなり~~自身を除く味方全体の与ダメージが4%増加する~~&color(,#f3f3fe){(変化後)~~自身が狙われやすくなり~~自身を除く味方全体の与ダメージが&color(red){6%}増加する}|847|726|534|1050|900|663|2024/06/27~~限定|
 |☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/x7U0lsF9sF.png,55,no_link)~~とってもきれいですねっ♪>とってもきれいですねっ♪]]|(変化前)~~自身を除く味方全体の与ダメージが4%増加し~~自身の被ダメージが4%減少する~~&color(,#f3f3fe){(変化後)~~自身を除く味方全体の与ダメージが&color(red){6%}増加し~~自身の被ダメージが&color(red){6%}減少する}|767|597|776|951|741|963|2024/11/28~~限定|
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/245e7660e2f2ee01.png,55,no_link)~~やまのしるべ>やまのしるべ]]|(変化前)~~自身を除く味方全体の与ダメージが4%増加し~~攻撃命中率が5%増加する~~&color(,#f3f3fe){(変化後)~~自身を除く味方全体の与ダメージが&color(red){6%}増加し~~攻撃命中率が&color(red){7%}増加する}|815|530|827|1011|657|1026|2025/06/19~~限定|
@@ -246,6 +247,8 @@
 |☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/33a059761b6996c9.png,55,no_link)~~山道の途中で>山道の途中で]]|(変化前)~~自身の被ダメージが6%減少し~~毎ターン自身を除く味方全体のたいりょくが2%回復する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが&color(red){7%}減少し~~毎ターン自身を除く味方全体のたいりょくが&color(red){3%}回復する}|1069|389|905|1326|483|1122|2025/06/01~~限定|
 |☆3~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/VrHVga7uHT.png,55,no_link)~~おんせんごっこ>おんせんごっこ]]|(変化前)~~毎ターン味方全体のたいりょくが1%回復する~~地形がみずべの場合、~~さらにたいりょくが1%回復する~~&color(,#f3f3fe){(変化後)~~毎ターン味方全体のたいりょくが1%回復する~~地形がみずべの場合、~~さらにたいりょくが&color(red){3%}回復する}|845|307|547|1092|397|707|2021/04/28~~限定~~イベ報酬|
 |☆3~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/HxvFEPJ_Cc.png,55,no_link)~~ジャキーン！>ジャキーン！]]|(変化前)~~毎ターン味方全体のたいりょくが1%回復する~~フレンドリー(緑)属性の味方の場合~~さらにたいりょくが1%回復する~~&color(,#f3f3fe){(変化後)~~毎ターン味方全体のたいりょくが1%回復する~~フレンドリー(緑)属性の味方の場合~~さらにたいりょくが&color(red){3%}回復する}|319|658|352|412|851|455|2019/09/24~~恒常|
+|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0be2ae281f6f3338.png,55,no_link)~~白くておいしいやつ！>白くておいしいやつ！]]|(変化前)~~自身を除く味方全体の与ダメージが6%増加する~~&color(,#f3f3fe){(変化後)~~自身を除く味方全体の与ダメージが6%増加し~~&color(red){毎ターンたいりょくが3%回復する~~さらに自身のたいりょくが50%以下になったとき~~味方全体のプラズムチャージの効果が1回追加される~~(2ターン)(発動回数：1回)}}|1081|210|1205|1341|261|1494|2026/07/09~~限定~~課金パック|
+|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9CxaO4lJcu.png,55,no_link)~~ゆきのきらきら>ゆきのきらきら]]|(変化前)~~バトル開始時に自身の~~MPが12増加し、与ダメージが5%増加する~~さらに毎ターンたいりょくが3%回復する~~&color(,#f3f3fe){(変化後)~~バトル開始時に&color(red){味方全体}の~~MPが12増加し、与ダメージが5%増加する~~さらに毎ターンたいりょくが3%回復する}|607|694|713|753|861|885|2022/12/21~~限定~~課金パック|
 |☆3~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/vRDTvuNHY9.png,55,no_link)~~幸運の流れ星>幸運の流れ星]]|(変化前)~~毎ターン自身のたいりょくが1%回復し、MPが1増加する~~&color(,#f3f3fe){(変化後)~~毎ターン&color(red){味方全体}のたいりょくが1%回復し、MPが1増加する}|387|387|387|501|501|501|2023/03/10~~配布|
 |}
 
@@ -267,6 +270,7 @@
 {| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
 |center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
 |~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
+|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/6fb30a75b49cd8eb.png,55,no_link)~~たまぐしほ～て～ん>たまぐしほ～て～ん]]|(変化前)~~ギブアップ中ではない味方が3人以上の場合~~自身の被ダメージが5%減少し~~毎ターン味方全体のたいりょくが2%回復する~~&color(,#f3f3fe){(変化後)~~ギブアップ中ではない味方が3人以上の場合~~自身の被ダメージが&color(red){6%}減少し~~毎ターン味方全体のたいりょくが&color(red){3%}回復する}|893|583|670|1107|723|831|2026/07/16~~限定|
 |☆3~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2xLE0wHiRt.jpg,55,no_link)~~これからも、たくさん>これからも、たくさん]]|(変化前)~~毎ターン味方全体のたいりょくが1%回復する~~&color(,#f3f3fe){(変化後)~~毎ターン味方全体のたいりょくが&color(red){2%}回復する}|499|443|536|645|573|693|2023/11/02~~限定~~イベ報酬|
 |☆3~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_F3s1Ui455.jpg,55,no_link)~~めぐりゆく時のなかで>めぐりゆく時のなかで]]|(変化前)~~毎ターン味方全体のたいりょくが1%回復する~~&color(,#f3f3fe){(変化後)~~毎ターン味方全体のたいりょくが&color(red){2%}回復する}|392|248|601|507|321|777|2022/08/18~~配布|
 |}
@@ -582,12 +586,13 @@
 |☆2~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/VJW_6DCJX3.png,55,no_link)~~ラッキービースト準備中！>ラッキービースト準備中！]]|(変化前)~~毎ターン　プラズムチャージの効果が1回追加される~~&color(,#f3f3fe){(変化後)~~毎ターン　プラズムチャージの効果が1回追加され~~&color(red){たいりょくが1%回復する}}|356|422|121|490|580|166|2019/09/24~~恒常|
 |}
 
-// &aname(plasm_1_all)
-// ***味方全体
-// {| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
-// |center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
-// |~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
-// |}
+&aname(plasm_1_all)
+***味方全体
+{| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
+|center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
+|~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
+|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0be2ae281f6f3338.png,55,no_link)~~白くておいしいやつ！>白くておいしいやつ！]]|(変化前)~~自身を除く味方全体の与ダメージが6%増加する~~&color(,#f3f3fe){(変化後)~~自身を除く味方全体の与ダメージが6%増加し~~&color(red){毎ターンたいりょくが3%回復する~~さらに自身のたいりょくが50%以下になったとき~~味方全体のプラズムチャージの効果が1回追加される~~(2ターン)(発動回数：1回)}}|1081|210|1205|1341|261|1494|2026/07/09~~限定~~課金パック|
+|}
 
 &aname(plasm_2)
 **青いマーク

@@ -93,11 +93,11 @@
 [+]ロビー時
 {|class="edit"
 |bgcolor(#ccc):||c
-|!通常|　|
-|^|　|
-|^|　|
-|^|　|
-|^|　|
+|!通常|陸にはサラダってやつがあるんだ~~海草みたいなものかなぁ？　食べてみたい！|
+|^|アカウミガメちゃんはいつもサーフィンの~~練習してるなぁ…　すごく真剣でかっこいい！|
+|^|隊長ちゃんはサーフィンしたことある？~~初めてならアタシが教えてあげるよ！|
+|^|ヒトのランドセルっておもしろいよね～~~甲羅みたい|
+|^|今日は寒いかも？　まぁいっか！~~遊びに行ってこよーっと！|
 |!固定|　|
 |^|　|
 |^|　|
@@ -116,27 +116,27 @@
 |^|　|
 |!クエスト終了|　|
 |^|　|
-|!フラッグ選択|　|
-|^|　|
-|!けもコーラス|　|
-|^|　|
-|^|　|
-|^|　|
+|!フラッグ選択|いいよ～|
+|^|は～い|
+|!けもコーラス|行けるよね！|
+|^|息を合わせて！|
+|^|ノッていこ～！|
+|^|楽しくやろ～|
 |!攻撃|[''通常攻撃'']|
-|^|　|
-|^|　|
-|^|　|
-|^|　|
+|^|そこだぁ！|
+|^|素早くっ！|
+|^|ズバッと！|
+|^|結構痛いよ～！|
 |^|[''とくいわざ'']|
-|^|　|
-|^|　|
-|^|　|
-|^|　|
+|^|ばっしゃ～ん！|
+|^|いっくよ～！|
+|^|キミも遊ぶ？|
+|^|飛び込んじゃえ！|
 |!ダメージ|[''通常攻撃'']|
-|^|　|
+|^|ちょっとぉ！|
 |^|　|
 |^|[''強攻撃'']|
-|^|　|
+|^|遊んでただけなのに～！|
 |^|　|
 |^|　|
 |^|　|
@@ -173,19 +173,19 @@
 [+]掛け合い
 **アカウミガメ
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
-|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
-|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){情報募集中}|
-|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){いい波が来そう！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){楽しみだね～}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){いいねえ！ ノッてきたぁ！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){この調子で、どんどん行こ～}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){もっと遊びた～い！ サーフィンしにいこ！}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){お～、サーフィ～ン！ くたくたになるまで、エンジョイしよ～}|
 |!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){情報募集中}|
 |^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fa89469ca2b16407.png,right){情報募集中}|
 |}
 [[%%%アカウミガメ　セリフ集%%%>アカウミガメ#serifu]]
 **おとどちゃん
 {|class="edit"
-|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){あたしたちが勝ったら}|
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){アタシたちが勝ったら}|
 |^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png,right){おまんをハマスイ送りにしちゃる！}|
 |!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b22a849c53f9a70c.png){みんなと触れ合えちゃうよ～！}|
 |^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1b0c4d2a795b1504.png,right){お土産もあるきね！}|
@@ -199,16 +199,16 @@
 [+]その他
 {|class="edit"
 |bgcolor(#ccc):||c
-|!加入|おっはよー、アオウミガメだよ！~~サーフィンしてきたから、次はのんびりチルしよっかな~~隊長ちゃんもどう～？|
+|!加入|おっはよー、アオウミガメだよ！~~サーフィンしてきたから、次はのんびり~~チルしよっかな　隊長ちゃんもどう～？|
 |!ログインボーナス|　|
 |^|　|
-|!なかよしレベルアップ|　|
-|!レベルアップ|　|
+|!なかよしレベルアップ|パークに来てからしばらく経つけど、まだチャレンジしたい~~スポーツがいっぱいあるの！　いっしょにやろう、隊長ちゃん！|
+|!レベルアップ|はむむむ…海草味のジャパまんってある？|
 |!レベル上限解放|※ふれあいの「うれしい！」と同一|
-|!野生解放|　|
-|!けも級アップ|　|
-|!ミラクルレベルアップ|　|
-|!フォトポケット開放|　|
+|!野生解放|なんか、うわーってなる～！　なんでもできちゃいそう！|
+|!けも級アップ|何したの隊長ちゃん！　今のアタシ、すっごく元気だよ！|
+|!ミラクルレベルアップ|ねえ！　新しいスポーツにチャレンジしに行こう！|
+|!フォトポケット開放|ポケットがいっぱいになっちゃうくらい、たくさんの思い出を作ろうね！|
 |!着替え|　|
 |^|　|
 |^|　|
@@ -270,7 +270,7 @@
 
 **特別衣装
 ***桂浜水族館の服
-&attachref(50%)
+&attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/39734f5e01f963a3.png,50%)
 
 //『パーティドレス』
 //[+]&color(red){''ネタバレ注意！''}

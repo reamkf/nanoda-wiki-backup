@@ -1,6 +1,7 @@
 [+]目次
 #contents
 [END]
+※シーサー・ライトについては[[%%%こちら%%%>シーサー・ライト]]
 *《村落獅子》シーサー・ライト
 &attachref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ae21e302fbc13736.png,50%)
 //[+]けも級最大(未)
@@ -162,21 +163,18 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-**相手フレンズ名
+**《村落獅子》シーサー・レフティ
 {|class="edit"
-|bgcolor(#ccc):||c
-|!クエスト開始時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!WAVE移行時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!クエスト終了時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!ギブアップ時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-[[%%%相手フレンズ　セリフ集%%%>相手フレンズ#serifu]]
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/81dcde155a226b23.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3f97b8a8582ac5ba.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/81dcde155a226b23.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3f97b8a8582ac5ba.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/81dcde155a226b23.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3f97b8a8582ac5ba.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/81dcde155a226b23.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3f97b8a8582ac5ba.png,right){情報募集中}|
 |}
-//現在、掛け合いのあるフレンズはいないようダネ。
-//
+[[%%%《村落獅子》シーサー・レフティ　セリフ集%%%>《村落獅子》シーサー・レフティ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -211,7 +209,7 @@
 |!ツリーハウス~~(待ち2)|※おてつだい(共通)の伸びボイスと同一|
 |!ツリーハウス~~(あくび)| |
 |!ツリーハウス~~(すやすや)|※おてつだい(共通)のすやすやボイスと同一|
-|!しょうたい確定演出|　|
+|!しょうたい確定演出|福はいつでもめんそーれ！|
 |!おてつだい(クエスト)|''[出迎え]''|
 |^||
 |^||
@@ -238,8 +236,7 @@
 |}
 [END]
 **掛け合い相手リンク
-//|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/.png,70)>ミーアキャット#serifu]]|
-情報募集中
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/3f97b8a8582ac5ba.png,70)>《村落獅子》シーサー・レフティ#serifu]]|
 
 *実際の動物について
  ''シーサーは古くから沖縄の人々の生活に寄り添ってきた守り神~~です。置かれている場所や守るものにより、３つに分けられま~~す。城郭や墳墓に置かれ権威の象徴でもある宮獅子、集落の入~~りロや高台に置かれ悪霊の侵入を防いだり火事を防ぐヒーゲー~~シ（火返し）として村を守る村落獅子、そして個人の家を守る~~家獅子です。''

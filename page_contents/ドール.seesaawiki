@@ -2,6 +2,7 @@
 #contents(2)
 [END]
 ※アクティブ属性のドールについては[[%%%こちら%%%>【頼れる副隊長】ドール]]
+※オーバードールについては[[%%%こちら%%%>オーバードール]]
 *ドール
 &attachref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8zWciUY1r3.png,50%)
 ※けもステータスはスペシャルコーデのみ所持している状態のものです
@@ -337,7 +338,20 @@
 |^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/QcfXuNTb_p.png,right){十分だよ！　ゆっくりしてて}|
 |}
 [[%%%ライオン　セリフ集%%%>ライオン#serifu]]
-[END][+]その他
+**ジェネット
+{|class="edit"
+|!クエスト開始時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/UEXm5ELgn2.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,right){情報募集中}|
+|}
+[[%%%ジェネット　セリフ集%%%>ジェネット#serifu]]
+[END]
+[+]その他
 {|class="edit"
 |!加入|副隊長のドールです！~~まだ未熟ですけど、一生懸命頑張ります！~~よろしくお願いします！|
 |!ログインボーナス|隊長さん！　これ、どうぞ！~~きっとお役に立つと思います！|
@@ -393,7 +407,7 @@
 [END]
 
 **掛け合い相手リンク
-|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F74f20chzp.png,70)>ミーアキャット#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/akLOobAncO.png,70)>ハクトウワシ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZzJUiNDJTj.png,70)>マイルカ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QcfXuNTb_p.png,70)>ライオン#serifu]]|
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/F74f20chzp.png,70)>ミーアキャット#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/akLOobAncO.png,70)>ハクトウワシ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ZzJUiNDJTj.png,70)>マイルカ#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/QcfXuNTb_p.png,70)>ライオン#serifu]]|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5rbuF2QAgP.jpg,70)>ジェネット#serifu]]|
 *実際の動物について
  ''丸い耳が特徴的な野生のイヌで、アカオオカミとも呼ばれています。~~家族を中心に１０頭前後の群れを作り暮らしていますが、仲間とのコミュニケーションのため、さまざまな声を発します。~~狩りの時は口笛のような音を出すことから「ホイッスリング・ハンター」というあだ名も持ちます。''
 ドールは、ネコ目　イヌ科　ドール属の哺乳類である。

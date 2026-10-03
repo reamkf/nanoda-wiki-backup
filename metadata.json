@@ -1,8 +1,240 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-09-19T13:07:36.711Z",
+  "fetchedAt": "2026-10-03T07:21:49.211Z",
   "pages": [
+    {
+      "name": "シーサーバル道場・概要",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%a6%b3%b5%cd%d7",
+      "contentFile": "シーサーバル道場・概要.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T07:13:27.000Z",
+      "localUpdatedAt": "2026-10-03T07:13:27.000Z",
+      "deleted": false
+    },
+    {
+      "name": "シーサーバル道場（β2-x）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2dx%a1%cb",
+      "contentFile": "シーサーバル道場（β2-x）.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T06:53:04.000Z",
+      "deleted": false,
+      "localUpdatedAt": "2026-10-03T06:53:04.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-39）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
+      "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T06:44:30.000Z",
+      "deleted": false,
+      "localUpdatedAt": "2026-10-03T06:44:30.000Z"
+    },
+    {
+      "name": "シーサーバル道場（β2-37）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d37%a1%cb",
+      "contentFile": "シーサーバル道場（β2-37）.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T06:33:27.000Z",
+      "localUpdatedAt": "2026-10-03T06:33:27.000Z",
+      "deleted": false
+    },
+    {
+      "name": "シーサーバル道場（β2-38）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d38%a1%cb",
+      "contentFile": "シーサーバル道場（β2-38）.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T06:33:04.000Z",
+      "localUpdatedAt": "2026-10-03T06:33:04.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ヨーロッパビーバー",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e8%a1%bc%a5%ed%a5%c3%a5%d1%a5%d3%a1%bc%a5%d0%a1%bc",
+      "contentFile": "ヨーロッパビーバー.seesaawiki",
+      "remoteUpdatedAt": "2026-10-01T14:56:14.000Z",
+      "localUpdatedAt": "2026-10-01T14:56:14.000Z",
+      "deleted": false
+    },
+    {
+      "name": "エジプトルーセットオオコウモリ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a8%a5%b8%a5%d7%a5%c8%a5%eb%a1%bc%a5%bb%a5%c3%a5%c8%a5%aa%a5%aa%a5%b3%a5%a6%a5%e2%a5%ea",
+      "contentFile": "エジプトルーセットオオコウモリ.seesaawiki",
+      "remoteUpdatedAt": "2026-10-01T14:36:42.000Z",
+      "localUpdatedAt": "2026-10-01T14:36:42.000Z",
+      "deleted": false
+    },
+    {
+      "name": "オーバードール",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%aa%a1%bc%a5%d0%a1%bc%a5%c9%a1%bc%a5%eb",
+      "contentFile": "オーバードール.seesaawiki",
+      "remoteUpdatedAt": "2026-10-01T14:18:56.000Z",
+      "localUpdatedAt": "2026-10-01T14:18:56.000Z",
+      "deleted": false
+    },
+    {
+      "name": "動物フォト一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
+      "contentFile": "動物フォト一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-09-30T17:50:42.000Z",
+      "localUpdatedAt": "2026-09-30T17:50:42.000Z",
+      "deleted": false
+    },
+    {
+      "name": "オジロヌー",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%aa%a5%b8%a5%ed%a5%cc%a1%bc",
+      "contentFile": "オジロヌー.seesaawiki",
+      "remoteUpdatedAt": "2026-09-30T15:27:34.000Z",
+      "localUpdatedAt": "2026-09-30T15:27:34.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ハシボソガラス",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%cf%a5%b7%a5%dc%a5%bd%a5%ac%a5%e9%a5%b9",
+      "contentFile": "ハシボソガラス.seesaawiki",
+      "remoteUpdatedAt": "2026-09-28T05:45:17.000Z",
+      "localUpdatedAt": "2026-09-28T05:45:17.000Z",
+      "deleted": false
+    },
+    {
+      "name": "シールコレクション",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
+      "contentFile": "シールコレクション.seesaawiki",
+      "remoteUpdatedAt": "2026-09-28T01:16:52.000Z",
+      "localUpdatedAt": "2026-09-28T01:16:52.000Z",
+      "deleted": false
+    },
+    {
+      "name": "クロイナリサマ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%af%a5%ed%a5%a4%a5%ca%a5%ea%a5%b5%a5%de",
+      "contentFile": "クロイナリサマ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-27T09:31:52.000Z",
+      "localUpdatedAt": "2026-09-27T09:31:52.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ゴールデンライオンタマリン",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a1%bc%a5%eb%a5%c7%a5%f3%a5%e9%a5%a4%a5%aa%a5%f3%a5%bf%a5%de%a5%ea%a5%f3",
+      "contentFile": "ゴールデンライオンタマリン.seesaawiki",
+      "remoteUpdatedAt": "2026-09-27T08:58:57.000Z",
+      "localUpdatedAt": "2026-09-27T08:58:57.000Z",
+      "deleted": false
+    },
+    {
+      "name": "第14回 ジャパリパーク立ち入り禁止区域・解除開始",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c2%e814%b2%f3%20%a5%b8%a5%e3%a5%d1%a5%ea%a5%d1%a1%bc%a5%af%ce%a9%a4%c1%c6%fe%a4%ea%b6%d8%bb%df%b6%e8%b0%e8%a1%a6%b2%f2%bd%fc%b3%ab%bb%cf",
+      "contentFile": "第14回 ジャパリパーク立ち入り禁止区域・解除開始.seesaawiki",
+      "remoteUpdatedAt": "2026-09-26T11:41:57.000Z",
+      "deleted": false,
+      "localUpdatedAt": "2026-09-26T11:41:57.000Z"
+    },
+    {
+      "name": "第13回 ジャパリパーク立ち入り禁止区域・解除開始",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c2%e813%b2%f3%20%a5%b8%a5%e3%a5%d1%a5%ea%a5%d1%a1%bc%a5%af%ce%a9%a4%c1%c6%fe%a4%ea%b6%d8%bb%df%b6%e8%b0%e8%a1%a6%b2%f2%bd%fc%b3%ab%bb%cf",
+      "contentFile": "第13回 ジャパリパーク立ち入り禁止区域・解除開始.seesaawiki",
+      "remoteUpdatedAt": "2026-09-26T11:31:05.000Z",
+      "localUpdatedAt": "2026-09-26T11:31:05.000Z",
+      "deleted": false
+    },
+    {
+      "name": "称号一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
+      "contentFile": "称号一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-09-26T10:28:55.000Z",
+      "localUpdatedAt": "2026-09-26T10:28:55.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ガーンジー",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a1%bc%a5%f3%a5%b8%a1%bc",
+      "contentFile": "ガーンジー.seesaawiki",
+      "remoteUpdatedAt": "2026-09-23T12:50:38.000Z",
+      "localUpdatedAt": "2026-09-23T12:50:38.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ツクヨミノシンシ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c4%a5%af%a5%e8%a5%df%a5%ce%a5%b7%a5%f3%a5%b7",
+      "contentFile": "ツクヨミノシンシ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-23T12:48:13.000Z",
+      "localUpdatedAt": "2026-09-23T12:48:13.000Z",
+      "deleted": false
+    },
+    {
+      "name": "サラブレッドあしげ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b5%a5%e9%a5%d6%a5%ec%a5%c3%a5%c9%a4%a2%a4%b7%a4%b2",
+      "contentFile": "サラブレッドあしげ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-23T12:46:57.000Z",
+      "localUpdatedAt": "2026-09-23T12:46:57.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ゴシンギュウサマ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a5%b7%a5%f3%a5%ae%a5%e5%a5%a6%a5%b5%a5%de",
+      "contentFile": "ゴシンギュウサマ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-23T12:44:34.000Z",
+      "localUpdatedAt": "2026-09-23T12:44:34.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ガラパゴスコバネウ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%b3%a5%d0%a5%cd%a5%a6",
+      "contentFile": "ガラパゴスコバネウ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-23T07:22:42.000Z",
+      "localUpdatedAt": "2026-09-23T07:22:42.000Z",
+      "deleted": false
+    },
+    {
+      "name": "《村落獅子》シーサー・レフティ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%ec%a5%d5%a5%c6%a5%a3",
+      "contentFile": "《村落獅子》シーサー・レフティ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-20T02:01:22.000Z",
+      "localUpdatedAt": "2026-09-20T02:01:22.000Z",
+      "deleted": false
+    },
+    {
+      "name": "《村落獅子》シーサー・ライト",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%e9%a5%a4%a5%c8",
+      "contentFile": "《村落獅子》シーサー・ライト.seesaawiki",
+      "remoteUpdatedAt": "2026-09-20T01:59:48.000Z",
+      "localUpdatedAt": "2026-09-20T01:59:48.000Z",
+      "deleted": false
+    },
+    {
+      "name": "東北きりたん",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c5%ec%cb%cc%a4%ad%a4%ea%a4%bf%a4%f3",
+      "contentFile": "東北きりたん.seesaawiki",
+      "remoteUpdatedAt": "2026-09-20T01:53:52.000Z",
+      "localUpdatedAt": "2026-09-20T01:53:52.000Z",
+      "deleted": false
+    },
+    {
+      "name": "東北イタコ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c5%ec%cb%cc%a5%a4%a5%bf%a5%b3",
+      "contentFile": "東北イタコ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-20T01:49:29.000Z",
+      "localUpdatedAt": "2026-09-20T01:49:29.000Z",
+      "deleted": false
+    },
+    {
+      "name": "コビトカバ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b3%a5%d3%a5%c8%a5%ab%a5%d0",
+      "contentFile": "コビトカバ.seesaawiki",
+      "remoteUpdatedAt": "2026-09-20T01:48:47.000Z",
+      "localUpdatedAt": "2026-09-20T01:48:47.000Z",
+      "deleted": false
+    },
+    {
+      "name": "状態異常",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%f5%c2%d6%b0%db%be%ef",
+      "contentFile": "状態異常.seesaawiki",
+      "remoteUpdatedAt": "2026-09-19T13:41:14.000Z",
+      "localUpdatedAt": "2026-09-19T13:41:14.000Z",
+      "deleted": false
+    },
+    {
+      "name": "バトルの基本知識",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d0%a5%c8%a5%eb%a4%ce%b4%f0%cb%dc%c3%ce%bc%b1",
+      "contentFile": "バトルの基本知識.seesaawiki",
+      "remoteUpdatedAt": "2026-09-19T13:40:11.000Z",
+      "localUpdatedAt": "2026-09-19T13:40:11.000Z",
+      "deleted": false
+    },
     {
       "name": "フレンズ掛け合い一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b3%dd%a4%b1%b9%e7%a4%a4%b0%ec%cd%f7",
@@ -26,14 +258,6 @@
       "remoteUpdatedAt": "2026-09-19T13:03:18.000Z",
       "localUpdatedAt": "2026-09-19T13:03:18.000Z",
       "deleted": false
-    },
-    {
-      "name": "オーバードール",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%aa%a1%bc%a5%d0%a1%bc%a5%c9%a1%bc%a5%eb",
-      "contentFile": "オーバードール.seesaawiki",
-      "remoteUpdatedAt": "2026-09-19T13:02:50.000Z",
-      "deleted": false,
-      "localUpdatedAt": "2026-09-19T13:02:50.000Z"
     },
     {
       "name": "ドール",
@@ -100,14 +324,6 @@
       "deleted": false
     },
     {
-      "name": "シーサーバル道場（β2-38）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d38%a1%cb",
-      "contentFile": "シーサーバル道場（β2-38）.seesaawiki",
-      "remoteUpdatedAt": "2026-09-19T11:01:46.000Z",
-      "localUpdatedAt": "2026-09-19T11:01:46.000Z",
-      "deleted": false
-    },
-    {
       "name": "効果別フォト早見表",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b8%fa%b2%cc%ca%cc%a5%d5%a5%a9%a5%c8%c1%e1%b8%ab%c9%bd",
       "contentFile": "効果別フォト早見表.seesaawiki",
@@ -130,22 +346,6 @@
       "remoteUpdatedAt": "2026-09-19T10:32:24.000Z",
       "deleted": false,
       "localUpdatedAt": "2026-09-19T10:32:24.000Z"
-    },
-    {
-      "name": "称号一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
-      "contentFile": "称号一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-09-19T10:28:30.000Z",
-      "localUpdatedAt": "2026-09-19T10:28:30.000Z",
-      "deleted": false
-    },
-    {
-      "name": "動物フォト一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
-      "contentFile": "動物フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-09-19T10:28:13.000Z",
-      "localUpdatedAt": "2026-09-19T10:28:13.000Z",
-      "deleted": false
     },
     {
       "name": "フレンズCV一覧",
@@ -188,14 +388,6 @@
       "deleted": false
     },
     {
-      "name": "《村落獅子》シーサー・レフティ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%ec%a5%d5%a5%c6%a5%a3",
-      "contentFile": "《村落獅子》シーサー・レフティ.seesaawiki",
-      "remoteUpdatedAt": "2026-09-12T10:08:02.000Z",
-      "deleted": false,
-      "localUpdatedAt": "2026-09-12T10:08:02.000Z"
-    },
-    {
       "name": "なないろのアーチへ！",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%ce%a5%a2%a1%bc%a5%c1%a4%d8%a1%aa",
       "contentFile": "なないろのアーチへ！.seesaawiki",
@@ -228,14 +420,6 @@
       "deleted": false
     },
     {
-      "name": "《村落獅子》シーサー・ライト",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%e9%a5%a4%a5%c8",
-      "contentFile": "《村落獅子》シーサー・ライト.seesaawiki",
-      "remoteUpdatedAt": "2026-09-12T07:48:08.000Z",
-      "localUpdatedAt": "2026-09-12T07:48:08.000Z",
-      "deleted": false
-    },
-    {
       "name": "シーサー・レフティ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%ec%a5%d5%a5%c6%a5%a3",
       "contentFile": "シーサー・レフティ.seesaawiki",
@@ -249,14 +433,6 @@
       "contentFile": "チョハッカイ.seesaawiki",
       "remoteUpdatedAt": "2026-09-10T07:25:26.000Z",
       "localUpdatedAt": "2026-09-10T07:25:26.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ハシボソガラス",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%cf%a5%b7%a5%dc%a5%bd%a5%ac%a5%e9%a5%b9",
-      "contentFile": "ハシボソガラス.seesaawiki",
-      "remoteUpdatedAt": "2026-09-06T23:28:29.000Z",
-      "localUpdatedAt": "2026-09-06T23:28:29.000Z",
       "deleted": false
     },
     {
@@ -289,14 +465,6 @@
       "contentFile": "サンクリストバルゾウガメ.seesaawiki",
       "remoteUpdatedAt": "2026-09-06T06:52:43.000Z",
       "localUpdatedAt": "2026-09-06T06:52:43.000Z",
-      "deleted": false
-    },
-    {
-      "name": "シールコレクション",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
-      "contentFile": "シールコレクション.seesaawiki",
-      "remoteUpdatedAt": "2026-09-06T02:45:08.000Z",
-      "localUpdatedAt": "2026-09-06T02:45:08.000Z",
       "deleted": false
     },
     {
@@ -361,14 +529,6 @@
       "contentFile": "ギロロ.seesaawiki",
       "remoteUpdatedAt": "2026-08-31T00:02:41.000Z",
       "localUpdatedAt": "2026-08-31T00:02:41.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ゴールデンライオンタマリン",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a1%bc%a5%eb%a5%c7%a5%f3%a5%e9%a5%a4%a5%aa%a5%f3%a5%bf%a5%de%a5%ea%a5%f3",
-      "contentFile": "ゴールデンライオンタマリン.seesaawiki",
-      "remoteUpdatedAt": "2026-08-29T09:36:38.000Z",
-      "localUpdatedAt": "2026-08-29T09:36:38.000Z",
       "deleted": false
     },
     {
@@ -516,14 +676,6 @@
       "deleted": false
     },
     {
-      "name": "エジプトルーセットオオコウモリ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%a8%a5%b8%a5%d7%a5%c8%a5%eb%a1%bc%a5%bb%a5%c3%a5%c8%a5%aa%a5%aa%a5%b3%a5%a6%a5%e2%a5%ea",
-      "contentFile": "エジプトルーセットオオコウモリ.seesaawiki",
-      "remoteUpdatedAt": "2026-08-26T13:57:54.000Z",
-      "localUpdatedAt": "2026-08-26T13:57:54.000Z",
-      "deleted": false
-    },
-    {
       "name": "ティタノボア",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c6%a5%a3%a5%bf%a5%ce%a5%dc%a5%a2",
       "contentFile": "ティタノボア.seesaawiki",
@@ -548,14 +700,6 @@
       "deleted": false
     },
     {
-      "name": "東北イタコ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c5%ec%cb%cc%a5%a4%a5%bf%a5%b3",
-      "contentFile": "東北イタコ.seesaawiki",
-      "remoteUpdatedAt": "2026-08-26T13:29:26.000Z",
-      "localUpdatedAt": "2026-08-26T13:29:26.000Z",
-      "deleted": false
-    },
-    {
       "name": "マッコウクジラ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%de%a5%c3%a5%b3%a5%a6%a5%af%a5%b8%a5%e9",
       "contentFile": "マッコウクジラ.seesaawiki",
@@ -569,14 +713,6 @@
       "contentFile": "ボアコンストリクター.seesaawiki",
       "remoteUpdatedAt": "2026-08-26T13:16:34.000Z",
       "localUpdatedAt": "2026-08-26T13:16:34.000Z",
-      "deleted": false
-    },
-    {
-      "name": "東北きりたん",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c5%ec%cb%cc%a4%ad%a4%ea%a4%bf%a4%f3",
-      "contentFile": "東北きりたん.seesaawiki",
-      "remoteUpdatedAt": "2026-08-25T14:09:32.000Z",
-      "localUpdatedAt": "2026-08-25T14:09:32.000Z",
       "deleted": false
     },
     {
@@ -644,14 +780,6 @@
       "deleted": false
     },
     {
-      "name": "コビトカバ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b3%a5%d3%a5%c8%a5%ab%a5%d0",
-      "contentFile": "コビトカバ.seesaawiki",
-      "remoteUpdatedAt": "2026-08-17T15:15:42.000Z",
-      "localUpdatedAt": "2026-08-17T15:15:42.000Z",
-      "deleted": false
-    },
-    {
       "name": "コウノトリ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b3%a5%a6%a5%ce%a5%c8%a5%ea",
       "contentFile": "コウノトリ.seesaawiki",
@@ -689,14 +817,6 @@
       "contentFile": "ホワイトサーバル.seesaawiki",
       "remoteUpdatedAt": "2026-08-12T09:27:20.000Z",
       "localUpdatedAt": "2026-08-12T09:27:20.000Z",
-      "deleted": false
-    },
-    {
-      "name": "サラブレッドあしげ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b5%a5%e9%a5%d6%a5%ec%a5%c3%a5%c9%a4%a2%a4%b7%a4%b2",
-      "contentFile": "サラブレッドあしげ.seesaawiki",
-      "remoteUpdatedAt": "2026-08-10T04:43:58.000Z",
-      "localUpdatedAt": "2026-08-10T04:43:58.000Z",
       "deleted": false
     },
     {
@@ -809,22 +929,6 @@
       "contentFile": "シーサーバル道場（β2-36）.seesaawiki",
       "remoteUpdatedAt": "2026-08-02T08:16:34.000Z",
       "localUpdatedAt": "2026-08-02T08:16:34.000Z",
-      "deleted": false
-    },
-    {
-      "name": "シーサーバル道場（β2-37）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d37%a1%cb",
-      "contentFile": "シーサーバル道場（β2-37）.seesaawiki",
-      "remoteUpdatedAt": "2026-08-02T08:15:42.000Z",
-      "localUpdatedAt": "2026-08-02T08:15:42.000Z",
-      "deleted": false
-    },
-    {
-      "name": "シーサーバル道場・概要",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%a6%b3%b5%cd%d7",
-      "contentFile": "シーサーバル道場・概要.seesaawiki",
-      "remoteUpdatedAt": "2026-08-02T08:14:40.000Z",
-      "localUpdatedAt": "2026-08-02T08:14:40.000Z",
       "deleted": false
     },
     {
@@ -988,27 +1092,11 @@
       "deleted": false
     },
     {
-      "name": "バトルの基本知識",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d0%a5%c8%a5%eb%a4%ce%b4%f0%cb%dc%c3%ce%bc%b1",
-      "contentFile": "バトルの基本知識.seesaawiki",
-      "remoteUpdatedAt": "2026-07-18T01:38:55.000Z",
-      "localUpdatedAt": "2026-07-18T01:38:55.000Z",
-      "deleted": false
-    },
-    {
       "name": "オオアルマジロ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%aa%a5%aa%a5%a2%a5%eb%a5%de%a5%b8%a5%ed",
       "contentFile": "オオアルマジロ.seesaawiki",
       "remoteUpdatedAt": "2026-07-17T23:35:41.000Z",
       "localUpdatedAt": "2026-07-17T23:35:41.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ツクヨミノシンシ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c4%a5%af%a5%e8%a5%df%a5%ce%a5%b7%a5%f3%a5%b7",
-      "contentFile": "ツクヨミノシンシ.seesaawiki",
-      "remoteUpdatedAt": "2026-07-16T14:29:44.000Z",
-      "localUpdatedAt": "2026-07-16T14:29:44.000Z",
       "deleted": false
     },
     {
@@ -1105,22 +1193,6 @@
       "contentFile": "シーサーバル・ライト.seesaawiki",
       "remoteUpdatedAt": "2026-07-06T20:18:49.000Z",
       "localUpdatedAt": "2026-07-06T20:18:49.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ガラパゴスコバネウ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%b3%a5%d0%a5%cd%a5%a6",
-      "contentFile": "ガラパゴスコバネウ.seesaawiki",
-      "remoteUpdatedAt": "2026-07-06T13:56:01.000Z",
-      "localUpdatedAt": "2026-07-06T13:56:01.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ガーンジー",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a1%bc%a5%f3%a5%b8%a1%bc",
-      "contentFile": "ガーンジー.seesaawiki",
-      "remoteUpdatedAt": "2026-07-06T13:49:32.000Z",
-      "localUpdatedAt": "2026-07-06T13:49:32.000Z",
       "deleted": false
     },
     {
@@ -1708,14 +1780,6 @@
       "deleted": false
     },
     {
-      "name": "クロイナリサマ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%af%a5%ed%a5%a4%a5%ca%a5%ea%a5%b5%a5%de",
-      "contentFile": "クロイナリサマ.seesaawiki",
-      "remoteUpdatedAt": "2026-04-11T15:36:38.000Z",
-      "localUpdatedAt": "2026-04-11T15:36:38.000Z",
-      "deleted": false
-    },
-    {
       "name": "ゴールドのシール",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a1%bc%a5%eb%a5%c9%a4%ce%a5%b7%a1%bc%a5%eb",
       "contentFile": "ゴールドのシール.seesaawiki",
@@ -1737,14 +1801,6 @@
       "contentFile": "マジカルキャンディオール（小）のシール.seesaawiki",
       "remoteUpdatedAt": "2026-04-11T14:30:25.000Z",
       "localUpdatedAt": "2026-04-11T14:30:25.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ゴシンギュウサマ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b4%a5%b7%a5%f3%a5%ae%a5%e5%a5%a6%a5%b5%a5%de",
-      "contentFile": "ゴシンギュウサマ.seesaawiki",
-      "remoteUpdatedAt": "2026-04-11T13:33:38.000Z",
-      "localUpdatedAt": "2026-04-11T13:33:38.000Z",
       "deleted": false
     },
     {
@@ -2105,14 +2161,6 @@
       "contentFile": "ぐりゃああぁぁ！！.seesaawiki",
       "remoteUpdatedAt": "2026-03-25T01:28:32.000Z",
       "localUpdatedAt": "2026-03-25T01:28:32.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ヨーロッパビーバー",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e8%a1%bc%a5%ed%a5%c3%a5%d1%a5%d3%a1%bc%a5%d0%a1%bc",
-      "contentFile": "ヨーロッパビーバー.seesaawiki",
-      "remoteUpdatedAt": "2026-03-25T00:44:03.000Z",
-      "localUpdatedAt": "2026-03-25T00:44:03.000Z",
       "deleted": false
     },
     {
@@ -4988,14 +5036,6 @@
       "deleted": false
     },
     {
-      "name": "オジロヌー",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%aa%a5%b8%a5%ed%a5%cc%a1%bc",
-      "contentFile": "オジロヌー.seesaawiki",
-      "remoteUpdatedAt": "2025-10-27T08:48:32.000Z",
-      "localUpdatedAt": "2025-10-27T08:48:32.000Z",
-      "deleted": false
-    },
-    {
       "name": "ハシビロコウ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%cf%a5%b7%a5%d3%a5%ed%a5%b3%a5%a6",
       "contentFile": "ハシビロコウ.seesaawiki",
@@ -5089,14 +5129,6 @@
       "contentFile": "みゃみゃみゃドラゴン！.seesaawiki",
       "remoteUpdatedAt": "2025-09-25T14:38:32.000Z",
       "localUpdatedAt": "2025-09-25T14:38:32.000Z",
-      "deleted": false
-    },
-    {
-      "name": "状態異常",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%f5%c2%d6%b0%db%be%ef",
-      "contentFile": "状態異常.seesaawiki",
-      "remoteUpdatedAt": "2025-09-25T05:36:11.000Z",
-      "localUpdatedAt": "2025-09-25T05:36:11.000Z",
       "deleted": false
     },
     {
@@ -7049,14 +7081,6 @@
       "contentFile": "シーサーバル道場（β2-19）.seesaawiki",
       "remoteUpdatedAt": "2023-10-01T08:57:18.000Z",
       "localUpdatedAt": "2023-10-01T08:57:18.000Z",
-      "deleted": false
-    },
-    {
-      "name": "第13回 ジャパリパーク立ち入り禁止区域・解除開始",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c2%e813%b2%f3%20%a5%b8%a5%e3%a5%d1%a5%ea%a5%d1%a1%bc%a5%af%ce%a9%a4%c1%c6%fe%a4%ea%b6%d8%bb%df%b6%e8%b0%e8%a1%a6%b2%f2%bd%fc%b3%ab%bb%cf",
-      "contentFile": "第13回 ジャパリパーク立ち入り禁止区域・解除開始.seesaawiki",
-      "remoteUpdatedAt": "2023-09-29T07:40:33.000Z",
-      "localUpdatedAt": "2023-09-29T07:40:33.000Z",
       "deleted": false
     },
     {

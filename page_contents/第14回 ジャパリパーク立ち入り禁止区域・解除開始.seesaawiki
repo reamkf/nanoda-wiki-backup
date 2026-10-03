@@ -1,0 +1,77 @@
+&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/eb7d4b1ec885e15a.PNG,500,no_link)
+''開催期間'' : 2024年9月24日(木) メンテナンス後 ～ 10月01日(木) 14:00
+
+[-]目次
+#contents
+[END]
+// &size(18){&color(#ff0000){※過去のイベントからの推測を含みます。}}
+
+>[[前回(2023年開催時)>第13回 ジャパリパーク立ち入り禁止区域・解除開始]]と基本的に同じ内容です。変更点はボスのステータスが高くなった、拠点のノルマが変わった、交換所のアイテムが増えた、ボーナスクリアカウントが表示されなくなったくらいです。
+
+>初日～2日目途中までは各拠点のノルマが74.1億でしたが、到底到達できない水準だったため2日目途中から19億に引き下げられました。
+
+[-][[前回(2023年開催時)>第13回 ジャパリパーク立ち入り禁止区域・解除開始]]のコピペ
+*Q&A
+**何をしたらいいの？
++新しいタームが始まったら、全拠点が制圧されるまで拠点を周回。
++全拠点が制圧されてボーナスクエストが解放されたらボーナスクエストに挑戦。
++イベント交換所でジャパリコインを欲しいアイテムと交換。
+
+**タームって何？
+拠点の制圧状況・ボーナスの解放状況がリセットされる時間の区切りです。
+拠点が制圧されると各拠点のドロップアイテムが渋くなるので、ターム切り替え後～拠点が制圧されるまでが周回のタイミングになります。
+
+**拠点はどこを周回するのが効率がいい？
+難易度が高い方が消費スタミナに対してドロップアイテムが多いので、できるだけ高い難易度を回りましょう。
+属性(拠点)によって報酬の違いはないので、ミッション報酬を回収した後は自分の戦力的に倒しやすいところを周回すれば良いです。
+強いて言えば、敵の数が少ないファニー、リラックス、アクティブがおすすめです。
+
+**ボーナスクエストはどこをやるのがいい？
+こちらも難易度が高い方がいいです。
+挑戦可能な回数が限られているので、ミッション報酬のラッキーメダル×3がどうしても欲しいのでなければ、下の難易度は無視で構いません。
+
+**ドロップアイテムはリタマラで厳選できる？
+できません。
+拠点・ボーナス共に、バトル中に見えるドロップは確定ドロップのジャパリコインのみになっているようです。
+
+&aname(term)
+*ターム時間割
+|center|center|c
+|r[bgcolor(fbdd66)]:~ターム|時間|
+|left|left|c
+|第1ターム|14:00～18:00|
+|第2ターム|18:00～21:00|
+|第3ターム|21:00～23:59|
+|第4ターム|0:00～4:00|
+|第5ターム|4:00～9:00|
+|第6ターム|9:00～14:00|
+
+&aname(quest_data)
+*クエスト情報
+**拠点
+全属性共通。
+拠点が制圧されていない間は、ドロップするアイテムの種類とドロップ量が増加。
+ジャパリコイン以外は確率でドロップ。
+|~クエスト|スタミナ|ミッション報酬|ドロップ内容|経験値|ゴールド|獲得スコア|
+|げきむず|20|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×1200&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×5&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×5~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×10&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×10&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×10&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×1|2400|1200|560,000|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×800&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×3&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×3&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×3~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×5&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×5&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×1|2400|1200|0|
+|むずい|15|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×600&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×20&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×7&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|1800|900|280,000|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×400&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×2&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×2~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×10&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×3&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|1800|900|0|
+|ふつう|10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×270&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×5&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|1200|600|137,627|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|1200|600|0|
+|やさしい|5|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&size(20){&color(red){''【拠点未解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×75&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×3&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|300|150|70,000|
+|^|^|^|&size(20){&color(red){''【拠点解放時】''}}~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/CkuZiAc8Zp.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?|300|150|0|
+
+**ボーナスクエスト
+全拠点制圧で解放。
+ターム中1回限り挑戦可能。
+タームごとに挑戦回数リセット。
+ジャパリコイン以外は確率でドロップ。
+|~クエスト|スタミナ|ミッション報酬|ドロップ内容|経験値|ゴールド|
+|げきむず|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×1200or9999&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×1&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×20~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×20&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×15&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×50~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×1&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×1&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Gmg9fbTd2f.png ,55,no_link)×1&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/396opvg_bT.png ,55,no_link)×1|2400|1200|
+|むずい|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Gmg9fbTd2f.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/396opvg_bT.png ,55,no_link)×?|???|???|
+|ふつう|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/S3DOam9F5x.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|???|???|
+|やさしい|0|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×3|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/KCVKtnAZMW.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/AZXFMiYhyW.png, 55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3HODK1C1DG.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/SksNoqerGp.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2lJJ9h9cAT.png ,55,no_link)×?~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/RuqiqlJwLZ.png ,55,no_link)×?~~&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6ypctU2yFv.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/rf_cVIqZlx.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png ,55,no_link)×?~~&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/M4Awg_e5DT.png ,55,no_link)×?&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/xqPXVraM4L.png ,55,no_link)×?&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/n19LSpoMq0.png ,55,no_link)×?|???|???|
+
+
+

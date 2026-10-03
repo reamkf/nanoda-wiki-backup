@@ -1,0 +1,133 @@
+&color(red){このページはページ新規作成時のテンプレートです。}
+
+[+]
+// [TODO] ↑の[+]この行を削除する
+// [TODO] [[シーサーバル道場・概要]]のシーズン一覧を更新する
+// [TODO] 前のシーズンの最新シーズンの案内をuncommentする
+// [TODO] 前のシーズンのシーズンの次のシーズンリンクをuncommentする
+// [TODO] ↓のシーズン番号と日付を修正する
+// &color(#ff0000){''&size(18){※このページは20yy/mm/ddまでのβ2シーズンxの攻略ページです}''}
+// β2シーズン37の攻略は[[%%%こちら%%%>シーサーバル道場（β2-x）]]
+// β2シーズン37攻略は[[%%%こちら%%%>シーサーバル道場（β2-x）]]、最新の攻略ページは[[%%%メニュー%%%>MenuBar1]]へ
+[-]目次
+//#contents(2)
+-[[関連ページ>#dojo_pages]]
+-[[敵情報>#dojo_kouryaku]]
+--[[強敵情報早見表>#enemy_hayamihyou]]
+--[[月曜日 フレンドリー属性有利>#dojo_getu]]
+--[[火曜日 ファニー属性有利>#dojo_ka]]
+--[[水曜日 リラックス属性有利>#dojo_sui]]
+--[[木曜日 アクティブ属性有利>#dojo_moku]]
+--[[金曜日 ラブリー属性有利>#dojo_kin]]
+--[[土曜日 マイペース属性有利>#dojo_do]]
+--[[日曜日 ？？？属性有利>#dojo_niti]]
+// [TODO] ↑の日曜の属性を変更する
+-[[道場向きフレンズ一覧>#dojo_friends]]
+-[[フレンズ採用率>#dojo_saiyou]]
+[END]
+
+&aname(dojo_pages)
+*関連ページ
+-[[シーサーバル道場・概要]]
+-[[シーサーバル道場・基本戦術]]
+-[[<< 前のシーズン>シーサーバル道場（β2-x）]]
+// -[[次のシーズン &#62;&#62;>シーサーバル道場（β2-x）]]
+// [TODO] ↑のシーズン番号を変更する
+
+-[[状態異常]]
+-[[スキル効果別フレンズ一覧]]
+-[[地形]]
+
+*地形
+このシーズンの地形は「？？？」です。
+// このシーズンの地形は「道場(昼)」です。地形条件による効果はありません。
+// [TODO] 地形を変更する
+地形条件の効果を持つフレンズ・フォトは[[こちら>地形]]
+
+&aname(dojo_kouryaku)
+*敵情報
+//''&color(#ff0000){随時攻略情報募集中です。~~細かいことでも気づいたことがあればコメントでもなんでも頂けると幸いです。}''
+//***ギミック対応フレンズチェックリスト
+&aname(enemy_hayamihyou)
+**強敵情報早見表
+{| class="custom-css" style="table-layout: fixed;"
+// |r[bgcolor(#cccccc)]:~center:月曜日|center:火曜日|center:水曜日|center:木曜日|
+// |r[bgcolor(#f8f8f8)]:center:&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/c95Po81EIA.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ZCHCiHgny2.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/lwnVzs1f6N.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/D3qYAiMfA7.png,70,no_link)|
+// |くたくた攻撃|どく攻撃|ひやひや攻撃|毎ターンMP減少攻撃|
+// |ルンルンきぶん|あせあせ攻撃|全体大ダメージ攻撃|くらくら攻撃|
+// |ぼんやりうっかり攻撃|ぼんやりうっかり攻撃|びりびり攻撃|すやすや攻撃|
+// |MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|
+// |r[bgcolor(#cccccc)]:~center:金曜日|center:土曜日|center:日曜日|
+// |r[bgcolor(#f8f8f8)]:center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/EFAEw8EgT_.png,70,no_link)|center:&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/BdpIdNKLGa.png,70,no_link)|center:&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/R60aha5IMg.png,70,no_link)|
+// |しょんぼりきぶん攻撃|からげんき攻撃|しょんぼりきぶん攻撃|
+// |ぼんやりうっかり攻撃|くらくら攻撃|ロストフラッグ攻撃|
+// |ばてばてヒリヒリ攻撃|全体大ダメージ攻撃|ちぐはぐリズム攻撃|
+// |MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|MP減少攻撃（有利属性以外）|
+|}
+// [TODO] 敵所法早見表をスプレッドシートで生成する
+
+// [TODO] 各曜日の項目をスプレッドシートからコピペする
+
+&aname(dojo_friends)
+*道場向きフレンズ一覧
+// [TODO] 前のシーズンからコピペする
+
+&aname(dojo_saiyou)
+*フレンズ採用率
+今シーズンのランキング1～100位のランカーパーティーでのフレンズ採用率を、月末付近にデータを取って集計した表です。
+(曜日ごとの最終日で集計することを目指しますが、忙しかったりした場合はもっと早い日のものになる場合があります)
+-日曜日は毎期属性が変わるので、前回比は同一シーズン内でのみ求めます。
+-「スコア順（前回比）」は、このフレンズを採用しているパーティーのスコア順での最上位の順位です。
+-スコア順が1位のフレンズについている(未使用:x位)というのは、このフレンズを採用して%%%いない%%%パーティーの最高順位です。これが低ければ低いほど、このフレンズを抜いてしまうと厳しい戦いになるかもしれません。
+-スコア上位パーティーは、このフレンズを採用しているパーティーで最もスコア上位だった人の編成です。
+-データがゲーム画面でしか閲覧できないため、集計ミスがある可能性があります。
+**月曜日 フレンドリー属性有利
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+**火曜日 ファニー属性有利
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+**水曜日 リラックス属性有利
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+**木曜日 アクティブ属性有利
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+**金曜日 ラブリー属性有利
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+**土曜日 マイペース属性有利
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+**日曜日 ？？？属性有利
+// [TODO] 属性を書き換える
+[+]後期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]
+[+]前期
+&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bgx7m5eBAQ.png,300)
+[END]

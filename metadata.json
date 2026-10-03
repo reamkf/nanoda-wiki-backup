@@ -1,8 +1,40 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-10-03T09:38:50.984Z",
+  "fetchedAt": "2026-10-03T10:50:58.927Z",
   "pages": [
+    {
+      "name": "MenuBar1",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/MenuBar1",
+      "contentFile": "MenuBar1.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T10:47:27.000Z",
+      "localUpdatedAt": "2026-10-03T10:47:27.000Z",
+      "deleted": false
+    },
+    {
+      "name": "なないろのスターグラス交換所",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%ce%a5%b9%a5%bf%a1%bc%a5%b0%a5%e9%a5%b9%b8%f2%b4%b9%bd%ea",
+      "contentFile": "なないろのスターグラス交換所.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T10:46:58.000Z",
+      "localUpdatedAt": "2026-10-03T10:46:58.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ラッキーメダル交換所",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e9%a5%c3%a5%ad%a1%bc%a5%e1%a5%c0%a5%eb%b8%f2%b4%b9%bd%ea",
+      "contentFile": "ラッキーメダル交換所.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T10:05:16.000Z",
+      "localUpdatedAt": "2026-10-03T10:05:16.000Z",
+      "deleted": false
+    },
+    {
+      "name": "キラキラ交換所",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ad%a5%e9%a5%ad%a5%e9%b8%f2%b4%b9%bd%ea",
+      "contentFile": "キラキラ交換所.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T10:09:04.000Z",
+      "localUpdatedAt": "2026-10-03T10:09:04.000Z",
+      "deleted": false
+    },
     {
       "name": "スターグラス交換所",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b9%a5%bf%a1%bc%a5%b0%a5%e9%a5%b9%b8%f2%b4%b9%bd%ea",
@@ -63,8 +95,8 @@
       "name": "シーサーバル道場・概要",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%a6%b3%b5%cd%d7",
       "contentFile": "シーサーバル道場・概要.seesaawiki",
-      "remoteUpdatedAt": "2026-10-03T07:13:27.000Z",
-      "localUpdatedAt": "2026-10-03T07:13:27.000Z",
+      "remoteUpdatedAt": "2026-10-03T10:45:36.000Z",
+      "localUpdatedAt": "2026-10-03T10:45:36.000Z",
       "deleted": false
     },
     {
@@ -1340,14 +1372,6 @@
       "deleted": false
     },
     {
-      "name": "MenuBar1",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/MenuBar1",
-      "contentFile": "MenuBar1.seesaawiki",
-      "remoteUpdatedAt": "2026-06-29T12:10:03.000Z",
-      "localUpdatedAt": "2026-06-29T12:10:03.000Z",
-      "deleted": false
-    },
-    {
       "name": "ガラパゴスペンギン",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%da%a5%f3%a5%ae%a5%f3",
       "contentFile": "ガラパゴスペンギン.seesaawiki",
@@ -2201,14 +2225,6 @@
       "contentFile": "フォト交換券パックおすすめフォト.seesaawiki",
       "remoteUpdatedAt": "2026-03-16T15:55:23.000Z",
       "localUpdatedAt": "2026-03-16T15:55:23.000Z",
-      "deleted": false
-    },
-    {
-      "name": "キラキラ交換所",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ad%a5%e9%a5%ad%a5%e9%b8%f2%b4%b9%bd%ea",
-      "contentFile": "キラキラ交換所.seesaawiki",
-      "remoteUpdatedAt": "2026-03-16T01:03:45.000Z",
-      "localUpdatedAt": "2026-03-16T01:03:45.000Z",
       "deleted": false
     },
     {
@@ -7065,14 +7081,6 @@
       "contentFile": "覇者の反撃.seesaawiki",
       "remoteUpdatedAt": "2023-10-05T18:05:48.000Z",
       "localUpdatedAt": "2023-10-05T18:05:48.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ラッキーメダル交換所",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e9%a5%c3%a5%ad%a1%bc%a5%e1%a5%c0%a5%eb%b8%f2%b4%b9%bd%ea",
-      "contentFile": "ラッキーメダル交換所.seesaawiki",
-      "remoteUpdatedAt": "2023-10-04T12:41:41.000Z",
-      "localUpdatedAt": "2023-10-04T12:41:41.000Z",
       "deleted": false
     },
     {

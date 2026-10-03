@@ -1,8 +1,16 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-10-03T10:50:58.927Z",
+  "fetchedAt": "2026-10-03T13:52:17.975Z",
   "pages": [
+    {
+      "name": "称号一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
+      "contentFile": "称号一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T11:56:39.000Z",
+      "localUpdatedAt": "2026-10-03T11:56:39.000Z",
+      "deleted": false
+    },
     {
       "name": "MenuBar1",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/MenuBar1",
@@ -209,14 +217,6 @@
       "contentFile": "第13回 ジャパリパーク立ち入り禁止区域・解除開始.seesaawiki",
       "remoteUpdatedAt": "2026-09-26T11:31:05.000Z",
       "localUpdatedAt": "2026-09-26T11:31:05.000Z",
-      "deleted": false
-    },
-    {
-      "name": "称号一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
-      "contentFile": "称号一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-09-26T10:28:55.000Z",
-      "localUpdatedAt": "2026-09-26T10:28:55.000Z",
       "deleted": false
     },
     {

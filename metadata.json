@@ -1,8 +1,64 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-10-03T07:21:49.211Z",
+  "fetchedAt": "2026-10-03T09:38:50.984Z",
   "pages": [
+    {
+      "name": "スターグラス交換所",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b9%a5%bf%a1%bc%a5%b0%a5%e9%a5%b9%b8%f2%b4%b9%bd%ea",
+      "contentFile": "スターグラス交換所.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T09:37:41.000Z",
+      "localUpdatedAt": "2026-10-03T09:37:41.000Z",
+      "deleted": false
+    },
+    {
+      "name": "シーサーバル道場（β2-39）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
+      "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T08:21:30.000Z",
+      "localUpdatedAt": "2026-10-03T08:21:30.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ガラパゴスコバネウ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%b3%a5%d0%a5%cd%a5%a6",
+      "contentFile": "ガラパゴスコバネウ.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T07:55:25.000Z",
+      "localUpdatedAt": "2026-10-03T07:55:25.000Z",
+      "deleted": false
+    },
+    {
+      "name": "フレンズ衣装一覧",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
+      "contentFile": "フレンズ衣装一覧.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T07:54:36.000Z",
+      "localUpdatedAt": "2026-10-03T07:54:36.000Z",
+      "deleted": false
+    },
+    {
+      "name": "シーサー・レフティ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%ec%a5%d5%a5%c6%a5%a3",
+      "contentFile": "シーサー・レフティ.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T07:51:42.000Z",
+      "localUpdatedAt": "2026-10-03T07:51:42.000Z",
+      "deleted": false
+    },
+    {
+      "name": "《村落獅子》シーサー・ライト",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%e9%a5%a4%a5%c8",
+      "contentFile": "《村落獅子》シーサー・ライト.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T07:29:17.000Z",
+      "localUpdatedAt": "2026-10-03T07:29:17.000Z",
+      "deleted": false
+    },
+    {
+      "name": "シーサー・ライト",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%e9%a5%a4%a5%c8",
+      "contentFile": "シーサー・ライト.seesaawiki",
+      "remoteUpdatedAt": "2026-10-03T07:27:25.000Z",
+      "localUpdatedAt": "2026-10-03T07:27:25.000Z",
+      "deleted": false
+    },
     {
       "name": "シーサーバル道場・概要",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%a6%b3%b5%cd%d7",
@@ -18,14 +74,6 @@
       "remoteUpdatedAt": "2026-10-03T06:53:04.000Z",
       "deleted": false,
       "localUpdatedAt": "2026-10-03T06:53:04.000Z"
-    },
-    {
-      "name": "シーサーバル道場（β2-39）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
-      "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
-      "remoteUpdatedAt": "2026-10-03T06:44:30.000Z",
-      "deleted": false,
-      "localUpdatedAt": "2026-10-03T06:44:30.000Z"
     },
     {
       "name": "シーサーバル道場（β2-37）",
@@ -172,27 +220,11 @@
       "deleted": false
     },
     {
-      "name": "ガラパゴスコバネウ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ac%a5%e9%a5%d1%a5%b4%a5%b9%a5%b3%a5%d0%a5%cd%a5%a6",
-      "contentFile": "ガラパゴスコバネウ.seesaawiki",
-      "remoteUpdatedAt": "2026-09-23T07:22:42.000Z",
-      "localUpdatedAt": "2026-09-23T07:22:42.000Z",
-      "deleted": false
-    },
-    {
       "name": "《村落獅子》シーサー・レフティ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%ec%a5%d5%a5%c6%a5%a3",
       "contentFile": "《村落獅子》シーサー・レフティ.seesaawiki",
       "remoteUpdatedAt": "2026-09-20T02:01:22.000Z",
       "localUpdatedAt": "2026-09-20T02:01:22.000Z",
-      "deleted": false
-    },
-    {
-      "name": "《村落獅子》シーサー・ライト",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a1%d4%c2%bc%cd%ee%bb%e2%bb%d2%a1%d5%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%e9%a5%a4%a5%c8",
-      "contentFile": "《村落獅子》シーサー・ライト.seesaawiki",
-      "remoteUpdatedAt": "2026-09-20T01:59:48.000Z",
-      "localUpdatedAt": "2026-09-20T01:59:48.000Z",
       "deleted": false
     },
     {
@@ -300,14 +332,6 @@
       "deleted": false
     },
     {
-      "name": "フレンズ衣装一覧",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
-      "contentFile": "フレンズ衣装一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-09-19T11:27:48.000Z",
-      "localUpdatedAt": "2026-09-19T11:27:48.000Z",
-      "deleted": false
-    },
-    {
       "name": "サーバル",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b5%a1%bc%a5%d0%a5%eb",
       "contentFile": "サーバル.seesaawiki",
@@ -409,22 +433,6 @@
       "contentFile": "アクティブ（黄緑）属性フレンズ.seesaawiki",
       "remoteUpdatedAt": "2026-09-12T07:49:53.000Z",
       "localUpdatedAt": "2026-09-12T07:49:53.000Z",
-      "deleted": false
-    },
-    {
-      "name": "シーサー・ライト",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%e9%a5%a4%a5%c8",
-      "contentFile": "シーサー・ライト.seesaawiki",
-      "remoteUpdatedAt": "2026-09-12T07:48:20.000Z",
-      "localUpdatedAt": "2026-09-12T07:48:20.000Z",
-      "deleted": false
-    },
-    {
-      "name": "シーサー・レフティ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a1%a6%a5%ec%a5%d5%a5%c6%a5%a3",
-      "contentFile": "シーサー・レフティ.seesaawiki",
-      "remoteUpdatedAt": "2026-09-12T07:47:28.000Z",
-      "localUpdatedAt": "2026-09-12T07:47:28.000Z",
       "deleted": false
     },
     {
@@ -1297,14 +1305,6 @@
       "contentFile": "ニホンザル.seesaawiki",
       "remoteUpdatedAt": "2026-07-05T03:21:14.000Z",
       "localUpdatedAt": "2026-07-05T03:21:14.000Z",
-      "deleted": false
-    },
-    {
-      "name": "スターグラス交換所",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b9%a5%bf%a1%bc%a5%b0%a5%e9%a5%b9%b8%f2%b4%b9%bd%ea",
-      "contentFile": "スターグラス交換所.seesaawiki",
-      "remoteUpdatedAt": "2026-07-05T02:41:59.000Z",
-      "localUpdatedAt": "2026-07-05T02:41:59.000Z",
       "deleted": false
     },
     {

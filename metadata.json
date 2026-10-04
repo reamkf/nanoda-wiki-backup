@@ -1,8 +1,40 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-10-03T13:52:17.975Z",
+  "fetchedAt": "2026-10-04T09:58:46.457Z",
   "pages": [
+    {
+      "name": "シーサーバル道場（β2-39）",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
+      "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
+      "remoteUpdatedAt": "2026-10-04T03:40:16.000Z",
+      "localUpdatedAt": "2026-10-04T03:40:16.000Z",
+      "deleted": false
+    },
+    {
+      "name": "ちからくらべ",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%c1%a4%ab%a4%e9%a4%af%a4%e9%a4%d9",
+      "contentFile": "ちからくらべ.seesaawiki",
+      "remoteUpdatedAt": "2026-10-04T02:20:27.000Z",
+      "localUpdatedAt": "2026-10-04T02:20:27.000Z",
+      "deleted": false
+    },
+    {
+      "name": "なないろのスターグラス交換所",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%ce%a5%b9%a5%bf%a1%bc%a5%b0%a5%e9%a5%b9%b8%f2%b4%b9%bd%ea",
+      "contentFile": "なないろのスターグラス交換所.seesaawiki",
+      "remoteUpdatedAt": "2026-10-04T02:06:06.000Z",
+      "localUpdatedAt": "2026-10-04T02:06:06.000Z",
+      "deleted": false
+    },
+    {
+      "name": "テストページ2",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c6%a5%b9%a5%c8%a5%da%a1%bc%a5%b82",
+      "contentFile": "テストページ2.seesaawiki",
+      "remoteUpdatedAt": "2026-10-04T01:23:09.000Z",
+      "localUpdatedAt": "2026-10-04T01:23:09.000Z",
+      "deleted": false
+    },
     {
       "name": "称号一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
@@ -17,14 +49,6 @@
       "contentFile": "MenuBar1.seesaawiki",
       "remoteUpdatedAt": "2026-10-03T10:47:27.000Z",
       "localUpdatedAt": "2026-10-03T10:47:27.000Z",
-      "deleted": false
-    },
-    {
-      "name": "なないろのスターグラス交換所",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%ca%a4%ca%a4%a4%a4%ed%a4%ce%a5%b9%a5%bf%a1%bc%a5%b0%a5%e9%a5%b9%b8%f2%b4%b9%bd%ea",
-      "contentFile": "なないろのスターグラス交換所.seesaawiki",
-      "remoteUpdatedAt": "2026-10-03T10:46:58.000Z",
-      "localUpdatedAt": "2026-10-03T10:46:58.000Z",
       "deleted": false
     },
     {
@@ -49,14 +73,6 @@
       "contentFile": "スターグラス交換所.seesaawiki",
       "remoteUpdatedAt": "2026-10-03T09:37:41.000Z",
       "localUpdatedAt": "2026-10-03T09:37:41.000Z",
-      "deleted": false
-    },
-    {
-      "name": "シーサーバル道場（β2-39）",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
-      "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
-      "remoteUpdatedAt": "2026-10-03T08:21:30.000Z",
-      "localUpdatedAt": "2026-10-03T08:21:30.000Z",
       "deleted": false
     },
     {
@@ -1025,14 +1041,6 @@
       "contentFile": "サバンナシマウマ.seesaawiki",
       "remoteUpdatedAt": "2026-08-02T06:51:56.000Z",
       "localUpdatedAt": "2026-08-02T06:51:56.000Z",
-      "deleted": false
-    },
-    {
-      "name": "ちからくらべ",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a4%c1%a4%ab%a4%e9%a4%af%a4%e9%a4%d9",
-      "contentFile": "ちからくらべ.seesaawiki",
-      "remoteUpdatedAt": "2026-08-02T06:36:12.000Z",
-      "localUpdatedAt": "2026-08-02T06:36:12.000Z",
       "deleted": false
     },
     {
@@ -2753,14 +2761,6 @@
       "contentFile": "ライチョウ.seesaawiki",
       "remoteUpdatedAt": "2025-12-30T05:25:58.000Z",
       "localUpdatedAt": "2025-12-30T05:25:58.000Z",
-      "deleted": false
-    },
-    {
-      "name": "テストページ2",
-      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c6%a5%b9%a5%c8%a5%da%a1%bc%a5%b82",
-      "contentFile": "テストページ2.seesaawiki",
-      "remoteUpdatedAt": "2025-12-30T05:00:44.000Z",
-      "localUpdatedAt": "2025-12-30T05:00:44.000Z",
       "deleted": false
     },
     {

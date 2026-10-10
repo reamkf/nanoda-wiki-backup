@@ -7,6 +7,7 @@
 |[[''被ダメージ減少''>#def]]|[[［自身のみ］>#def_1_self]]|[[［味方全体］>#def_1_all]]|[[［自身のみ］>#def_2_self]]|[[［味方全体］>#def_2_all]]|
 |[[''毎ターン回復''>#heal_always]]|[[［自身のみ］>#heal_always_1_self]]|[[［味方全体］>#heal_always_1_all]]|[[［自身のみ］>#heal_always_2_self]]|[[［味方全体］>#heal_always_2_all]]|
 |[[''たいりょく回復''>#heal_cond]]|[[［自身のみ］>#heal_cond_1_self]]|-|[[［自身のみ］>#heal_cond_2_self]]|[[［味方全体］>#heal_cond_2_all]]|
+|[[''たいりょく回復量増加''>#heal_amount_increase]]|-|[[［味方全体］>#heal_amount_increase_1_all]]|[[［自身のみ］>#heal_amount_increase_2_self]]|-|
 |[[''MP増加(バトル開始時)''>#mp_start]]|[[［自身のみ］>#mp_start_1_self]]|[[［味方全体］>#mp_start_1_all]]|[[［自身のみ］>#mp_start_2_self]]|-|
 |[[''毎ターンMP増加''>#mp_always]]|[[［自身のみ］>#mp_always_1_self]]|[[［味方全体］>#mp_always_1_all]]|[[［自身のみ］>#mp_always_2_self]]|-|
 |[[''MP増加(HP条件)''>#mp_cond]]|[[［自身のみ］>#mp_cond_1_self]]|-|[[［自身のみ］>#mp_cond_2_self]]|[[［味方全体］>#mp_cond_2_all]]|
@@ -157,6 +158,7 @@
 |center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
 |~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
 |☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/_cFNMAWNru.png,55,no_link)~~あまおとのしらべ>あまおとのしらべ]]|(変化前)~~被ダメージが5%減少し、毎ターンたいりょくが5%回復する~~&color(,#f3f3fe){(変化後)~~被ダメージが&color(red){7%}減少し、毎ターンたいりょくが&color(red){7%}回復する}|1695|365|589|2102|453|731|2021/05/26~~限定|
+|☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44e96b37767b3604.png,55,no_link)~~くもモン！>くもモン！]]|(変化前)~~自身の被ダメージが8%減少する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが&color(red){9%}減少する~~&color(red){さらに味方全体のたいりょく回復量が6%増加し~~毎ターンたいりょくが3%回復する}}|970|476|798|1203|591|990|2026/10/08~~限定~~課金パック|
 |☆3~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/bzfsOHshUU.jpg,55,no_link)~~愛しいけものたち>愛しいけものたち]]|(変化前)~~被ダメージが5%減少する~~さらにたいりょくが50%以下のとき被ダメージが5％減少する~~&color(,#f3f3fe){(変化後)~~被ダメージが&color(red){7%}減少する~~さらにたいりょくが50%以下のとき被ダメージが&color(red){7%}減少する}|517|422|559|669|546|723|2023/01/19~~限定~~イベ報酬|
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fvRJvNbETZ.jpg,55,no_link)~~ありがとうの花束>ありがとうの花束]]|(変化前)~~被ダメージが8%減少する~~さらにたいりょくが40%以下のとき~~毎ターン4増加する~~&color(,#f3f3fe){(変化後)~~被ダメージが&color(red){10%}減少する~~さらにたいりょくが40%以下のとき~~毎ターン4増加する}|743|597|787|921|741|976|2022/11/04~~限定|
 |☆3~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/JQUC0bCCk0.png,55,no_link)~~Rockin' time>Rockin' time]]|(変化前)~~ひやひや耐性（低）が増加する~~&color(,#f3f3fe){(変化後)~~ひやひや耐性（低）が増加し、&color(red){被ダメージが10%減少する}}|628|587|280|812|759|362|2020/06/09~~限定~~イベ報酬|
@@ -240,9 +242,10 @@
 {| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
 |center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
 |~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
-|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2D3wA5kUi0.jpg,55,no_link)~~いっしょにあそぼう>いっしょにあそぼう]]|(変化前)~~自身の被ダメージが7％減少し~~毎ターン自身のたいりょくが3％回復する~~&color(,#f3f3fe){(変化後)~~&color(red){味方全体}の被ダメージが7％減少し~~毎ターン&color(red){味方全体}のたいりょくが3％回復する}|684|684|684|849|849|849|2024/05/01~~限定~~課金パック|
 |☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/DhHqYoR408.jpg,55,no_link)~~ひんやりクリーミー>ひんやりクリーミー]]|(変化前)~~自身の被ダメージが8%減少する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが8%減少し~~&color(red){毎ターン味方全体のたいりょくが5%回復する~~さらに毎ターン自身のMPが4増加する}}|1679|341|680|2082|423|843|2024/07/25~~限定~~課金パック|
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rS75mO4nEW.png,55,no_link)~~ミライあるけものみち>ミライあるけものみち]]|(変化前)~~自身の与ダメージが7%増加する~~&color(,#f3f3fe){(変化後)~~自身の与ダメージが7%増加し~~&color(red){追加で「Beat!!!」「Try!!」の与ダメージが8%増加する}~~&color(red){さらに毎ターン味方全体のたいりょくが5%回復する}}|943|726|484|1170|900|600|2024/09/19~~限定~~課金パック|
+|☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44e96b37767b3604.png,55,no_link)~~くもモン！>くもモン！]]|(変化前)~~自身の被ダメージが8%減少する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが&color(red){9%}減少する~~&color(red){さらに味方全体のたいりょく回復量が6%増加し~~毎ターンたいりょくが3%回復する}}|970|476|798|1203|591|990|2026/10/08~~限定~~課金パック|
+|☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/2D3wA5kUi0.jpg,55,no_link)~~いっしょにあそぼう>いっしょにあそぼう]]|(変化前)~~自身の被ダメージが7％減少し~~毎ターン自身のたいりょくが3％回復する~~&color(,#f3f3fe){(変化後)~~&color(red){味方全体}の被ダメージが7％減少し~~毎ターン&color(red){味方全体}のたいりょくが3％回復する}|684|684|684|849|849|849|2024/05/01~~限定~~課金パック|
 |☆3~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/CYh3cqgJqB.png,55,no_link)~~平和の歌>平和の歌]]|(変化前)~~自身を除く味方全体の被ダメージが2%減少し~~毎ターンたいりょくが2%回復する~~&color(,#f3f3fe){(変化後)~~自身を除く味方全体の被ダメージが&color(red){4%}減少し~~毎ターンたいりょくが&color(red){4%}回復する}|613|371|582|792|480|753|2024/08/29~~限定~~イベ報酬|
 |☆3~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/zs3Org2kNe.png,55,no_link)~~つるつるすいすい>つるつるすいすい]]|(変化前)~~自身が狙われやすくなり~~毎ターン自身を除く味方全体のたいりょくが2%回復する~~&color(,#f3f3fe){(変化後)~~自身が狙われやすくなり~~毎ターン自身を除く味方全体のたいりょくが&color(red){4%}回復する}|928|429|325|1200|555|420|2024/09/12~~限定~~イベ報酬|
 |☆4~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/33a059761b6996c9.png,55,no_link)~~山道の途中で>山道の途中で]]|(変化前)~~自身の被ダメージが6%減少し~~毎ターン自身を除く味方全体のたいりょくが2%回復する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが&color(red){7%}減少し~~毎ターン自身を除く味方全体のたいりょくが&color(red){3%}回復する}|1069|389|905|1326|483|1122|2025/06/01~~限定|
@@ -321,6 +324,42 @@
 |☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/2bCUijKvAJ.png,55,no_link)~~Welcome to ようこそ！>Welcome to ようこそ！]]|(変化前)~~自身がギブアップしたとき~~味方全体のMPが20増加する（発動回数：1回）~~&color(,#f3f3fe){(変化後)~~自身がギブアップしたとき~~味方全体の&color(red){たいりょくが10%回復し}~~MPが20増加する（発動回数：1回）}|994|611|609|1232|758|755|2020/09/23~~限定|
 |☆3~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/rU09wz7aSE.png,55,no_link)~~秘・湯めぐり！>秘・湯めぐり！]]|(変化前)~~たいりょくが30%以下のとき~~味方全体のたいりょくが3%回復する~~（発動回数：1回）~~&color(,#f3f3fe){(変化後)~~たいりょくが30%以下のとき~~味方全体のたいりょくが&color(red){5%}回復する~~（発動回数：1回）}|669|463|367|865|598|475|2021/11/30~~限定~~イベ報酬|
 |}
+
+&aname(heal_amount_increase)
+*たいりょく回復量増加
+&aname(heal_amount_increase_1)
+**足跡マーク
+// &aname(heal_amount_increase_1_self)
+// ***自身のみ
+// {| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
+// |center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
+// |~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
+// |}
+
+&aname(heal_amount_increase_1_all)
+***味方全体
+{| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
+|center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
+|~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
+|☆4~~[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/44e96b37767b3604.png,55,no_link)~~くもモン！>くもモン！]]|(変化前)~~自身の被ダメージが8%減少する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが&color(red){9%}減少する~~&color(red){さらに味方全体のたいりょく回復量が6%増加し~~毎ターンたいりょくが3%回復する}}|970|476|798|1203|591|990|2026/10/08~~限定~~課金パック|
+|}
+
+&aname(heal_amount_increase_2)
+**青いマーク
+&aname(heal_amount_increase_2_self)
+***自身のみ
+{| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
+|center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
+|~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
+|☆3~~[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ALfbYpOIdY.jpg,55,no_link)~~あったかぽかぽか>あったかぽかぽか]]|(変化前)~~&color(#0075c8){自身のたいりょくが50%以上のとき}~~自身の被ダメージが5%減少し~~たいりょく回復量が5%増加する~~&color(,#f3f3fe){(変化後)~~自身の被ダメージが&color(red){6%}減少し~~たいりょく回復量が&color(red){6%}増加する}|705|253|717|912|327|927|2023/08/17~~限定~~イベ報酬|
+|}
+
+// &aname(heal_amount_increase_2_all)
+// ***味方全体
+// {| class="sort filter custom-css" style="table-layout: fixed; width: 920px"
+// |center|left|center|center|center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|bgcolor(#ffd3d3):center|center|c
+// |~w(100):フォト|w(375):&align(center){とくせい}|w(50):たいりょく|w(50):こうげき|w(50):まもり|w(50):bgcolor(#ffb3b3):たいりょく~~(完凸)|w(50):bgcolor(#ffb3b3):こうげき~~(完凸)|w(50):bgcolor(#ffb3b3):まもり~~(完凸)|w(80):実装|
+// |}
 
 &aname(mp_start)
 *MP増加(バトル開始時)

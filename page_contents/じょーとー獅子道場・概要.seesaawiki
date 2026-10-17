@@ -17,8 +17,10 @@
 --通常の道場は練習モードのみ何回でもできるが、じょーとー獅子道場は本番が何回でも挑戦できる
 -報酬は全属性の挑戦結果の合計で決まる
 --通常の道場は各属性で報酬がもらえ、ランキングは各属性の順位をポイントに換算した合計で決まるが、じょーとー獅子道場はいずれも全属性のスコアの合計で決まる
--報酬はクリアごとではなく、シーズン内の一番高いスコア(の合計)に対して解放される。手動で受け取りをする必要がある。
+-報酬はクリアごとではなく、シーズン内の一番高いスコア(の合計)に対して解放される。
+--報酬をもらうには「獲得報酬」タブを選択し、手動で受け取りをする必要がある。
 -報酬では「スターグラス」ではなく「なないろのスターグラス」がもらえる
+--入手したなないろのスターグラスは、[[なないろのスターグラス交換所]]で他のアイテムと交換できる。
 
 *通常の道場との共通点
 以下は通常の道場と同じです。
@@ -75,3 +77,4 @@
 |800,000,000|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5c365481956faafe.PNG,55,no_link)×55&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RHtz6dHwIF.png,55,no_link)×10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5c365481956faafe.PNG,55,no_link)×1590&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Il6ySjTDxW.png,55,no_link)×40&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RHtz6dHwIF.png,55,no_link)×230&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link)×1|
 |900,000,000|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5c365481956faafe.PNG,55,no_link)×55&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RHtz6dHwIF.png,55,no_link)×10|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5c365481956faafe.PNG,55,no_link)×1645&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Il6ySjTDxW.png,55,no_link)×40&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RHtz6dHwIF.png,55,no_link)×240&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link)×1|
 |1,000,000,000|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5c365481956faafe.PNG,55,no_link)×105&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Il6ySjTDxW.png,55,no_link)×10&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RHtz6dHwIF.png,55,no_link)×60&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link)×1|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5c365481956faafe.PNG,55,no_link)×1750&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/Il6ySjTDxW.png,55,no_link)×50&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/RHtz6dHwIF.png,55,no_link)×300&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/gJyyi_IIbP.png,55,no_link)×2|
+

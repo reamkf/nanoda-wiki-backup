@@ -42,16 +42,16 @@
 //足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 **戦闘について
-実装時点でなないろとくせいが存在するフレンズの一人。
+実装時点で「なないろとくせい」が存在するフレンズの一人。
 能力値はバランス型で、ぷらずむが高めのアタッカータイプ。
 
-[[ゴールデンライオンタマリン]]同様、バトル開始時に自身のMPが満タンになるなないろとくせいを所持。
-習得できれば1ターン目からいきなり必要MP150のけものミラクルを放つことが可能になるので
-単体への大ダメージが求められる強敵戦や短期決戦において活躍が期待できる。
+[[ゴールデンライオンタマリン]]同様、バトル開始時に自身のMPが満タンになる「なないろとくせい」を所持。
+習得できれば、1ターン目からいきなり必要MP150のけものミラクルを放つことが可能になる。
+けものミラクルはあちらと同じく単体大ダメージ系なので、強敵戦や短期決戦狙いの時に活躍が期待できるだろう。
 
 地形が「ジャングル」のときに効果を発揮するスキルが多く、状況が上手く噛み合えば強い。
 中でも、ジャングル時限定で一度だけたいりょく1で耐える能力を持つため、
-初手のけものミラクルで敵を仕留め損ねても安心して戦えるのは強みと言える。
+けものミラクルで敵を仕留め損ねても安心して戦えるのは強みと言える。
 
 //***スキル詳細
 //[+]
@@ -173,21 +173,18 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-**相手フレンズ名
+**プロアイルルス
 {|class="edit"
-|bgcolor(#ccc):||c
-|!クエスト開始時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!WAVE移行時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!クエスト終了時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-|!ギブアップ時|&fukidashi(画像URL){情報募集中}|
-|^|&fukidashi(画像URL,right){情報募集中}|
-[[%%%相手フレンズ　セリフ集%%%>相手フレンズ#serifu]]
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5b47db55654739da.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/51b5f3085e418846.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5b47db55654739da.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/51b5f3085e418846.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5b47db55654739da.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/51b5f3085e418846.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5b47db55654739da.png){情報募集中}|
+|^|&fukidashi(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/51b5f3085e418846.png,right){情報募集中}|
 |}
-//現在、掛け合いのあるフレンズはいないようダネ。
-//
+[[%%%プロアイルルス　セリフ集%%%>プロアイルルス#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -249,8 +246,7 @@
 |}
 [END]
 **掛け合い相手リンク
-//|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/.png,70)>ミーアキャット#serifu]]|
-情報募集中
+|[[&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/51b5f3085e418846.png,70)>プロアイルルス#serifu]]|
 
 *実際の動物について
  ''体長５０ｃｍ前後と小柄なマーブルキャットは、複雑な縞模様~~や斑紋が特徴的です。後ろ足のかかとの関節が柔らかいため、~~木につかまりながら頭を下にして降りることができます。東南~~アジアを中心に生息していますが、木々の生い茂る森林の中で~~は見つけることが困難で、生態はほとんどわかっていません。''
@@ -279,3 +275,5 @@
 ※ミラクル+はフレンズのミラクルをlv5にして、且つフレンズストーリーのエクストラをクリアする必要があります。
 //&video(){400,240}
 //&video(){400,240}
+
+

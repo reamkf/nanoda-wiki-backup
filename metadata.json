@@ -1,7 +1,7 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-10-22T23:24:58.779Z",
+  "fetchedAt": "2026-10-22T23:29:52.047Z",
   "pages": [
     {
       "name": "MenuBar1",
@@ -95,8 +95,8 @@
       "name": "動物フォト一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
       "contentFile": "動物フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-10-22T15:20:57.000Z",
-      "localUpdatedAt": "2026-10-22T15:20:57.000Z",
+      "remoteUpdatedAt": "2026-10-22T23:29:39.000Z",
+      "localUpdatedAt": "2026-10-22T23:29:39.000Z",
       "deleted": false
     },
     {
@@ -13983,9 +13983,9 @@
       "name": "プロアイルルス",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d7%a5%ed%a5%a2%a5%a4%a5%eb%a5%eb%a5%b9",
       "contentFile": "プロアイルルス.seesaawiki",
-      "remoteUpdatedAt": "2026-10-22T15:28:26.000Z",
+      "remoteUpdatedAt": "2026-10-22T23:29:50.000Z",
       "deleted": false,
-      "localUpdatedAt": "2026-10-22T15:28:26.000Z"
+      "localUpdatedAt": "2026-10-22T23:29:50.000Z"
     }
   ]
 }

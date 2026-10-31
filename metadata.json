@@ -1,7 +1,7 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-10-22T23:29:52.047Z",
+  "fetchedAt": "2026-10-31T09:01:01.224Z",
   "pages": [
     {
       "name": "MenuBar1",
@@ -87,16 +87,16 @@
       "name": "シーサーバル道場（β2-39）",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
       "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
-      "remoteUpdatedAt": "2026-10-22T23:16:10.000Z",
-      "localUpdatedAt": "2026-10-22T23:16:10.000Z",
+      "remoteUpdatedAt": "2026-10-30T11:35:37.000Z",
+      "localUpdatedAt": "2026-10-30T11:35:37.000Z",
       "deleted": false
     },
     {
       "name": "動物フォト一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
       "contentFile": "動物フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-10-22T23:29:39.000Z",
-      "localUpdatedAt": "2026-10-22T23:29:39.000Z",
+      "remoteUpdatedAt": "2026-10-26T16:31:15.000Z",
+      "localUpdatedAt": "2026-10-26T16:31:15.000Z",
       "deleted": false
     },
     {
@@ -13975,17 +13975,17 @@
       "name": "マーブルキャット",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%de%a1%bc%a5%d6%a5%eb%a5%ad%a5%e3%a5%c3%a5%c8",
       "contentFile": "マーブルキャット.seesaawiki",
-      "remoteUpdatedAt": "2026-10-22T15:29:17.000Z",
+      "remoteUpdatedAt": "2026-10-24T13:19:25.000Z",
       "deleted": false,
-      "localUpdatedAt": "2026-10-22T15:29:17.000Z"
+      "localUpdatedAt": "2026-10-24T13:19:25.000Z"
     },
     {
       "name": "プロアイルルス",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d7%a5%ed%a5%a2%a5%a4%a5%eb%a5%eb%a5%b9",
       "contentFile": "プロアイルルス.seesaawiki",
-      "remoteUpdatedAt": "2026-10-22T23:29:50.000Z",
+      "remoteUpdatedAt": "2026-10-24T13:21:10.000Z",
       "deleted": false,
-      "localUpdatedAt": "2026-10-22T23:29:50.000Z"
+      "localUpdatedAt": "2026-10-24T13:21:10.000Z"
     }
   ]
 }

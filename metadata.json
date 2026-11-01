@@ -1,7 +1,7 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-11-01T14:07:45.192Z",
+  "fetchedAt": "2026-11-01T14:26:56.998Z",
   "pages": [
     {
       "name": "MenuBar1",
@@ -87,8 +87,8 @@
       "name": "シーサーバル道場（β2-39）",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%b5%a1%bc%a5%d0%a5%eb%c6%bb%be%ec%a1%ca%a6%c22%2d39%a1%cb",
       "contentFile": "シーサーバル道場（β2-39）.seesaawiki",
-      "remoteUpdatedAt": "2026-10-31T09:35:19.000Z",
-      "localUpdatedAt": "2026-10-30T11:35:37.000Z",
+      "remoteUpdatedAt": "2026-11-01T14:25:00.000Z",
+      "localUpdatedAt": "2026-11-01T14:25:00.000Z",
       "deleted": false
     },
     {
@@ -264,7 +264,7 @@
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
       "contentFile": "シールコレクション.seesaawiki",
       "remoteUpdatedAt": "2026-10-31T15:04:15.000Z",
-      "localUpdatedAt": "2026-09-28T01:16:52.000Z",
+      "localUpdatedAt": "2026-10-31T15:04:15.000Z",
       "deleted": false
     },
     {
@@ -2040,7 +2040,7 @@
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a3%d1%a1%f5%a3%c1",
       "contentFile": "Ｑ＆Ａ.seesaawiki",
       "remoteUpdatedAt": "2026-11-01T10:19:09.000Z",
-      "localUpdatedAt": "2026-03-26T09:49:59.000Z",
+      "localUpdatedAt": "2026-11-01T10:19:09.000Z",
       "deleted": false
     },
     {
@@ -4928,7 +4928,7 @@
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c4%a5%c1%a5%ce%a5%b3",
       "contentFile": "ツチノコ.seesaawiki",
       "remoteUpdatedAt": "2026-11-01T09:52:55.000Z",
-      "localUpdatedAt": "2026-11-01T09:44:28.000Z",
+      "localUpdatedAt": "2026-11-01T09:52:55.000Z",
       "deleted": false
     },
     {

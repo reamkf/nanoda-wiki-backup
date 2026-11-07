@@ -44,7 +44,7 @@ MENU→シールから閲覧できます。
 |~レアリティ|画像|名前|入手方法|
 |w(50):レアリティ|w(55):center:画像|w(200):名前|w(400):入手方法|c
 |SSR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fc3e688055f7893d.PNG,55,no_link)|[[カコのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/35ff7e8e541277df.png]]|ミッション報酬(2026/03/19～04/30 23:59)|
-|SSR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/63c54046a482dee8.PNG,55,no_link)|[[ナナのシール]]|ミッション報酬(2026/09/10～10/01 23:59)|
+|SSR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/63c54046a482dee8.PNG,55,no_link)|ナナのシール|ミッション報酬(2026/09/10～10/01 23:59)|
 |SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/efc9a238c97bcfd4.PNG,55,no_link)|[[アカウミガメのとくべつなシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4bc1ad38e83eea7b.PNG]]|しょうたいのおまけ(2026/04/16～05/07 14:00)|
 |SSR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/54e010b6ab2bf107.PNG,55,no_link)|[[アオウミガメのとくべつなシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/a7e700a93f33bfe1.PNG]]|しょうたいのおまけ(2026/04/18～05/07 14:00)|
 |SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0cf50a2695c0038b.PNG,55,no_link)|[[おとどちゃんのとくべつなシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4bfa28b0c8309662.PNG]]|しょうたいのおまけ(2026/04/23～05/07 14:00)|
@@ -56,13 +56,19 @@ MENU→シールから閲覧できます。
 |SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/895e6e154316c92e.png,55,no_link)|[[ホンドタヌキのとくべつなシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/a7d9707911330114.PNG]]|しょうたいのおまけ(2026/07/05～07/16 14:00)|
 |SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ee640f8bae8364bb.png,55,no_link)|[[シロフクロウのとくべつなシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/5ebb323b9ff4fabb.PNG]]|しょうたいのおまけ(2026/07/05～07/16 14:00)|
 |SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/925a7393f365dba1.PNG,55,no_link)|桂浜水族館のシール|シリアルコード(2026/04/16～05/07 23:59)|
-|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/38d3cf39dff77daf.PNG,55,no_link)|[[ゲンブのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/52c96ad366f97528.PNG,55,no_link)|[[セイリュウのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/da02facd017f82dd.PNG,55,no_link)|[[ビャッコのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3c46c0e4d41c4235.PNG,55,no_link)|[[スザクのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6cbbda62cc010100.png,55,no_link)|[[トキのシール]]|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
-|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7086f4b6a54f83b3.png,55,no_link)|[[ショウジョウトキのシール]]|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
-|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d6b2b5fbd2c031e6.png,55,no_link)|[[クロトキのシール]]|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/33f872010e115941.png,55,no_link)|スカイフィッシュのシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d146c8b7d269b162.png,55,no_link)|ツチノコのシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/80f483bcf9d83c3e.png,55,no_link)|人面魚のシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/e43d001714f2ed1d.png,55,no_link)|キンシコウのシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/96e456767d60a890.png,55,no_link)|ヒグマのシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/481f6cc23e8d35dd.png,55,no_link)|アイアイのシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/38d3cf39dff77daf.PNG,55,no_link)|ゲンブのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/52c96ad366f97528.PNG,55,no_link)|セイリュウのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/da02facd017f82dd.PNG,55,no_link)|ビャッコのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/3c46c0e4d41c4235.PNG,55,no_link)|スザクのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/6cbbda62cc010100.png,55,no_link)|トキのシール|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
+|SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/7086f4b6a54f83b3.png,55,no_link)|ショウジョウトキのシール|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
+|SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d6b2b5fbd2c031e6.png,55,no_link)|クロトキのシール|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
 |SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/08a1c4c8d58b4b8b.PNG,55,no_link)|[[キタキツネのシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8f9d0b8aa2701601.png]]|シール便(2026/07/01～07/31 23:59)~~シール交換所(2026/07/01～10/31 23:59)|
 |SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ffa7432089e645a5.PNG,55,no_link)|[[ギンギツネのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/0750040f419c881a.png]]|シール便(2026/07/01～07/31 23:59)~~シール交換所(2026/07/01～10/31 23:59)|
 |SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/cb14e4844f0f6a83.PNG,55,no_link)|[[アカギツネのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9ea73714a3ea968d.png]]|シール便(2026/07/01～07/31 23:59)~~シール交換所(2026/07/01～10/31 23:59)|
@@ -80,13 +86,27 @@ MENU→シールから閲覧できます。
 |SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/87b8b1a838cb0c1d.PNG,55,no_link)|[[マイルカのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/e299fa55c37f6c3c.png]]|シール便(無期限)~~シール交換所(無期限)|
 |SR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/582f0bbb58ecbb34.PNG,55,no_link)|[[ハクトウワシのシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/90575fb2786b52d6.png]]|シール便(無期限)~~シール交換所(無期限)|
 |SR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/ea210bd00192c010.PNG,55,no_link)|[[ライオンのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/bcfacbe2657d6485.png]]|シール便(無期限)~~シール交換所(無期限)|
-|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/93a652199f12530a.PNG,55,no_link)|[[マッスルジャパまんのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5558a3ea1a9695f6.PNG,55,no_link)|[[花蜜キャンディのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/c03c947f689d738d.PNG,55,no_link)|[[きらり！三ツ星ブローチのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/78eea7e694f03c3a.PNG,55,no_link)|[[まんてん！一番星ネックレスのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/374ad58f16ec058b.PNG,55,no_link)|[[きらきら葉っぱのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f77a0efc4d9db0ff.PNG,55,no_link)|[[ぴかぴかリンゴのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
-|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b1f221f303b08cac.PNG,55,no_link)|[[ぷかぷかリゾートうきわのシール]]|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/53e2de21ff21bc6b.png,55,no_link)|可愛いパフェグラスのシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/866ec32cc1353f0c.png,55,no_link)|ホッとひといきコーヒーのシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f05161ec6d236ebe.png,55,no_link)|パープルユキノシタのシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1d17b93a222f6397.png,55,no_link)|干しジャパまんのシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4d40d6b218926e2d.png,55,no_link)|つぶつぶもち米のシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fec5fff3b40573bd.png,55,no_link)|あま～いお砂糖のシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d2b1ee39fa138e3b.png,55,no_link)|年越しじゃぱり蕎麦のシール|シール便(2026/11/01～11/30 23:59)~~シール交換所(2026/11/01～2027/02/28 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1156fc6674c1b138.png,55,no_link)|七色きらきらフローズンのシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/337f70df11499c86.png,55,no_link)|きらきら棒のシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/565b259b5f99ae95.png,55,no_link)|夏の思い出のシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/79eaf276a09729df.png,55,no_link)|おいしいお供え物のシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dd37545c1b972b58.png,55,no_link)|すぺしゃるなお団子のシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/eccdbe25fa869407.png,55,no_link)|パーランクーのバチのシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/03c103dedaeda451.png,55,no_link)|リウキウタイコフェスティバルのシール|シール便(2026/10/01～10/31 23:59)~~シール交換所(2026/10/01～2027/01/31 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/93a652199f12530a.PNG,55,no_link)|マッスルジャパまんのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5558a3ea1a9695f6.PNG,55,no_link)|花蜜キャンディのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/c03c947f689d738d.PNG,55,no_link)|きらり！三ツ星ブローチのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/78eea7e694f03c3a.PNG,55,no_link)|まんてん！一番星ネックレスのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/374ad58f16ec058b.PNG,55,no_link)|きらきら葉っぱのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f77a0efc4d9db0ff.PNG,55,no_link)|ぴかぴかリンゴのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
+|R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b1f221f303b08cac.PNG,55,no_link)|ぷかぷかリゾートうきわのシール|シール便(2026/09/01～09/30 23:59)~~シール交換所(2026/09/01～12/31 23:59)|
 |R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/7656c0fe04e7adcd.png,55,no_link)|うまあま干し柿のシール|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
 |R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/4801194fead4951b.png,55,no_link)|トレーニング用かるたのシール|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
 |R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/1f8a31c8a26c6d2f.png,55,no_link)|情熱カカオのシール|シール便(2026/08/01～08/31 23:59)~~シール交換所(2026/08/01～11/30 23:59)|
@@ -136,7 +156,7 @@ MENU→シールから閲覧できます。
 |R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/993098f516b8bedd.PNG,55,no_link)|[[虹色のアニマルラムネSSRのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/dc430729db224e6d.png]]|シール便(無期限)~~シール交換所(無期限)|
 |R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/d09c9db8b28a6548.PNG,55,no_link)|[[四神玉のシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/8759b08933626bf0.png]]|シール便(無期限)~~シール交換所(無期限)|
 |R|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/b20da5cb91659a2f.PNG,55,no_link)|[[麒麟のめぐみのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ae26159b4fdc7288.png]]|シール便(無期限)~~シール交換所(無期限)|
-|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/16c610e5e213b103.PNG,55,no_link)|[[なないろのたねのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/ae26159b4fdc7288.png]]|シール便(無期限)~~シール交換所(無期限)|
+|R|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/16c610e5e213b103.PNG,55,no_link)|[[なないろのたねのシール>https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/1b1edbcba4fa94d0.png]]|シール便(無期限)~~シール交換所(無期限)|
 |}
 
 

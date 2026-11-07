@@ -1,7 +1,7 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-11-07T06:05:12.066Z",
+  "fetchedAt": "2026-11-07T07:35:26.394Z",
   "pages": [
     {
       "name": "MenuBar1",
@@ -95,8 +95,8 @@
       "name": "動物フォト一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c6%b0%ca%aa%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
       "contentFile": "動物フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:30:56.000Z",
-      "localUpdatedAt": "2026-11-07T03:30:56.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:35:21.000Z",
+      "localUpdatedAt": "2026-11-07T07:35:21.000Z",
       "deleted": false
     },
     {
@@ -135,8 +135,8 @@
       "name": "称号一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%be%ce%b9%e6%b0%ec%cd%f7",
       "contentFile": "称号一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:31:19.000Z",
-      "localUpdatedAt": "2026-11-07T03:31:19.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:22:48.000Z",
+      "localUpdatedAt": "2026-11-07T07:22:48.000Z",
       "deleted": false
     },
     {
@@ -175,8 +175,8 @@
       "name": "フレンズ衣装一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
       "contentFile": "フレンズ衣装一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:27:40.000Z",
-      "localUpdatedAt": "2026-11-07T03:27:40.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:22:22.000Z",
+      "localUpdatedAt": "2026-11-07T07:22:22.000Z",
       "deleted": false
     },
     {
@@ -383,8 +383,8 @@
       "name": "フレンズ一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
       "contentFile": "フレンズ一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:26:54.000Z",
-      "localUpdatedAt": "2026-11-07T03:26:54.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:21:32.000Z",
+      "localUpdatedAt": "2026-11-07T07:21:32.000Z",
       "deleted": false
     },
     {
@@ -463,16 +463,16 @@
       "name": "フレンズCV一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%baCV%b0%ec%cd%f7",
       "contentFile": "フレンズCV一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:26:20.000Z",
-      "localUpdatedAt": "2026-11-07T03:26:20.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:21:58.000Z",
+      "localUpdatedAt": "2026-11-07T07:21:58.000Z",
       "deleted": false
     },
     {
       "name": "フレンズオーダー一覧表",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%a5%aa%a1%bc%a5%c0%a1%bc%b0%ec%cd%f7%c9%bd",
       "contentFile": "フレンズオーダー一覧表.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:26:35.000Z",
-      "localUpdatedAt": "2026-11-07T03:26:35.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:15:34.000Z",
+      "localUpdatedAt": "2026-11-07T07:15:34.000Z",
       "deleted": false
     },
     {
@@ -863,8 +863,8 @@
       "name": "ファニー（赤）属性フレンズ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a1%a5%cb%a1%bc%a1%ca%c0%d6%a1%cb%c2%b0%c0%ad%a5%d5%a5%ec%a5%f3%a5%ba",
       "contentFile": "ファニー（赤）属性フレンズ.seesaawiki",
-      "remoteUpdatedAt": "2026-10-17T06:03:53.000Z",
-      "localUpdatedAt": "2026-10-17T06:03:53.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:21:47.000Z",
+      "localUpdatedAt": "2026-11-07T07:21:47.000Z",
       "deleted": false
     },
     {
@@ -911,8 +911,8 @@
       "name": "地形",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%c3%cf%b7%c1",
       "contentFile": "地形.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T06:05:09.000Z",
-      "localUpdatedAt": "2026-11-07T06:05:09.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:22:59.000Z",
+      "localUpdatedAt": "2026-11-07T07:22:59.000Z",
       "deleted": false
     },
     {
@@ -14015,9 +14015,17 @@
       "name": "チュパカブラ",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%c1%a5%e5%a5%d1%a5%ab%a5%d6%a5%e9",
       "contentFile": "チュパカブラ.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:51:19.000Z",
+      "remoteUpdatedAt": "2026-11-07T07:35:09.000Z",
       "deleted": false,
-      "localUpdatedAt": "2026-11-07T03:51:19.000Z"
+      "localUpdatedAt": "2026-11-07T07:35:09.000Z"
+    },
+    {
+      "name": "モスマン",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%e2%a5%b9%a5%de%a5%f3",
+      "contentFile": "モスマン.seesaawiki",
+      "remoteUpdatedAt": "2026-11-07T07:35:00.000Z",
+      "deleted": false,
+      "localUpdatedAt": "2026-11-07T07:35:00.000Z"
     }
   ]
 }

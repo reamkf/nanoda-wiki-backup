@@ -39,9 +39,9 @@
 |!とくせい|ミステリアスなソンザイ|ファニー(赤)属性の味方のからげんき耐性(高)が増加する~~さらにギブアップ中ではない相手が1人の場合~~ファニー(赤)属性の味方の与ダメージが15%増加する|
 |!キセキとくせい|追っかけちゃうんだわさ|味方全体の与ダメージが10%増加する~~さらにステージの時間が夜の場合~~相手全体のからげんき、ズキンズキン、ちぐはぐリズム耐性(低)を減少させる|
 |>|>||
-|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~情報募集中~~&color(,#f3f3fe){（変化後）~~情報募集中}|
+|!bgcolor(#f3f3fe):動物フォト|>|（変化前）~~情報募集中~~&color(,#f3f3fe){（変化後）~~ギブアップ中ではない相手が1人の場合~~ファニー(赤)属性の味方の与ダメージが6%増加する}|
 
-|!bgcolor(#f3f3fe):動物フォト属性|情報募集中|
+|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 //足跡→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/qgiGkSmtiA.png,30,no_link)|
 //青→|!bgcolor(#f3f3fe):動物フォト属性|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/PrbmdBx8J4.png,30,no_link)|
 
@@ -161,22 +161,19 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-情報募集中
-//掛け合い確認後に相手ごとの表を記入する
-//{|class="edit"
-//|bgcolor(#ccc):||c
-//|!クエスト開始時||
-//|^||
-//|!WAVE移行時||
-//|^||
-//|!クエスト終了時||
-//|^||
-//|!ギブアップ時||
-//|^||
-//|}
-//実装がない場合は下記のコメントアウトを外す
-//現在、掛け合いのあるフレンズはいないようダネ。
-//別属性フレンズの場合は通常のフレンズのセリフ集を参照
+**チュパカブラ
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png,right){情報募集中}|
+|}
+[[%%%チュパカブラ　セリフ集%%%>チュパカブラ#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -238,7 +235,7 @@
 |}
 [END]
 **掛け合い相手リンク
-情報募集中
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png,70)>チュパカブラ#serifu]]|
 
 *実際の動物について
  ''アメリカのウエストバージニア州ポイント・プレザントにて、~~身長１８０～２００ｃｍ、２本の足で歩き、大きな翼で空を飛~~ぶ“蛾人間”の複数の目撃報告が寄せられました。人々はこの怪~~物を「モスマン」と名付け、恐れました。証言によって腕があ~~ったりなかったりしますが、暗闇の中でギラギラ輝く巨大な赤~~い目、車よりも早く飛行する、などの特徴は共通しています。~~街にはちゃっかり「モスマン博物館」もあります。''

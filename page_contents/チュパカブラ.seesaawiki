@@ -167,22 +167,19 @@
 失敗パターンはコチョコチョ1を2回繰り返し
 [END]
 [+]掛け合い
-情報募集中
-//掛け合い確認後に相手ごとの表を記入する
-//{|class="edit"
-//|bgcolor(#ccc):||c
-//|!クエスト開始時||
-//|^||
-//|!WAVE移行時||
-//|^||
-//|!クエスト終了時||
-//|^||
-//|!ギブアップ時||
-//|^||
-//|}
-//実装がない場合は下記のコメントアウトを外す
-//現在、掛け合いのあるフレンズはいないようダネ。
-//別属性フレンズの場合は通常のフレンズのセリフ集を参照
+**モスマン
+{|class="edit"
+|bgcolor(#ccc):||c
+|!クエスト開始時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png,right){情報募集中}|
+|!WAVE移行時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png,right){情報募集中}|
+|!クエスト終了時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png,right){情報募集中}|
+|!ギブアップ時|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/9cb71888d8960430.png){情報募集中}|
+|^|&fukidashi(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png,right){情報募集中}|
+|}
+[[%%%モスマン　セリフ集%%%>モスマン#serifu]]
 [END]
 [+]その他
 {|class="edit"
@@ -244,7 +241,7 @@
 |}
 [END]
 **掛け合い相手リンク
-情報募集中
+|[[&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/5930c2aee8bd57a2.png,70)>モスマン#serifu]]|
 
 *実際の動物について
  ''１９９５年、プエルトリコで初めて目撃されたその奇妙な生物~~は、大きな赤い目、鋭い牙、背中に生えたとげ状の突起物、二~~足歩行あるいは四足歩行という特徴を持っていたとされます。~~家畜を襲ってその血を吸いつくすとも伝えられており、「ヤギ~~の血を吸うもの」という意味を持つ名前で呼ばれるようになっ~~たＵＭＡです。''

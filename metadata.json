@@ -1,7 +1,7 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-11-12T13:19:40.730Z",
+  "fetchedAt": "2026-11-12T13:54:11.974Z",
   "pages": [
     {
       "name": "MenuBar1",
@@ -55,16 +55,16 @@
       "name": "効果別フォト早見表",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b8%fa%b2%cc%ca%cc%a5%d5%a5%a9%a5%c8%c1%e1%b8%ab%c9%bd",
       "contentFile": "効果別フォト早見表.seesaawiki",
-      "remoteUpdatedAt": "2026-10-31T12:34:01.000Z",
-      "localUpdatedAt": "2026-10-31T12:34:01.000Z",
+      "remoteUpdatedAt": "2026-11-12T13:52:56.000Z",
+      "localUpdatedAt": "2026-11-12T13:52:56.000Z",
       "deleted": false
     },
     {
       "name": "フォト一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
       "contentFile": "フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T03:25:56.000Z",
-      "localUpdatedAt": "2026-11-07T03:25:56.000Z",
+      "remoteUpdatedAt": "2026-11-12T13:52:34.000Z",
+      "localUpdatedAt": "2026-11-12T13:52:34.000Z",
       "deleted": false
     },
     {
@@ -175,8 +175,8 @@
       "name": "フレンズ衣装一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%e1%c1%f5%b0%ec%cd%f7",
       "contentFile": "フレンズ衣装一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T07:22:22.000Z",
-      "localUpdatedAt": "2026-11-07T07:22:22.000Z",
+      "remoteUpdatedAt": "2026-11-12T13:54:00.000Z",
+      "localUpdatedAt": "2026-11-12T13:54:00.000Z",
       "deleted": false
     },
     {
@@ -735,8 +735,8 @@
       "name": "カマイタチ・転",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ab%a5%de%a5%a4%a5%bf%a5%c1%a1%a6%c5%be",
       "contentFile": "カマイタチ・転.seesaawiki",
-      "remoteUpdatedAt": "2026-08-26T14:25:54.000Z",
-      "localUpdatedAt": "2026-08-26T14:25:54.000Z",
+      "remoteUpdatedAt": "2026-11-12T13:53:11.000Z",
+      "localUpdatedAt": "2026-11-12T13:53:11.000Z",
       "deleted": false
     },
     {
@@ -1455,16 +1455,16 @@
       "name": "カマイタチ・切",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ab%a5%de%a5%a4%a5%bf%a5%c1%a1%a6%c0%da",
       "contentFile": "カマイタチ・切.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T07:29:33.000Z",
-      "localUpdatedAt": "2026-06-20T07:29:33.000Z",
+      "remoteUpdatedAt": "2026-11-12T13:53:21.000Z",
+      "localUpdatedAt": "2026-11-12T13:53:21.000Z",
       "deleted": false
     },
     {
       "name": "カマイタチ・治",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%ab%a5%de%a5%a4%a5%bf%a5%c1%a1%a6%bc%a3",
       "contentFile": "カマイタチ・治.seesaawiki",
-      "remoteUpdatedAt": "2026-06-20T07:28:20.000Z",
-      "localUpdatedAt": "2026-06-20T07:28:20.000Z",
+      "remoteUpdatedAt": "2026-11-12T13:53:34.000Z",
+      "localUpdatedAt": "2026-11-12T13:53:34.000Z",
       "deleted": false
     },
     {
@@ -14026,6 +14026,14 @@
       "remoteUpdatedAt": "2026-11-09T12:31:07.000Z",
       "deleted": false,
       "localUpdatedAt": "2026-11-09T12:31:07.000Z"
+    },
+    {
+      "name": "スイミング・マーメイド",
+      "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b9%a5%a4%a5%df%a5%f3%a5%b0%a1%a6%a5%de%a1%bc%a5%e1%a5%a4%a5%c9",
+      "contentFile": "スイミング・マーメイド.seesaawiki",
+      "remoteUpdatedAt": "2026-11-12T13:52:11.000Z",
+      "deleted": false,
+      "localUpdatedAt": "2026-11-12T13:52:11.000Z"
     }
   ]
 }

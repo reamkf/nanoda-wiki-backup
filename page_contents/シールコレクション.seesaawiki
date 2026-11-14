@@ -12,11 +12,19 @@ MENU→シールから閲覧できます。
 &ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/f007a148d4b4ff50.PNG, 50%)
 
 *シールの入手方法
-2026年3月現在、以下のような流れでシールを獲得可能です。
+
+**シール便・シール交換所
+以下のような流れでシールを獲得可能です。
 +イベント交換所で「隊長シール」を入手
 +「隊長シール」を消費して「シール便」(ガチャ)を回すことでシールを獲得
 +シール便のおまけでもらえる「シール交換券」を使用して、シール交換所でシールを獲得
-または、期間限定ミッションなどの報酬としてもらえることもあります。
+
+**すくすく成長ミッション
+2026/10/29のVer.2.44.0で実装。
+フレンズのフォトポケを12にすると、SSRの「<フレンズ名>のシール(ぷち)」が獲得できます。
+
+**その他
+期間限定ミッションの報酬、期間限定しょうたいのおまけ、リアルイベントのシリアルコードでの交換でもらえることがあります。
 
 同じ種類のシールを複数所持することも可能です。
 
@@ -43,6 +51,7 @@ MENU→シールから閲覧できます。
 {| class="sort filter"
 |~レアリティ|画像|名前|入手方法|
 |w(50):レアリティ|w(55):center:画像|w(200):名前|w(400):入手方法|c
+|SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/hokQFI6JEh.png,55,no_link)|<フレンズ名>のシール(ぷち)|すくすく成長ミッション フレンズのフォトポケを12にする(2026/10/29～)|
 |SSR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/fc3e688055f7893d.PNG,55,no_link)|[[カコのシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/35ff7e8e541277df.png]]|ミッション報酬(2026/03/19～04/30 23:59)|
 |SSR|&ref(https://image02.seesaawiki.jp/k/h/kemono_friends3_5ch/63c54046a482dee8.PNG,55,no_link)|ナナのシール|ミッション報酬(2026/09/10～10/01 23:59)|
 |SSR|&ref(https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/efc9a238c97bcfd4.PNG,55,no_link)|[[アカウミガメのとくべつなシール>https://image01.seesaawiki.jp/k/h/kemono_friends3_5ch/4bc1ad38e83eea7b.PNG]]|しょうたいのおまけ(2026/04/16～05/07 14:00)|

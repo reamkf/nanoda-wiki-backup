@@ -1,7 +1,7 @@
 {
   "version": 1,
   "wikiBaseUrl": "https://seesaawiki.jp/kemono_friends3_5ch",
-  "fetchedAt": "2026-11-12T14:36:02.418Z",
+  "fetchedAt": "2026-11-14T07:34:55.544Z",
   "pages": [
     {
       "name": "MenuBar1",
@@ -55,16 +55,16 @@
       "name": "効果別フォト早見表",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%b8%fa%b2%cc%ca%cc%a5%d5%a5%a9%a5%c8%c1%e1%b8%ab%c9%bd",
       "contentFile": "効果別フォト早見表.seesaawiki",
-      "remoteUpdatedAt": "2026-11-12T13:52:56.000Z",
-      "localUpdatedAt": "2026-11-12T13:52:56.000Z",
+      "remoteUpdatedAt": "2026-11-14T04:09:15.000Z",
+      "localUpdatedAt": "2026-11-14T04:09:15.000Z",
       "deleted": false
     },
     {
       "name": "フォト一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%a9%a5%c8%b0%ec%cd%f7",
       "contentFile": "フォト一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-12T13:52:34.000Z",
-      "localUpdatedAt": "2026-11-12T13:52:34.000Z",
+      "remoteUpdatedAt": "2026-11-14T04:08:38.000Z",
+      "localUpdatedAt": "2026-11-14T04:08:38.000Z",
       "deleted": false
     },
     {
@@ -263,8 +263,8 @@
       "name": "シールコレクション",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b7%a1%bc%a5%eb%a5%b3%a5%ec%a5%af%a5%b7%a5%e7%a5%f3",
       "contentFile": "シールコレクション.seesaawiki",
-      "remoteUpdatedAt": "2026-11-07T15:16:24.000Z",
-      "localUpdatedAt": "2026-11-07T15:16:24.000Z",
+      "remoteUpdatedAt": "2026-11-14T06:55:55.000Z",
+      "localUpdatedAt": "2026-11-14T06:55:55.000Z",
       "deleted": false
     },
     {
@@ -383,8 +383,8 @@
       "name": "フレンズ一覧",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%b0%ec%cd%f7",
       "contentFile": "フレンズ一覧.seesaawiki",
-      "remoteUpdatedAt": "2026-11-09T12:31:21.000Z",
-      "localUpdatedAt": "2026-11-09T12:31:21.000Z",
+      "remoteUpdatedAt": "2026-11-14T04:27:57.000Z",
+      "localUpdatedAt": "2026-11-14T04:27:57.000Z",
       "deleted": false
     },
     {
@@ -903,8 +903,8 @@
       "name": "用語集",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%cd%d1%b8%ec%bd%b8",
       "contentFile": "用語集.seesaawiki",
-      "remoteUpdatedAt": "2026-08-16T02:45:29.000Z",
-      "localUpdatedAt": "2026-08-16T02:45:29.000Z",
+      "remoteUpdatedAt": "2026-11-14T07:34:14.000Z",
+      "localUpdatedAt": "2026-11-14T07:34:14.000Z",
       "deleted": false
     },
     {
@@ -1919,8 +1919,8 @@
       "name": "フレンズ成長",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%d5%a5%ec%a5%f3%a5%ba%c0%ae%c4%b9",
       "contentFile": "フレンズ成長.seesaawiki",
-      "remoteUpdatedAt": "2026-04-05T09:43:55.000Z",
-      "localUpdatedAt": "2026-04-05T09:43:55.000Z",
+      "remoteUpdatedAt": "2026-11-14T07:19:18.000Z",
+      "localUpdatedAt": "2026-11-14T07:19:18.000Z",
       "deleted": false
     },
     {
@@ -5095,8 +5095,8 @@
       "name": "初心者指南",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%bd%e9%bf%b4%bc%d4%bb%d8%c6%ee",
       "contentFile": "初心者指南.seesaawiki",
-      "remoteUpdatedAt": "2025-10-16T06:32:48.000Z",
-      "localUpdatedAt": "2025-10-16T06:32:48.000Z",
+      "remoteUpdatedAt": "2026-11-14T07:21:03.000Z",
+      "localUpdatedAt": "2026-11-14T07:21:03.000Z",
       "deleted": false
     },
     {
@@ -14031,9 +14031,9 @@
       "name": "スイミング・マーメイド",
       "url": "https://seesaawiki.jp/kemono_friends3_5ch/d/%a5%b9%a5%a4%a5%df%a5%f3%a5%b0%a1%a6%a5%de%a1%bc%a5%e1%a5%a4%a5%c9",
       "contentFile": "スイミング・マーメイド.seesaawiki",
-      "remoteUpdatedAt": "2026-11-12T14:36:06.000Z",
+      "remoteUpdatedAt": "2026-11-14T04:08:20.000Z",
       "deleted": false,
-      "localUpdatedAt": "2026-11-12T14:36:06.000Z"
+      "localUpdatedAt": "2026-11-14T04:08:20.000Z"
     }
   ]
 }
